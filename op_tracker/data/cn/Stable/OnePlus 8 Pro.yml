@@ -1,0 +1,19 @@
+changelog: '系统
+
+  • 修复已知问题及提升系统稳定性 相机
+
+  • 提升相机的污渍检测准确度
+
+  • 优化前置相机的拍摄体验
+
+  • 提升相机的稳定性'
+code: PM1587182821068
+device: OnePlus 8 Pro
+image: https://oneplusgsp.s3.cn-north-1.amazonaws.com.cn/uploadFiles/6c83652cbde94f4c936638287d97d5e0.png
+link: http://download.h2os.com/OnePlus8Pro/MP/OnePlus8ProHydrogen_15.H.15_OTA_015_all_2004262106_0463a37ea6b34c4c.zip
+md5: a125f9e95cd8d53199870d5e8270eb11
+region: China
+size: 3.08 GB
+type: Stable
+updated: 06-05-2020
+version: 10.5.6.IN11

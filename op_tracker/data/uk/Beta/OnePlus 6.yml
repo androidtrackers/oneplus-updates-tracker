@@ -1,0 +1,27 @@
+changelog: 'System
+
+  • Fixed and removed white bar below the keyboard
+
+  •Fixed the issue with app crashes during installing and updating
+
+  • Improved system stability and fixed general bugs
+
+  • UpdatedAndroidsecuritypatchto2020.02
+
+  Phone
+
+  • Optimized the one-handed mode experience in the Phone app
+
+  • Fixed the issue with the duplication of contacts Zen Mode V1.5.0
+
+  • Improved OnePlus Account login for synchronization of badges and user''s data'
+code: PM1574156173727
+device: OnePlus 6
+image: https://cdn.opstatics.com/store/20170907/assets/images/support/phone/mage/op6.jpg
+link: https://oxygenos.oneplus.net/OnePlus6Oxygen_22_OTA_064_all_2002191414_0199520b61064b5c.zip
+md5: c43cc13372cfc7b042984a651b4b6bfc
+region: Europe
+size: 1.75 GB
+type: Beta
+updated: 28-02-2020
+version: Open Beta 5(Android  10)

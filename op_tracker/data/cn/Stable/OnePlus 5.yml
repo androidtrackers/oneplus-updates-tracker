@@ -1,0 +1,17 @@
+changelog: '系统
+
+  • 更新 Android 安全补丁至
+
+  2020.02
+
+  • 提升系统稳定性并修复已知问题'
+code: PM1574150782330
+device: OnePlus 5
+image: https://image01.oneplus.cn/ebp/201706/22/506/b5aa0d370b3e0be2feb9bba97357ebb3.jpg
+link: http://download.h2os.com/OnePlus5/MP/OnePlus5Hydrogen_23_OTA_048_all_2002171234_54d7fe7d1c1846b3.zip
+md5: a223e2a371a545e3b02cc02849e6c38c
+region: China
+size: 2.12GB
+type: Stable
+updated: 04-03-2020
+version: 第7版

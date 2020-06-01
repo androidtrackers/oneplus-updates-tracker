@@ -1,0 +1,18 @@
+changelog: 'Launcher
+
+  • Improved search tags in app drawer Added “New installs” category tag in app drawer
+  Improved app list for hidden space and toolbox Camera
+
+  • Optimized switching between front and rear camera Multimedia
+
+  • Supported seeking through timeline for AAC audio files'
+code: PM1574156120231
+device: OnePlus 3T
+image: https://cdn.opstatics.com/store/20170907/assets/images/support/phone/mage/op3t.png
+link: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3TOxygen_28_OTA_056_all_1807041932_51862eac73134fb7.zip
+md5: 39bf57dcf59e60351533a4f39265a5b7
+region: Europe
+size: 1.54 GB
+type: Beta
+updated: 09-07-2018
+version: Open Beta 30

@@ -1,0 +1,33 @@
+changelog: '系统
+
+  • 提升系统稳定性及修复已知问题
+
+  禅定模式
+
+  • 新增禅定模式功能，暂别手机 20 分钟，享受生活
+
+  天气
+
+  • 优化左右滑动效果
+
+  • 城市卡片可以自由调整顺序或删除（长按卡片 - 调整卡片顺序或删除卡片）
+
+  •优化使用体验，拒绝天气的定位权限后，可以手动添加城市，继续使用天气
+
+  电话
+
+  • 优化页面切换动效
+
+  • 优化联系人列表索引使用体验
+
+  • 优化拒接电话快捷短信回复功能并支持自定义回复'
+code: PM1574150782330
+device: OnePlus 5
+image: https://image01.oneplus.cn/ebp/201706/22/506/b5aa0d370b3e0be2feb9bba97357ebb3.jpg
+link: http://download.h2os.com/OnePlus5/OPEN/OnePlus5Hydrogen_23_OTA_054_all_1906241435_a7d827c332c14e09.zip
+md5: 1308C7EDE4CE904E48FAFEB58401F9C7
+region: China
+size: 2.08 GB
+type: Beta
+updated: 27-06-2019
+version: 第34版

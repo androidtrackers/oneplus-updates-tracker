@@ -1,0 +1,33 @@
+changelog: '系统
+
+  • 新增负一屏支持微信乘车码
+
+  • 修复某些软件语音输入无法识别的问题
+
+  • 修复通讯录联系人概率性消失的问题
+
+  • 息屏时钟支持更多个性化样式选择（设置-个性化-时钟样式）
+
+  • 更新Android安全补丁至2020.05
+
+  • 修复已知问题并提升系统稳定性 通话
+
+  • 提升骚扰电话的拦截能力
+
+  • 新增在通话记录查看通话录音的功能（选定已有录音的通话记录，释出菜单即可查看录音文件） 钱包
+
+  • 新增钱包 App，支持 OnePlus Pay 功能
+
+  • 公交 / 门禁卡入口整合到钱包 App ，操作更加便捷
+
+  • 公交卡充值新增微信支付方式'
+code: PM1574150022928
+device: OnePlus 7 Pro
+image: https://image01.oneplus.cn/shop/201905/21/212/20149587e60abf5b90d0d4239a86a218.png
+link: http://download.h2os.com/OnePlus7Pro/OBT/OnePlus7ProHydrogen_13.X.35_OTA_035_all_2005160231_d0c9ce181f7c4bee.zip
+md5: 3d840f6afd8b3b9db38069ce5173bd4f
+region: China
+size: 3.04 GB
+type: Beta
+updated: 27-05-2020
+version: 第13版

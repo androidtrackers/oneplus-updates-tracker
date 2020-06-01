@@ -1,0 +1,17 @@
+changelog: '系统
+
+  • 更新 Android 安全补丁至
+
+  2020.02
+
+  • 提升系统稳定性并修复已知问题'
+code: PM1574150644071
+device: OnePlus 5T
+image: https://image01.oneplus.cn/ebp/201712/04/113/ead1f2fb3eb8f2a9bca71c8ff52fe798.png
+link: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_048_all_2002171231_db227c80f65e4fb6.zip
+md5: 789153a4995344d7714c8bffb7320574
+region: China
+size: 2.13 GB
+type: Stable
+updated: 04-03-2020
+version: 第7版

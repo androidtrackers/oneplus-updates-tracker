@@ -1,0 +1,21 @@
+changelog: 'System
+
+  •Optimized the RAM management
+
+  •Improved black/blank screen issues with some apps
+
+  •Added the feature to support reminders for privacy alerts
+
+  •Improved system stability and fixed general bugs
+
+  •Updated Android security patch to 2019.12'
+code: PM1574156235282
+device: OnePlus 7
+image: https://image01.oneplus.net/shop/201906/13/13/465d3610bc4cfc7714d97ef31949d048.png
+link: https://oxygenos.oneplus.net/OnePlus7Oxygen_14.E.24_OTA_024_all_2002022317_d5a80338a38b44de.zip
+md5: e4e78bb895325f34587c4bbae4a4f543
+region: Europe
+size: 1.99GB
+type: Stable
+updated: 26-02-2020
+version: 10.0.4.GM57BA

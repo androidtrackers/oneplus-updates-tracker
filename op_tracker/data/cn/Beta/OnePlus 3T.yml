@@ -1,0 +1,25 @@
+changelog: '桌面
+
+  -优化抽屉搜索分类标签
+
+  -新增”最近安装“标签
+
+  -优化隐藏空间和工具箱的应用添加操作
+
+  相机
+
+  -优化录像预览时前后摄像头切换效果
+
+  多媒体
+
+  -支持AAC格式录音文件拖动'
+code: PM1574150956186
+device: OnePlus 3T
+image: https://image01.oneplus.cn/shop/goods/phone3t_h2os.png
+link: http://download.h2os.com/OnePlus%203T/OPEN/OnePlus3THydrogen_28_OTA_056_all_1806211839_a3c679ec81b94a27.zip
+md5: 82B741C6B30CC6606EF5C01AF4D52259
+region: China
+size: 1.77G
+type: Beta
+updated: 28-06-2018
+version: Android 8.0第15版
