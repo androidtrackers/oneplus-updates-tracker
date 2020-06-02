@@ -1,11 +1,11 @@
 """Telegram Bot implementation"""
 from time import sleep
-from typing import List
+from typing import List, Union
 
 from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater
 
-from op_tracker.official.models.update import Update
+from op_tracker.official.models.update import Update as officialUpdate
 
 
 class TelegramBot:
@@ -16,7 +16,7 @@ class TelegramBot:
     :attr:`chat` Telegram chat username or id
     """
 
-    def __init__(self, bot_token: str, chat):
+    def __init__(self, bot_token: str, chat: Union[int, str], source: str):
         """
         TelegramBot class constructor
         :param bot_token: Telegram Bot API access token
@@ -25,29 +25,31 @@ class TelegramBot:
         self.bot: Bot = Bot(token=bot_token)
         self.updater = Updater(bot=self.bot, use_context=True)
         self.chat = chat
+        self.generate_message = self.generate_update_message_from_official if source == "official" else None
 
-    def post_updates(self, new_updates: List[Update]):
+    def post_updates(self, new_updates: List[officialUpdate]):
         """
         Send updates to a Telegram chat
         :param new_updates: a list of updates
         :return: None
         """
         for update in new_updates:
-            message, button = self.generate_update_message(update)
+            message, button = self.generate_message(update)
             self.send_telegram_message(message, button)
 
     @staticmethod
-    def generate_update_message(update: Update) -> (str, InlineKeyboardMarkup):
+    def generate_update_message_from_official(update: officialUpdate) -> \
+            (str, InlineKeyboardMarkup):
         """
         Generate an update message from and `Update` object
-        :param update: an Update object that contains update's information
+        :param update: an Update object that contains update's information from official website
         :return: A string containing the update's message
          and inline keyboard that has download link'
         """
         message: str = f"New update available!\n" \
                        f"*Device*: {update.device}\n" \
                        f"*Region*: {update.region}\n" \
-                       f"*Branch*: {update.type}\n" \
+                       f"*Type*: {update.type}\n" \
                        f"*Version*: {update.version}\n" \
                        f"*Release Date*: {update.updated}\n" \
                        f"*Size*: {update.size}\n" \

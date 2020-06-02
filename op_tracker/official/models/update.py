@@ -1,5 +1,5 @@
 """
-OnePlus Device Update representation class
+OnePlus Device Update representation class (Official Website API)
 """
 import logging
 import re
@@ -17,9 +17,10 @@ class Update:
     :param code: str - Device code
     :param image: str - Device image URL
     :param version: str - Update version
-    :param time: str - Update type
+    :param type: str - Update type
     :param updated: str - Update release date and time
     :param size: str - Update size
+    :param md5: str - Update MD5 hash
     :param link: str - Update Download link
     :param changelog: str - Update changelog
     """

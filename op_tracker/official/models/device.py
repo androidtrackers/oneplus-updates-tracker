@@ -1,5 +1,5 @@
 """
-OnePlus Device representation class
+OnePlus Device representation class (Official Website API)
 """
 from dataclasses import dataclass
 

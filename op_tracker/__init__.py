@@ -21,7 +21,7 @@ LOG_FORMAT: str = '%(asctime)s [%(levelname)s] %(name)s [%(module)s.%(funcName)s
                   '%(message)s'
 FORMATTER: Formatter = logging.Formatter(LOG_FORMAT)
 handler = TimedRotatingFileHandler(LOG_FILE, when="d", interval=1, backupCount=2)
-# logging.basicConfig(filename=LOG_FILE, filemode='a', format=LOG_FORMAT)
+logging.basicConfig(filename=LOG_FILE, filemode='a', format=LOG_FORMAT)
 # OUT = logging.StreamHandler(stdout)
 ERR = logging.StreamHandler(stderr)
 # OUT.setFormatter(FORMATTER)

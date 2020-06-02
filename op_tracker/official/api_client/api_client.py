@@ -10,20 +10,18 @@ from op_tracker.common.api_client.common_scraper import CommonClient
 from op_tracker.official.models.device import Device
 
 
-class Website(CommonClient):
+class APIClient(CommonClient):
     """
-    OnePlus Websites Scraper
+    OnePlus Websites API client
 
-    This class is used to scrape OnePlus websites.
+    This class is used to get data OnePlus websites API.
     It's responsible for interacting with OnePlus websites API in order to:
     - Get devices list.
     - Get device's updates information
     :attr: `region`: str - Website region
-    :attr: `base_url`: str - Website base URL
     :attr: `random_int`: str - API magic number. OnePlus Website API requires
     a random integer of 28 digits in request headers and post data.
     :attr: `headers`: dict - HTTP request headers
-    :attr: `devices`: list - list of devices available on the website
     :meth: `get_devices` - Get all available devices on the website.
     :meth: `get_updates` - Get all updates available for a device.
     """
@@ -59,7 +57,7 @@ class Website(CommonClient):
             if response.status == 200:
                 self.devices = await self._get_json_response(response)
 
-    async def get_updates(self, device: Device):
+    async def get_updates(self, device: Device) -> list:
         """
         Get the latest available updates for a device from the website API.
         :param device: Device - the device object

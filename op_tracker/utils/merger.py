@@ -13,11 +13,12 @@ def merge_devices(regions: dict) -> list:
     """
     devices = set()
     for region_code in regions.keys():
-        data: dict = DataManager.read_file(f"{WORK_DIR}/data/{region_code}/{region_code}.yml")
+        data: dict = DataManager.read_file(
+            f"{WORK_DIR}/data/official/{region_code}/{region_code}.yml")
         for item in data.keys():
             devices.add(item)
     devices = sorted(list(devices))
-    DataManager.write_file(f"{WORK_DIR}/data/devices.yml", devices)
+    DataManager.write_file(f"{WORK_DIR}/data/official/devices.yml", devices)
     return devices
 
 
@@ -29,8 +30,8 @@ def merge_updates(devices: list):
     """
     for device in devices:
         all_updates = []
-        updates = glob(f"{WORK_DIR}/data/*/*/{device}.yml")
+        updates = glob(f"{WORK_DIR}/data/official/*/*/{device}.yml")
         for update in updates:
             data = DataManager.read_file(update)
             all_updates.append(data)
-        DataManager.write_file(f"{WORK_DIR}/data/latest/{device}.yml", all_updates)
+        DataManager.write_file(f"{WORK_DIR}/data/official/latest/{device}.yml", all_updates)
