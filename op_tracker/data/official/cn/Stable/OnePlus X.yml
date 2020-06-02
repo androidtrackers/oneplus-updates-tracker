@@ -1,0 +1,39 @@
+changelog: '新增
+
+  - 便签升级，优化多项功能。
+
+  - 日历增加日期跳转功能。
+
+  优化
+
+  - 优化闹钟延时的时间间隔和闹钟铃声长度。
+
+  - 优化提示音，
+
+  通话中再来一通电话，提示音比上个版本增强。
+
+  - 修复自带文件管理器
+
+  PPT
+
+  显示反向的问题。
+
+  - 修复天气应用低概率反复定位导致的耗电问题。
+
+  - 解决状态栏图标概率性丢失的问题。
+
+  - 解决超长卡片信息内容无法读取的问题。
+
+  - 解决部分环境下微信/QQ消息概率性延迟的问题。
+
+  - 解决部分场景下有未接来电通话图标不翻转的问题。'
+code: PM1574151685643
+device: OnePlus X
+image: https://statics.oneplus.cn/v2/img/h2os/download/phonex.png
+link: http://download.h2os.com/oneplus_x/mp/OnePlusH2OS_14_OTA_010_all_201604191650_320ac892f8bc4145.zip
+md5: 169EA065B6A40A3F943AE74E00A0C719
+region: China
+size: 974M
+type: Stable
+updated: 18-11-2019
+version: 第六版

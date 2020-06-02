@@ -1,0 +1,35 @@
+changelog: 'System
+
+  •Optimized the RAM management
+
+  •Improved black/blank screen issues with some apps
+
+  •Added the feature to support reminders for privacy alerts
+
+  •Improved system stability and fixed general bugs
+
+  •Updated Android security patch to 2019.12
+
+  Network
+
+  • Integrated the VoWifi registration for the Jio Sim Cloud Service
+
+  •Supported synchronization with Notes and Contacts
+
+  Work-Life Balance
+
+  • Optimized message notification
+
+  • Optimized the mode and app selection
+
+  • Added location, calendar, auto-track feature'
+code: PM1574156267635
+device: OnePlus 7Pro
+image: https://image01.oneplus.net/shop/201905/16/372/ebd496dd6969f9919143673ef580220b.png
+link: https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.P.25_OTA_025_all_2002022314_0d76bbbd819c4e99.zip
+md5: ee937fab0ed9fb67006d6350eb695472
+region: India
+size: 2.06GB
+type: Stable
+updated: 26-02-2020
+version: 10.3.1.GM21AA

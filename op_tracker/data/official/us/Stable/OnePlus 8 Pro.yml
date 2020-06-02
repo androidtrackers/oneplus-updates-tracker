@@ -1,0 +1,21 @@
+changelog: 'System
+
+  • Fixed known issues and improved system stability Camera
+
+  • Refined the dirt detection capability to be more accurate than ever
+
+  • Improved the camera''s shooting experience with the front camera
+
+  • Improved the stability Network
+
+  • Communication stability further enhanced'
+code: PM1587123976090
+device: OnePlus 8 Pro
+image: https://oneplusgsp.s3.cn-north-1.amazonaws.com.cn/uploadFiles/6c83652cbde94f4c936638287d97d5e0.png
+link: https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.O.15_OTA_015_all_2004262112_6f41cdc3a1624dc0.zip
+md5: 256c31492bceda33c8fe600b1cae5101
+region: USA
+size: 256c31492bceda33c8fe600b1cae5101
+type: Stable
+updated: 06-05-2020
+version: 10.5.6.IN11AA

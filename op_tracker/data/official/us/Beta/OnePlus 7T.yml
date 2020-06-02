@@ -1,0 +1,25 @@
+changelog: 'System
+
+  • Fix the problem that some software voice input cannot be recognized
+
+  • Fix the problem of the disappearance of contacts in the address book on some devices
+
+  • More clock style options now available in ambient display（Settings—Customization—Clock
+  style）
+
+  • Improved system stability and fixed general issues
+
+  • Updated Android Security Patch to 2020.05 Phone
+
+  • Now you can view call recording in call history ( Move to the call history, click
+  the three-dot menu on the upper right to access the call recording）'
+code: PM1574161738631
+device: OnePlus 7T
+image: https://image01.oneplus.net/shop/201910/14/1-M00-0A-A8-rB8bwl2kIbaAXMD5AAEotHHdgPs919.jpg
+link: https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.04_OTA_004_all_2005122222_27df6e02a0c24e29.zip
+md5: 41f4bb1b2be7ef5472fe3a2b8fdd8124
+region: USA
+size: 2.58 GB
+type: Beta
+updated: 28-05-2020
+version: Open Beta 4

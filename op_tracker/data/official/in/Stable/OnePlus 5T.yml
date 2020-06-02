@@ -1,0 +1,15 @@
+changelog: 'System
+
+  •Updated Android security patch to 2020.02
+
+  •Improved system stability and fixed general bugs'
+code: PM1574156155944
+device: OnePlus 5T
+image: https://cdn.opstatics.com/store/20170907/assets/images/support/phone/mage/op5t.png
+link: https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_054_all_2002242025_81ae0ff9d1c34a3f.zip
+md5: d424170b3a280b3aefa16ae39321928b
+region: India
+size: 1.800GB
+type: Stable
+updated: 16-03-2020
+version: 9.0.11

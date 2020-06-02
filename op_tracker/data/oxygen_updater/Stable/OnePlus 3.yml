@@ -1,0 +1,20 @@
+changelog: 'OnePlus 3 OxygenOS 9.0.6
+
+
+  System
+
+  * Updated Android security patch to 2019.10
+
+  * General bug fixes and improvements
+
+  * Updated GMS apps'
+device: OnePlus 3
+link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus3Oxygen/OnePlus3Oxygen_16.A.86_GLO_086_1911042118/OnePlus3Oxygen_16_OTA_086_all_1911042118_42cbe31ee3a.zip
+md5: 7c2a1e83ac1a83a3ceb287983496549b
+ota_link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus3Oxygen/OnePlus3Oxygen_16.A.86_GLO_086_1911042118/OnePlus3Oxygen_16_OTA_085-086_patch_1911042118_587606931071.zip
+ota_md5: CD7862BF358491A48762EA6D09081906
+ota_size: 371.2 MB
+size: 1.6 GB
+type: Stable
+updated: 04-11-2019
+version: OnePlus3Oxygen_16.A.86_GLO_086_1911042118

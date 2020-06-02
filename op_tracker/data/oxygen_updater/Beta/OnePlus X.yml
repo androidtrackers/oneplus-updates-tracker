@@ -1,0 +1,24 @@
+changelog: 'OS version: OxygenOS 3.1.4
+
+
+  What''s new in this update:
+
+  • Fixed launcher related crashes
+
+  • November google secure patch
+
+  • Auto-brightness optimization
+
+  • General bug fixes
+
+  • Increased system stability'
+device: OnePlus X
+link: http://otafsc.h2os.com/patch/amazone2/GLO/OnePlusXOxygen/OnePlusXOxygen_14.A.19_GLO_019_201611071506/OnePlusXOxygen_14_OTA_019_all_201611071506_03f73e21449d4d31.zip
+md5: 6933a61ba55c18a977117c71c972c94a
+ota_link: null
+ota_md5: null
+ota_size: null
+size: 797.2 MB
+type: Beta
+updated: 06-01-2020
+version: OnePlusXOxygen_14.A.19_GLO_019_201611071506

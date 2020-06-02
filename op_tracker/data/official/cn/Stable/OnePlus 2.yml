@@ -1,0 +1,23 @@
+changelog: '推荐指数：★★★
+
+  解决已知问题，提升稳定性。
+
+  优化
+
+  - 更新浏览器、商店等系统应用。
+
+  - 解决低概率来电重启的问题。
+
+  - 解决使用闪光灯拍照时功耗异常的问题。
+
+  - 解决其他已知问题，提升系统稳定性。'
+code: PM1574151540653
+device: OnePlus 2
+image: https://statics.oneplus.cn/v2/img/h2os/download/phone2.png
+link: http://download.h2os.com/oneplus_2/mp/OnePlus2Hydrogen_14_OTA_022_all_1608171641_bfffc21a086c4849.zip
+md5: 9669F58C18D14ABD3DA67C7953A101B8
+region: China
+size: 1.15G
+type: Stable
+updated: 23-08-2017
+version: 第十七版

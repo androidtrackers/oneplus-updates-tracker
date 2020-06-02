@@ -1,0 +1,41 @@
+changelog: 'OnePlus 8 Oxygen OS 10.5.7
+
+
+  System
+
+  * Optimized touch and interaction experience
+
+  * Improved power consumption performance of the system
+
+  * Improved system stability and fixed general issues
+
+  * Updated Android Security Patch to 2020.04
+
+
+  Bluetooth
+
+  * Improved stability and compatibility of Bluetooth connection
+
+
+  Camera
+
+  * Improved the shooting experience with Camera and improved stability
+
+
+  Network
+
+  * Improved the performance and stability of Wi-Fi transfer
+
+  * Improved the stability of communication
+
+  * Optimized network latency for online games and improved the smoothness'
+device: OnePlus 8
+link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.O.16_GLO_016_2005090054/OnePlus8Oxygen_15.O.16_OTA_016_all_2005090054_45aabc798d.zip
+md5: 9911a23d9e7ddfe447d849a95679ac65
+ota_link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.O.16_GLO_016_2005090054/OnePlus8Oxygen_15.O.16_OTA_014-016_patch_2005090054_6890b1b181d9bf0.zip
+ota_md5: b0f28c4b8aa65b1cf6cbb299d3b4a06a
+ota_size: 162.5 MB
+size: 2.4 GB
+type: Stable
+updated: 09-05-2020
+version: OnePlus8Oxygen_15.O.16_GLO_016_2005090054

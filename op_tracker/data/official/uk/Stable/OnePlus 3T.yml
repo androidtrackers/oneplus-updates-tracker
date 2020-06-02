@@ -1,0 +1,17 @@
+changelog: 'System
+
+  •Updated Android security patch to 2019.10
+
+  • Updated GMS apps
+
+  • General bug fixes and improvements'
+code: PM1574156120231
+device: OnePlus 3T
+image: https://cdn.opstatics.com/store/20170907/assets/images/support/phone/mage/op3t.png
+link: https://oxygenos.oneplus.net/OnePlus3TOxygen_28_OTA_086_all_1911042121_f2d6336ae39a4545.zip
+md5: e4e46aa9eebffdd485071383dcda4218
+region: Europe
+size: 1.52GB
+type: Stable
+updated: 29-11-2019
+version: 9.0.6

@@ -1,0 +1,17 @@
+changelog: 'System
+
+  •Updated Android security patch to 2019.10
+
+  • Updated GMS apps
+
+  • General bug fixes and improvements'
+code: PM1574156097213
+device: OnePlus 3
+image: https://cdn.opstatics.com/store/20170907/assets/images/support/phone/mage/op3.png
+link: https://oxygenos.oneplus.net/OnePlus3Oxygen_16_OTA_086_all_1911042118_997006918a894202.zip
+md5: 7c2a1e83ac1a83a3ceb287983496549b
+region: USA
+size: 1.52GB
+type: Stable
+updated: 29-11-2019
+version: 9.0.6

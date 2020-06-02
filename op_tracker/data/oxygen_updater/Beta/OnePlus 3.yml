@@ -1,0 +1,41 @@
+changelog: 'OxygenOS: OP3_O2_BETA_39
+
+  Launcher
+
+  \•
+
+  • Improved search tags in app drawer
+
+  • Added "New installs" category tag in app drawer
+
+  • Improved app list for hidden space and toolbox
+
+  \•\•
+
+  Camera
+
+  \•
+
+  • Optimized switching between front and rear camera
+
+  \•\•
+
+  Multimedia
+
+  \•
+
+  • Supported seeking through timeline for AAC audio files
+
+  \•\•
+
+  [www.oneplus.com]{http://www.oneplus.com/}'
+device: OnePlus 3
+link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus3Oxygen/OnePlus3Oxygen_16.X.56_GLO_056_1807041934/OnePlus3Oxygen_16_OTA_056_all_1807041934_d4bba8e.zip
+md5: 9b1835bb4395a027af265ffbcd00491e
+ota_link: null
+ota_md5: null
+ota_size: null
+size: 1.7 GB
+type: Beta
+updated: 04-07-2018
+version: OnePlus3Oxygen_16.X.56_GLO_056_1807041934

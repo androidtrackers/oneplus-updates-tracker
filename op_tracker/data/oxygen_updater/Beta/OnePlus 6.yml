@@ -1,0 +1,14 @@
+changelog: "OnePlus 6 Open Beta_6\n\n System\n* Now unlock the LockBox without any\
+  \ problems in File Manager\n* No more crashes in the Launcher with apps in full-screen\
+  \ display\n* Got rid of blank screens while clearing up the background apps\n* Updated\
+  \ Android security patch to 2020.03"
+device: OnePlus 6
+link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.Y.65_GLO_065_2004012100/OnePlus6Oxygen_22_OTA_065_all_2004012100_8b55d3.zip
+md5: 0b112e09927ba17f5b8a6fb207abf875
+ota_link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.Y.65_GLO_065_2004012100/OnePlus6Oxygen_22_OTA_064-065_patch_2004012100_db7651.zip
+ota_md5: 571676c98601a2b6966737d8a2f984a7
+ota_size: 96.5 MB
+size: 1.9 GB
+type: Beta
+updated: 01-04-2020
+version: OnePlus6Oxygen_22.Y.65_GLO_065_2004012100

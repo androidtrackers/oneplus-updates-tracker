@@ -1,0 +1,31 @@
+changelog: 'OnePlus 7T Pro Open Beta_4
+
+
+  System
+
+  • Fix the problem that some software voice input cannot be recognized
+
+  • Fix the problem of the disappearance of contacts in the address book on some devices
+
+  * More clock style options now available in ambient display (Settings -- Customization
+  --Clock style)
+
+  * Improved system stability and fixed general issues
+
+  • Updated Android security patch to 2020.05
+
+
+  Phone
+
+  • Now you can view call recording in call history (move to the call history, click
+  the three-dot menu on the upper right to access the call recording)'
+device: OnePlus 7T Pro
+link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.W.04_GLO_004_2005122234/OnePlus7TProOxygen_13.W.04_OTA_004_all_2005122234_27d470d997.zip
+md5: 323339c26bf64424ac5861e542ab2d5d
+ota_link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.W.04_GLO_004_2005122234/OnePlus7TProOxygen_13.W.04_OTA_003-004_patch_2005122234_cac965102d274.zip
+ota_md5: 4c5cb896778d27eee4388a59cccde177
+ota_size: 127.9 MB
+size: 2.8 GB
+type: Beta
+updated: 12-05-2020
+version: OnePlus7TProOxygen_13.W.04_GLO_004_2005122234

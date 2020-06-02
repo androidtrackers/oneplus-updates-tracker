@@ -1,0 +1,27 @@
+changelog: '新增
+
+  新增长截图功能，想截多长，就截多长。
+
+  云同步功能已上线，联系人、通话记录、短信都可以进行同步，换机更方便。
+
+  优化
+
+  优化GPS性能。
+
+  优化WIFI性能。
+
+  修复待机后指纹解锁失效问题。
+
+  修复2017年天气不显示的问题。
+
+  修复月底发大量短信校准流量的问题。'
+code: PM1574151540653
+device: OnePlus 2
+image: https://statics.oneplus.cn/v2/img/h2os/download/phone2.png
+link: http://download.h2os.com/oneplus_2/PublicTest/OnePlus2Hydrogen_14_OTA_000_all_1612281850_10b3b62a678c4e2e.zip
+md5: 07AD888CEA3CC542773E012989508EB0
+region: China
+size: 1.14G
+type: Beta
+updated: 31-12-2016
+version: 氢OS2.5版

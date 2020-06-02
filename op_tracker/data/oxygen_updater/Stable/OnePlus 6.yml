@@ -1,0 +1,42 @@
+changelog: 'OnePlus 6 OxygenOS 10.3.3
+
+
+  System
+
+  * Fixed the issue with a black screen randomly appearing while playing games
+
+  * Updated GMS package to 2020.02
+
+  * Updated Android Security Patch to 2020.04
+
+  * Improved system stability and fixed general bugs
+
+
+  Network updates
+
+  * Integrated VoLTE & VoWifi support for Telenor - Denmark
+
+  * Integrated VoWifi support for RJIO - India
+
+
+  Phone
+
+  * Newly added OpSports feature in the shelf
+
+  * Added OnePlus Roaming feature: choose a plan without worrying about the SIM card
+  while travelling
+
+
+  Cloud Sync updates [India only]
+
+  * Updated the CloudService to Version 2.0'
+device: OnePlus 6
+link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.45_GLO_045_2004142201/OnePlus6Oxygen_22_OTA_045_all_2004142201_b8f5.zip
+md5: ae9ec3b1a708c30117b9be35c9f8b42f
+ota_link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.46_GLO_046_2005052115/OnePlus6Oxygen_22_OTA_045-046_patch_2005052115_8c01d97f.zip
+ota_md5: 24481fe6a476510044475dfc098fd1c9
+ota_size: 118.5 MB
+size: 1.9 GB
+type: Stable
+updated: 14-04-2020
+version: OnePlus6Oxygen_22.J.45_GLO_045_2004142201

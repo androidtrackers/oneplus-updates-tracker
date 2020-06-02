@@ -1,0 +1,42 @@
+changelog: 'OnePlus 5 Open Beta_35
+
+
+  System
+
+  * General bug fixes and improvements
+
+
+  Weather
+
+  * Improved scrolling experience for switching between pages
+
+  * Weather cards for multiple cities can now be rearranged or deleted by tapping
+  or holding on them
+
+  * Optimized user experience by allowing you to use this app while app permission
+  to access GPS location is disabled
+
+
+  Phone
+
+  * Better animation for switching between pages
+
+  * Improved experience with searching for contacts
+
+  * Optimized Quick Responses for declined calls and supported editing Quick Responses
+
+
+  Zen Mode
+
+  * Added Zen Mode helping you to keep away from the screen and to be back to life
+  for 20 minutes'
+device: OnePlus 5
+link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5Oxygen/OnePlus5Oxygen_23.T.54_GLO_054_1906241442/OnePlus5Oxygen_23_OTA_054_all_1906241442_56ce41005.zip
+md5: e4cfe12b8ac3cabc02cc28794ccc5d07
+ota_link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5Oxygen/OnePlus5Oxygen_23.T.54_GLO_054_1906241442/OnePlus5Oxygen_23_OTA_052-054_patch_1906241442_d36108209dbd.zip
+ota_md5: 09f6eba6fd1f34ceb77a1be7499f25c1
+ota_size: 245.4 MB
+size: 2.0 GB
+type: Beta
+updated: 24-06-2019
+version: OnePlus5Oxygen_23.T.54_GLO_054_1906241442

@@ -1,0 +1,30 @@
+changelog: 'System updates
+
+  • Fixed the issue with a black screen randomly appearing while playing games
+
+  • Updated GMS package to 2020.02
+
+  • Updated Android Security Patch to 2020.04
+
+  • Improved system stability and fixed general bugs Network updates
+
+  • Integrated VoLTE & VoWifi support for Telenor-Denmark
+
+  • Integrated VoWifi support for RJIO - India Phone updates （India only）
+
+  • Newly added OpSports feature in the shelf
+
+  • Added OnePlus Roaming feature: choose a plan without worrying about the SIM card
+  while travelling Cloud Sync updates （India only）
+
+  • Updated the CloudService to Version 2.0'
+code: PM1574156215016
+device: OnePlus 6T
+image: https://image01.oneplus.net/shop/201811/06/1634/ba120163978cbef9e23d4c8ed9f8b62e.png
+link: https://oxygenos.oneplus.net/OnePlus6TOxygen_34_OTA_045_all_2004142152_09a6b6789a7843e6.zip
+md5: f20ca79091cfc6c0a680692b0dbc38fa
+region: India
+size: 1.83 GB
+type: Stable
+updated: 18-05-2020
+version: 10.3.3

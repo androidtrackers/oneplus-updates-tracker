@@ -1,0 +1,41 @@
+changelog: 'OnePlus 5 OxygenOS 10.0.0
+
+
+  System
+
+  * Upgraded to Android 10
+
+  * Brand new UI design
+
+  * Enhanced location permissions for privacy
+
+  * New customization feature in the Settings allowing you to choose icon shapes to
+  be displayed in the Quick Settings
+
+
+  Game Space
+
+  * New Game Space feature now add all of your favorite games in one place for easier
+  access and better gaming experience
+
+
+  Message
+
+  * Now possible to block spam by keywords for Message (Messages - Spam - Settings
+  - Blocking settings)
+
+
+  Camera
+
+  * Electronic image stabilization currently under optimization and will be pushed
+  in later stable versions. Please stay tuned'
+device: OnePlus 5
+link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5Oxygen/OnePlus5Oxygen_23.J.67_GLO_067_2005130007/OnePlus5Oxygen_23_OTA_067_all_2005130007_4e90d4036.zip
+md5: 3728acf8f477795fe31afe60bd1ce047
+ota_link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5Oxygen/OnePlus5Oxygen_23.J.67_GLO_067_2005130007/OnePlus5Oxygen_23_OTA_067_all_2005130007_4e90d4036.zip
+ota_md5: 3728acf8f477795fe31afe60bd1ce047
+ota_size: 2.0 GB
+size: 2.0 GB
+type: Stable
+updated: 13-05-2020
+version: OnePlus5Oxygen_23.J.67_GLO_067_2005130007

@@ -1,0 +1,25 @@
+changelog: '推荐指数：★★★
+
+  修复问题并提升稳定性，推荐更新。
+
+  新增
+
+  - 增加应用独立升级功能，部分系统应用可独立升级。
+
+  优化
+
+  - 优化电量使用情况的数据准确性。
+
+  - 修复低概率解锁、触屏无响应的问题。
+
+  - 修复其他已知问题，提升系统稳定性。'
+code: PM1574151685643
+device: OnePlus X
+image: https://statics.oneplus.cn/v2/img/h2os/download/phonex.png
+link: http://download.h2os.com/oneplus_x/mp/OnePlusH2OS_14_OTA_001_all_201610291136_98e9299fced2483e.zip
+md5: 0B7BBEF803E2D009898B3C4FC508C2EB
+region: China
+size: 703M
+type: Beta
+updated: 29-09-2016
+version: 氢OS2.0版

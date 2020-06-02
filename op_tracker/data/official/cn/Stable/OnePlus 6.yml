@@ -1,0 +1,15 @@
+changelog: '系统
+
+  • 修复了锁屏时微信通话响铃的问题
+
+  • 优化了系统输入法的使用体验'
+code: PM1574150497163
+device: OnePlus 6
+image: https://image01.oneplus.cn/shop/201805/23/736/58d001f5452a2133017ff780ef57946f.jpg
+link: http://download.h2os.com/OnePlus6/MP/OnePlus6Hydrogen_22_OTA_044_all_2004151609_0096a960ae414744.zip
+md5: 6b11b1acf2c10a02f8c2f90769fa25bc
+region: China
+size: 2.20 GB
+type: Stable
+updated: 15-05-2020
+version: 第4版（Android10.0）

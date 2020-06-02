@@ -4,12 +4,13 @@ OnePlus Websites Scraper class implementation
 import json
 from random import randint
 
-from aiohttp import ClientSession, ClientResponse
+from aiohttp import ClientResponse
 
+from op_tracker.common.api_client.common_scraper import CommonClient
 from op_tracker.official.models.device import Device
 
 
-class Website:
+class Website(CommonClient):
     """
     OnePlus Websites Scraper
 
@@ -17,7 +18,6 @@ class Website:
     It's responsible for interacting with OnePlus websites API in order to:
     - Get devices list.
     - Get device's updates information
-    :attr: `session`: ClientSession - aiohttp client session object
     :attr: `region`: str - Website region
     :attr: `base_url`: str - Website base URL
     :attr: `random_int`: str - API magic number. OnePlus Website API requires
@@ -33,7 +33,7 @@ class Website:
         Website Class constructor
         :param region: OnePlus website region
         """
-        self.session: ClientSession = ClientSession()
+        super().__init__()
         self.region: str = region
         self.base_url: str = "https://store.oneplus.com" \
             if self.region == "cn" else "https://www.oneplus.com"
@@ -43,7 +43,6 @@ class Website:
                             f'boundary=---------------------------{self.random_int}',
             'Connection': 'keep-alive',
         }
-        self.devices: list = []
 
     async def get_devices(self):
         """
@@ -89,10 +88,3 @@ class Website:
         response: dict = json.loads(await _response.text())
         if response['ret'] == 1 and response['errCode'] == 0:
             return response['data']
-
-    async def close(self):
-        """
-        Closes the connection of aiohttp client
-        :return:
-        """
-        await self.session.close()
