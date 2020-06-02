@@ -1,3 +1,4 @@
+"""OnePlus Updates Tracker entry point"""
 from op_tracker.tracker import run
 
 if __name__ == '__main__':

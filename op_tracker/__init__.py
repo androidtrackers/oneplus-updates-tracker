@@ -1,4 +1,6 @@
+"""OnePlus Updates Tracker initialization"""
 import logging
+from logging import Formatter
 from logging.handlers import TimedRotatingFileHandler
 from pathlib import Path
 from sys import stderr
@@ -9,14 +11,15 @@ import yaml
 WORK_DIR = Path(__file__).parent
 CONF_DIR = Path(__file__).parent.parent
 
-# read bog config
+# read script configuration file
 with open(CONF_DIR / 'config.yml', 'r') as f:
     CONFIG = yaml.load(f, Loader=yaml.FullLoader)
 
-# set logging
+# set logging configuration
 LOG_FILE = CONF_DIR / 'last_run.log'
-LOG_FORMAT = '%(asctime)s [%(levelname)s] %(name)s [%(module)s.%(funcName)s:%(lineno)d]: %(message)s'
-FORMATTER = logging.Formatter(LOG_FORMAT)
+LOG_FORMAT: str = '%(asctime)s [%(levelname)s] %(name)s [%(module)s.%(funcName)s:%(lineno)d]: ' \
+                  '%(message)s'
+FORMATTER: Formatter = logging.Formatter(LOG_FORMAT)
 handler = TimedRotatingFileHandler(LOG_FILE, when="d", interval=1, backupCount=2)
 # logging.basicConfig(filename=LOG_FILE, filemode='a', format=LOG_FORMAT)
 # OUT = logging.StreamHandler(stdout)

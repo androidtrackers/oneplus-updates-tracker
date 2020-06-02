@@ -1,0 +1,5 @@
+[LOGGING]
+disable=logging-fstring-interpolation
+
+[CODE]
+disable=too-many-locals, too-many-instance-attributes

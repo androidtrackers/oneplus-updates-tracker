@@ -1,3 +1,6 @@
+"""
+Git helper module
+"""
 import logging
 from asyncio import create_subprocess_shell
 from asyncio.subprocess import PIPE, Process
@@ -7,10 +10,13 @@ from op_tracker import CONFIG, WORK_DIR
 
 
 async def git_commit_push():
-    command: str = f'git add {WORK_DIR}/data/*.yml {WORK_DIR}/data/*/*.yml {WORK_DIR}/data/*/*/*.yml && ' \
+    """ Git helper function that adds, commits, and pushes changes"""
+    command: str = f'git add {WORK_DIR}/data/*.yml {WORK_DIR}/data/*/*.yml ' \
+                   f'{WORK_DIR}/data/*/*/*.yml && ' \
                    f'git -c "user.name=CI" -c "user.email=CI@example.com" ' \
                    f'commit -m "sync: {datetime.today().strftime("%d-%m-%Y %H:%M:%S")}" && ' \
-                   f'git push -q https://{CONFIG.get("git_oauth_token")}@github.com/androidtrackers/' \
+                   f'git push -q https://{CONFIG.get("git_oauth_token")}@' \
+                   f'github.com/androidtrackers/' \
                    f'oneplus-updates-tracker.git HEAD:master'
     process: Process = await create_subprocess_shell(command, stdin=PIPE, stdout=PIPE)
     await process.wait()
