@@ -126,59 +126,6 @@
   code: PM1574162297465
   device: OnePlus 7T Pro
   image: https://image01.oneplus.cn/shop/201910/24/377/9db9f819e394216fb41595cfe3341abf.png
-  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_14.O.11_OTA_011_all_1912060100_18c62cb61ee448cf.zip
-  md5: 8b48c970fa9d284231c295b61047bd0a
-  region: Global
-  size: 2.60GB
-  type: Stable
-  updated: 15-02-2020
-  version: 10.0.5.HD01AA
-- changelog: 'System
-
-    • Fix the problem that some software voice input cannot be recognized
-
-    • Fix the problem of the disappearance of contacts in the address book on some
-    devices
-
-    • More clock style options now available in ambient display（Settings—Customization—Clock
-    style）
-
-    • Improved system stability and fixed general issues
-
-    • Updated Android Security Patch to 2020.05 Phone
-
-    • Now you can view call recording in call history ( Move to the call history,
-    click the three-dot menu on the upper right to access the call recording）'
-  code: PM1574162297465
-  device: OnePlus 7T Pro
-  image: https://image01.oneplus.cn/shop/201910/24/377/9db9f819e394216fb41595cfe3341abf.png
-  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_13.W.04_OTA_004_all_2005122234_2b7822d6ea424e48.zip
-  md5: 323339c26bf64424ac5861e542ab2d5d
-  region: Global
-  size: 2.65 GB
-  type: Beta
-  updated: 28-05-2020
-  version: Open Beta 4
-- changelog: 'System
-
-    •Improved the launching speed of some apps
-
-    • Optimized the RAM Management
-
-    •Optimized the black lines onthe screen while charging device
-
-    • Optimized the black and white screen issues with some apps
-
-    • Improved system stability and general bug fixes
-
-    •Updated Android security patch to 2019.11
-
-    Camera
-
-    • Improved the photoquality'
-  code: PM1574162297465
-  device: OnePlus 7T Pro
-  image: https://image01.oneplus.cn/shop/201910/24/377/9db9f819e394216fb41595cfe3341abf.png
   link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_14.E.11_OTA_011_all_1912060058_9f74ffa647cf4557.zip
   md5: 6ee29bd7684f6448e49210c8af48cab8
   region: Europe
@@ -209,6 +156,59 @@
   md5: 7a7f184deaf7a8d9ca49b32891756eaf
   region: Europe
   size: 2.63 GB
+  type: Beta
+  updated: 28-05-2020
+  version: Open Beta 4
+- changelog: 'System
+
+    •Improved the launching speed of some apps
+
+    • Optimized the RAM Management
+
+    •Optimized the black lines onthe screen while charging device
+
+    • Optimized the black and white screen issues with some apps
+
+    • Improved system stability and general bug fixes
+
+    •Updated Android security patch to 2019.11
+
+    Camera
+
+    • Improved the photoquality'
+  code: PM1574162297465
+  device: OnePlus 7T Pro
+  image: https://image01.oneplus.cn/shop/201910/24/377/9db9f819e394216fb41595cfe3341abf.png
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_14.O.11_OTA_011_all_1912060100_18c62cb61ee448cf.zip
+  md5: 8b48c970fa9d284231c295b61047bd0a
+  region: Global
+  size: 2.60GB
+  type: Stable
+  updated: 15-02-2020
+  version: 10.0.5.HD01AA
+- changelog: 'System
+
+    • Fix the problem that some software voice input cannot be recognized
+
+    • Fix the problem of the disappearance of contacts in the address book on some
+    devices
+
+    • More clock style options now available in ambient display（Settings—Customization—Clock
+    style）
+
+    • Improved system stability and fixed general issues
+
+    • Updated Android Security Patch to 2020.05 Phone
+
+    • Now you can view call recording in call history ( Move to the call history,
+    click the three-dot menu on the upper right to access the call recording）'
+  code: PM1574162297465
+  device: OnePlus 7T Pro
+  image: https://image01.oneplus.cn/shop/201910/24/377/9db9f819e394216fb41595cfe3341abf.png
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_13.W.04_OTA_004_all_2005122234_2b7822d6ea424e48.zip
+  md5: 323339c26bf64424ac5861e542ab2d5d
+  region: Global
+  size: 2.65 GB
   type: Beta
   updated: 28-05-2020
   version: Open Beta 4

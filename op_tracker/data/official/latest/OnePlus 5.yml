@@ -49,57 +49,6 @@
   type: Beta
   updated: 27-06-2019
   version: Open Beta 35
-- changelog: 'System
-
-    •Updated Android security patch to 2020.02
-
-    •Improved system stability and fixed general bugs'
-  code: PM1574156143164
-  device: OnePlus 5
-  image: https://cdn.opstatics.com/store/20170907/assets/images/support/phone/mage/op5.png
-  link: https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_054_all_2002242016_1fd6cbd4606e44cf.zip
-  md5: 00f5285e3b2ba24b638fae23db3a9d3a
-  region: USA
-  size: 1.79 GB
-  type: Stable
-  updated: 16-03-2020
-  version: 9.0.11
-- changelog: 'System
-
-    • General bug fixes and stability improvements
-
-    Weather
-
-    • Improved scrolling experience for switching between pages
-
-    •Weather cards for multiple cities can now be rearranged or deleted by tapping
-    and holding on them
-
-    •Optimized user experience by allowing you to use this app while app permission
-    to access GPS location is disabled
-
-    Phone
-
-    •Improved animation effects when switching between pages
-
-    • Improved experience with searching for contacts
-
-    • Optimized Quick Responses for declined calls and supported editing Quick Responses
-
-    Zen Mode
-
-    • Added Zen Mode helping you keep away from the screen and back to life for 20
-    minutes'
-  code: PM1574156143164
-  device: OnePlus 5
-  image: https://cdn.opstatics.com/store/20170907/assets/images/support/phone/mage/op5.png
-  link: https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_054_all_1906241442_89253a909cad4e39.zip
-  md5: e4cfe12b8ac3cabc02cc28794ccc5d07
-  region: USA
-  size: 1.83 GB
-  type: Beta
-  updated: 27-06-2019
-  version: Open Beta 35
 - changelog: '系统
 
     • 更新 Android 安全补丁至
@@ -160,7 +109,7 @@
   image: https://cdn.opstatics.com/store/20170907/assets/images/support/phone/mage/op5.png
   link: https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_054_all_2002242016_1fd6cbd4606e44cf.zip
   md5: 00f5285e3b2ba24b638fae23db3a9d3a
-  region: Global
+  region: USA
   size: 1.79 GB
   type: Stable
   updated: 16-03-2020
@@ -196,7 +145,7 @@
   image: https://cdn.opstatics.com/store/20170907/assets/images/support/phone/mage/op5.png
   link: https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_054_all_1906241442_89253a909cad4e39.zip
   md5: e4cfe12b8ac3cabc02cc28794ccc5d07
-  region: Global
+  region: USA
   size: 1.83 GB
   type: Beta
   updated: 27-06-2019
@@ -248,6 +197,57 @@
   link: https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_054_all_1906241442_89253a909cad4e39.zip
   md5: e4cfe12b8ac3cabc02cc28794ccc5d07
   region: Europe
+  size: 1.83 GB
+  type: Beta
+  updated: 27-06-2019
+  version: Open Beta 35
+- changelog: 'System
+
+    •Updated Android security patch to 2020.02
+
+    •Improved system stability and fixed general bugs'
+  code: PM1574156143164
+  device: OnePlus 5
+  image: https://cdn.opstatics.com/store/20170907/assets/images/support/phone/mage/op5.png
+  link: https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_054_all_2002242016_1fd6cbd4606e44cf.zip
+  md5: 00f5285e3b2ba24b638fae23db3a9d3a
+  region: Global
+  size: 1.79 GB
+  type: Stable
+  updated: 16-03-2020
+  version: 9.0.11
+- changelog: 'System
+
+    • General bug fixes and stability improvements
+
+    Weather
+
+    • Improved scrolling experience for switching between pages
+
+    •Weather cards for multiple cities can now be rearranged or deleted by tapping
+    and holding on them
+
+    •Optimized user experience by allowing you to use this app while app permission
+    to access GPS location is disabled
+
+    Phone
+
+    •Improved animation effects when switching between pages
+
+    • Improved experience with searching for contacts
+
+    • Optimized Quick Responses for declined calls and supported editing Quick Responses
+
+    Zen Mode
+
+    • Added Zen Mode helping you keep away from the screen and back to life for 20
+    minutes'
+  code: PM1574156143164
+  device: OnePlus 5
+  image: https://cdn.opstatics.com/store/20170907/assets/images/support/phone/mage/op5.png
+  link: https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_054_all_1906241442_89253a909cad4e39.zip
+  md5: e4cfe12b8ac3cabc02cc28794ccc5d07
+  region: Global
   size: 1.83 GB
   type: Beta
   updated: 27-06-2019

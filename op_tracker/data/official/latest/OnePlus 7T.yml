@@ -52,57 +52,6 @@
   type: Beta
   updated: 28-05-2020
   version: Open Beta 4
-- changelog: 'System
-
-    •Improved the launching speed of some apps
-
-    • Optimized the RAM Management
-
-    • Optimized the black and white screen issues with some apps
-
-    • Improved system stability and general bug fixes
-
-    •Updated Android security patch to 2019.11
-
-    Camera
-
-    • Improved the photoquality'
-  code: PM1574161738631
-  device: OnePlus 7T
-  image: https://image01.oneplus.net/shop/201910/14/1-M00-0A-A8-rB8bwl2kIbaAXMD5AAEotHHdgPs919.jpg
-  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.O.09_OTA_009_all_1912060105_34e9053369f9448e.zip
-  md5: e0fce4de3a99c217e4555bb3ab97a1ec
-  region: USA
-  size: 2.54 GB
-  type: Stable
-  updated: 15-02-2020
-  version: 10.0.7.HD65
-- changelog: 'System
-
-    • Fix the problem that some software voice input cannot be recognized
-
-    • Fix the problem of the disappearance of contacts in the address book on some
-    devices
-
-    • More clock style options now available in ambient display（Settings—Customization—Clock
-    style）
-
-    • Improved system stability and fixed general issues
-
-    • Updated Android Security Patch to 2020.05 Phone
-
-    • Now you can view call recording in call history ( Move to the call history,
-    click the three-dot menu on the upper right to access the call recording）'
-  code: PM1574161738631
-  device: OnePlus 7T
-  image: https://image01.oneplus.net/shop/201910/14/1-M00-0A-A8-rB8bwl2kIbaAXMD5AAEotHHdgPs919.jpg
-  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.04_OTA_004_all_2005122222_27df6e02a0c24e29.zip
-  md5: 41f4bb1b2be7ef5472fe3a2b8fdd8124
-  region: USA
-  size: 2.58 GB
-  type: Beta
-  updated: 28-05-2020
-  version: Open Beta 4
 - changelog: '系统
 
     • 优化系统内存管理方案
@@ -179,7 +128,7 @@
   image: https://image01.oneplus.net/shop/201910/14/1-M00-0A-A8-rB8bwl2kIbaAXMD5AAEotHHdgPs919.jpg
   link: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.O.09_OTA_009_all_1912060105_34e9053369f9448e.zip
   md5: e0fce4de3a99c217e4555bb3ab97a1ec
-  region: Global
+  region: USA
   size: 2.54 GB
   type: Stable
   updated: 15-02-2020
@@ -205,7 +154,7 @@
   image: https://image01.oneplus.net/shop/201910/14/1-M00-0A-A8-rB8bwl2kIbaAXMD5AAEotHHdgPs919.jpg
   link: https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.04_OTA_004_all_2005122222_27df6e02a0c24e29.zip
   md5: 41f4bb1b2be7ef5472fe3a2b8fdd8124
-  region: Global
+  region: USA
   size: 2.58 GB
   type: Beta
   updated: 28-05-2020
@@ -258,6 +207,57 @@
   md5: bdd425d227116bfc8d9a192c33ac01ed
   region: Europe
   size: 2.57 GB
+  type: Beta
+  updated: 28-05-2020
+  version: Open Beta 4
+- changelog: 'System
+
+    •Improved the launching speed of some apps
+
+    • Optimized the RAM Management
+
+    • Optimized the black and white screen issues with some apps
+
+    • Improved system stability and general bug fixes
+
+    •Updated Android security patch to 2019.11
+
+    Camera
+
+    • Improved the photoquality'
+  code: PM1574161738631
+  device: OnePlus 7T
+  image: https://image01.oneplus.net/shop/201910/14/1-M00-0A-A8-rB8bwl2kIbaAXMD5AAEotHHdgPs919.jpg
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.O.09_OTA_009_all_1912060105_34e9053369f9448e.zip
+  md5: e0fce4de3a99c217e4555bb3ab97a1ec
+  region: Global
+  size: 2.54 GB
+  type: Stable
+  updated: 15-02-2020
+  version: 10.0.7.HD65
+- changelog: 'System
+
+    • Fix the problem that some software voice input cannot be recognized
+
+    • Fix the problem of the disappearance of contacts in the address book on some
+    devices
+
+    • More clock style options now available in ambient display（Settings—Customization—Clock
+    style）
+
+    • Improved system stability and fixed general issues
+
+    • Updated Android Security Patch to 2020.05 Phone
+
+    • Now you can view call recording in call history ( Move to the call history,
+    click the three-dot menu on the upper right to access the call recording）'
+  code: PM1574161738631
+  device: OnePlus 7T
+  image: https://image01.oneplus.net/shop/201910/14/1-M00-0A-A8-rB8bwl2kIbaAXMD5AAEotHHdgPs919.jpg
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.04_OTA_004_all_2005122222_27df6e02a0c24e29.zip
+  md5: 41f4bb1b2be7ef5472fe3a2b8fdd8124
+  region: Global
+  size: 2.58 GB
   type: Beta
   updated: 28-05-2020
   version: Open Beta 4
