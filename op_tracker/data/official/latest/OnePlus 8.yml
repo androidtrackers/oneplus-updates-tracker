@@ -19,23 +19,49 @@
   version: 10.5.5.IN21DA
 - changelog: '系统
 
-    • 修复已知问题及提升系统稳定性 相机
+    • 优化触控体验
 
-    • 提升相机的污渍检测准确度
+    • 优化部分场景长截图体验
 
-    • 优化前置相机的拍摄体验
+    • 优化手机功耗表现，提升续航时长
 
-    • 提升相机的稳定性'
+    • 优化口袋模式减少误触情况
+
+    • 优化解锁动画，现在息屏解锁的过渡更加流畅
+
+    • 新增快捷启动项支持微信乘车码（启用方法：设置—工具箱—快捷启动—快捷方式设置—添加微信乘车码）
+
+    • 更新氢OS贡献者名单，感谢加油们的宝贵建议，帮助我们做的更好
+
+    • 更新Android安全补丁至 2020.05 短信
+
+    • 新增通知栏一键删除短信新消息
+
+    • 新增白名单关键词，支持包含关键词短信不会被拦截 语音助手
+
+    • 新增支持语音唤醒，释放双手（Breeno语音—右上设置图标—语音唤醒—录入唤醒词） 相机
+
+    • 新增H.265高效率视频编码格式，无损画质减小视频储存体积，让您更加随心拍摄
+
+    • 优化相机快门点击动画效果等细节，提升体验流畅度
+
+    • 优化相机的拍摄体验并提升稳定性 网络
+
+    • 提升通信功能稳定性
+
+    • 提升WLAN传输性能和稳定性
+
+    • 优化在线游戏的网络延迟，提升流畅性'
   code: PM1586920411543
   device: OnePlus 8
   image: https://oneplusgsp.s3.cn-north-1.amazonaws.com.cn/uploadFiles/0b1fd69126d5474fa328f3524bce4f92.png
-  link: http://download.h2os.com/OnePlus8/MP/OnePlus8Hydrogen_15.H.12_OTA_012_all_2004262108_09cac958d07841ef.zip
-  md5: 68f9d0f07bf7887cbee2f1ce44e1705b
+  link: http://download.h2os.com/OnePlus8/MP/OnePlus8Hydrogen_15.H.15_OTA_015_all_2005301406_8e11f9132d024b36.zip
+  md5: b5b2345118cdfef20442085f9ebc6122
   region: China
-  size: 3.01 GB
+  size: 3.02 GB
   type: Stable
-  updated: 06-05-2020
-  version: 10.5.3.IN21
+  updated: 08-06-2020
+  version: 10.5.6.IN21
 - changelog: 'System
 
     • Fixed known issues and improved system stability Camera

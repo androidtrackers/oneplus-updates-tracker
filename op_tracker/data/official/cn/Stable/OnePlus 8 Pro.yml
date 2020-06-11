@@ -1,19 +1,49 @@
 changelog: '系统
 
-  • 修复已知问题及提升系统稳定性 相机
+  • 优化触控体验
 
-  • 提升相机的污渍检测准确度
+  • 优化部分场景长截图体验
 
-  • 优化前置相机的拍摄体验
+  • 优化手机功耗表现，提升续航时长
 
-  • 提升相机的稳定性'
+  • 优化无线充电稳定性，提升用户体验
+
+  • 优化口袋模式减少误触情况
+
+  • 优化解锁动画，现在息屏解锁的过渡更加流畅
+
+  • 新增快捷启动项支持微信乘车码（启用方法：设置—工具箱—快捷启动—快捷方式设置—添加微信乘车码
+
+  ）
+
+  • 更新氢OS贡献者名单，感谢加油们的宝贵建议，帮助我们做的更好
+
+  • 更新Android安全补丁至 2020.05 短信
+
+  • 新增通知栏一键删除短信新消息
+
+  • 新增白名单关键词，支持包含关键词短信不会被拦截 相机
+
+  • 新增H.265高效率视频编码格式，无损画质减小视频储存体积，让您更加随心拍摄
+
+  • 新增近距离拍摄时自动切换超广角镜头以提升边缘画质
+
+  • 优化相机快门点击动画效果等细节，提升体验流畅度
+
+  • 优化相机的拍摄体验并提升稳定性 网络
+
+  • 提升通信功能稳定性
+
+  • 提升WLAN传输性能和稳定性
+
+  • 优化在线游戏的网络延迟，提升流畅性'
 code: PM1587182821068
 device: OnePlus 8 Pro
 image: https://oneplusgsp.s3.cn-north-1.amazonaws.com.cn/uploadFiles/6c83652cbde94f4c936638287d97d5e0.png
-link: http://download.h2os.com/OnePlus8Pro/MP/OnePlus8ProHydrogen_15.H.15_OTA_015_all_2004262106_0463a37ea6b34c4c.zip
-md5: a125f9e95cd8d53199870d5e8270eb11
+link: http://download.h2os.com/OnePlus8Pro/MP/OnePlus8ProHydrogen_15.H.19_OTA_019_all_2005301412_eb61529bbcde48c9.zip
+md5: 9a87ff041f76e52c6e7fa4b55cc8eb3b
 region: China
-size: 3.08 GB
+size: 3.10 GB
 type: Stable
-updated: 06-05-2020
-version: 10.5.6.IN11
+updated: 08-06-2020
+version: 10.5.10.IN11
