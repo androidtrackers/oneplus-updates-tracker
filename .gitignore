@@ -135,3 +135,6 @@ dmypy.json
 config.*
 .idea/
 *.bak
+*_updater.py
+*.db
+updater/

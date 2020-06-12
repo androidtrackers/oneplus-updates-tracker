@@ -5,7 +5,8 @@ from typing import List, Union
 from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater
 
-from op_tracker.official.models.update import Update as officialUpdate
+from op_tracker.common.database.database import get_incremental
+from op_tracker.common.database.models.update import Update
 
 
 class TelegramBot:
@@ -16,7 +17,7 @@ class TelegramBot:
     :attr:`chat` Telegram chat username or id
     """
 
-    def __init__(self, bot_token: str, chat: Union[int, str], source: str):
+    def __init__(self, bot_token: str, chat: Union[int, str]):
         """
         TelegramBot class constructor
         :param bot_token: Telegram Bot API access token
@@ -24,10 +25,9 @@ class TelegramBot:
         """
         self.bot: Bot = Bot(token=bot_token)
         self.updater = Updater(bot=self.bot, use_context=True)
-        self.chat = chat
-        self.generate_message = self.generate_update_message_from_official if source == "official" else None
+        self.chat = chat if isinstance(chat, int) else f"@{chat}"
 
-    def post_updates(self, new_updates: List[officialUpdate]):
+    def post_updates(self, new_updates: List[Update]):
         """
         Send updates to a Telegram chat
         :param new_updates: a list of updates
@@ -38,7 +38,7 @@ class TelegramBot:
             self.send_telegram_message(message, button)
 
     @staticmethod
-    def generate_update_message_from_official(update: officialUpdate) -> \
+    def generate_message(update: Update) -> \
             (str, InlineKeyboardMarkup):
         """
         Generate an update message from and `Update` object
@@ -49,13 +49,18 @@ class TelegramBot:
         message: str = f"New update available!\n" \
                        f"*Device*: {update.device}\n" \
                        f"*Region*: {update.region}\n" \
-                       f"*Type*: {update.type}\n" \
-                       f"*Version*: {update.version}\n" \
-                       f"*Release Date*: {update.updated}\n" \
+                       f"*Type*: {update.branch}\n" \
+                       f"*Version*: ```{update.version}```\n" \
+                       f"*Release Date*: {update.date}\n" \
                        f"*Size*: {update.size}\n" \
                        f"*MD5*: `{update.md5}`\n" \
-                       f"*Changlog*:\n{update.changelog}"
-        button: InlineKeyboardButton = InlineKeyboardButton("Download", update.link)
+                       f"*Changelog*:\n```{update.changelog}```"
+        button: InlineKeyboardButton = InlineKeyboardButton("Full ROM", update.link)
+        incremental = get_incremental(update.version)
+        if incremental:
+            incremental_button: InlineKeyboardButton = InlineKeyboardButton(
+                "Incremental", incremental.link)
+            return message, InlineKeyboardMarkup([[button], [incremental_button]])
         return message, InlineKeyboardMarkup([[button]])
 
     def send_telegram_message(self, message: str, reply_markup: InlineKeyboardMarkup):

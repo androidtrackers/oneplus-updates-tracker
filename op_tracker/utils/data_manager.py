@@ -50,7 +50,7 @@ class DataManager:
     @staticmethod
     def write_file(file, data):
         """Write data into the file"""
-        with open(f"{file}", "w") as out:
+        with open(f"{file}", "w", encoding="utf-8") as out:
             yaml.dump(data, out, allow_unicode=True)
 
     @staticmethod

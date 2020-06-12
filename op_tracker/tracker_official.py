@@ -6,15 +6,14 @@ import asyncio
 import logging
 from dataclasses import asdict
 
-from op_tracker import WORK_DIR, CONFIG
+from op_tracker import WORK_DIR
+from op_tracker.official.api_client.api_client import APIClient
 from op_tracker.official.models.device import Device
 from op_tracker.official.models.devices import Devices
 from op_tracker.official.models.update import Update
-from op_tracker.official.api_client.api_client import APIClient
 from op_tracker.utils.data_manager import DataManager
 from op_tracker.utils.git import git_commit_push
 from op_tracker.utils.merger import merge_devices, merge_updates
-from op_tracker.utils.telegram import TelegramBot
 
 
 async def check_update(item, region, region_code, api, logger):
@@ -65,11 +64,11 @@ async def main():
             if result:
                 new_updates.append(result[0])
         await api.close()
-    if new_updates:
-        logger.info(f"New updates: {new_updates}")
-        bot: TelegramBot = TelegramBot(
-            CONFIG.get('tg_bot_token'), CONFIG.get('tg_chat'), "official")
-        bot.post_updates(new_updates)
+    # if new_updates:
+    #     logger.info(f"New updates: {new_updates}")
+    #     bot: TelegramBot = TelegramBot(
+    #         CONFIG.get('tg_bot_token'), CONFIG.get('tg_chat'), "official")
+    #     bot.post_updates(new_updates)
     devices: list = merge_devices(regions)
     merge_updates(devices)
     await git_commit_push()
