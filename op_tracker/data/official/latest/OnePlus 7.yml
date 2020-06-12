@@ -61,35 +61,35 @@
   version: Open Beta 14
 - changelog: '系统
 
-    • 优化系统内存管理方案
+    • 新增杜比全景声支持一加云耳 Z 音质增强
 
-    • 优化微信和QQ的使用体验并提升稳定性
+    • 优化微信和QQ的使用体验
 
-    • 提升系统稳定性并修复已知问题
+    • 优化音量调节曲线，提升使用体验
 
-    • 更新安卓安全补丁至2020.03
+    • 提升整机续航体验
 
-    语音助手
+    • 提升稳定性及修复已知问题
 
-    • 新增语音助手，轻松应对日常语音交互需求，搭载语音车载模式，助你安全出行
+    • 更新Android安全补丁至 2020.05 语音助手
 
-    相册
+    • 新增支持语音唤醒，释放双手 钱包
 
-    • 提升录制慢动作视频的稳定性
+    • 公交 / 门禁卡入口整合到钱包 App ，操作更加便捷
 
-    • 修复截图文件夹会消失的问题
+    • 新增钱包 App，支持 OnePlus Pay 功能
 
-    • 修复部分视频播放延迟的问题'
+    • 公交卡充值新增微信支付方式'
   code: PM1574150159914
   device: OnePlus 7
   image: https://image01.oneplus.cn/shop/201905/21/1044/5a04c8bc1fee475d58a6a1272374b052.png
-  link: http://download.h2os.com/OnePlus7/MP/OnePlus7Hydrogen_14.H.25_OTA_025_all_2004102228_424eac883c884f13.zip
-  md5: 3606dc9558e572538f9406f97495375f
+  link: http://download.h2os.com/OnePlus7/MP/OnePlus7Hydrogen_14.H.26_OTA_026_all_2005131921_07ed821de2814cf6.zip
+  md5: 4b65b5e52733ea6729c7eeefaf66b686
   region: China
-  size: 2.82GB
+  size: 2.94 GB
   type: Stable
-  updated: 30-04-2020
-  version: 10.0.5.GM57
+  updated: 12-06-2020
+  version: 10.0.6.GM57
 - changelog: '系统
 
     • 新增负一屏支持微信乘车码
