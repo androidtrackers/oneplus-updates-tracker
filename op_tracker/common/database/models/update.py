@@ -1,7 +1,8 @@
 """OnePlus Updates Tracker Database Update model"""
-from sqlalchemy import Column, Integer, String
+from typing import Union
 
 from op_tracker.common.database.models import Base
+from sqlalchemy import Column, Integer, String
 
 
 class Update(Base):
@@ -21,7 +22,7 @@ class Update(Base):
     link: str = Column(String)
     date: str = Column(String)
     changelog: str = Column(String)
-    changelog_link: str = Column(String)
+    changelog_link: Union[str, None] = Column(String)
     insert_date: str = Column(String)
     product: str = Column(String)
 

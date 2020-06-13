@@ -1,15 +1,75 @@
-OnePlus 1: PM1574151913646
-OnePlus 2: PM1574151540653
-OnePlus 3: PM1574151108358
-OnePlus 3T: PM1574150956186
-OnePlus 5: PM1574150782330
-OnePlus 5T: PM1574150644071
-OnePlus 6: PM1574150497163
-OnePlus 6T: PM1574150307705
-OnePlus 7: PM1574150159914
-OnePlus 7 Pro: PM1574150022928
-OnePlus 7T: PM1574149610192
-OnePlus 7T Pro: PM1574149493992
-OnePlus 8: PM1586920411543
-OnePlus 8 Pro: PM1587182821068
-OnePlus X: PM1574151685643
+- code: PM1587182821068
+  image: https://oneplusgsp.s3.cn-north-1.amazonaws.com.cn/uploadFiles/6c83652cbde94f4c936638287d97d5e0.png
+  name: OnePlus 8 Pro
+  product: ''
+  region: ''
+- code: PM1586920411543
+  image: https://oneplusgsp.s3.cn-north-1.amazonaws.com.cn/uploadFiles/0b1fd69126d5474fa328f3524bce4f92.png
+  name: OnePlus 8
+  product: ''
+  region: ''
+- code: PM1574149493992
+  image: https://image01.oneplus.cn/shop/201910/24/377/9db9f819e394216fb41595cfe3341abf.png
+  name: OnePlus 7T Pro
+  product: ''
+  region: ''
+- code: PM1574149610192
+  image: https://image01.oneplus.cn/shop/201910/24/398/112ea6a93118a8ca54a3dda59e642db9.png
+  name: OnePlus 7T
+  product: ''
+  region: ''
+- code: PM1574150022928
+  image: https://image01.oneplus.cn/shop/201905/21/212/20149587e60abf5b90d0d4239a86a218.png
+  name: OnePlus 7 Pro
+  product: ''
+  region: ''
+- code: PM1574150159914
+  image: https://image01.oneplus.cn/shop/201905/21/1044/5a04c8bc1fee475d58a6a1272374b052.png
+  name: OnePlus 7
+  product: ''
+  region: ''
+- code: PM1574150307705
+  image: https://image01.oneplus.cn/shop/201810/31/1372/6aece3c38cce75037fe7282cee3f6f85.png
+  name: OnePlus 6T
+  product: ''
+  region: ''
+- code: PM1574150497163
+  image: https://image01.oneplus.cn/shop/201805/23/736/58d001f5452a2133017ff780ef57946f.jpg
+  name: OnePlus 6
+  product: ''
+  region: ''
+- code: PM1574150644071
+  image: https://image01.oneplus.cn/ebp/201712/04/113/ead1f2fb3eb8f2a9bca71c8ff52fe798.png
+  name: OnePlus 5T
+  product: ''
+  region: ''
+- code: PM1574150782330
+  image: https://image01.oneplus.cn/ebp/201706/22/506/b5aa0d370b3e0be2feb9bba97357ebb3.jpg
+  name: OnePlus 5
+  product: ''
+  region: ''
+- code: PM1574150956186
+  image: https://image01.oneplus.cn/shop/goods/phone3t_h2os.png
+  name: OnePlus 3T
+  product: ''
+  region: ''
+- code: PM1574151108358
+  image: https://statics.oneplus.cn/v2/img/h2os/download/phone3.png
+  name: OnePlus 3
+  product: ''
+  region: ''
+- code: PM1574151540653
+  image: https://statics.oneplus.cn/v2/img/h2os/download/phone2.png
+  name: OnePlus 2
+  product: ''
+  region: ''
+- code: PM1574151685643
+  image: https://statics.oneplus.cn/v2/img/h2os/download/phonex.png
+  name: OnePlus X
+  product: ''
+  region: ''
+- code: PM1574151913646
+  image: https://statics.oneplus.cn/v2/img/h2os/download/phone1.png
+  name: OnePlus 1
+  product: ''
+  region: ''

@@ -812,6 +812,41 @@
   region: EEA
   size: 2.7 GB
   version: OnePlus7TOxygen_14.E.13_GLO_013_2005192147
+- branch: Stable
+  changelog: 'OnePlus 7T OxygenOS 10.3.3
+
+
+    System
+
+    * OnePlus Bullets Wireless Z can now be integrated with Dolby Atmos for better
+    sound quality
+
+    * Optimized the volume adjustment to improve user experience
+
+    * Improved the battery life user experience
+
+    * Improved system stability and fixed general issues
+
+    * Updated Android security patch to 2020.05
+
+
+    Camera
+
+    * Supported the slow-motion recording at 720p at 960fps
+
+    * Added lens stain detection
+
+
+    Phone
+
+    * Newly added Epic Games in Game Space'
+  date: '2020-05-19'
+  device: OnePlus 7T
+  link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.I.13_GLO_013_2005192145/OnePlus7TOxygen_14.I.13_OTA_013_all_2005192145_247d0ea6e3f7a9c.zip
+  md5: d3821665aa5352e39644f88061197bac
+  region: India
+  size: 2.4 GB
+  version: OnePlus7TOxygen_14.I.13_GLO_013_2005192145
 - branch: Beta
   changelog: "HydrogenOS: OP7Pro_H₂_BETA_13\nSystem\n• Added WeChat QR code in shelf\
     \ \n• Fix the problem that some software voice input cannot be recognized \n•\
@@ -945,6 +980,93 @@
   region: China
   size: 3.2 GB
   version: OnePlus7Hydrogen_14.H.26_026_2005131921
+- branch: Stable
+  changelog: 'OnePlus 5T OxygenOS 10.0.0
+
+
+    System
+
+    * Upgraded to Android 10
+
+    * Brand new UI design
+
+    * Enhanced location permissions for privacy
+
+    * New customization feature in the Settings allowing you to choose icon shapes
+    to be displayed in the Quick Settings
+
+
+    Game Space
+
+    * New Game Space feature now add all of your favorite games in one place for easier
+    access and better gaming experience
+
+
+    Message
+
+    * Now possible to block spam by keywords for Message (Messages - Spam - Settings
+    - Blocking settings)
+
+
+    Full screen gestures
+
+    * Removed back gesture from the bottom of the screen
+
+    * Added back gesture on left and right side of the phone
+
+    * Added a bottom navigation bar to allow switching left or right for recent apps
+
+
+    Camera
+
+    * Electronic image stabilization currently under optimization and will be pushed
+    in later stable versions. Please stay tuned'
+  date: '2020-05-13'
+  device: OnePlus 5T
+  link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5TOxygen/OnePlus5TOxygen_43.J.67_GLO_067_2005130057/OnePlus5TOxygen_43_OTA_067_all_2005130057_6b923fb89f.zip
+  md5: fa408a5bdf39ba2c0e6bcae02c6c7666
+  region: Global
+  size: 2.0 GB
+  version: OnePlus5TOxygen_43.J.67_GLO_067_2005130057
+- branch: Stable
+  changelog: 'OnePlus 5 OxygenOS 10.0.0
+
+
+    System
+
+    * Upgraded to Android 10
+
+    * Brand new UI design
+
+    * Enhanced location permissions for privacy
+
+    * New customization feature in the Settings allowing you to choose icon shapes
+    to be displayed in the Quick Settings
+
+
+    Game Space
+
+    * New Game Space feature now add all of your favorite games in one place for easier
+    access and better gaming experience
+
+
+    Message
+
+    * Now possible to block spam by keywords for Message (Messages - Spam - Settings
+    - Blocking settings)
+
+
+    Camera
+
+    * Electronic image stabilization currently under optimization and will be pushed
+    in later stable versions. Please stay tuned'
+  date: '2020-05-13'
+  device: OnePlus 5
+  link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5Oxygen/OnePlus5Oxygen_23.J.67_GLO_067_2005130007/OnePlus5Oxygen_23_OTA_067_all_2005130007_4e90d4036.zip
+  md5: 3728acf8f477795fe31afe60bd1ce047
+  region: Global
+  size: 2.0 GB
+  version: OnePlus5Oxygen_23.J.67_GLO_067_2005130007
 - branch: Beta
   changelog: "OxygenOS: OP7_O₂_BETA_14\nSystem\n• Fix the problem that some software\
     \ voice input cannot be recognized \n• Fix the problem of the disappearance of\
@@ -1041,6 +1163,66 @@
   region: EEA
   size: 2.8 GB
   version: OnePlus7TOxygen_13.W.04_GLO_004_2005122222
+- branch: Beta
+  changelog: 'OnePlus 7T Open Beta_4
+
+
+    System
+
+    * Fix the problem that some software voice input cannot be recognized
+
+    * Fix the problem of the disappearance of contacts in the address book on some
+    devices
+
+    * More clock style options now available in ambient display (Settings—Customization—Clock
+    style)
+
+    * Improved system stability and fixed general issues
+
+    * Updated Android Security Patch to 2020.05
+
+
+    Phone
+
+    * Now you can view call recording in call history (Move to the call history, click
+    the three-dot menu on the upper right to access the call recording)'
+  date: '2020-05-12'
+  device: OnePlus 7T
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.04_OTA_004_all_2005122222_98bbb184acb64f8c.zip
+  md5: bdd425d227116bfc8d9a192c33ac01ed
+  region: EEA
+  size: 2.9 GB
+  version: OnePlus7TOxygen_13.W.04_GLO_004_2005122222
+- branch: Beta
+  changelog: 'OnePlus 7T Pro Open Beta_4
+
+
+    System
+
+    * Fix the problem that some software voice input cannot be recognized
+
+    * Fix the problem of the disappearance of contacts in the address book on some
+    devices
+
+    * More clock style options now available in ambient display (Settings—Customization—Clock
+    style)
+
+    * Improved system stability and fixed general issues
+
+    * Updated Android Security Patch to 2020.05
+
+
+    Phone
+
+    * Now you can view call recording in call history (Move to the call history, click
+    the three-dot menu on the upper right to access the call recording)'
+  date: '2020-05-12'
+  device: OnePlus 7T Pro
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_13.W.04_OTA_004_all_2005122234_6745923811404a93.zip
+  md5: 7a7f184deaf7a8d9ca49b32891756eaf
+  region: EEA
+  size: 3.0 GB
+  version: OnePlus7TProOxygen_13.W.04_GLO_004_2005122234
 - branch: Stable
   changelog: 'OnePlus 7 Pro 5G Oxygen OS 10.0.6.GM27BA
 
@@ -1060,6 +1242,270 @@
   region: EEA
   size: 2.2 GB
   version: OnePlus7ProNROxygen_21.E.22_GLO_022_2005102327
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 10.5.8.IN11BA
+
+    System
+
+    • Optimized touch and interaction experience
+
+    • Improved power consumption performance of the system
+
+    • Improved the video playing effect when in low brightness
+
+    • Improved system stability and fixed general issues
+
+    • Updated Android Security Patch to 2020.04
+
+    Bluetooth
+
+    • Improved stability and compatibility of Bluetooth connection
+
+    Camera
+
+    • Optimized the HDR video effect
+
+    • Improved the shooting experience with Camera and improved stability
+
+    Network
+
+    • Enable 5G for Telia Norway
+
+    • Improved the performance and stability of Wi-Fi transfer
+
+    • Improved the stability of communication
+
+    • Optimized network latency for online games and improved the smoothness'
+  date: '2020-05-10'
+  device: OnePlus 8 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.E.17_GLO_017_2005100255/OnePlus8ProOxygen_15.E.17_OTA_017_all_2005100255_3f3e1afc578.zip
+  md5: fabc716bf5ac4d76a9872485686006ed
+  region: EEA
+  size: 2.5 GB
+  version: OnePlus8ProOxygen_15.E.17_GLO_017_2005100255
+- branch: Stable
+  changelog: 'OnePlus 8 Oxygen OS 10.5.6.IN21BA
+
+    System
+
+    • Optimized touch and interaction experience
+
+    • Improved power consumption performance of the system
+
+    • Improved system stability and fixed general issues
+
+    • Updated Android Security Patch to 2020.04
+
+    Bluetooth
+
+    • Improved stability and compatibility of Bluetooth connection
+
+    Camera
+
+    • Improved the shooting experience with Camera and improved stability
+
+    Network
+
+    • Enable 5G for Telia Norway
+
+    • Improved the performance and stability of Wi-Fi transfer
+
+    • Improved the stability of communication
+
+    • Optimized network latency for online games and improved the smoothness'
+  date: '2020-05-09'
+  device: OnePlus 8
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.E.15_GLO_015_2005090045/OnePlus8Oxygen_15.E.15_OTA_015_all_2005090045_fb4060c0e02a2dc.zip
+  md5: bfcb08b766e87e50c435cdc6bd4d226c
+  region: EEA
+  size: 2.4 GB
+  version: OnePlus8Oxygen_15.E.15_GLO_015_2005090045
+- branch: Stable
+  changelog: 'OnePlus 8 OxygenOS 10.5.7
+
+
+    System
+
+    * Optimized touch and interaction experience
+
+    * Improved power consumption performance of the system
+
+    * Improved system stability and fixed general issues
+
+    * Updated Android Security Patch to 2020.04
+
+
+    Bluetooth
+
+    * Improved stability and compatibility of Bluetooth connection
+
+
+    Camera
+
+    * Improved the shooting experience with Camera and improved stability
+
+
+    Network
+
+    * Improved the performance and stability of Wi-Fi transfer
+
+    * Improved the stability of communication
+
+    * Optimized network latency for online games and improved the smoothness'
+  date: '2020-05-09'
+  device: OnePlus 8
+  link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.O.16_GLO_016_2005090054/OnePlus8Oxygen_15.O.16_OTA_016_all_2005090054_45aabc798d.zip
+  md5: 9911a23d9e7ddfe447d849a95679ac65
+  region: Global
+  size: 2.4 GB
+  version: OnePlus8Oxygen_15.O.16_GLO_016_2005090054
+- branch: Stable
+  changelog: 'System
+
+    • Fixed known issues and improved system stability Camera
+
+    • Refined the dirt detection capability to be more accurate than ever
+
+    • Improved the camera''s shooting experience with the front camera
+
+    • Improved the stability Network
+
+    • Communication stability further enhanced'
+  date: '2020-05-06'
+  device: OnePlus 8 Pro
+  link: https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.I.15_OTA_015_all_2004262103_565e155dabd043eb.zip
+  md5: c82af240d792d3e28b64daeb9f5aceea
+  region: India
+  size: 2.46 GB
+  version: OnePlus8ProOxygen_15.I.15_015_2004262103
+- branch: Stable
+  changelog: 'System
+
+    • Fixed known issues and improved system stability Camera
+
+    • Refined the dirt detection capability to be more accurate than ever
+
+    • Improved the camera''s shooting experience with the front camera
+
+    • Improved the stability'
+  date: '2020-05-06'
+  device: OnePlus 8
+  link: https://oxygenos.oneplus.net/OnePlus8Oxygen_15.I.14_OTA_014_all_2004262121_0ce51761a636494d.zip
+  md5: 7492274a86f12b851dd7569d643244e4
+  region: India
+  size: 2.40 GB
+  version: OnePlus8Oxygen_15.I.14_014_2004262121
+- branch: Stable
+  changelog: 'System
+
+    • Fixed known issues and improved system stability Camera
+
+    • Refined the dirt detection capability to be more accurate than ever
+
+    • Improved the camera''s shooting experience with the front camera
+
+    • Improved the stability Network
+
+    • Communication stability further enhanced'
+  date: '2020-05-06'
+  device: OnePlus 8 Pro
+  link: https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.E.15_OTA_015_all_2004262102_26441cb23a134687.zip
+  md5: 5a731c07ef417750b8ed909fac23bd5a
+  region: Europe
+  size: 2.28 GB
+  version: OnePlus8ProOxygen_15.E.15_015_2004262102
+- branch: Stable
+  changelog: 'System
+
+    • Fixed known issues and improved system stability Camera
+
+    • Refined the dirt detection capability to be more accurate than ever
+
+    • Improved the camera''s shooting experience with the front camera
+
+    • Improved the stability'
+  date: '2020-05-06'
+  device: OnePlus 8
+  link: https://oxygenos.oneplus.net/OnePlus8Oxygen_15.E.13_OTA_013_all_2004262108_315bd55a640043af.zip
+  md5: de062fecdf63da5be10d54ea6bec28f8
+  region: Europe
+  size: 2.22 GB
+  version: OnePlus8Oxygen_15.E.13_013_2004262108
+- branch: Stable
+  changelog: 'System
+
+    • Fixed known issues and improved system stability Camera
+
+    • Refined the dirt detection capability to be more accurate than ever
+
+    • Improved the camera''s shooting experience with the front camera
+
+    • Improved the stability'
+  date: '2020-05-06'
+  device: OnePlus 8
+  link: https://oxygenos.oneplus.net/OnePlus8Oxygen_15.O.14_OTA_014_all_2004262110_887b8dae11a34c23.zip
+  md5: a9749c227fb4c82e91e350b8657136f8
+  region: Global
+  size: 2.23 GB
+  version: OnePlus8Oxygen_15.O.14_014_2004262110
+- branch: Stable
+  changelog: "OnePlus 6 Oxygen OS 10.3.4\nSystem\n• Updated launcher version to 4.1.6\
+    \ \n• Updated Android Security Patch to 2020.05\n• Improved system stability and\
+    \ fixed general bugs\nPhone\n• Fixed the issue with default country in assisted\
+    \ dialling when Sim 2 is in roaming state\n• Newly added Work-Life Balance to\
+    \ help prioritize notifications and allocate time wisely（India only）\n• Newly\
+    \ added Epic Games in Game Space（India only）"
+  date: '2020-05-05'
+  device: OnePlus 6
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.46_GLO_046_2005052115/OnePlus6Oxygen_22_OTA_046_all_2005052115_6e039e5c69dfe0b.zip
+  md5: dfc69f7b522e9a537d22b930b2d25a21
+  region: Global
+  size: 1.9 GB
+  version: OnePlus6Oxygen_22.J.46_GLO_046_2005052115
+- branch: Stable
+  changelog: "OnePlus 6T Oxygen OS 10.3.4\nSystem\n• Updated launcher version to 4.1.6\
+    \ \n• Updated Android Security Patch to 2020.05\n• Improved system stability and\
+    \ fixed general bugs\nPhone\n• Fixed the issue with default country in assisted\
+    \ dialling when Sim 2 is in roaming state\n• Newly added Work-Life Balance to\
+    \ help prioritize notifications and allocate time wisely（India only）\n• Newly\
+    \ added Epic Games in Game Space（India only）"
+  date: '2020-05-05'
+  device: OnePlus 6T
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.46_GLO_046_2005052113/OnePlus6TOxygen_34_OTA_046_all_2005052113_26a111bd1040285.zip
+  md5: 05763809c88d844bee34a8d767e7021e
+  region: Global
+  size: 2.0 GB
+  version: OnePlus6TOxygen_34.J.46_GLO_046_2005052113
+- branch: Stable
+  changelog: 'OnePlus 8 Pro OxygenOS 10.5.6
+
+
+    As OnePlus has pulled both 10.5.8 and 10.5.9 from their servers, therefore making
+    them unable to download, we''re now linking back to 10.5.6.
+
+
+    System
+
+    * Fixed known issues and improved system stability
+
+    Camera
+
+    * Refined the dirt detection capability to be more accurate than ever
+
+    * Improved the camera''s shooting experience with the front camera
+
+    * Improved the stability
+
+    Network
+
+    * Communication stability further enhanced (NA only)'
+  date: '2020-04-26'
+  device: OnePlus 8 Pro
+  link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.O.15_GLO_015_2004262112/OnePlus8ProOxygen_15.O.15_OTA_015_all_2004262112_48b2e11.zip
+  md5: 256c31492bceda33c8fe600b1cae5101
+  region: Global
+  size: 2.4 GB
+  version: OnePlus8ProOxygen_15.O.15_GLO_015_2004262112
 - branch: Stable
   changelog: 'OnePlus 6T Hydrogen OS 10.0.4
 
@@ -1126,6 +1572,64 @@
   region: Global
   size: 2.0 GB
   version: OnePlus6TOxygen_34.J.45_GLO_045_2004142152
+- branch: Beta
+  changelog: '系统
+
+    • 修复保险柜无法解锁的问题
+
+    • 修复应用全屏时会出现一加桌面停止运行的问题
+
+    • 修复多任务切换界面清理锁定程序出现白屏的问题
+
+    • 更新Android安全补丁至 2020.03'
+  date: '2020-04-08'
+  device: OnePlus 6T
+  link: http://download.h2os.com/OnePlus6T/OPEN/OnePlus6THydrogen_41_OTA_065_all_2004012153_e3f97d69d2a64f69.zip
+  md5: d40acfdfda14325a829688b709013385
+  region: China
+  size: 2.47GB
+  version: 第6版（Android10.0）
+- branch: Beta
+  changelog: '系统
+
+    •修复保险柜无法解锁的问题
+
+    •修复应用全屏时会出现一加桌面停止运行的问题
+
+    •修复多任务切换界面清理锁定程序出现白屏的问题
+
+    •更新Android安全补丁至 2020.03'
+  date: '2020-04-08'
+  device: OnePlus 6
+  link: http://download.h2os.com/OnePlus6/OPEN/OnePlus6Hydrogen_22_OTA_065_all_2004012102_98b5c6c8589049b7.zip
+  md5: 413200132a6cd693046ad62f192cecb7
+  region: China
+  size: 2.40 GB
+  version: OnePlus6Hydrogen_22.W.65_065_1907162300
+- branch: Beta
+  changelog: "OnePlus 6 Open Beta_6\n\n System\n* Now unlock the LockBox without any\
+    \ problems in File Manager\n* No more crashes in the Launcher with apps in full-screen\
+    \ display\n* Got rid of blank screens while clearing up the background apps\n\
+    * Updated Android security patch to 2020.03"
+  date: '2020-04-01'
+  device: OnePlus 6
+  link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.Y.65_GLO_065_2004012100/OnePlus6Oxygen_22_OTA_065_all_2004012100_8b55d3.zip
+  md5: 0b112e09927ba17f5b8a6fb207abf875
+  region: Global
+  size: 1.9 GB
+  version: OnePlus6Oxygen_22.Y.65_GLO_065_2004012100
+- branch: Beta
+  changelog: "OnePlus 6T Open Beta_6\n\n System\n* Now unlock the LockBox without\
+    \ any problems in File Manager\n* No more crashes in the Launcher with apps in\
+    \ full-screen display\n* Got rid of blank screens while clearing up the background\
+    \ apps\n* Updated Android security patch to 2020.03"
+  date: '2020-04-01'
+  device: OnePlus 6T
+  link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_41.Y.65_GLO_065_2004012104/OnePlus6TOxygen_41_OTA_065_all_2004012104_99c690dbd1189a1.zip
+  md5: dbd4b426dfa9ff74f10f86cdb36d95eb
+  region: Global
+  size: 2.0 GB
+  version: OnePlus6TOxygen_41.Y.65_GLO_065_2004012104
 - branch: Stable
   changelog: "OnePlus 7T Oxygen OS 10.3.2.HD65AA\nSystem\n• Optimized the Ram management\
     \ \n• Improved system stability and fixed known issues\n• Updated Android Security\
@@ -1139,6 +1643,214 @@
   region: India
   size: 2.4 GB
   version: OnePlus7TOxygen_14.I.11_GLO_011_2003271951
+- branch: Stable
+  changelog: '系统
+
+    • 更新
+
+    Android
+
+    安全补丁至
+
+    2019.12
+
+    • 提升系统稳定性并修复已知问题'
+  date: '2020-03-27'
+  device: OnePlus 3T
+  link: http://download.h2os.com/OnePlus%203T/MP/OnePlus3THydrogen_28_OTA_083_all_2002201900_bf0fc8385b5547c0.zip
+  md5: 6e4f3bc765838b0d01c085247fffa973
+  region: China
+  size: 1.82GB
+  version: 第二版
+- branch: Stable
+  changelog: '系统
+
+    • 更新Android安全补丁至2019.12
+
+    • 提升系统稳定性并修复已知问题'
+  date: '2020-03-27'
+  device: OnePlus 3
+  link: http://download.h2os.com/oneplus3/MP/OnePlus3Hydrogen_16_OTA_083_all_2002201900_abc8cfd625b5477b.zip
+  md5: 276dee6f8c5a429da57e7f6aa95e3794
+  region: China
+  size: 1.82GB
+  version: 第二版
+- branch: Beta
+  changelog: 'System
+
+    • Fixed and removed white bar below the keyboard
+
+    •Fixed the issue with app crashes during installing and updating
+
+    • Improved system stability and fixed general bugs
+
+    • UpdatedAndroidsecuritypatchto2020.02 Network
+
+    • Integrated the VoWifi registration for the Jio Sim Phone
+
+    • Optimized the one-handed mode experience in the Phone app
+
+    • Fixed the issue with the duplication of contacts Zen Mode V1.5.0
+
+    • Improved OnePlus Account login for synchronization of badges and user''s data
+    Work-Life Balance
+
+    • Optimized message notification
+
+    •Optimized the mode and app selection
+
+    • Added location, calendar, auto-track feature Message
+
+    • Fixed issue with message categorization
+
+    • Fixed issue with transaction messages showing wrong entity values'
+  date: '2020-02-28'
+  device: OnePlus 6
+  link: https://oxygenos.oneplus.net/OnePlus6Oxygen_22_OTA_064_all_2002191414_0199520b61064b5c.zip
+  md5: c43cc13372cfc7b042984a651b4b6bfc
+  region: India
+  size: 1.75 GB
+  version: OnePlus6Oxygen_22.Y.64_GLO_064_2004012100
+- branch: Beta
+  changelog: 'System
+
+    • Fixed and removed white bar below the keyboard
+
+    •Fixed the issue with app crashes during installing and updating
+
+    • Improved system stability and fixed general bugs
+
+    • UpdatedAndroidsecuritypatchto2020.02 Network
+
+    • Integrated the VoWifi registration for the Jio Sim Phone
+
+    • Optimized the one-handed mode experience in the Phone app
+
+    • Fixed the issue with the duplication of contacts Zen Mode V1.5.0
+
+    • Improved OnePlus Account login for synchronization of badges and user''s data
+    Work-Life Balance
+
+    • Optimized message notification
+
+    •Optimized the mode and app selection
+
+    • Added location, calendar, auto-track feature Message
+
+    • Fixed issue with message categorization
+
+    • Fixed issue with transaction messages showing wrong entity values'
+  date: '2020-02-28'
+  device: OnePlus 6T
+  link: https://oxygenos.oneplus.net/OnePlus6TOxygen_41_OTA_064_all_2002191415_7bc878840a7646d5.zip
+  md5: 8031c081f2efb4102432cf71a357a942
+  region: India
+  size: 1.85 GB
+  version: OnePlus6TOxygen_41.Y.64_GLO_064_2004012104
+- branch: Stable
+  changelog: 'System
+
+    •Optimized the RAM management
+
+    •Improved black/blank screen issues with some apps
+
+    •Added the feature to support reminders for privacy alerts
+
+    •Improved system stability and fixed general bugs
+
+    •Updated Android security patch to 2019.12
+
+    Network
+
+    • Integrated the VoWifi registration for the Jio Sim Cloud Service
+
+    •Supported synchronization with Notes and Contacts
+
+    Work-Life Balance
+
+    • Optimized message notification
+
+    • Optimized the mode and app selection
+
+    • Added location, calendar, auto-track feature'
+  date: '2020-02-26'
+  device: OnePlus 7
+  link: https://oxygenos.oneplus.net/OnePlus7Oxygen_14.P.25_OTA_025_all_2002022317_b1fa92eec39141ed.zip
+  md5: 8232934ff8010de93db4c45956704516
+  region: India
+  size: 2.04GB
+  version: OnePlus7Oxygen_14.P.25_025_2002022317
+- branch: Stable
+  changelog: 'System
+
+    •Optimized the RAM management
+
+    •Improved black/blank screen issues with some apps
+
+    •Added the feature to support reminders for privacy alerts
+
+    •Improved system stability and fixed general bugs
+
+    •Updated Android security patch to 2019.12
+
+    Network
+
+    • Integrated the VoWifi registration for the Jio Sim Cloud Service
+
+    •Supported synchronization with Notes and Contacts
+
+    Work-Life Balance
+
+    • Optimized message notification
+
+    • Optimized the mode and app selection
+
+    • Added location, calendar, auto-track feature'
+  date: '2020-02-26'
+  device: OnePlus 7Pro
+  link: https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.P.25_OTA_025_all_2002022314_0d76bbbd819c4e99.zip
+  md5: ee937fab0ed9fb67006d6350eb695472
+  region: India
+  size: 2.06GB
+  version: OnePlus7ProOxygen_21.P.25_025_2002022314
+- branch: Stable
+  changelog: 'System
+
+    •Optimized the RAM management
+
+    •Improved black/blank screen issues with some apps
+
+    •Added the feature to support reminders for privacy alerts
+
+    •Improved system stability and fixed general bugs
+
+    •Updated Android security patch to 2019.12'
+  date: '2020-02-26'
+  device: OnePlus 7Pro
+  link: https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.E.24_OTA_024_all_2002022314_12cfa8192fee4cf5.zip
+  md5: 27f5115c96036a1636070aeb776de822
+  region: Europe
+  size: 2.01GB
+  version: OnePlus7ProOxygen_21.E.24_024_2002022314
+- branch: Stable
+  changelog: 'System
+
+    •Optimized the RAM management
+
+    •Improved black/blank screen issues with some apps
+
+    •Added the feature to support reminders for privacy alerts
+
+    •Improved system stability and fixed general bugs
+
+    •Updated Android security patch to 2019.12'
+  date: '2020-02-26'
+  device: OnePlus 7
+  link: https://oxygenos.oneplus.net/OnePlus7Oxygen_14.E.24_OTA_024_all_2002022317_d5a80338a38b44de.zip
+  md5: e4e78bb895325f34587c4bbae4a4f543
+  region: Europe
+  size: 1.99GB
+  version: OnePlus7Oxygen_14.E.24_024_2002022317
 - branch: Stable
   changelog: "OnePlus 5 Oxygen OS 9.0.11 \nSystem\n• Updated Android security patch\
     \ to 2020.02\n• Improved system stability and fixed general bugs"
@@ -1194,3 +1906,716 @@
   region: China
   size: 2.3 GB
   version: OnePlus5THydrogen_43.K.48_048_2002171231
+- branch: Stable
+  changelog: 'System
+
+    •Improved the launching speed of some apps
+
+    • Optimized the RAM Management
+
+    •Optimized the black lines onthe screen while charging device
+
+    • Optimized the black and white screen issues with some apps
+
+    • Improved system stability and general bug fixes
+
+    •Updated Android security patch to 2019.11
+
+    Camera
+
+    • Improved the photoquality Red Cable Club
+
+    • AddedRed Cable Club membership page with functions such as"link mobile phone"and
+    jackpot'
+  date: '2020-02-15'
+  device: OnePlus 7T Pro
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_14.I.11_OTA_011_all_1912060100_cb4b1315f7c1463e.zip
+  md5: 15086147b4b01e558a637f59f40ba051
+  region: India
+  size: 2.24GB
+  version: OnePlus7TProOxygen_14.I.11_011_1912060100
+- branch: Stable
+  changelog: 'System
+
+    •Improved the launching speed of some apps
+
+    • Optimized the RAMManagement
+
+    • Optimized the black and white screen issues with some apps
+
+    • Improved system stability and general bug fixes
+
+    •Updated Android security patch to 2019.11
+
+    Camera
+
+    • Improved the photoquality Red Cable Club
+
+    •AddedRed Cable Club membership page with functions such as"link mobile phone"and
+    jackpot'
+  date: '2020-02-15'
+  device: OnePlus 7T
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.I.09_OTA_009_all_1912060105_c0d992676d6b4e5b.zip
+  md5: d2f9e594d720f5aae218d4d759c923f3
+  region: India
+  size: 2.21G
+  version: OnePlus7TOxygen_14.I.09_009_1912060105
+- branch: Stable
+  changelog: 'System
+
+    •Improved the launching speed of some apps
+
+    • Optimized the RAM Management
+
+    •Optimized the black lines onthe screen while charging device
+
+    • Optimized the black and white screen issues with some apps
+
+    • Improved system stability and general bug fixes
+
+    •Updated Android security patch to 2019.11
+
+    Camera
+
+    • Improved the photoquality'
+  date: '2020-02-15'
+  device: OnePlus 7T Pro
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_14.O.11_OTA_011_all_1912060100_18c62cb61ee448cf.zip
+  md5: 8b48c970fa9d284231c295b61047bd0a
+  region: Global
+  size: 2.60GB
+  version: OnePlus7TProOxygen_14.O.11_011_1912060100
+- branch: Stable
+  changelog: 'System
+
+    •Improved the launching speed of some apps
+
+    • Optimized the RAM Management
+
+    • Optimized the black and white screen issues with some apps
+
+    • Improved system stability and general bug fixes
+
+    •Updated Android security patch to 2019.11
+
+    Camera
+
+    • Improved the photoquality'
+  date: '2020-02-15'
+  device: OnePlus 7T
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.O.09_OTA_009_all_1912060105_34e9053369f9448e.zip
+  md5: e0fce4de3a99c217e4555bb3ab97a1ec
+  region: Global
+  size: 2.54 GB
+  version: OnePlus7TOxygen_14.O.09_009_1912060105
+- branch: Stable
+  changelog: 'System
+
+    •Improved the launching speed of some apps
+
+    • Optimized the RAM Management
+
+    •Optimized the black lines onthe screen while charging device
+
+    • Optimized the black and white screen issues with some apps
+
+    • Improved system stability and general bug fixes
+
+    •Updated Android security patch to 2019.11
+
+    Camera
+
+    • Improved the photoquality'
+  date: '2020-02-15'
+  device: OnePlus 7T Pro
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_14.E.11_OTA_011_all_1912060058_9f74ffa647cf4557.zip
+  md5: 6ee29bd7684f6448e49210c8af48cab8
+  region: Europe
+  size: 2.60GB
+  version: OnePlus7TProOxygen_14.E.11_011_1912060058
+- branch: Stable
+  changelog: 'System
+
+    •Improved the launching speed of some apps
+
+    • Optimized the RAM Management
+
+    • Optimized the black and white screen issues with some apps
+
+    • Improved system stability and general bug fixes
+
+    •Updated Android security patch to 2019.11
+
+    Camera
+
+    • Improved the photoquality'
+  date: '2020-02-15'
+  device: OnePlus 7T
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.E.09_OTA_009_all_1912060104_4c39aa3d31864234.zip
+  md5: 66bf0f6271ab17b4c2577010f6706483
+  region: Europe
+  size: 2.54GB
+  version: OnePlus7TOxygen_14.E.09_009_1912060104
+- branch: Beta
+  changelog: 'OxygenOS 2.1.4
+
+    This is the final official version of OxygenOS for the OnePlus One. Lollipop edition
+    of OxygenOS for OPO
+
+    • Try Dark Mode to give your device a touch of elegance, or choose the accent
+    color that suits your mood.
+
+    • Custom icon packs are also supported.
+
+    • With our App Permissions feature, you are in control over what information each
+    app has access to.
+
+    • Finally, double tap to wake and all the other gestures you know and love can
+    be toggled in the settings.'
+  date: '2020-01-16'
+  device: OnePlus 1
+  link: http://oxygenos.oneplus.net/OnePlus_Bacon_OxygenOS_201601190107.zip
+  md5: 6712ce16816c38c22250203205fa8652
+  region: Global
+  size: 767.6 MB
+  version: ONELOxygen_12.A.02_GLO_002_201601190107
+- branch: Beta
+  changelog: 'OS version: OxygenOS 3.1.4
+
+
+    What''s new in this update:
+
+    • Fixed launcher related crashes
+
+    • November google secure patch
+
+    • Auto-brightness optimization
+
+    • General bug fixes
+
+    • Increased system stability'
+  date: '2020-01-06'
+  device: OnePlus X
+  link: http://otafsc.h2os.com/patch/amazone2/GLO/OnePlusXOxygen/OnePlusXOxygen_14.A.19_GLO_019_201611071506/OnePlusXOxygen_14_OTA_019_all_201611071506_03f73e21449d4d31.zip
+  md5: 6933a61ba55c18a977117c71c972c94a
+  region: Global
+  size: 797.2 MB
+  version: OnePlusXOxygen_14.A.19_GLO_019_201611071506
+- branch: Stable
+  changelog: '新增
+
+    - 便签升级，优化多项功能。
+
+    - 日历增加日期跳转功能。
+
+    优化
+
+    - 优化闹钟延时的时间间隔和闹钟铃声长度。
+
+    - 优化提示音，
+
+    通话中再来一通电话，提示音比上个版本增强。
+
+    - 修复自带文件管理器
+
+    PPT
+
+    显示反向的问题。
+
+    - 修复天气应用低概率反复定位导致的耗电问题。
+
+    - 解决状态栏图标概率性丢失的问题。
+
+    - 解决超长卡片信息内容无法读取的问题。
+
+    - 解决部分环境下微信/QQ消息概率性延迟的问题。
+
+    - 解决部分场景下有未接来电通话图标不翻转的问题。'
+  date: '2019-11-18'
+  device: OnePlus X
+  link: http://download.h2os.com/oneplus_x/mp/OnePlusH2OS_14_OTA_010_all_201604191650_320ac892f8bc4145.zip
+  md5: 169ea065b6a40a3f943ae74e00a0c719
+  region: China
+  size: 974M
+  version: 第六版
+- branch: Stable
+  changelog: 'OnePlus 3T OxygenOS 9.0.6
+
+
+    System
+
+    *Updated Android security patch to 2019.10
+
+    *General bug fixes and improvements
+
+    *Updated GMS apps'
+  date: '2019-11-04'
+  device: OnePlus 3T
+  link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus3TOxygen/OnePlus3TOxygen_28.A.86_GLO_086_1911042121/OnePlus3TOxygen_28_OTA_086_all_1911042121_9156030ead54e.zip
+  md5: e4e46aa9eebffdd485071383dcda4218
+  region: Global
+  size: 1.6 GB
+  version: OnePlus3TOxygen_28.A.86_GLO_086_1911042121
+- branch: Stable
+  changelog: 'OnePlus 3 OxygenOS 9.0.6
+
+
+    System
+
+    * Updated Android security patch to 2019.10
+
+    * General bug fixes and improvements
+
+    * Updated GMS apps'
+  date: '2019-11-04'
+  device: OnePlus 3
+  link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus3Oxygen/OnePlus3Oxygen_16.A.86_GLO_086_1911042118/OnePlus3Oxygen_16_OTA_086_all_1911042118_42cbe31ee3a.zip
+  md5: 7c2a1e83ac1a83a3ceb287983496549b
+  region: Global
+  size: 1.6 GB
+  version: OnePlus3Oxygen_16.A.86_GLO_086_1911042118
+- branch: Beta
+  changelog: "HydrogenOS: OP6_H₂_BETA_26\nSystem\n• Support VoLTE for China Unicom\n\
+    • General bug fixes and stability improvements\nScreen Recorder\n• Hide floating\
+    \ widget while recording \n• More options added for resolution, fps and bit rate\n\
+    OnePlus Laboratory\n• Brand new UI design \n• Added DC dimming feature\nWeather\n\
+    • Added popular cities for search suggestions"
+  date: '2019-07-16'
+  device: OnePlus 6
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus6Hydrogen/OnePlus6Hydrogen_22.W.50_050_1907162300/OnePlus6Hydrogen_22_OTA_050_all_1907162300_a851ebfa7.zip
+  md5: c26518435d7a834bcf2fd54c2f76c3fa
+  region: China
+  size: 2.2 GB
+  version: OnePlus6Hydrogen_22.W.50_050_1907162300
+- branch: Beta
+  changelog: '系统
+
+    • 提升系统稳定性及修复已知问题
+
+    禅定模式
+
+    • 新增禅定模式功能，暂别手机 20 分钟，享受生活
+
+    天气
+
+    • 优化左右滑动效果
+
+    • 城市卡片可以自由调整顺序或删除（长按卡片 - 调整卡片顺序或删除卡片）
+
+    •优化使用体验，拒绝天气的定位权限后，可以手动添加城市，继续使用天气
+
+    电话
+
+    • 优化页面切换动效
+
+    • 优化联系人列表索引使用体验
+
+    • 优化拒接电话快捷短信回复功能并支持自定义回复'
+  date: '2019-06-27'
+  device: OnePlus 5T
+  link: http://download.h2os.com/5T/OPEN/OnePlus5THydrogen_43_OTA_054_all_1906241433_fb64e41048a44182.zip
+  md5: a6d0480a8ac0a79ebba2b98555807981
+  region: China
+  size: 2.10 GB
+  version: 第33版
+- branch: Beta
+  changelog: '系统
+
+    • 提升系统稳定性及修复已知问题
+
+    禅定模式
+
+    • 新增禅定模式功能，暂别手机 20 分钟，享受生活
+
+    天气
+
+    • 优化左右滑动效果
+
+    • 城市卡片可以自由调整顺序或删除（长按卡片 - 调整卡片顺序或删除卡片）
+
+    •优化使用体验，拒绝天气的定位权限后，可以手动添加城市，继续使用天气
+
+    电话
+
+    • 优化页面切换动效
+
+    • 优化联系人列表索引使用体验
+
+    • 优化拒接电话快捷短信回复功能并支持自定义回复'
+  date: '2019-06-27'
+  device: OnePlus 5
+  link: http://download.h2os.com/OnePlus5/OPEN/OnePlus5Hydrogen_23_OTA_054_all_1906241435_a7d827c332c14e09.zip
+  md5: 1308c7ede4ce904e48fafeb58401f9c7
+  region: China
+  size: 2.08 GB
+  version: 第34版
+- branch: Beta
+  changelog: 'OnePlus 5T Open Beta_33
+
+
+    System
+
+    * General bug fixes and improvements
+
+
+    Weather
+
+    * Improved scrolling experience for switching between pages
+
+    * Weather cards for multiple cities can now be rearranged or deleted by tapping
+    or holding on them
+
+    * Optimized user experience by allowing you to use this app while app permission
+    to access GPS location is disabled
+
+
+    Phone
+
+    * Better animation for switching between pages
+
+    * Improved experience with searching for contacts
+
+    * Optimized Quick Responses for declined calls and supported editing Quick Responses
+
+
+    Zen Mode
+
+    * Added Zen Mode helping you to keep away from the screen and to be back to life
+    for 20 minutes'
+  date: '2019-06-24'
+  device: OnePlus 5T
+  link: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5TOxygen/OnePlus5TOxygen_43.T.54_GLO_054_1906241434/OnePlus5TOxygen_43_OTA_054_all_1906241434_15cbb014579a206.zip
+  md5: b62ca2d674c944628376876ccd6cce89
+  region: Global
+  size: 2.0 GB
+  version: OnePlus5TOxygen_43.T.54_GLO_054_1906241434
+- branch: Beta
+  changelog: 'OnePlus 5 Open Beta_35
+
+
+    System
+
+    * General bug fixes and improvements
+
+
+    Weather
+
+    * Improved scrolling experience for switching between pages
+
+    * Weather cards for multiple cities can now be rearranged or deleted by tapping
+    or holding on them
+
+    * Optimized user experience by allowing you to use this app while app permission
+    to access GPS location is disabled
+
+
+    Phone
+
+    * Better animation for switching between pages
+
+    * Improved experience with searching for contacts
+
+    * Optimized Quick Responses for declined calls and supported editing Quick Responses
+
+
+    Zen Mode
+
+    * Added Zen Mode helping you to keep away from the screen and to be back to life
+    for 20 minutes'
+  date: '2019-06-24'
+  device: OnePlus 5
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5Oxygen/OnePlus5Oxygen_23.T.54_GLO_054_1906241442/OnePlus5Oxygen_23_OTA_054_all_1906241442_56ce41005.zip
+  md5: e4cfe12b8ac3cabc02cc28794ccc5d07
+  region: Global
+  size: 2.0 GB
+  version: OnePlus5Oxygen_23.T.54_GLO_054_1906241442
+- branch: Beta
+  changelog: 'OxygenOS: OP3T_O2_BETA_30
+
+    Launcher
+
+    \•
+
+    • Improved search tags in app drawer
+
+    • Added "New installs" category tag in app drawer
+
+    • Improved app list for hidden space and toolbox
+
+    \•\•
+
+    Camera
+
+    \•
+
+    • Optimized switching between front and rear camera
+
+    \•\•
+
+    Multimedia
+
+    \•
+
+    • Supported seeking through timeline for AAC audio files
+
+    \•\•
+
+    [www.oneplus.com]{http://www.oneplus.com/}'
+  date: '2018-07-04'
+  device: OnePlus 3T
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus3TOxygen/OnePlus3TOxygen_28.X.56_GLO_056_1807041932/OnePlus3TOxygen_28_OTA_056_all_1807041932_6934feb556f4.zip
+  md5: 39bf57dcf59e60351533a4f39265a5b7
+  region: Global
+  size: 1.7 GB
+  version: OnePlus3TOxygen_28.X.56_GLO_056_1807041932
+- branch: Beta
+  changelog: 'OxygenOS: OP3_O2_BETA_39
+
+    Launcher
+
+    \•
+
+    • Improved search tags in app drawer
+
+    • Added "New installs" category tag in app drawer
+
+    • Improved app list for hidden space and toolbox
+
+    \•\•
+
+    Camera
+
+    \•
+
+    • Optimized switching between front and rear camera
+
+    \•\•
+
+    Multimedia
+
+    \•
+
+    • Supported seeking through timeline for AAC audio files
+
+    \•\•
+
+    [www.oneplus.com]{http://www.oneplus.com/}'
+  date: '2018-07-04'
+  device: OnePlus 3
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus3Oxygen/OnePlus3Oxygen_16.X.56_GLO_056_1807041934/OnePlus3Oxygen_16_OTA_056_all_1807041934_d4bba8e.zip
+  md5: 9b1835bb4395a027af265ffbcd00491e
+  region: Global
+  size: 1.7 GB
+  version: OnePlus3Oxygen_16.X.56_GLO_056_1807041934
+- branch: Beta
+  changelog: '桌面
+
+    -优化抽屉搜索分类标签
+
+    -新增”最近安装“标签
+
+    -优化隐藏空间和工具箱的应用添加操作
+
+    相机
+
+    -优化录像预览时前后摄像头切换效果
+
+    多媒体
+
+    -支持AAC格式录音文件拖动'
+  date: '2018-06-28'
+  device: OnePlus 3T
+  link: http://download.h2os.com/OnePlus%203T/OPEN/OnePlus3THydrogen_28_OTA_056_all_1806211839_a3c679ec81b94a27.zip
+  md5: 82b741c6b30cc6606ef5c01af4d52259
+  region: China
+  size: 1.77G
+  version: Android 8.0第15版
+- branch: Beta
+  changelog: 桌面 -优化抽屉搜索分类标签 -新增”最近安装“标签 -优化隐藏空间和工具箱的应用添加操作 相机 -优化录像预览时前后摄像头切换效果 多媒体
+    -支持AAC格式录音文件拖动
+  date: '2018-06-28'
+  device: OnePlus 3
+  link: http://download.h2os.com/oneplus3/PublicTest/OnePlus3Hydrogen_16_OTA_056_all_1806211851_42dff0c55312402b.zip
+  md5: 957d4309145445382949a05fa35d6e04
+  region: China
+  size: 1.77G
+  version: Android 8.0 第15版
+- branch: Stable
+  changelog: "OxygenOS 3.6.1\n\n System:\n• Updated Android security patch level to\
+    \ October 2017\n• Fixed WPA2 security issue\n• General bug fixes and improvements"
+  date: '2017-10-24'
+  device: OnePlus 2
+  link: http://otafsc1.h2os.com/patch/amazone2/GLO/OnePlus2Oxygen/OnePlus2Oxygen_14.A.32_GLO_032_1710240102/OnePlus2Oxygen_14_OTA_032_all_1710240102_36c420b547.zip
+  md5: 031294228f1642e983c91042961dfce0
+  region: Global
+  size: 1.3 GB
+  version: OnePlus2Oxygen_14.A.32_GLO_032_1710240102
+- branch: Stable
+  changelog: '推荐指数：★★★
+
+    解决已知问题，提升稳定性。
+
+    优化
+
+    - 更新浏览器、商店等系统应用。
+
+    - 解决低概率来电重启的问题。
+
+    - 解决使用闪光灯拍照时功耗异常的问题。
+
+    - 解决其他已知问题，提升系统稳定性。'
+  date: '2017-08-23'
+  device: OnePlus 2
+  link: http://download.h2os.com/oneplus_2/mp/OnePlus2Hydrogen_14_OTA_022_all_1608171641_bfffc21a086c4849.zip
+  md5: 9669f58c18d14abd3da67c7953a101b8
+  region: China
+  size: 1.15G
+  version: 第十七版
+- branch: Beta
+  changelog: '新增
+
+    新增长截图功能，想截多长，就截多长。
+
+    云同步功能已上线，联系人、通话记录、短信都可以进行同步，换机更方便。
+
+    优化
+
+    优化GPS性能。
+
+    优化WIFI性能。
+
+    修复待机后指纹解锁失效问题。
+
+    修复2017年天气不显示的问题。
+
+    修复月底发大量短信校准流量的问题。'
+  date: '2016-12-31'
+  device: OnePlus 2
+  link: http://download.h2os.com/oneplus_2/PublicTest/OnePlus2Hydrogen_14_OTA_000_all_1612281850_10b3b62a678c4e2e.zip
+  md5: 07ad888cea3cc542773e012989508eb0
+  region: China
+  size: 1.14G
+  version: 氢OS2.5版
+- branch: Beta
+  changelog: '推荐指数：★★★
+
+    修复问题并提升稳定性，推荐更新。
+
+    新增
+
+    - 增加应用独立升级功能，部分系统应用可独立升级。
+
+    优化
+
+    - 优化电量使用情况的数据准确性。
+
+    - 修复低概率解锁、触屏无响应的问题。
+
+    - 修复其他已知问题，提升系统稳定性。'
+  date: '2016-09-29'
+  device: OnePlus X
+  link: http://download.h2os.com/oneplus_x/mp/OnePlusH2OS_14_OTA_001_all_201610291136_98e9299fced2483e.zip
+  md5: 0b7bbef803e2d009898b3c4fc508c2eb
+  region: China
+  size: 703M
+  version: 氢OS2.0版
+- branch: Stable
+  changelog: '注意事项：
+
+    1、请备份好所有数据，防止数据丢失。
+
+    2、刷了第三方recovery的，请务必先刷回官方recovery，防止成砖。
+
+    3. 已经刷了第三方系统的，务必刷回氢OS，才能进行升级。
+
+    系统
+
+    升级到Android 6.0，为你带来更流畅、稳定和安全的氢OS
+
+    经过改良的 Doze Mode 使手机更加省电
+
+    APP启动速度提高20%
+
+    修复一大波Bugs
+
+    氢视窗
+
+    增加了日历和便签两个卡片功能
+
+    支持对卡片排序自定义
+
+    桌面
+
+    支持图标批量管理，可以一键新建文件夹，图标跨屏/跨文件夹移动更加便捷
+
+    短信
+
+    未读短信的标记可以一键清除
+
+    验证码支持一键复制
+
+    垃圾短信拦截功能
+
+    通话
+
+    优化电话接通的等待时间
+
+    号码识别能力大幅提升
+
+    控制中心
+
+    增加编辑模式，可自主替换开关
+
+    增加护眼模式和WiFi热点开关
+
+    相机
+
+    更简洁干净的相机UI，让你更加专注摄影
+
+    相册
+
+    大幅度优化相册图片加载和滑动性能
+
+    增加网易LOFTCam滤镜
+
+    增加照片亮度/对比度/饱和度编辑
+
+    支持查看GIF图片
+
+    其他
+
+    优化便签、日历、天气、文件管理器、管理中心等系统应用'
+  date: '2016-08-26'
+  device: OnePlus 1
+  link: http://download.h2os.com/oneplus_one/opentest/third/H2OS1.zip
+  md5: 98d61bb8bdf6533f0d24bc7159fe1b8c
+  region: China
+  size: 645M
+  version: 氢OS2.0版
+- branch: Beta
+  changelog: '优化
+
+    - 优化语言显示问题
+
+    - 优化日历新建日程显示
+
+    - 优化天气分享到其他应用
+
+    - 优化时钟内
+
+    24
+
+    小时制表盘显示方式
+
+    - 修复横屏游戏下来电接听的问题
+
+    - 修复偶现管理中心停止运行的问题
+
+    - 修复蓝牙传输较大文件偶发中断的问题'
+  date: '2016-03-10'
+  device: OnePlus 1
+  link: http://download.h2os.com/oneplus_one/opentest/third/ONELH2OS_12_OTA_016_all_201603041137.zip
+  md5: 5f3bd04eafb78ed6712da499ea12bfcf
+  region: China
+  size: 753M
+  version: 公测第五版

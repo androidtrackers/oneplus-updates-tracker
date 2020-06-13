@@ -2,11 +2,10 @@
 from time import sleep
 from typing import List, Union
 
-from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
-from telegram.ext import Updater
-
 from op_tracker.common.database.database import get_incremental
 from op_tracker.common.database.models.update import Update
+from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram.ext import Updater
 
 
 class TelegramBot:
@@ -17,7 +16,7 @@ class TelegramBot:
     :attr:`chat` Telegram chat username or id
     """
 
-    def __init__(self, bot_token: str, chat: Union[int, str]):
+    def __init__(self, bot_token: str, chat: Union[int, str], source: str):
         """
         TelegramBot class constructor
         :param bot_token: Telegram Bot API access token
@@ -26,6 +25,7 @@ class TelegramBot:
         self.bot: Bot = Bot(token=bot_token)
         self.updater = Updater(bot=self.bot, use_context=True)
         self.chat = chat if isinstance(chat, int) else f"@{chat}"
+        self.source = source
 
     def post_updates(self, new_updates: List[Update]):
         """
@@ -37,24 +37,28 @@ class TelegramBot:
             message, button = self.generate_message(update)
             self.send_telegram_message(message, button)
 
-    @staticmethod
-    def generate_message(update: Update) -> \
-            (str, InlineKeyboardMarkup):
+    def generate_message(self, update: Update) -> (str, InlineKeyboardMarkup):
         """
         Generate an update message from and `Update` object
         :param update: an Update object that contains update's information from official website
         :return: A string containing the update's message
          and inline keyboard that has download link'
         """
-        message: str = f"New update available!\n" \
-                       f"*Device*: {update.device}\n" \
-                       f"*Region*: {update.region}\n" \
-                       f"*Type*: {update.branch}\n" \
-                       f"*Version*: ```{update.version}```\n" \
-                       f"*Release Date*: {update.date}\n" \
-                       f"*Size*: {update.size}\n" \
-                       f"*MD5*: `{update.md5}`\n" \
-                       f"*Changelog*:\n```{update.changelog}```"
+        message: str = f"New update available!"
+        if self.source == "website":
+            message += "( on the official website)\n"
+        elif self.source == "updater":
+            message += "(via OTA)\n"
+        else:
+            message += "\n"
+        message += f"*Device*: {update.device}\n" \
+                   f"*Region*: {update.region}\n" \
+                   f"*Type*: {update.branch}\n" \
+                   f"*Version*: ```{update.version}```\n" \
+                   f"*Release Date*: {update.date}\n" \
+                   f"*Size*: {update.size}\n" \
+                   f"*MD5*: `{update.md5}`\n" \
+                   f"*Changelog*:\n```{update.changelog}```"
         button: InlineKeyboardButton = InlineKeyboardButton("Full ROM", update.link)
         incremental = get_incremental(update.version)
         if incremental:

@@ -2,12 +2,17 @@
 OnePlus Websites Scraper class implementation
 """
 import json
+import logging
+from datetime import datetime
 from random import randint
+from typing import List
 
 from aiohttp import ClientResponse
-
 from op_tracker.common.api_client.common_scraper import CommonClient
+from op_tracker.common.database.database import already_in_db, add_to_db
+from op_tracker.common.database.models.update import Update
 from op_tracker.official.models.device import Device
+from op_tracker.utils.helpers import parse_changelog_from_website, get_version_from_file
 
 
 class APIClient(CommonClient):
@@ -41,6 +46,7 @@ class APIClient(CommonClient):
                             f'boundary=---------------------------{self.random_int}',
             'Connection': 'keep-alive',
         }
+        self._logger = logging.getLogger(__name__)
 
     async def get_devices(self):
         """
@@ -55,13 +61,52 @@ class APIClient(CommonClient):
                 f'{self.base_url}/xman/send-in-repair/find-phone-models',
                 headers=self.headers, data=bytes(data.encode('utf-8'))) as response:
             if response.status == 200:
-                self.devices = await self._get_json_response(response)
+                self.devices = [Device.from_response(item) for item in await self._get_json_response(response)]
+                return self.devices
 
-    async def get_updates(self, device: Device) -> list:
+    async def get_updates(self, device: Device, region: dict) -> list:
         """
         Get the latest available updates for a device from the website API.
+        :param region: Website region
         :param device: Device - the device object
         :return:a list of the device's available updates information
+        """
+        updates = []
+        device.region = region.get('name')
+        # Get latest
+        update = await self._fetch(device)
+        if update:
+            for item in update:
+                updates.append(item)
+        return updates
+
+    async def _request(self, data: str) -> list:
+        """
+        Perform an OTA request
+        :param data: OnePlus API request data
+        :return: OTA response dictionary
+        """
+        encoded_data = bytes(data.encode('utf-8'))
+        async with self.session.post(
+                f'{self.base_url}/xman/send-in-repair/find-phone-systems',
+                headers=self.headers, data=encoded_data) as response:
+            if response.status == 200:
+                try:
+                    data: dict = json.loads(await response.text())
+                    if data['ret'] == 1 and data['errCode'] == 0:
+                        return data['data']
+                except json.JSONDecodeError:
+                    self._logger.warning(f"Cannot decode JSON response of {data}")
+                    return []
+            else:
+                self._logger.warning(f"Not ok response ({response.reason}): "
+                                     f"{data}\n{response.content}")
+
+    async def _fetch(self, device: Device) -> List[Update]:
+        """
+        Fetch an update and add it to the database if new
+        :param device: device object
+        :return: Update object
         """
         data: str = f'-----------------------------' \
                     f'{self.random_int}\nContent-Disposition: form-data; ' \
@@ -69,12 +114,48 @@ class APIClient(CommonClient):
                     f'-----------------------------{self.random_int}' \
                     f'\nContent-Disposition: form-data; name="phoneCode"\n\n{device.code}\n' \
                     f'-----------------------------{self.random_int}--'
+        response: list = await self._request(data)
+        if response:
+            updates = []
+            for item in response:
+                filename = item.get('versionLink').split('/')[-1]
+                if not already_in_db(item.get('versionSign').lower()):
+                    update = self._parse_response(item, device)
+                    add_to_db(update)
+                    self._logger.info(f"Added {filename} to db")
+                    updates.append(update)
+            return updates
 
-        async with self.session.post(
-                f'{self.base_url}/xman/send-in-repair/find-phone-systems',
-                headers=self.headers, data=bytes(data.encode('utf-8'))) as response:
-            if response.status == 200:
-                return await self._get_json_response(response)
+    def _parse_response(self, response: dict, device: Device) -> Update:
+        """
+        Parse the response from th API into an Update object
+        :param response: API response dictionary
+        :param device: device object
+        :return: Update object
+        """
+        _changelog = response.get('versionLog')
+        name = response.get('phoneName')
+        filename = response.get('versionLink').split('/')[-1]
+        branch = "Stable" if response.get('versionType') == 1 else "Beta"
+        version = get_version_from_file(filename, branch)
+        if not _changelog:
+            self._logger.warning(f"{name} ({version}) empty changelog!")
+        return Update(
+            device=device.name,
+            changelog=parse_changelog_from_website(_changelog),
+            changelog_link=None,
+            link=response.get('versionLink'),
+            region=device.region,
+            size=response.get('versionSize'),
+            md5=response.get('versionSign').lower(),
+            date=datetime.utcfromtimestamp(response.get('versionReleaseTime') / 1000).strftime(
+                '%Y-%m-%d'),
+            version=version if version else response.get('versionNo'),
+            type="Full" if "patch" not in filename else "Incremental",
+            branch=branch,
+            filename=filename,
+            insert_date=datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            product=device.get_product())
 
     @staticmethod
     async def _get_json_response(_response: ClientResponse):

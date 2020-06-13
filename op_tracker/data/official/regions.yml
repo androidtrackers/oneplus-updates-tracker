@@ -1,5 +1,15 @@
-cn: China
-in: India
-global: Global
-uk: Europe
-us: USA
+- code: cn
+  name: China
+  real_name: China
+- code: in
+  name: India
+  real_name: India
+- code: global
+  name: Global
+  real_name: Global
+- code: uk
+  name: Europe
+  real_name: United Kingdom
+- code: us
+  name: Global
+  real_name: United States
