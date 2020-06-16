@@ -1,3 +1,27 @@
+- branch: Stable
+  changelog: 'System
+
+    • OnePlus Bullets Wireless Z can now be integrated with Dolby Atmos for better
+    sound quality
+
+    • Optimized the volume adjustment to improve user experience
+
+    • Improved the battery life user experience
+
+    • Improved system stability and fixed general issues
+
+    • Updated Android Security Patch to 2020.05 Camera
+
+    • Supported the slow-motion recording at 720p at 960fps
+
+    • Adding lens stain detection'
+  date: '2020-06-16'
+  device: OnePlus 7T
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.E.13_OTA_013_all_2005192147_9047a2003aa8453a.zip
+  md5: 520d7ea965cff685fddb2d8124309e5b
+  region: EEA
+  size: 2.55GB
+  version: OnePlus7TOxygen_14.E.13_013_2005192147
 - branch: Beta
   changelog: 'OxygenOS: OP7TPro_O2_BETA_5
 
@@ -1411,7 +1435,7 @@
   device: OnePlus 8 Pro
   link: https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.E.15_OTA_015_all_2004262102_26441cb23a134687.zip
   md5: 5a731c07ef417750b8ed909fac23bd5a
-  region: Europe
+  region: EEA
   size: 2.28 GB
   version: OnePlus8ProOxygen_15.E.15_015_2004262102
 - branch: Stable
@@ -1428,7 +1452,7 @@
   device: OnePlus 8
   link: https://oxygenos.oneplus.net/OnePlus8Oxygen_15.E.13_OTA_013_all_2004262108_315bd55a640043af.zip
   md5: de062fecdf63da5be10d54ea6bec28f8
-  region: Europe
+  region: EEA
   size: 2.22 GB
   version: OnePlus8Oxygen_15.E.13_013_2004262108
 - branch: Stable
@@ -1588,7 +1612,7 @@
   md5: d40acfdfda14325a829688b709013385
   region: China
   size: 2.47GB
-  version: 第6版（Android10.0）
+  version: OnePlus6THydrogen_41.Y.65_065_2004012153
 - branch: Beta
   changelog: '系统
 
@@ -1661,7 +1685,7 @@
   md5: 6e4f3bc765838b0d01c085247fffa973
   region: China
   size: 1.82GB
-  version: 第二版
+  version: OnePlus3THydrogen_28.A.83_083_2002201900
 - branch: Stable
   changelog: '系统
 
@@ -1674,7 +1698,7 @@
   md5: 276dee6f8c5a429da57e7f6aa95e3794
   region: China
   size: 1.82GB
-  version: 第二版
+  version: OnePlus3Hydrogen_16.A.83_083_2002201900
 - branch: Beta
   changelog: 'System
 
@@ -1829,7 +1853,7 @@
   device: OnePlus 7Pro
   link: https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.E.24_OTA_024_all_2002022314_12cfa8192fee4cf5.zip
   md5: 27f5115c96036a1636070aeb776de822
-  region: Europe
+  region: EEA
   size: 2.01GB
   version: OnePlus7ProOxygen_21.E.24_024_2002022314
 - branch: Stable
@@ -1848,7 +1872,7 @@
   device: OnePlus 7
   link: https://oxygenos.oneplus.net/OnePlus7Oxygen_14.E.24_OTA_024_all_2002022317_d5a80338a38b44de.zip
   md5: e4e78bb895325f34587c4bbae4a4f543
-  region: Europe
+  region: EEA
   size: 1.99GB
   version: OnePlus7Oxygen_14.E.24_024_2002022317
 - branch: Stable
@@ -2030,7 +2054,7 @@
   device: OnePlus 7T Pro
   link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_14.E.11_OTA_011_all_1912060058_9f74ffa647cf4557.zip
   md5: 6ee29bd7684f6448e49210c8af48cab8
-  region: Europe
+  region: EEA
   size: 2.60GB
   version: OnePlus7TProOxygen_14.E.11_011_1912060058
 - branch: Stable
@@ -2053,7 +2077,7 @@
   device: OnePlus 7T
   link: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.E.09_OTA_009_all_1912060104_4c39aa3d31864234.zip
   md5: 66bf0f6271ab17b4c2577010f6706483
-  region: Europe
+  region: EEA
   size: 2.54GB
   version: OnePlus7TOxygen_14.E.09_009_1912060104
 - branch: Beta
@@ -2137,7 +2161,7 @@
   md5: 169ea065b6a40a3f943ae74e00a0c719
   region: China
   size: 974M
-  version: 第六版
+  version: OnePlusH2OS_14.A.10_010_201604191650
 - branch: Stable
   changelog: 'OnePlus 3T OxygenOS 9.0.6
 
@@ -2217,7 +2241,7 @@
   md5: a6d0480a8ac0a79ebba2b98555807981
   region: China
   size: 2.10 GB
-  version: 第33版
+  version: OnePlus5THydrogen_43.T.54_054_1906241433
 - branch: Beta
   changelog: '系统
 
@@ -2248,7 +2272,7 @@
   md5: 1308c7ede4ce904e48fafeb58401f9c7
   region: China
   size: 2.08 GB
-  version: 第34版
+  version: OnePlus5Hydrogen_23.T.54_054_1906241435
 - branch: Beta
   changelog: 'OnePlus 5T Open Beta_33
 
@@ -2329,6 +2353,43 @@
   region: Global
   size: 2.0 GB
   version: OnePlus5Oxygen_23.T.54_GLO_054_1906241442
+- branch: Beta
+  changelog: 'HydrogenOS: OP5T_H2_BETA_17
+
+    System
+
+    • Updated Android security patch to 2018.9
+
+    Weather
+
+    • Optimized UI for the Weather App
+
+    OnePlus Switch
+
+    • Added manual connection method if unable to connect switch with QR code on the
+    old device
+
+    • Supported backup and recovery for application data including home screen, lock
+    screen and APP layout
+
+    • Bug fixes and support for more Android models'
+  date: '2018-09-20'
+  device: OnePlus 5T
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus5THydrogen/OnePlus5THydrogen_43.T.21_021_1809200104/OnePlus5THydrogen_43_OTA_021_all_1809200104_c6778.zip
+  md5: a70e1830f9815ffb946d9451e760e9bc
+  region: China
+  size: 2.1 GB
+  version: OnePlus5THydrogen_43.T.21_021_1809200104
+- branch: Stable
+  changelog: "OnePlus 3T OxygenOS 5.0.6\nSystem\n • Updated Android security patch\
+    \ to 2018.9\n \n • General bug fixes and improvements"
+  date: '2018-09-15'
+  device: OnePlus 3T
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus3TOxygen/OnePlus3TOxygen_28.A.68_GLO_068_1809150204/OnePlus3TOxygen_28_OTA_068_all_1809150204_183fcc0e.zip
+  md5: 80609f8518c81402c210f3faab08df2c
+  region: Global
+  size: 1.6 GB
+  version: OnePlus3TOxygen_28.A.68_GLO_068_1809150204
 - branch: Beta
   changelog: 'OxygenOS: OP3T_O2_BETA_30
 
@@ -2429,7 +2490,7 @@
   md5: 82b741c6b30cc6606ef5c01af4d52259
   region: China
   size: 1.77G
-  version: Android 8.0第15版
+  version: OnePlus3THydrogen_28.Y.56_056_1806211839
 - branch: Beta
   changelog: 桌面 -优化抽屉搜索分类标签 -新增”最近安装“标签 -优化隐藏空间和工具箱的应用添加操作 相机 -优化录像预览时前后摄像头切换效果 多媒体
     -支持AAC格式录音文件拖动
@@ -2439,7 +2500,19 @@
   md5: 957d4309145445382949a05fa35d6e04
   region: China
   size: 1.77G
-  version: Android 8.0 第15版
+  version: OnePlus3Hydrogen_16.Y.56_056_1806211851
+- branch: Stable
+  changelog: "OnePlus 3T HydrogenOS 5.0.1\nSystem\n • Updated Android security patch\
+    \ to 2018.6\nCamera\n • Fixed low resolution issue for selfie photos\nCardPackage\n\
+    \ • Supported bus card\nOnePlus store\n • New OnePlus store APP\nThird-Party Apps\n\
+    \ • Fixed issues with not being able to view chat history on WeChat"
+  date: '2018-06-21'
+  device: OnePlus 3T
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus3THydrogen/OnePlus3THydrogen_28.A.52_052_1806211816/OnePlus3THydrogen_28_OTA_052_all_1806211816_df64.zip
+  md5: cd8424160f248a44f8bdbfbb9b8ef245
+  region: China
+  size: 1.8 GB
+  version: OnePlus3THydrogen_28.A.52_052_1806211816
 - branch: Stable
   changelog: "OxygenOS 3.6.1\n\n System:\n• Updated Android security patch level to\
     \ October 2017\n• Fixed WPA2 security issue\n• General bug fixes and improvements"
@@ -2470,7 +2543,7 @@
   md5: 9669f58c18d14abd3da67c7953a101b8
   region: China
   size: 1.15G
-  version: 第十七版
+  version: OnePlus2Hydrogen_14.A.22_022_1608171641
 - branch: Beta
   changelog: '新增
 
@@ -2495,7 +2568,7 @@
   md5: 07ad888cea3cc542773e012989508eb0
   region: China
   size: 1.14G
-  version: 氢OS2.5版
+  version: OnePlus2Hydrogen_14.Y.02_000_1612281850
 - branch: Beta
   changelog: '推荐指数：★★★
 
@@ -2518,7 +2591,7 @@
   md5: 0b7bbef803e2d009898b3c4fc508c2eb
   region: China
   size: 703M
-  version: 氢OS2.0版
+  version: OnePlusH2OS_14.Y.01_001_201610291136
 - branch: Stable
   changelog: '注意事项：
 
@@ -2591,7 +2664,16 @@
   md5: 98d61bb8bdf6533f0d24bc7159fe1b8c
   region: China
   size: 645M
-  version: 氢OS2.0版
+  version: ONELH2OS_14.Y.01_001_201608251557
+- branch: Beta
+  changelog: 请用英语设置简介
+  date: '2016-08-10'
+  device: OnePlus 2
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus2Hydrogen/OnePlus2Hydrogen_14.Y.01_009_1608100554/OnePlus2Hydrogen_14_OTA_009_all_1608101854_903a612c3c8b4cac.zip
+  md5: ccad1aa8dbba623e8869c5d75422e2db
+  region: China
+  size: 1.1 GB
+  version: OnePlus2Hydrogen_14.Y.01_009_1608100554
 - branch: Beta
   changelog: '优化
 
@@ -2618,4 +2700,4 @@
   md5: 5f3bd04eafb78ed6712da499ea12bfcf
   region: China
   size: 753M
-  version: 公测第五版
+  version: ONELH2OS_12.X.01_016_201603041137
