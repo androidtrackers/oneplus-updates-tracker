@@ -2,10 +2,11 @@
 from time import sleep
 from typing import List, Union
 
-from op_tracker.common.database.database import get_incremental
-from op_tracker.common.database.models.update import Update
 from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater
+
+from op_tracker.common.database.database import get_incremental
+from op_tracker.common.database.models.update import Update
 
 
 class TelegramBot:
@@ -46,9 +47,9 @@ class TelegramBot:
         """
         message: str = f"New update available!"
         if self.source == "website":
-            message += "( on the official website)\n"
+            message += " (on the official website)\n"
         elif self.source == "updater":
-            message += "(via OTA)\n"
+            message += " (via OTA)\n"
         else:
             message += "\n"
         message += f"*Device*: {update.device}\n" \

@@ -5,11 +5,19 @@ Database related functions
 from op_tracker.common.database import session
 from op_tracker.common.database.models.update import Update
 
-devices = session.query(
-    Update.device, Update.region, Update.version,
-    Update.branch, Update.type, Update.product
-).filter(Update.type == "Full").order_by(
-    Update.date.desc()).distinct(Update.product)
+
+def get_devices():
+    all_devices = session.query(
+        Update.device, Update.region, Update.version,
+        Update.branch, Update.type, Update.product
+    ).filter(Update.type == "Full").order_by(
+        Update.date.desc()).distinct(Update.product)
+    return [i for i in all_devices if i.device not in [
+        'OnePlus 1', 'OnePlus 2', 'OnePlus 3', 'OnePlus 3T',
+        'OnePlus 5', 'OnePlus 5T', 'OnePlus X']]
+
+
+devices = get_devices()
 
 
 def get_latest() -> list:
