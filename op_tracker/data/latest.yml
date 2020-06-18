@@ -32,6 +32,15 @@
   size: 3.7 GB
   version: OnePlus7TProHydrogen_13.X.06_006_2006111742
 - branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2020-06-11'
+  device: OnePlus 7T
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_13.X.06_006_2006111718/OnePlus7THydrogen_13.X.06_OTA_006_all_2006111718_0801355f.zip
+  md5: 33b79872782d3856af2e87665b4f1a9d
+  region: China
+  size: 3.6 GB
+  version: OnePlus7THydrogen_13.X.06_006_2006111718
+- branch: Beta
   changelog: 'OxygenOS: OP7TPro_O2_BETA_5
 
     System
