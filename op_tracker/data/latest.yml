@@ -67,6 +67,32 @@
   size: 3.3 GB
   version: OnePlus7Hydrogen_13.X.37_037_2006111656
 - branch: Beta
+  changelog: "HydrogenOS: OP7Pro_H₂_BETA_14\nSystem\n• Added a shortcut to switch\
+    \ to Dark Mode in notification bar (scroll down to enable)\n• Optimized the identification\
+    \ accuracy of Alipay\n• Fixed the sharp edges of application cards in the recent\
+    \ apps screen\n• Updated OnePlus Brand Logo for a refreshed look\n• Updated Android\
+    \ Security Patch to 2020.06\nMessage\n• Newly added the auto-clean feature for\
+    \ historical messages. Once enabled, it will delete life service messages after\
+    \ 45 days and the verification codes will be removed after 3 days.\n• The messages\
+    \ can now smartly recognize links and numbers contained in the text. The link\
+    \ can be accessed by one click\n• Added Courier track and Ticket subcategories\
+    \ to help you sort out key information faster\nOnePlus Share\n•Newly added OnePlus\
+    \ Share to transfer files to nearby devices. Brands like OPPO, Vivo, Realme, Xiaomi\
+    \ are supported \nBluetooth\n• It has adapted to Bluetooth hearing aid app connection\
+    \ under the Android 10 Audio Streaming for Hearing Aid (ASHA) Agreement\nShelf\n\
+    • Refined the step counter's accuracy for recording the movement\nPhone\n• The\
+    \ frequently dialed contacts will now be available in the dialling interface\n\
+    Known issue\n• Color deviation issue with the header and some buttons in the Notes,\
+    \ which won't affect the functionality of the app. This will be fixed in the next\
+    \ version"
+  date: '2020-06-11'
+  device: OnePlus 7 Pro
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_13.X.37_037_2006111712/OnePlus7ProHydrogen_13.X.37_OTA_037_all_2006111712_ffda0b581a.zip
+  md5: 67891825a89143381da1cba945bef1cf
+  region: China
+  size: 3.3 GB
+  version: OnePlus7ProHydrogen_13.X.37_037_2006111712
+- branch: Beta
   changelog: 'OxygenOS: OP7TPro_O2_BETA_5
 
     System
