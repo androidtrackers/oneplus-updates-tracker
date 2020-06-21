@@ -1769,6 +1769,32 @@
   region: China
   size: 1.82GB
   version: OnePlus3Hydrogen_16.A.83_083_2002201900
+- branch: Stable
+  changelog: "OnePlus 7T Oxygen OS 10.0.9.HD65BA\nSystem\n• Optimized the Ram management\
+    \ \n• Improved system stability and fixed known issues\n• Updated Android Security\
+    \ Patch to 2020.03\nGallery\n• Improved stability for recording videos in slow-mo.\
+    \ \n• Fixed the random disappearance of screenshots in Gallery\n• Now play videos\
+    \ without any lags"
+  date: '2020-03-27'
+  device: OnePlus 7T
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.E.11_GLO_011_2003271950/OnePlus7TOxygen_14.E.11_OTA_011_all_2003271950_b7c5bfe612.zip
+  md5: 811789be52375c7aa893ef6b52602e28
+  region: EEA
+  size: 2.7 GB
+  version: OnePlus7TOxygen_14.E.11_GLO_011_2003271950
+- branch: Stable
+  changelog: "OnePlus 7T Oxygen OS 10.0.9.HD65AA\nSystem\n• Optimized the Ram management\
+    \ \n• Improved system stability and fixed known issues\n• Updated Android Security\
+    \ Patch to 2020.03\nGallery\n• Improved stability for recording videos in slow-mo.\
+    \ \n• Fixed the random disappearance of screenshots in Gallery\n• Now play videos\
+    \ without any lags"
+  date: '2020-03-27'
+  device: OnePlus 7T
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.11_GLO_011_2003271951/OnePlus7TOxygen_14.O.11_OTA_011_all_2003271951_3cf84b1dee.zip
+  md5: 6ebd7a5aaccbdc5e919ebafdbbc840f9
+  region: Global
+  size: 2.7 GB
+  version: OnePlus7TOxygen_14.O.11_GLO_011_2003271951
 - branch: Beta
   changelog: 'System
 
