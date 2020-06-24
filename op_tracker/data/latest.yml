@@ -1,3 +1,57 @@
+- branch: Beta
+  changelog: 'System
+
+    • Added a shortcut to switch to Dark Mode in notification bar (scroll down to
+    enable)
+
+    • Fixed the sharp edges of application cards in the recent apps screen
+
+    • Fixed the screen flashing issue after locking the device
+
+    • Updated OnePlus Brand Logo for a refreshed look
+
+    • Updated Android Security Patch to 2020.06 Bluetooth
+
+    • It has adapted to Bluetooth hearing aid app connection under the Android 10
+    Audio Streaming for Hearing Aid (ASHA) Agreement. Shelf
+
+    • Refined the step counter''s accuracy for recording the movement Phone
+
+    • The frequently dialed contacts will now be available in the dialling interface'
+  date: '2020-06-24'
+  device: OnePlus 7T Pro
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_13.W.05_OTA_005_all_2006051500_329077a97eb8479a.zip
+  md5: 14a0d21759aaaed7c34f350c0d307d19
+  region: EEA
+  size: 2.65 GB
+  version: OnePlus7TProOxygen_13.W.05_005_2006051500
+- branch: Beta
+  changelog: 'System
+
+    • Added a shortcut to switch to Dark Mode in notification bar (scroll down to
+    enable)
+
+    • Fixed the sharp edges of application cards in the recent apps screen
+
+    • Fixed the screen flashing issue after locking the device
+
+    • Updated OnePlus Brand Logo for a refreshed look
+
+    • Updated Android Security Patch to 2020.06 Bluetooth
+
+    • It has adapted to Bluetooth hearing aid app connection under the Android 10
+    Audio Streaming for Hearing Aid (ASHA) Agreement. Shelf
+
+    • Refined the step counter''s accuracy for recording the movement Phone
+
+    • The frequently dialed contacts will now be available in the dialling interface'
+  date: '2020-06-24'
+  device: OnePlus 7T
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.05_OTA_005_all_2006051455_f7ddc1b7caf8479d.zip
+  md5: 07040220ca5b8a2b0f6806443b3e552a
+  region: EEA
+  size: 2.59 GB
+  version: OnePlus7TOxygen_13.W.05_005_2006051455
 - branch: Stable
   changelog: '系统
 
