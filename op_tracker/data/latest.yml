@@ -1,3 +1,138 @@
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 10.5.11.IN11AA
+
+    System
+
+    • Optimized the touch and interaction experience
+
+    • Optimized the power consumption performance of the system, battery life extended
+    to be longer than ever
+
+    • Optimized the high temperature warning to improve user experience
+
+    • Fixed the failure to full-charge when battery was charged to 90% and above in
+    a few circumstances
+
+    • Fixed the issue with Netflix and Amazon Prime Video unable to play HD video
+    on some machines
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.06
+
+    Camera
+
+    • Adjusted Photochrom filter
+
+    • Improved the shooting experience with camera and improved stability
+
+    Network
+
+    • Added Visible network compatibility in the U.S.
+
+    • Improved the stability of communication
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Optimized network latency for online games and improved the smoothness'
+  date: '2020-07-02'
+  device: OnePlus 8 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.O.20_GLO_020_2007021952/OnePlus8ProOxygen_15.O.20_OTA_020_all_2007021952_eccf3c03d8.zip
+  md5: c56f57571e136b4be4da6f26022586b6
+  region: Global
+  size: 2.5 GB
+  version: OnePlus8ProOxygen_15.O.20_GLO_020_2007021952
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 10.5.11.IN11DA
+
+    System
+
+    • Optimized the touch and interaction experience
+
+    • Optimized the power consumption performance of the system, battery life extended
+    to be longer than ever
+
+    • Optimized the high temperature warning to improve user experience
+
+    • Fixed the failure to full-charge when battery was charged to 90% and above in
+    a few circumstances
+
+    • Fixed the issue with Netflix and Amazon Prime Video unable to play HD video
+    on some machines
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.06
+
+    Camera
+
+    • Enabled adjusted Photochrom filter
+
+    • Improved the shooting experience with camera and improved stability
+
+    Cloud service
+
+    • Added the file disk section in file manager: now conveniently upload and store
+    all your files on OnePlus Cloud seamlessly
+
+    Network
+
+    • Band 46 CA combo enabled for India Network
+
+    • Improved the stability of communication
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Optimized network latency for online games and improved the smoothness'
+  date: '2020-07-02'
+  device: OnePlus 8 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.20_GLO_020_2007021950/OnePlus8ProOxygen_15.I.20_OTA_020_all_2007021950_6ec9be27e31.zip
+  md5: f4aae7a1ed851fad22bf3814472c0838
+  region: India
+  size: 2.7 GB
+  version: OnePlus8ProOxygen_15.I.20_GLO_020_2007021950
+- branch: Stable
+  changelog: 'OnePlus 8 Oxygen OS 10.5.10.IN21AA
+
+    System
+
+    • Optimized the touch and interaction experience
+
+    • Optimized the power consumption performance of the system, battery life extended
+    to be longer than ever
+
+    • Optimized the high temperature warning to improve user experience
+
+    • Fixed the failure to full-charge when battery was charged to 90% and above in
+    a few circumstances
+
+    • Fixed the issue with Netflix and Amazon Prime Video unable to play HD video
+    on some machines
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.06
+
+    Camera
+
+    • Improved the shooting experience with camera and improved stability
+
+    Network
+
+    • Added Visible network compatibility in the U.S.
+
+    • Improved the stability of communication
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Optimized network latency for online games and improved the smoothness'
+  date: '2020-06-30'
+  device: OnePlus 8
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.O.19_GLO_019_2006300140/OnePlus8Oxygen_15.O.19_OTA_019_all_2006300140_b371a8843.zip
+  md5: dabb73c98ce9ae803fccc5a770d291ef
+  region: Global
+  size: 2.4 GB
+  version: OnePlus8Oxygen_15.O.19_GLO_019_2006300140
 - branch: Beta
   changelog: 'System
 
