@@ -74,6 +74,15 @@
   region: India
   size: 2.5 GB
   version: OnePlus7TOxygen_13.Y.06_GLO_006_2007030044
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2020-07-03'
+  device: OnePlus 7T
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_13.X.07_007_2007030048/OnePlus7THydrogen_13.X.07_OTA_007_all_2007030048_96dc7.zip
+  md5: 05b9da21d1bfa95cf8755a98e2bbec8e
+  region: China
+  size: 3.7 GB
+  version: OnePlus7THydrogen_13.X.07_007_2007030048
 - branch: Stable
   changelog: 'OnePlus 8 Pro Oxygen OS 10.5.11.IN11AA
 
