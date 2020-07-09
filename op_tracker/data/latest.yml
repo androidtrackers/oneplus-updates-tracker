@@ -1,3 +1,79 @@
+- branch: Beta
+  changelog: "OxygenOS: OP7T_O2_BETA_6\nSystem\n• Optimized adaptive brightness curve.\
+    \ The backlight brightness softer, improving user experience\n• Fixed the issue\
+    \ that double tap could not wake up the screen in some settings\n• Fixed the automatic\
+    \ pull-down issue with unlock screen in ambient display\n• Updated Android security\
+    \ patch to 2020.07\nClock\n• Newly added “Lap time” and “Split time” title for\
+    \ Stopwatch, the interface looking more clear-cut\nGame Space\n• Newly added Moments\
+    \ to store gaming snapshots and screen recordings, please go to three-dot menu\
+    \ at upper right corner>Moments>Recent/Games to find them\nMessages\n• Fixed the\
+    \ bug of unable to receive wireless alarm notifications within a short time despite\
+    \ repetitous trials \nLauncher\n• Fixed the abnormal color display at the top\
+    \ area and button of Notes"
+  date: '2020-07-03'
+  device: OnePlus 7T
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_13.W.06_GLO_006_2007030044/OnePlus7TOxygen_13.W.06_OTA_006_all_2007030044_3414.zip
+  md5: 108386bc8a0d4c5dd4082e3b00c90833
+  region: EEA
+  size: 2.8 GB
+  version: OnePlus7TOxygen_13.W.06_GLO_006_2007030044
+- branch: Beta
+  changelog: "OxygenOS: OP7TPro_O2_BETA_6\nSystem\n• Optimized adaptive brightness\
+    \ curve. The backlight brightness softer, improving user experience\n• Fixed the\
+    \ issue that double tap could not wake up the screen in some settings\n• Fixed\
+    \ the automatic pull-down issue with unlock screen in ambient display\n• Updated\
+    \ Android security patch to 2020.07\nClock\n• Newly added “Lap time” and “Split\
+    \ time” title for Stopwatch, the interface looking more clear-cut\nGame Space\n\
+    • Newly added Moments to store gaming snapshots and screen recordings, please\
+    \ go to three-dot menu at upper right corner>Moments>Recent/Games to find them\n\
+    Messages\n• Fixed the bug of unable to receive wireless alarm notifications within\
+    \ a short time despite repetitous trials \nLauncher\n• Fixed the abnormal color\
+    \ display at the top area and button of Notes"
+  date: '2020-07-03'
+  device: OnePlus 7T Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.W.06_GLO_006_2007030104/OnePlus7TProOxygen_13.W.06_OTA_006_all_2007030104_44453c.zip
+  md5: a8fa3a9aa14a8093275a7fee7dcf0207
+  region: Global
+  size: 2.9 GB
+  version: OnePlus7TProOxygen_13.W.06_GLO_006_2007030104
+- branch: Beta
+  changelog: "OxygenOS: OP7TPro_O2_BETA_6\nSystem\n• Optimized adaptive brightness\
+    \ curve. The backlight brightness softer, improving user experience\n• Fixed the\
+    \ issue that double tap could not wake up the screen in some settings\n• Fixed\
+    \ the automatic pull-down issue with unlock screen in ambient display\n• Updated\
+    \ Android security patch to 2020.07\nClock\n• Newly added “Lap time” and “Split\
+    \ time” title for Stopwatch, the interface looking more clear-cut\nGame Space\n\
+    • Newly added Moments to store gaming snapshots and screen recordings, please\
+    \ go to three-dot menu at upper right corner>Moments>Recent/Games to find them\n\
+    Messages\n• Fixed the bug of unable to receive wireless alarm notifications within\
+    \ a short time despite repetitous trials \nLauncher\n• Fixed the abnormal color\
+    \ display at the top area and button of Notes"
+  date: '2020-07-03'
+  device: OnePlus 7T Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.Y.06_GLO_006_2007030104/OnePlus7TProOxygen_13.Y.06_OTA_006_all_2007030104_fc0f65f4c49.zip
+  md5: 7bd5f7105c92bc2143807144504f36bc
+  region: India
+  size: 2.6 GB
+  version: OnePlus7TProOxygen_13.Y.06_GLO_006_2007030104
+- branch: Beta
+  changelog: "OxygenOS: OP7T_O2_BETA_6\nSystem\n• Optimized adaptive brightness curve.\
+    \ The backlight brightness softer, improving user experience\n• Fixed the issue\
+    \ that double tap could not wake up the screen in some settings\n• Fixed the automatic\
+    \ pull-down issue with unlock screen in ambient display\n• Updated Android security\
+    \ patch to 2020.07\nClock\n• Newly added “Lap time” and “Split time” title for\
+    \ Stopwatch, the interface looking more clear-cut\nGame Space\n• Newly added Moments\
+    \ to store gaming snapshots and screen recordings, please go to three-dot menu\
+    \ at upper right corner>Moments>Recent/Games to find them\nMessages\n• Fixed the\
+    \ bug of unable to receive wireless alarm notifications within a short time despite\
+    \ repetitous trials \nLauncher\n• Fixed the abnormal color display at the top\
+    \ area and button of Notes"
+  date: '2020-07-03'
+  device: OnePlus 7T
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_13.Y.06_GLO_006_2007030044/OnePlus7TOxygen_13.Y.06_OTA_006_all_2007030044_75c8c.zip
+  md5: 8a8f502c486c836495cfd5fb5df2a173
+  region: India
+  size: 2.5 GB
+  version: OnePlus7TOxygen_13.Y.06_GLO_006_2007030044
 - branch: Stable
   changelog: 'OnePlus 8 Pro Oxygen OS 10.5.11.IN11AA
 
