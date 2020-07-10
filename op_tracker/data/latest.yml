@@ -92,6 +92,54 @@
   region: China
   size: 3.8 GB
   version: OnePlus7TProHydrogen_13.X.07_007_2007030054
+- branch: Beta
+  changelog: 'HydrogenOS: OP7Pro_H₂_BETA_15
+
+    System
+
+    • Newly added two fonts in Customization for you to choose from (DynaFont Yuan
+    and Tsangerjinkai)
+
+    • All-round update of Cloud Service with the newly added Cloud Disk supporting
+    of all kinds of documents upload
+
+    • Optimized adaptive brightness curve. The backlight brightness softer, improving
+    user experience
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Fixed the automatic pull-down issue with unlock screen in ambient display
+
+    • Fixed the abnormal flashback issue with Tencent News
+
+    • Updated Android security patch to 2020.07
+
+    Clock
+
+    • Newly added “Lap time” and “Split time” title for Stopwatch, the interface looking
+    more clear-cut
+
+    Community
+
+    • Medals become available on mobile OnePlus community, go to get it!
+
+    Game Space
+
+    • Newly added Moments to store gaming snapshots and screen recordings, please
+    go to three-dot menu at upper right corner>Moments>Recent/Games to find them
+
+    Launcher
+
+    • Fixed the bug that mobile number cannot be linked to Courier Tracking in Shelf
+
+    • Fixed the abnormal color display at the top area and button of Notes'
+  date: '2020-07-03'
+  device: OnePlus 7 Pro
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_13.X.39_039_2007030029/OnePlus7ProHydrogen_13.X.39_OTA_039_all_2007030029_f024.zip
+  md5: 6e2a28ee20a1ca39a4bd9d0bdfc85612
+  region: China
+  size: 3.4 GB
+  version: OnePlus7ProHydrogen_13.X.39_039_2007030029
 - branch: Stable
   changelog: 'OnePlus 8 Pro Oxygen OS 10.5.11.IN11AA
 
