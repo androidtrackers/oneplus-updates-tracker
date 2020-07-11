@@ -140,6 +140,92 @@
   region: China
   size: 3.4 GB
   version: OnePlus7ProHydrogen_13.X.39_039_2007030029
+- branch: Beta
+  changelog: "OxygenOS: OP7Pro_O₂_BETA_16\nSystem\n• Optimized adaptive brightness\
+    \ curve. The backlight brightness softer, improving user experience\n• Fixed the\
+    \ issue that double tap could not wake up the screen in some settings\n• Fixed\
+    \ the automatic pull-down issue with unlock screen in ambient display\n• Updated\
+    \ Android security patch to 2020.07\nClock\n• Newly added “Lap time” and “Split\
+    \ time” title for Stopwatch, the interface looking more clear-cut\nGame Space\n\
+    • Newly added Moments to store gaming snapshots and screen recordings, please\
+    \ go to three-dot menu at upper right corner>Moments>Recent/Games to find them\n\
+    Messages\n• Fixed the bug of unable to receive wireless alarm notifications within\
+    \ a short time despite repetitous trials \nLauncher\n• Fixed the abnormal color\
+    \ display at the top area and button of Notes"
+  date: '2020-07-03'
+  device: OnePlus 7 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_13.W.39_GLO_039_2007030026/OnePlus7ProOxygen_13.W.39_OTA_039_all_2007030026_94af698b2d.zip
+  md5: 46384d1fc09cc81f7cd29d0e476287c8
+  region: Global
+  size: 2.4 GB
+  version: OnePlus7ProOxygen_13.W.39_GLO_039_2007030026
+- branch: Beta
+  changelog: "OxygenOS: OP7_O₂_BETA_16\nSystem\n• Optimized adaptive brightness curve.\
+    \ The backlight brightness softer, improving user experience\n• Fixed the issue\
+    \ that double tap could not wake up the screen in some settings\n• Fixed the automatic\
+    \ pull-down issue with unlock screen in ambient display\n• Updated Android security\
+    \ patch to 2020.07\nClock\n• Newly added “Lap time” and “Split time” title for\
+    \ Stopwatch, the interface looking more clear-cut\nGame Space\n• Newly added Moments\
+    \ to store gaming snapshots and screen recordings, please go to three-dot menu\
+    \ at upper right corner>Moments>Recent/Games to find them\nMessages\n• Fixed the\
+    \ bug of unable to receive wireless alarm notifications within a short time despite\
+    \ repetitous trials \nLauncher\n• Fixed the abnormal color display at the top\
+    \ area and button of Notes"
+  date: '2020-07-03'
+  device: OnePlus 7
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_13.W.39_GLO_039_2007030029/OnePlus7Oxygen_13.W.39_OTA_039_all_2007030029_87355de26.zip
+  md5: d4e4f2ea9692f79d44f67b318a8f646e
+  region: Global
+  size: 2.3 GB
+  version: OnePlus7Oxygen_13.W.39_GLO_039_2007030029
+- branch: Beta
+  changelog: 'HydrogenOS: OP7_H₂_BETA_15
+
+    System
+
+    • Newly added two fonts in Customization for you to choose from (DynaFont Yuan
+    and Tsangerjinkai)
+
+    • All-round update of Cloud Service with the newly added Cloud Disk supporting
+    of all kinds of documents upload
+
+    • Optimized adaptive brightness curve. The backlight brightness softer, improving
+    user experience
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Fixed the automatic pull-down issue with unlock screen in ambient display
+
+    • Fixed the abnormal flashback issue with Tencent News
+
+    • Updated Android security patch to 2020.07
+
+    Clock
+
+    • Newly added “Lap time” and “Split time” title for Stopwatch, the interface looking
+    more clear-cut
+
+    Community
+
+    • Medals become available on mobile OnePlus community, go to get it!
+
+    Game Space
+
+    • Newly added Moments to store gaming snapshots and screen recordings, please
+    go to three-dot menu at upper right corner>Moments>Recent/Games to find them
+
+    Launcher
+
+    • Fixed the bug that mobile number cannot be linked to Courier Tracking in Shelf
+
+    • Fixed the abnormal color display at the top area and button of Notes'
+  date: '2020-07-03'
+  device: OnePlus 7
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_13.X.39_039_2007030032/OnePlus7Hydrogen_13.X.39_OTA_039_all_2007030032_e39477.zip
+  md5: 15a8c7fe574dd1bd00aaec393220ca2e
+  region: China
+  size: 3.3 GB
+  version: OnePlus7Hydrogen_13.X.39_039_2007030032
 - branch: Stable
   changelog: 'OnePlus 8 Pro Oxygen OS 10.5.11.IN11AA
 
