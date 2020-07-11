@@ -361,6 +361,130 @@
   region: Global
   size: 2.4 GB
   version: OnePlus8Oxygen_15.O.19_GLO_019_2006300140
+- branch: Stable
+  changelog: 'OnePlus 8 Oxygen OS 10.5.8.IN21BA
+
+    System
+
+    • Optimized the touch and interaction experience
+
+    • Optimized the power consumption performance of the system, battery life extended
+    to be longer than ever
+
+    • Optimized the high temperature warning to improve user experience
+
+    • Fixed the failure to full-charge when battery was charged to 90% and above in
+    a few circumstances
+
+    • Fixed the issue with Netflix and Amazon Prime Video unable to play HD video
+    on some machines
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.06
+
+    Camera
+
+    • Improved the shooting experience with camera and improved stability
+
+    Network
+
+    • Improved the stability of communication
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Optimized network latency for online games and improved the smoothness'
+  date: '2020-06-30'
+  device: OnePlus 8
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.E.17_GLO_017_2006300136/OnePlus8Oxygen_15.E.17_OTA_017_all_2006300136_83af0077.zip
+  md5: 1d350fa8ceb180cd96e46f9f926a672b
+  region: EEA
+  size: 2.4 GB
+  version: OnePlus8Oxygen_15.E.17_GLO_017_2006300136
+- branch: Stable
+  changelog: 'OnePlus 8 Oxygen OS 10.5.9.IN21DA
+
+    System
+
+    • Optimized the touch and interaction experience
+
+    • Optimized the power consumption performance of the system, battery life extended
+    to be longer than ever
+
+    • Optimized the high temperature warning to improve user experience
+
+    • Fixed the failure to full-charge when battery was charged to 90% and above in
+    a few circumstances
+
+    • Fixed the issue with Netflix and Amazon Prime Video unable to play HD video
+    on some machines
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.06
+
+    Camera
+
+    • Improved the shooting experience with camera and improved stability
+
+    Cloud service
+
+    • Added the file disk section in file manager: now conveniently upload and store
+    all your files on OnePlus Cloud seamlessly
+
+    Network
+
+    • Band 46 CA combo enabled for India Network
+
+    • Improved the stability of communication
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Optimized network latency for online games and improved the smoothness'
+  date: '2020-06-30'
+  device: OnePlus 8
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.18_GLO_018_2006300134/OnePlus8Oxygen_15.I.18_OTA_018_all_2006300134_8b780.zip
+  md5: 8839d06ac011209c7ce933533674d5b3
+  region: India
+  size: 2.6 GB
+  version: OnePlus8Oxygen_15.I.18_GLO_018_2006300134
+- branch: Stable
+  changelog: 'OnePlus 8 Hydrogen OS 10.5.7.IN21
+
+    System
+
+    • Optimized the touch and interaction experience
+
+    • Optimized the power consumption performance of the system, battery life extended
+    to be longer than ever
+
+    • Optimized the high temperature warning to improve user experience
+
+    • Fixed the failure to full-charge when battery was charged to 90% and above in
+    a few circumstances
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.06
+
+    Camera
+
+    • Improved the shooting experience with camera and improved stability
+
+    Network
+
+    • Improved the stability of communication
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Optimized network latency for online games and improved the smoothness'
+  date: '2020-06-30'
+  device: OnePlus 8
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.16_016_2006300133/OnePlus8Hydrogen_15.H.16_OTA_016_all_2006300133_d82e6b18997d7.zip
+  md5: f74831076667617ebfd69d0f3d97e20a
+  region: China
+  size: 3.2 GB
+  version: OnePlus8Hydrogen_15.H.16_016_2006300133
 - branch: Beta
   changelog: 'System
 
