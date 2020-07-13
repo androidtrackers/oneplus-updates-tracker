@@ -320,6 +320,87 @@
   size: 2.7 GB
   version: OnePlus8ProOxygen_15.I.20_GLO_020_2007021950
 - branch: Stable
+  changelog: 'OnePlus 8 Pro Hydrogen OS 10.5.11.IN11
+
+    System
+
+    • Optimized the touch and interaction experience
+
+    • Optimized the power consumption performance of the system, battery life extended
+    to be longer than ever
+
+    • Optimized the high temperature warning to improve user experience
+
+    • Fixed the failure to full-charge when battery was charged to 90% and above in
+    a few circumstances
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.06
+
+    Camera
+
+    • Enabled adjusted Photochrom filter
+
+    • Improved the shooting experience with camera and improved stability
+
+    Network
+
+    • Improved the stability of communication
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Optimized network latency for online games and improved the smoothness'
+  date: '2020-07-02'
+  device: OnePlus 8 Pro
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.20_020_2007021955/OnePlus8ProHydrogen_15.H.20_OTA_020_all_2007021955_f7beff.zip
+  md5: 428acd2263cb56e4c9a5ac6431e1e382
+  region: China
+  size: 3.3 GB
+  version: OnePlus8ProHydrogen_15.H.20_020_2007021955
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 10.5.10.IN11BA
+
+    System
+
+    • Optimized the touch and interaction experience
+
+    • Optimized the power consumption performance of the system, battery life extended
+    to be longer than ever
+
+    • Optimized the high temperature warning to improve user experience
+
+    • Fixed the failure to full-charge when battery was charged to 90% and above in
+    a few circumstances
+
+    • Fixed the issue with Netflix and Amazon Prime Video unable to play HD video
+    on some machines
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.06
+
+    Camera
+
+    • Adjusted Photochrom filter
+
+    • Improved the shooting experience with camera and improved stability
+
+    Network
+
+    • Improved the stability of communication
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Optimized network latency for online games and improved the smoothness'
+  date: '2020-07-02'
+  device: OnePlus 8 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.E.19_GLO_019_2007021957/OnePlus8ProOxygen_15.E.19_OTA_019_all_2007021957_d0064.zip
+  md5: c6f9912643d755db38c9f4591d72517e
+  region: EEA
+  size: 2.5 GB
+  version: OnePlus8ProOxygen_15.E.19_GLO_019_2007021957
+- branch: Stable
   changelog: 'OnePlus 8 Oxygen OS 10.5.10.IN21AA
 
     System
