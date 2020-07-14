@@ -1,4 +1,37 @@
 - branch: Beta
+  changelog: '系统
+
+    • 新增两款系统新字体（仓耳今楷、华康圆体）
+
+    • 云服务现已全新升级，并新增云盘功能支持多类型文件上传
+
+    • 优化自动亮度调节曲线，背光亮度变化更加柔和，提升用户体验
+
+    • 修复部分情况下双击亮屏无法唤醒的问题
+
+    • 修复息屏解锁时状态栏会自动下拉的问题
+
+    • 修复腾讯新闻异常闪退的问题
+
+    • 更新安卓安全补丁至2020.07 时钟
+
+    • 优化秒表标识，计时界面更加清晰明了 一加社区
+
+    • 新增移动端社区领取勋章的功能 游戏空间
+
+    • 新增精彩时刻的功能，针对不同游戏截图录屏进行分类收纳（路径：右上图标-精彩时刻-最近/游戏，即可查看游戏中保存的截图与录屏） 桌面
+
+    • 修复负一屏快递信息无法绑定手机号的问题
+
+    • 修复便签上方及部分按钮颜色显示异常的问题'
+  date: '2020-07-14'
+  device: OnePlus 7 Pro
+  link: http://download.h2os.com/OnePlus7Pro/OBT/OnePlus7ProHydrogen_13.X.39_OTA_039_all_2007031234_2bc88d7c326644b5.zip
+  md5: e796f1d2dd04faf387a28c382a5d3d68
+  region: China
+  size: 3.14 GB
+  version: OnePlus7ProHydrogen_13.X.39_039_2007031234
+- branch: Beta
   changelog: "OxygenOS: OP7T_O2_BETA_6\nSystem\n• Optimized adaptive brightness curve.\
     \ The backlight brightness softer, improving user experience\n• Fixed the issue\
     \ that double tap could not wake up the screen in some settings\n• Fixed the automatic\
