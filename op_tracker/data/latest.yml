@@ -1,3 +1,41 @@
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 10.5.12.IN11DA
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Optimized the touch experience in game mode to enhance the user experience
+
+    • Fixed the issue that the wireless charger base re-started automatically
+
+    • Fixed the ARCore failure
+
+    • Updated Android Security Patch to 2020.07
+
+    • Updated GMS package to 2020.05
+
+    • Improved system stability
+
+    Network
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Improved connection stability of mobile network to improve user experience
+
+    Shelf
+
+    • Newly added Red Cable Club membership card'
+  date: '2020-07-16'
+  device: OnePlus 8 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.21_GLO_021_2007160041/OnePlus8ProOxygen_15.I.21_OTA_021_all_2007160041_e5835bd182a02.zip
+  md5: 3bbf81cb617c32197875301697be3580
+  region: India
+  size: 2.7 GB
+  version: OnePlus8ProOxygen_15.I.21_GLO_021_2007160041
 - branch: Beta
   changelog: '系统
 
