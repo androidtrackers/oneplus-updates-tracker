@@ -1,4 +1,60 @@
 - branch: Stable
+  changelog: 'System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Optimized the touch experience in game mode to enhance the user experience
+
+    • Fixed the issue that the wireless charger base re-started automatically
+
+    • Fixed the ARCore failure
+
+    • Updated Android Security Patch to 2020.07
+
+    • Updated GMS package to 2020.05
+
+    • Improved system stability Network
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Improved connection stability of mobile network to improve user experience'
+  date: '2020-07-21'
+  device: OnePlus 8 Pro
+  link: https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.E.20_OTA_020_all_2007160052_9d31435bef1941c1.zip
+  md5: 6207b2648a22b4ea47c42204d0f05e81
+  region: EEA
+  size: 2.29 GB
+  version: OnePlus8ProOxygen_15.E.20_020_2007160052
+- branch: Stable
+  changelog: 'System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Fixed the ARCore failure
+
+    • Updated Android Security Patch to 2020.07
+
+    • Updated GMS package to 2020.05
+
+    • Improved system stability Network
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Improved connection stability of mobile network to improve user experience'
+  date: '2020-07-21'
+  device: OnePlus 8
+  link: https://oxygenos.oneplus.net/OnePlus8Oxygen_15.E.18_OTA_018_all_2007160043_bfb7c27bf6a94174.zip
+  md5: f77b7ebc0cd3bc1a809387d752c30a33
+  region: EEA
+  size: 2.23 GB
+  version: OnePlus8Oxygen_15.E.18_018_2007160043
+- branch: Stable
   changelog: 'OnePlus 8 Pro Oxygen OS 10.5.12.IN11DA
 
     System
@@ -70,6 +126,66 @@
   region: India
   size: 2.6 GB
   version: OnePlus8Oxygen_15.I.19_GLO_019_2007160040
+- branch: Beta
+  changelog: 'System
+
+    • Optimized adaptive brightness curve. The backlight brightness softer, improving
+    user experience
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Fixed the automatic pull-down issue with unlock screen in ambient display
+
+    • Updated Android security patch to 2020.07 Clock
+
+    • Newly added “Lap time” and “Split time” title for Stopwatch, the interface looking
+    more clear-cut Game Space
+
+    • Newly added Moments to store gaming snapshots and screen recordings, please
+    go to three-dot menu at upper right corner>Moments>Recent/Games to find them.
+    Messages
+
+    • Fixed the bug of unable to receive wireless alarm notifications within a short
+    time despite repetitous trials Launcher
+
+    • Fixed the abnormal color display at the top area and button of Notes'
+  date: '2020-07-15'
+  device: OnePlus 7T
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.06_OTA_006_all_2007030044_3a386dc758b64dda.zip
+  md5: 0d00b6c08a586e49782433df14f313e1
+  region: Global
+  size: 2.63 GB
+  version: OnePlus7TOxygen_13.W.06_006_2007030044
+- branch: Beta
+  changelog: 'System
+
+    • Optimized adaptive brightness curve. The backlight brightness softer, improving
+    user experience
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Fixed the automatic pull-down issue with unlock screen in ambient display
+
+    • Updated Android security patch to 2020.07 Clock
+
+    • Newly added “Lap time” and “Split time” title for Stopwatch, the interface looking
+    more clear-cut Game Space
+
+    • Newly added Moments to store gaming snapshots and screen recordings, please
+    go to three-dot menu at upper right corner>Moments>Recent/Games to find them.
+    Messages
+
+    • Fixed the bug of unable to receive wireless alarm notifications within a short
+    time despite repetitous trials Launcher
+
+    • Fixed the abnormal color display at the top area and button of Notes'
+  date: '2020-07-15'
+  device: OnePlus 7T Pro
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_13.W.06_OTA_006_all_2007030104_71b23c0ee98240df.zip
+  md5: c66a4b9d8422d88b80a91b2830579678
+  region: EEA
+  size: 2.69 GB
+  version: OnePlus7TProOxygen_13.W.06_006_2007030104
 - branch: Beta
   changelog: '系统
 
