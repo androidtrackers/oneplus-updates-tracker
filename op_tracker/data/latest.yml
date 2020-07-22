@@ -126,6 +126,70 @@
   region: India
   size: 2.6 GB
   version: OnePlus8Oxygen_15.I.19_GLO_019_2007160040
+- branch: Stable
+  changelog: 'OnePlus 8 Oxygen OS 10.5.11.IN21AA
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Fixed the ARCore failure
+
+    • Updated Android Security Patch to 2020.07
+
+    • Updated GMS package to 2020.05
+
+    • Improved system stability
+
+    Network
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Improved connection stability of mobile network to improve user experience'
+  date: '2020-07-16'
+  device: OnePlus 8
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.O.20_GLO_020_2007160043/OnePlus8Oxygen_15.O.20_OTA_020_all_2007160043_a37510de1b26.zip
+  md5: 7c61631051c9f7afa8fb94406d7019a0
+  region: Global
+  size: 2.4 GB
+  version: OnePlus8Oxygen_15.O.20_GLO_020_2007160043
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 10.5.12.IN11AA
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Optimized the touch experience in game mode to enhance the user experience
+
+    • Fixed the issue that the wireless charger base re-started automatically
+
+    • Fixed the ARCore failure
+
+    • Updated Android Security Patch to 2020.07
+
+    • Updated GMS package to 2020.05
+
+    • Improved system stability
+
+    Network
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Improved connection stability of mobile network to improve user experience'
+  date: '2020-07-16'
+  device: OnePlus 8 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.O.21_GLO_021_2007160051/OnePlus8ProOxygen_15.O.21_OTA_021_all_2007160051_f435f8ab454e7.zip
+  md5: e91a75fd7854ba4a97978498f96f3413
+  region: Global
+  size: 2.5 GB
+  version: OnePlus8ProOxygen_15.O.21_GLO_021_2007160051
 - branch: Beta
   changelog: 'System
 
