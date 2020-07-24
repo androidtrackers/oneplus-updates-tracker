@@ -190,6 +190,77 @@
   region: Global
   size: 2.5 GB
   version: OnePlus8ProOxygen_15.O.21_GLO_021_2007160051
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Hydrogen OS 10.5.12.IN11
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Newly added two fonts DynaFont Yuan and TsangerJinKai in Customization for you
+    to choose (The visual experience varies depending scenarios)
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • The Motion graphics smoothing now will apply to Bilibili video playback when
+    the bullet screen switched on
+
+    • Optimized the touch experience in game mode to enhance the user experience
+
+    • Fixed the issue that the solid icon displayed before the app name on notification
+    bar
+
+    • Fixed the issue that the wireless charger base re-started automatically
+
+    • Updated Android Security Patch to 2020.07
+
+    • Improved system stability
+
+    Network
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Improved connection stability of mobile network to improve user experience'
+  date: '2020-07-16'
+  device: OnePlus 8 Pro
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.21_021_2007160635/OnePlus8ProHydrogen_15.H.21_OTA_021_all_2007160635_f35913.zip
+  md5: 20326628133a7814d932f9981eda6b05
+  region: China
+  size: 3.4 GB
+  version: OnePlus8ProHydrogen_15.H.21_021_2007160635
+- branch: Stable
+  changelog: 'OnePlus 8 Hydrogen OS 10.5.8.IN21
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Newly added two fonts DynaFont Yuan and TsangerJinKai in Customization for you
+    to choose (The visual experience varies depending scenarios)
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Fixed the issue that the solid icon displayed before the app name on notification
+    bar
+
+    • Updated Android Security Patch to 2020.07
+
+    • Improved system stability
+
+    Network
+
+    • Improved the performance and stability of Wi-Fi transfers
+
+    • Improved connection stability of mobile network to improve user experience'
+  date: '2020-07-16'
+  device: OnePlus 8
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.17_017_2007160627/OnePlus8Hydrogen_15.H.17_OTA_017_all_2007160627_98e2f0f9f080a.zip
+  md5: f96274d94c3a58f112aef4cbd56ac03d
+  region: China
+  size: 3.3 GB
+  version: OnePlus8Hydrogen_15.H.17_017_2007160627
 - branch: Beta
   changelog: 'System
 
