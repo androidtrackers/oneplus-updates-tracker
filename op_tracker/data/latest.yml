@@ -354,6 +354,27 @@
   region: China
   size: 3.14 GB
   version: OnePlus7ProHydrogen_13.X.39_039_2007031234
+- branch: Stable
+  changelog: 'OnePlus 7 Pro 5G Oxygen OS 10.0.7.GM27BA
+
+    System
+
+    • Updated Android security patch to 2020.07
+
+    • General bug fixes and stability improvements
+
+    • Fixed the issue that the music was silent after connecting to Bluetooth
+
+    Network
+
+    • Improved stability with network transmission'
+  date: '2020-07-08'
+  device: OnePlus 7 Pro 5G
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7ProNROxygen/OnePlus7ProNROxygen_21.E.23_GLO_023_2007081424/OnePlus7ProNROxygen_21_OTA_023_all_2007081424_2926c663b19.zip
+  md5: 16618911da7532b9b6207edfecca74be
+  region: EEA
+  size: 2.2 GB
+  version: OnePlus7ProNROxygen_21.E.23_GLO_023_2007081424
 - branch: Beta
   changelog: "OxygenOS: OP7T_O2_BETA_6\nSystem\n• Optimized adaptive brightness curve.\
     \ The backlight brightness softer, improving user experience\n• Fixed the issue\
