@@ -55,6 +55,33 @@
   size: 2.23 GB
   version: OnePlus8Oxygen_15.E.18_018_2007160043
 - branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 10.5.2.AC01BA
+
+    System
+
+    • Newly adapted OnePlus Buds firmware, easier to take advantage of wireless connection
+
+    • Optimized the process of starting camera with gestures
+
+    • Optimized video calling performance
+
+    • Improved system stability and fixed general issues
+
+    • Updated Android security patch to 2020.07
+
+    Camera
+
+    • Optimized power efficiency for front camera video shooting at 4K 60fps
+
+    • Improved camera experience and system stability'
+  date: '2020-07-17'
+  device: OnePlus Nord
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.04_GLO_004_2007170000/NordOxygen_14_OTA_004_all_2007170000_3294bc973d5f.zip
+  md5: 64d29076b1a0a460f10c2b56cc9eb282
+  region: EEA
+  size: 2.6 GB
+  version: NordOxygen_14.E.04_GLO_004_2007170000
+- branch: Stable
   changelog: 'OnePlus 8 Pro Oxygen OS 10.5.12.IN11DA
 
     System
