@@ -63,6 +63,82 @@
   size: 3.6 GB
   version: OnePlus7THydrogen_14.H.14_014_2007240052
 - branch: Stable
+  changelog: 'OnePlus 7 Pro Hydrogen OS 10.0.7.GM21
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Newly added two fonts in Customization for you to choose from (DynaFont Yuan
+    and Tsangerjinkai, the visual experience varies depending scenarios)
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Updated Android security patch to 2020.07
+
+    Reading mode
+
+    • Added the Chromatic effect option to adapt color range and saturation intelligently
+    for a better reading experience (Settings - Display - Reading mode - Turn on reading
+    mode - Chromatic effect)
+
+    Bluetooth
+
+    • It has adapted to Bluetooth hearing aid app connection under the Android 10
+    Audio Streaming for Hearing Aid (ASHA) Agreement.
+
+    Navigation Gestures
+
+    • Optimized the display of bottom bar in input method'
+  date: '2020-07-24'
+  device: OnePlus 7 Pro
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_21.H.28_028_2007240037/OnePlus7ProHydrogen_21.H.28_OTA_028_all_2007240037_fa1c3e84adc2ef7.zip
+  md5: f456712d960f141f38735274bc3d9404
+  region: China
+  size: 3.3 GB
+  version: OnePlus7ProHydrogen_21.H.28_028_2007240037
+- branch: Stable
+  changelog: 'OnePlus 7 Hydrogen OS 10.0.7.GM57
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Newly added two fonts in Customization for you to choose from (DynaFont Yuan
+    and Tsangerjinkai, the visual experience varies depending scenarios)
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Updated Android security patch to 2020.07
+
+    Reading mode
+
+    • Added the Chromatic effect option to adapt color range and saturation intelligently
+    for a better reading experience (Settings - Display - Reading mode - Turn on reading
+    mode - Chromatic effect)
+
+    Bluetooth
+
+    • It has adapted to Bluetooth hearing aid app connection under the Android 10
+    Audio Streaming for Hearing Aid (ASHA) Agreement.
+
+    Navigation Gestures
+
+    • Optimized the display of bottom bar in input method'
+  date: '2020-07-24'
+  device: OnePlus 7
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.28_028_2007240037/OnePlus7Hydrogen_14.H.28_OTA_028_all_2007240037_ddcfa1fc33.zip
+  md5: a189234e4d124fb4b89107517173d02b
+  region: China
+  size: 3.2 GB
+  version: OnePlus7Hydrogen_14.H.28_028_2007240037
+- branch: Stable
   changelog: 'System
 
     • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
@@ -119,6 +195,39 @@
   size: 2.23 GB
   version: OnePlus8Oxygen_15.E.18_018_2007160043
 - branch: Stable
+  changelog: 'OnePlus 6 Hydrogen OS 10.0.5
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Brand new Smart Home app helps to enable a smart life for you!
+
+    • Fixed the issue that part of the WeChat voice messages was lost when sent out
+
+    Wallet
+
+    • Newly added Wallet app that includes Bus/Access card entry in one place, making
+    it more convenient for you
+
+    • WeChat Payment option was added for Bus card top-up
+
+    Quick Game
+
+    • Added the Quick Game App in the system, open and play games seamlessly
+
+    Breeno Voice
+
+    • Integrated car mode in voice assistant for accurate voice interactions while
+    traveling. Making all the journeys safer and pleasant'
+  date: '2020-07-19'
+  device: OnePlus 6
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus6Hydrogen/OnePlus6Hydrogen_22.K.45_045_2007191519/OnePlus6Hydrogen_22_OTA_045_all_2007191519_734ede.zip
+  md5: 2afa6c3f224e8efa18a549bc1e1317f6
+  region: China
+  size: 2.7 GB
+  version: OnePlus6Hydrogen_22.K.45_045_2007191519
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.2.AC01BA
 
     System
@@ -145,6 +254,39 @@
   region: EEA
   size: 2.6 GB
   version: NordOxygen_14.E.04_GLO_004_2007170000
+- branch: Stable
+  changelog: 'OnePlus 6T Hydrogen OS 10.0.5
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Brand new Smart Home app helps to enable a smart life for you!
+
+    • Fixed the issue that part of the WeChat voice messages was lost when sent out
+
+    Wallet
+
+    • Newly added Wallet app that includes Bus/Access card entry in one place, making
+    it more convenient for you
+
+    • WeChat Payment option was added for Bus card top-up
+
+    Quick Game
+
+    • Added the Quick Game App in the system, open and play games seamlessly
+
+    Breeno Voice
+
+    • Integrated car mode in voice assistant for accurate voice interactions while
+    traveling. Making all the journeys safer and pleasant'
+  date: '2020-07-17'
+  device: OnePlus 6T
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.45_045_2007172007/OnePlus6THydrogen_34_OTA_045_all_2007172007_0252822ec42d5.zip
+  md5: bd556eb089647db77efadc7ae3f89165
+  region: China
+  size: 2.8 GB
+  version: OnePlus6THydrogen_34.K.45_045_2007172007
 - branch: Stable
   changelog: 'OnePlus 8 Pro Oxygen OS 10.5.12.IN11DA
 
