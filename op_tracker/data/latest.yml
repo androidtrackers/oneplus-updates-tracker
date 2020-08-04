@@ -139,6 +139,60 @@
   size: 3.2 GB
   version: OnePlus7Hydrogen_14.H.28_028_2007240037
 - branch: Stable
+  changelog: 'OnePlus 7 Pro Oxygen OS 10.3.4.GM21AA
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Updated Android security patch to 2020.07
+
+    Reading mode
+
+    • Added the Chromatic effect option to adapt color range and saturation intelligently
+    for a better reading experience (Settings - Display - Reading mode - Turn on reading
+    mode - Chromatic effect)
+
+    Bluetooth
+
+    • It has adapted to Bluetooth hearing aid app connection under the Android 10
+    Audio Streaming for Hearing Aid (ASHA) Agreement
+
+    Network
+
+    • Fixed the wrong display of names of inserted SIM cards from different carriers'
+  date: '2020-07-24'
+  device: OnePlus 7 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_21.P.28_GLO_028_2007240027/OnePlus7ProOxygen_21.P.28_OTA_028_all_2007240027_b336a0d372f0008.zip
+  md5: 2b5f727c189dec07dc5ecf7d9eab7c80
+  region: Global
+  size: 2.3 GB
+  version: OnePlus7ProOxygen_21.P.28_GLO_028_2007240027
+- branch: Stable
+  changelog: "OnePlus 7 Oxygen OS 10.3.4.GM57AA \nSystem\n• Newly adapted OnePlus\
+    \ Buds, easier to take advantage of wireless connection\n• Provided a variety\
+    \ of clock styles for you. You can customize on your own. (Go to Settings>Customization>Clock\
+    \ style)\n• Fixed the issue that double tap could not wake up the screen in some\
+    \ settings\n• Updated Android security patch to 2020.07\nReading mode\n• Added\
+    \ the Chromatic effect option to adapt color range and saturation intelligently\
+    \ for a better reading experience (Settings - Display - Reading mode - Turn on\
+    \ reading mode - Chromatic effect)\nBluetooth\n• It has adapted to Bluetooth hearing\
+    \ aid app connection under the Android 10 Audio Streaming for Hearing Aid (ASHA)\
+    \ Agreement\nNetwork\n• Fixed the wrong display of names of inserted SIM cards\
+    \ from different carriers"
+  date: '2020-07-24'
+  device: OnePlus 7
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.28_GLO_028_2007240028/OnePlus7Oxygen_14.P.28_OTA_028_all_2007240028_aa8bac05a1f507.zip
+  md5: a7973f31a748261548ca54e83990740b
+  region: India
+  size: 2.2 GB
+  version: OnePlus7Oxygen_14.P.28_GLO_028_2007240028
+- branch: Stable
   changelog: 'System
 
     • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
