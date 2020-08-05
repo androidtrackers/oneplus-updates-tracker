@@ -241,6 +241,70 @@
   size: 2.1 GB
   version: OnePlus7Oxygen_14.E.28_GLO_028_2007240035
 - branch: Stable
+  changelog: 'OnePlus 7TPro Oxygen OS 10.0.10.HD01AA
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Updated Android security patch to 2020.07
+
+    Bluetooth
+
+    • It has adapted to Bluetooth hearing aid app connection under the Android 10
+    Audio Streaming for Hearing Aid (ASHA) Agreement
+
+    Network
+
+    • Fixed the wrong display of names of inserted SIM cards from different carriers'
+  date: '2020-07-24'
+  device: OnePlus 7T Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.O.18_GLO_018_2007240042/OnePlus7TProOxygen_14.O.18_OTA_018_all_2007240042_91b99b.zip
+  md5: cb27a833ad1b47b1c3ab43ef4bf246fd
+  region: Global
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.O.18_GLO_018_2007240042
+- branch: Stable
+  changelog: 'OnePlus 7 Pro Oxygen OS 10.0.7.GM21BA
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Updated Android security patch to 2020.07
+
+    Reading mode
+
+    • Added the Chromatic effect option to adapt color range and saturation intelligently
+    for a better reading experience (Settings - Display - Reading mode - Turn on reading
+    mode - Chromatic effect)
+
+    Bluetooth
+
+    • It has adapted to Bluetooth hearing aid app connection under the Android 10
+    Audio Streaming for Hearing Aid (ASHA) Agreement
+
+    Network
+
+    • Fixed the wrong display of names of inserted SIM cards from different carriers'
+  date: '2020-07-24'
+  device: OnePlus 7 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_21.E.28_GLO_028_2007240026/OnePlus7ProOxygen_21.E.28_OTA_028_all_2007240026_57d2de.zip
+  md5: 8d02f6c3f7882ee412f40d00358130fe
+  region: EEA
+  size: 2.2 GB
+  version: OnePlus7ProOxygen_21.E.28_GLO_028_2007240026
+- branch: Stable
   changelog: 'System
 
     • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
