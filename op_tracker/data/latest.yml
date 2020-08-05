@@ -305,6 +305,35 @@
   size: 2.2 GB
   version: OnePlus7ProOxygen_21.E.28_GLO_028_2007240026
 - branch: Stable
+  changelog: 'OnePlus 7TPro Oxygen OS 10.3.4.HD01AA
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Updated Android security patch to 2020.07
+
+    Bluetooth
+
+    • It has adapted to Bluetooth hearing aid app connection under the Android 10
+    Audio Streaming for Hearing Aid (ASHA) Agreement
+
+    Network
+
+    • Fixed the wrong display of names of inserted SIM cards from different carriers'
+  date: '2020-07-24'
+  device: OnePlus 7T Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.I.18_GLO_018_2007240042/OnePlus7TProOxygen_14.I.18_OTA_018_all_2007240042_59aff2a7.zip
+  md5: 60f4b4a43f2d6f2940a93bb410db904d
+  region: India
+  size: 2.5 GB
+  version: OnePlus7TProOxygen_14.I.18_GLO_018_2007240042
+- branch: Stable
   changelog: 'System
 
     • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
