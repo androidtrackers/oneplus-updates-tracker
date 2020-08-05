@@ -1,4 +1,17 @@
 - branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 10.5.3.AC01BA
+
+    System
+
+    • Improved system stability'
+  date: '2020-07-31'
+  device: OnePlus Nord
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.05_GLO_005_2007312152/NordOxygen_14_OTA_005_all_2007312152_7894e1e.zip
+  md5: 712c36233d3c00d3d2e437834fe76d6f
+  region: EEA
+  size: 2.6 GB
+  version: NordOxygen_14.E.05_GLO_005_2007312152
+- branch: Stable
   changelog: 'OnePlus 7T Pro Hydrogen OS 10.0.9.HD01
 
     System
@@ -192,6 +205,41 @@
   region: India
   size: 2.2 GB
   version: OnePlus7Oxygen_14.P.28_GLO_028_2007240028
+- branch: Stable
+  changelog: 'OnePlus 7 Oxygen OS 10.0.7.GM57BA
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Updated Android security patch to 2020.07
+
+    Reading mode
+
+    • Added the Chromatic effect option to adapt color range and saturation intelligently
+    for a better reading experience (Settings - Display - Reading mode - Turn on reading
+    mode - Chromatic effect)
+
+    Bluetooth
+
+    • It has adapted to Bluetooth hearing aid app connection under the Android 10
+    Audio Streaming for Hearing Aid (ASHA) Agreement
+
+    Network
+
+    • Fixed the wrong display of names of inserted SIM cards from different carriers'
+  date: '2020-07-24'
+  device: OnePlus 7
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.E.28_GLO_028_2007240035/OnePlus7Oxygen_14.E.28_OTA_028_all_2007240035_a85d4741be1984.zip
+  md5: 4455ec9e1b970082a0f5eb19c3e9e306
+  region: EEA
+  size: 2.1 GB
+  version: OnePlus7Oxygen_14.E.28_GLO_028_2007240035
 - branch: Stable
   changelog: 'System
 
