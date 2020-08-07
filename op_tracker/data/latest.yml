@@ -24,6 +24,84 @@
   region: India
   size: 2.7 GB
   version: NordOxygen_14.I.05_GLO_005_2007312150
+- branch: Beta
+  changelog: "OxygenOS: OP7TPro_O2_BETA_7\nSystem\n• Newly added user assistance feature\
+    \ to help user master usage skills quickly(Route: Settings>OnePlus Tips&Help)\n\
+    • Fixed the abnormal error occured in Lockbox\n• Fixed the auto-start issue with\
+    \ QXDM logs after reboot\n• Optimized user experience with long screenshot in\
+    \ some scenarios \n• Updated Android security patch to 2020.08\nFile Manager\n\
+    • Fixed the issue that File Manager did not display some downloaded documents\
+    \ of apps\nNetwork\n• Improved the stability of Wi-Fi transfers"
+  date: '2020-07-29'
+  device: OnePlus 7T Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.W.07_GLO_007_2007291719/OnePlus7TProOxygen_13.W.07_OTA_007_all_2007291719_127dd04e.zip
+  md5: 314640165e52518d411408dc25b0a67e
+  region: Global
+  size: 2.9 GB
+  version: OnePlus7TProOxygen_13.W.07_GLO_007_2007291719
+- branch: Beta
+  changelog: "OxygenOS: OP7TPro_O2_BETA_7\nSystem\n• Newly added user assistance feature\
+    \ to help user master usage skills quickly(Route: Settings>OnePlus Tips&Help)\n\
+    • Fixed the abnormal error occured in Lockbox\n• Fixed the auto-start issue with\
+    \ QXDM logs after reboot\n• Optimized user experience with long screenshot in\
+    \ some scenarios \n• Updated Android security patch to 2020.08\nMessages\n• Optimized\
+    \ the categorization, messages of the same contact now merged in one card\nFile\
+    \ Manager\n• Fixed the issue that File Manager did not display some downloaded\
+    \ documents of apps\nNetwork\n• Improved the stability of Wi-Fi transfers"
+  date: '2020-07-29'
+  device: OnePlus 7T Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.Y.07_GLO_007_2007291719/OnePlus7TProOxygen_13.Y.07_OTA_007_all_2007291719_d00fc46.zip
+  md5: 15834e760765148c65fac72e87feddde
+  region: India
+  size: 2.6 GB
+  version: OnePlus7TProOxygen_13.Y.07_GLO_007_2007291719
+- branch: Beta
+  changelog: "OxygenOS: OP7T_O2_BETA_7\nSystem\n• Newly added user assistance feature\
+    \ to help user master usage skills quickly(Route: Settings>OnePlus Tips&Help)\n\
+    • Fixed the abnormal error occured in Lockbox\n• Fixed the auto-start issue with\
+    \ QXDM logs after reboot\n• Optimized user experience with long screenshot in\
+    \ some scenarios \n• Updated Android security patch to 2020.08\nMessages\n• Optimized\
+    \ the categorization, messages of the same contact now merged in one card\nFile\
+    \ Manager\n• Fixed the issue that File Manager did not display some downloaded\
+    \ documents of apps\nNetwork\n• Improved the stability of Wi-Fi transfers"
+  date: '2020-07-29'
+  device: OnePlus 7T
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_13.Y.07_GLO_007_2007291753/OnePlus7TOxygen_13.Y.07_OTA_007_all_2007291753_be3a.zip
+  md5: cb640104ed540a0c533e77a6656df729
+  region: India
+  size: 2.5 GB
+  version: OnePlus7TOxygen_13.Y.07_GLO_007_2007291753
+- branch: Beta
+  changelog: "OxygenOS: OP7T_O2_BETA_7\nSystem\n• Newly added user assistance feature\
+    \ to help user master usage skills quickly(Route: Settings>OnePlus Tips&Help)\n\
+    • Fixed the abnormal error occured in Lockbox\n• Fixed the auto-start issue with\
+    \ QXDM logs after reboot\n• Optimized user experience with long screenshot in\
+    \ some scenarios \n• Updated Android security patch to 2020.08\nFile Manager\n\
+    • Fixed the issue that File Manager did not display some downloaded documents\
+    \ of apps\nNetwork\n• Improved the stability of Wi-Fi transfers"
+  date: '2020-07-29'
+  device: OnePlus 7T
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_13.W.07_GLO_007_2007291753/OnePlus7TOxygen_13.W.07_OTA_007_all_2007291753_98ec89185ebd.zip
+  md5: c0a5b8a336aed8dae3b7b5aa0a05c2d2
+  region: Global
+  size: 2.8 GB
+  version: OnePlus7TOxygen_13.W.07_GLO_007_2007291753
+- branch: Beta
+  changelog: "OxygenOS: OP7_O₂_BETA_17\nSystem\n• Newly added user assistance feature\
+    \ to help user master usage skills quickly(Route: Settings>OnePlus Tips&Help)\n\
+    • Fixed the abnormal error occured in Lockbox\n• Fixed the auto-start issue with\
+    \ QXDM logs after reboot\n• Optimized user experience with long screenshot in\
+    \ some scenarios \n• Updated Android security patch to 2020.08\nMessages\n• Optimized\
+    \ the categorization, messages of the same contact now merged in one card（India\
+    \ only）\nFile Manager\n• Fixed the issue that File Manager did not display some\
+    \ downloaded documents of apps\nNetwork\n• Improved the stability of Wi-Fi transfers"
+  date: '2020-07-29'
+  device: OnePlus 7
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_13.W.41_GLO_041_2007291632/OnePlus7Oxygen_13.W.41_OTA_041_all_2007291632_938c0a4f529d725.zip
+  md5: 67b4b66a3d9d18a91317e4e9bf43e0ba
+  region: Global
+  size: 2.3 GB
+  version: OnePlus7Oxygen_13.W.41_GLO_041_2007291632
 - branch: Stable
   changelog: 'OnePlus 7T Pro Hydrogen OS 10.0.9.HD01
 
@@ -346,6 +424,64 @@
   region: India
   size: 2.5 GB
   version: OnePlus7TProOxygen_14.I.18_GLO_018_2007240042
+- branch: Stable
+  changelog: 'OnePlus 7T Oxygen OS 10.3.4.HD65AA
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Updated Android security patch to 2020.07
+
+    Bluetooth
+
+    • It has adapted to Bluetooth hearing aid app connection under the Android 10
+    Audio Streaming for Hearing Aid (ASHA) Agreement
+
+    Network
+
+    • Fixed the wrong display of names of inserted SIM cards from different carriers'
+  date: '2020-07-24'
+  device: OnePlus 7T
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.I.18_GLO_018_2007240040/OnePlus7TOxygen_14.I.18_OTA_018_all_2007240040_09dc7730244.zip
+  md5: 57d035423974985c5328ee58aa3bbc79
+  region: India
+  size: 2.4 GB
+  version: OnePlus7TOxygen_14.I.18_GLO_018_2007240040
+- branch: Stable
+  changelog: 'OnePlus 7T Oxygen OS 10.0.12.HD65AA
+
+    System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Updated Android security patch to 2020.07
+
+    Bluetooth
+
+    • It has adapted to Bluetooth hearing aid app connection under the Android 10
+    Audio Streaming for Hearing Aid (ASHA) Agreement
+
+    Network
+
+    • Fixed the wrong display of names of inserted SIM cards from different carriers'
+  date: '2020-07-24'
+  device: OnePlus 7T
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.18_GLO_018_2007240040/OnePlus7TOxygen_14.O.18_OTA_018_all_2007240040_cce2fc.zip
+  md5: 32c6f366cefd932b8001e8d1144d079b
+  region: Global
+  size: 2.7 GB
+  version: OnePlus7TOxygen_14.O.18_GLO_018_2007240040
 - branch: Stable
   changelog: 'System
 
