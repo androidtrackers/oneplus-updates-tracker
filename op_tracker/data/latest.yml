@@ -572,6 +572,19 @@
   size: 2.7 GB
   version: OnePlus6Hydrogen_22.K.45_045_2007191519
 - branch: Stable
+  changelog: "OnePlus 6 Oxygen OS 10.3.5\nSystem\n• Optimized RAM management \n• Newly\
+    \ adapted OnePlus Buds, easier to take advantage of wireless connection\n• Fixed\
+    \ the crash issue when browsing on Chrome\n• Fixed the black screen issue when\
+    \ opening logkit\n• Improved system stability and fixed general bugs\n• Updated\
+    \ Android Security Patch to 2020.07\n• Updated GMS package to 2020.05"
+  date: '2020-07-19'
+  device: OnePlus 6
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.47_GLO_047_2007191515/OnePlus6Oxygen_22_OTA_047_all_2007191515_d9e52461.zip
+  md5: 6b822937fefa578d42209ae4234cd4e5
+  region: Global
+  size: 1.9 GB
+  version: OnePlus6Oxygen_22.J.47_GLO_047_2007191515
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.2.AC01BA
 
     System
@@ -631,6 +644,19 @@
   region: China
   size: 2.8 GB
   version: OnePlus6THydrogen_34.K.45_045_2007172007
+- branch: Stable
+  changelog: "OnePlus 6T Oxygen OS 10.3.5\nSystem\n• Optimized RAM management \n•\
+    \ Newly adapted OnePlus Buds, easier to take advantage of wireless connection\n\
+    • Fixed the crash issue when browsing on Chrome\n• Fixed the black screen issue\
+    \ when opening logkit\n• Improved system stability and fixed general bugs\n• Updated\
+    \ Android Security Patch to 2020.07\n• Updated GMS package to 2020.05"
+  date: '2020-07-17'
+  device: OnePlus 6T
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.47_GLO_047_2007171912/OnePlus6TOxygen_34_OTA_047_all_2007171912_ac6dc9b.zip
+  md5: 483900aba0124d2047c2182d710e2b0d
+  region: Global
+  size: 2.0 GB
+  version: OnePlus6TOxygen_34.J.47_GLO_047_2007171912
 - branch: Stable
   changelog: 'OnePlus 8 Pro Oxygen OS 10.5.12.IN11DA
 
