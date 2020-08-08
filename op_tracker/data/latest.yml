@@ -102,6 +102,22 @@
   region: Global
   size: 2.3 GB
   version: OnePlus7Oxygen_13.W.41_GLO_041_2007291632
+- branch: Beta
+  changelog: "OxygenOS: OP7Pro_O₂_BETA_17\nSystem\n• Newly added user assistance feature\
+    \ to help user master usage skills quickly(Route: Settings>OnePlus Tips&Help)\n\
+    • Fixed the abnormal error occured in Lockbox\n• Fixed the auto-start issue with\
+    \ QXDM logs after reboot\n• Optimized user experience with long screenshot in\
+    \ some scenarios \n• Updated Android security patch to 2020.08\nMessages\n• Optimized\
+    \ the categorization, messages of the same contact now merged in one card（India\
+    \ only）\nFile Manager\n• Fixed the issue that File Manager did not display some\
+    \ downloaded documents of apps\nNetwork\n• Improved the stability of Wi-Fi transfers"
+  date: '2020-07-29'
+  device: OnePlus 7 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_13.W.41_GLO_041_2007291643/OnePlus7ProOxygen_13.W.41_OTA_041_all_2007291643_5f80f3e.zip
+  md5: fc6c180380e4dc45d5fd68d2d654d7f9
+  region: Global
+  size: 2.3 GB
+  version: OnePlus7ProOxygen_13.W.41_GLO_041_2007291643
 - branch: Stable
   changelog: 'OnePlus 7T Pro Hydrogen OS 10.0.9.HD01
 
