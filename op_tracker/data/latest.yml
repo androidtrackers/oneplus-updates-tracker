@@ -1,4 +1,35 @@
 - branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 10.5.4.AC01DA
+
+    System
+
+    • Improved launch speed of Gallery
+
+    • Improved display experience
+
+    • Fixed issue of being unable to join Red Cable Club
+
+    • Fixed issue of background music pausing when launching front camera
+
+    Camera
+
+    • Improved quality of video calls
+
+    • Improved color accuracy and white balance for low-light selfies
+
+    • Improved vibrancy and color accuracy of macro camera
+
+    Cloud Service
+
+    • Fixed issue of syncing Notes'
+  date: '2020-08-05'
+  device: OnePlus Nord
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.06_GLO_006_2008050222/NordOxygen_14_OTA_006_all_2008050222_19acc.zip
+  md5: feed1f7ad7983f9b388d43b295dcb25c
+  region: India
+  size: 2.7 GB
+  version: NordOxygen_14.I.06_GLO_006_2008050222
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.3.AC01BA
 
     System
