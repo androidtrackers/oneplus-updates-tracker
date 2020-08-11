@@ -93,6 +93,19 @@
   region: India
   size: 2.7 GB
   version: NordOxygen_14.I.05_GLO_005_2007312150
+- branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 10.5.3.AC01AA
+
+    System
+
+    • Improved system stability'
+  date: '2020-07-31'
+  device: OnePlus Nord
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/NordOxygen/NordOxygen_14.O.05_GLO_005_2007312151/NordOxygen_14_OTA_005_all_2007312151_df342.zip
+  md5: 91cb5115963595a42623ada9b473a11b
+  region: Global
+  size: 2.6 GB
+  version: NordOxygen_14.O.05_GLO_005_2007312151
 - branch: Beta
   changelog: "OxygenOS: OP7TPro_O2_BETA_7\nSystem\n• Newly added user assistance feature\
     \ to help user master usage skills quickly(Route: Settings>OnePlus Tips&Help)\n\
