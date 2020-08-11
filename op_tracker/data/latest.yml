@@ -55,6 +55,19 @@
   size: 2.6 GB
   version: NordOxygen_14.O.06_GLO_006_2008050222
 - branch: Stable
+  changelog: "OnePlus Nord Oxygen OS 10.5.4.AC01BA\nSystem\n• Improved launch speed\
+    \ of Gallery \n• Improved display experience \n• Fixed issue of background music\
+    \ pausing when launching front camera \nCamera\n• Improved quality of video calls\n\
+    • Improved color accuracy and white balance for low-light selfies\n• Improved\
+    \ vibrancy and color accuracy of macro camera"
+  date: '2020-08-05'
+  device: OnePlus Nord
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.06_GLO_006_2008050225/NordOxygen_14_OTA_006_all_2008050225_4ef02102797b.zip
+  md5: a2f22dd2efd7ab48ca1faab80c28dd6f
+  region: EEA
+  size: 2.6 GB
+  version: NordOxygen_14.E.06_GLO_006_2008050225
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.3.AC01BA
 
     System
