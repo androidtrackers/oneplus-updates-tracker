@@ -1,4 +1,50 @@
 - branch: Stable
+  changelog: ' System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Updated Android security patch to 2020.07 Bluetooth
+
+    • It has adapted to Bluetooth hearing aid app connection under the Android 10
+    Audio Streaming for Hearing Aid (ASHA) Agreement. Network
+
+    • Fixed the wrong display of names of inserted SIM cards from different carriers'
+  date: '2020-08-12'
+  device: OnePlus 7T Pro
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_14.E.18_OTA_018_all_2007240049_d193e49424e8414f.zip
+  md5: 3fc94886dfa054dd4b7e31e98a933000
+  region: EEA
+  size: 2.61 GB
+  version: OnePlus7TProOxygen_14.E.18_018_2007240049
+- branch: Stable
+  changelog: ' System
+
+    • Newly adapted OnePlus Buds, easier to take advantage of wireless connection
+
+    • Provided a variety of clock styles for you. You can customize on your own. (Go
+    to Settings>Customization>Clock style)
+
+    • Fixed the issue that double tap could not wake up the screen in some settings
+
+    • Updated Android security patch to 2020.07 Bluetooth
+
+    • It has adapted to Bluetooth hearing aid app connection under the Android 10
+    Audio Streaming for Hearing Aid (ASHA) Agreement. Network
+
+    • Fixed the wrong display of names of inserted SIM cards from different carriers'
+  date: '2020-08-12'
+  device: OnePlus 7T
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.E.18_OTA_018_all_2007240042_7fbd3f09b36d4694.zip
+  md5: 14f6dff7b069d7f8282187a236b7007c
+  region: EEA
+  size: 2.55 GB
+  version: OnePlus7TOxygen_14.E.18_018_2007240042
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.4.AC01DA
 
     System
