@@ -1,3 +1,53 @@
+- branch: Beta
+  changelog: 'System
+
+    • Newly added user assistance feature to help user master usage skills quickly(Route:
+    Settings>OnePlus Tips&Help)
+
+    • Fixed the abnormal error occured in Lockbox
+
+    • Fixed the auto-start issue with QXDM logs after reboot
+
+    • Optimized user experience with long screenshot in some scenarios
+
+    • Updated Android security patch to 2020.08 File Manager
+
+    • Fixed the issue that File Manager did not display some downloaded documents
+    of apps Network
+
+    • Improved the stability of Wi-Fi transfers'
+  date: '2020-08-13'
+  device: OnePlus 7T Pro
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_13.W.07_OTA_007_all_2007291719_c640e0bcd6004a3e.zip
+  md5: 6dc38bd906b4b706be27e96651a2eb0a
+  region: Global
+  size: 2.72 GB
+  version: OnePlus7TProOxygen_13.W.07_007_2007291719
+- branch: Beta
+  changelog: 'System
+
+    • Newly added user assistance feature to help user master usage skills quickly(Route:
+    Settings>OnePlus Tips&Help)
+
+    • Fixed the abnormal error occured in Lockbox
+
+    • Fixed the auto-start issue with QXDM logs after reboot
+
+    • Optimized user experience with long screenshot in some scenarios
+
+    • Updated Android security patch to 2020.08 File Manager
+
+    • Fixed the issue that File Manager did not display some downloaded documents
+    of apps Network
+
+    • Improved the stability of Wi-Fi transfers'
+  date: '2020-08-13'
+  device: OnePlus 7T
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.07_OTA_007_all_2007291753_cbc949e2a03b48f2.zip
+  md5: 869b259bc705c1b60bdf9a7ed6c40fe3
+  region: EEA
+  size: 2.62 GB
+  version: OnePlus7TOxygen_13.W.07_007_2007291753
 - branch: Stable
   changelog: ' System
 
