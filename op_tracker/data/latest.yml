@@ -163,6 +163,15 @@
   region: EEA
   size: 2.6 GB
   version: NordOxygen_14.E.06_GLO_006_2008050225
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2020-08-03'
+  device: OnePlus 7T Pro
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_13.X.08_008_2008032335/OnePlus7TProHydrogen_13.X.08_OTA_008_all_2008032335_306718649a06146.zip
+  md5: 7c3ad1a2727a9f0c4ec1377706494890
+  region: China
+  size: 3.9 GB
+  version: OnePlus7TProHydrogen_13.X.08_008_2008032335
 - branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.3.AC01BA
 
