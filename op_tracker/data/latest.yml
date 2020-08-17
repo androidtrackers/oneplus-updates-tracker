@@ -123,6 +123,30 @@
   size: 3.4 GB
   version: OnePlus8ProHydrogen_15.H.22_022_2008080047
 - branch: Stable
+  changelog: "OnePlus 8 Oxygen OS 10.5.11.IN21DA\nSystem\n• Fixed the overlapping\
+    \ character display issue with Ambient display \n• Fixed known issues and improved\
+    \ system stability\n• Updated Android Security Patch to 2020.08\nCamera\n• Optimized\
+    \ shooting effect with front camera"
+  date: '2020-08-08'
+  device: OnePlus 8
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.20_GLO_020_2008080048/OnePlus8Oxygen_15.I.20_OTA_020_all_2008080048_1a22c.zip
+  md5: f7fc8077c7ba3b2282b70256454aea20
+  region: India
+  size: 2.6 GB
+  version: OnePlus8Oxygen_15.I.20_GLO_020_2008080048
+- branch: Stable
+  changelog: "OnePlus 8 Oxygen OS 10.5.10.IN21BA\nSystem\n• Fixed the overlapping\
+    \ character display issue with Ambient display \n• Fixed known issues and improved\
+    \ system stability\n• Updated Android Security Patch to 2020.08\nCamera\n• Optimized\
+    \ shooting effect with front camera"
+  date: '2020-08-08'
+  device: OnePlus 8
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.E.19_GLO_019_2008080048/OnePlus8Oxygen_15.E.19_OTA_019_all_2008080048_f62cc250.zip
+  md5: 161f50021e303f5b29400fee9d7041d8
+  region: EEA
+  size: 2.4 GB
+  version: OnePlus8Oxygen_15.E.19_GLO_019_2008080048
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.4.AC01DA
 
     System
