@@ -209,6 +209,48 @@
   region: China
   size: 3.8 GB
   version: OnePlus7THydrogen_13.X.08_008_2008032331
+- branch: Beta
+  changelog: "HydrogenOS: OP7Pro_H₂_BETA_16\nSystem\n• Newly added user assistance\
+    \ feature to help user master usage skills quickly(Route: Settings>OnePlus Tips&Help)\n\
+    • Fixed the garbled character issue in public platform in some settings\n• Fixed\
+    \ the bug with screen record unable to record system sound\n• Fixed the flashback\
+    \ issue when restoring backup in OnePlus Switch\n• Fixed the wrong data display\
+    \ of used space in Storage\n• Optimized user experience with long screenshot in\
+    \ some scenarios \n• Newly added user assistance feature to help user master usage\
+    \ skills quickly(Route: Settings>OnePlus Tips&Help)\n• Updated Android security\
+    \ patch to 2020.08\nGame Space\n• Newly added UU network booster feature to support\
+    \ stable and smooth gaming experience (Click dots at upper right corner>Network\
+    \ booster>Enable it and the supported games can be facilitated)\nFile Manager\n\
+    • Fixed the issue that File Manager did not display some downloaded documents\
+    \ of apps\nNetwork\n• Improved the stability of Wi-Fi transfers"
+  date: '2020-08-03'
+  device: OnePlus 7 Pro
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_13.X.41_041_2008032303/OnePlus7ProHydrogen_13.X.41_OTA_041_all_2008032303_58fb8e2.zip
+  md5: 522f74c81f6df3ab6911f7887a23bf91
+  region: China
+  size: 3.4 GB
+  version: OnePlus7ProHydrogen_13.X.41_041_2008032303
+- branch: Beta
+  changelog: "HydrogenOS: OP7_H₂_BETA_16\nSystem\n• Newly added user assistance feature\
+    \ to help user master usage skills quickly(Route: Settings>OnePlus Tips&Help)\n\
+    • Fixed the garbled character issue in public platform in some settings\n• Fixed\
+    \ the bug with screen record unable to record system sound\n• Fixed the flashback\
+    \ issue when restoring backup in OnePlus Switch\n• Fixed the wrong data display\
+    \ of used space in Storage\n• Optimized user experience with long screenshot in\
+    \ some scenarios \n• Newly added user assistance feature to help user master usage\
+    \ skills quickly(Route: Settings>OnePlus Tips&Help)\n• Updated Android security\
+    \ patch to 2020.08\nGame Space\n• Newly added UU network booster feature to support\
+    \ stable and smooth gaming experience (Click dots at upper right corner>Network\
+    \ booster>Enable it and the supported games can be facilitated)\nFile Manager\n\
+    • Fixed the issue that File Manager did not display some downloaded documents\
+    \ of apps\nNetwork\n• Improved the stability of Wi-Fi transfers"
+  date: '2020-08-03'
+  device: OnePlus 7
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_13.X.41_041_2008032309/OnePlus7Hydrogen_13.X.41_OTA_041_all_2008032309_848911f58fb99d.zip
+  md5: 6e165ac51c479badb4f1f54d76c96d03
+  region: China
+  size: 3.4 GB
+  version: OnePlus7Hydrogen_13.X.41_041_2008032309
 - branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.3.AC01BA
 
