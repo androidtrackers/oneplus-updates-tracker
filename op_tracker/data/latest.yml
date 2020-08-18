@@ -147,6 +147,60 @@
   size: 2.4 GB
   version: OnePlus8Oxygen_15.E.19_GLO_019_2008080048
 - branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 10.5.13.IN11AA
+
+    System
+
+    • Fixed the overlapping character display issue with Ambient display
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.08
+
+    Camera
+
+    • Optimized shooting effect with front camera'
+  date: '2020-08-08'
+  device: OnePlus 8 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.O.22_GLO_022_2008080055/OnePlus8ProOxygen_15.O.22_OTA_022_all_2008080055_29200cde68411c2.zip
+  md5: f70b0a2779abb771885022c792bc7efd
+  region: Global
+  size: 2.5 GB
+  version: OnePlus8ProOxygen_15.O.22_GLO_022_2008080055
+- branch: Stable
+  changelog: "OnePlus 8 Oxygen OS 10.5.12.IN21AA\nSystem\n• Fixed the overlapping\
+    \ character display issue with Ambient display \n• Fixed known issues and improved\
+    \ system stability\n• Updated Android Security Patch to 2020.08\nCamera\n• Optimized\
+    \ shooting effect with front camera"
+  date: '2020-08-08'
+  device: OnePlus 8
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.O.21_GLO_021_2008080054/OnePlus8Oxygen_15.O.21_OTA_021_all_2008080054_906daa239.zip
+  md5: 3f06a8b6e80e8d613e929a25f797ea13
+  region: Global
+  size: 2.4 GB
+  version: OnePlus8Oxygen_15.O.21_GLO_021_2008080054
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 10.5.12.IN11BA
+
+    System
+
+    • Fixed the overlapping character display issue with Ambient display
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.08
+
+    Camera
+
+    • Optimized shooting effect with front camera'
+  date: '2020-08-08'
+  device: OnePlus 8 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.E.21_GLO_021_2008080100/OnePlus8ProOxygen_15.E.21_OTA_021_all_2008080100_c953.zip
+  md5: 5d0897c1e9989304bbf19dd7fac1a24b
+  region: EEA
+  size: 2.5 GB
+  version: OnePlus8ProOxygen_15.E.21_GLO_021_2008080100
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.4.AC01DA
 
     System
