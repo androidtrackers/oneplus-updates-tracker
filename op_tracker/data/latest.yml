@@ -201,6 +201,27 @@
   size: 2.5 GB
   version: OnePlus8ProOxygen_15.E.21_GLO_021_2008080100
 - branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 10.5.13.IN11DA
+
+    System
+
+    • Fixed the overlapping character display issue with Ambient display
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.08
+
+    Camera
+
+    • Optimized shooting effect with front camera'
+  date: '2020-08-08'
+  device: OnePlus 8 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.22_GLO_022_2008080051/OnePlus8ProOxygen_15.I.22_OTA_022_all_2008080051_5d3b3.zip
+  md5: 400aa0718e4c76e249e0d20727294d39
+  region: India
+  size: 2.7 GB
+  version: OnePlus8ProOxygen_15.I.22_GLO_022_2008080051
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.4.AC01DA
 
     System
