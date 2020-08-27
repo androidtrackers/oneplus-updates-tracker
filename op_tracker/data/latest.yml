@@ -26,6 +26,20 @@
   region: EEA
   size: 2.6 GB
   version: NordOxygen_14.E.07_GLO_007_2008180221
+- branch: Stable
+  changelog: "OnePlus Nord Oxygen OS 10.5.5.AC01DA\nSystem\n• Improved volume adjustment\
+    \ interface\n• Fixed system reboot issue when free-form is enabled\n• Fixed issue\
+    \ of OnePlus Notes always running in background\nCamera\n• Improved image clarity\
+    \ of front camera in low light\n• Improved image clarity of macro camera\n• Improved\
+    \ vibrancy and color accuracy of macro camera \nPower\n• Improved general power\
+    \ consumption\n• Improved charging experience"
+  date: '2020-08-18'
+  device: OnePlus Nord
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.07_GLO_007_2008180229/NordOxygen_14_OTA_007_all_2008180229_6978e71.zip
+  md5: 4666995fce08a10bc743cd552fd9cf36
+  region: India
+  size: 2.7 GB
+  version: NordOxygen_14.I.07_GLO_007_2008180229
 - branch: Beta
   changelog: 'System
 
