@@ -1,4 +1,29 @@
 - branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 10.5.6.AC01AA
+
+    System
+
+    • Improved system stability
+
+    Camera
+
+    • Optimized image stabilization performance
+
+    Power
+
+    • Improved general power consumption
+
+    Bluetooth
+
+    • Improved Bluetooth connection stability'
+  date: '2020-08-22'
+  device: OnePlus Nord
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/NordOxygen/NordOxygen_14.O.08_GLO_008_2008221847/NordOxygen_14_OTA_008_all_2008221847_01bc4455f8b.zip
+  md5: b07b0c6278bf21cdf091e7ba384f1cec
+  region: Global
+  size: 2.6 GB
+  version: NordOxygen_14.O.08_GLO_008_2008221847
+- branch: Stable
   changelog: "OnePlus Nord Oxygen OS 10.5.5.AC01AA\nSystem\n• Improved volume adjustment\
     \ interface\n• Fixed system reboot issue when free-form is enabled\n• Fixed issue\
     \ of OnePlus Notes always running in background\nCamera\n• Improved image clarity\
