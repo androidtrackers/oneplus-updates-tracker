@@ -1,4 +1,56 @@
 - branch: Stable
+  changelog: '系统
+
+    • 修复GPS定位信号弱的问题
+
+    • 修复优酷特定视频无声音的问题
+
+    • 修复关机状态下闹钟没有响起的问题
+
+    • 修复特定情况下指纹识别无法使用的问题
+
+    • 更新安卓安全补丁至2020.06 钱包
+
+    • 新增钱包 App，公交 / 门禁卡入口整合到钱包 App ，操作更加便捷
+
+    • 公交卡充值新增微信支付方式 相机
+
+    • 现已加入电子防抖功能，给您带来更加稳定的拍摄体验'
+  date: '2020-09-08'
+  device: OnePlus 5
+  link: http://download.h2os.com/OnePlus5/MP/OnePlus5Hydrogen_23_OTA_063_all_2008051515_03d2307351f0443c.zip
+  md5: e2bb6dceb161164f87cad67ee002f040
+  region: China
+  size: 2.34 GB
+  version: OnePlus5Hydrogen_23.K.63_063_2002171234
+- branch: Stable
+  changelog: '系统
+
+    • 修复GPS定位信号弱的问题
+
+    • 修复优酷特定视频无声音的问题
+
+    • 修复关机状态下闹钟没有响起的问题
+
+    • 修复特定情况下指纹识别无法使用的问题
+
+    • 更新安卓安全补丁至2020.06 钱包
+
+    • 新增钱包 App，公交 / 门禁卡入口整合到钱包 App ，操作更加便捷
+
+    • 公交卡充值新增微信支付方式 全屏手势
+
+    • 新增支持底部上滑返回的功能 相机
+
+    • 现已加入电子防抖功能，给您带来更加稳定的拍摄体验'
+  date: '2020-09-08'
+  device: OnePlus 5T
+  link: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_063_all_2008051533_c47803f32f84462a.zip
+  md5: 954de6cdfefca666188cbaad2cb00774
+  region: China
+  size: 2.36 GB
+  version: OnePlus5THydrogen_43.K.63_063_2002171231
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.7.AC01AA
 
     Power
