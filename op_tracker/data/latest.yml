@@ -113,6 +113,37 @@
   size: 2.6 GB
   version: NordOxygen_14.E.09_GLO_009_2009010243
 - branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 10.5.7.AC01DA
+
+    Power
+
+    • Improved general power consumption
+
+    Camera
+
+    • Improved 4k 60 FPS video stabilization of front camera
+
+    • Improved image clarity of macro camera
+
+    Display
+
+    • Improved general display calibration
+
+    Bluetooth
+
+    • Improved Bluetooth connection stability
+
+    Network
+
+    • Improved voice call stability'
+  date: '2020-09-01'
+  device: OnePlus Nord
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.09_GLO_009_2009010241/NordOxygen_14_OTA_009_all_2009010241_3912b2d733f.zip
+  md5: d33acc7d2ef5b1d240ca2dd9255496c6
+  region: India
+  size: 2.7 GB
+  version: NordOxygen_14.I.09_GLO_009_2009010241
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.6.AC01AA
 
     System
