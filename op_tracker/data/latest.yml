@@ -50,6 +50,132 @@
   region: China
   size: 2.36 GB
   version: OnePlus5THydrogen_43.K.63_063_2002171231
+- branch: Beta
+  changelog: 'OP7Pro_O2_BETA_18
+
+    System
+
+    • Fixed the known issues with screen recorder
+
+    • Fixed the issue that the notification bar did not respond occasionally
+
+    • Updated Android security patch to 2020.09
+
+    • Updated GMS package to 2020.08
+
+    Game space
+
+    • Newly added gaming tools box for convienient switches of Fnatic mode. You can
+    now choose three ways of notifications: text only, heads up and block just for
+    your immersive gaming experience
+
+    • Newly added quick reply feature in small window for WhatsApp and INS (Enable
+    it by swipining down from upper right/left corners of the screen in gaming mode)
+
+    • Newly added mis-touch prevention feature. Enable it, swipe down from the top
+    of the screen, click and the notification bar will pop out
+
+    Community
+
+    • Add Best Answer function, which allows you to mark others'' answers. Best Answer
+    will also be rewarded with experience points
+
+    • Add mall function, you can buy mobile phones and other OnePlus products more
+    convenient
+
+    • Optimized the log information capture function'
+  date: '2020-09-07'
+  device: OnePlus 7 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_13.W.43_GLO_043_2009072044/OnePlus7ProOxygen_13.W.43_OTA_043_all_2009072044_d53d.zip
+  md5: e013848230f286c997dda0851b9a4f8d
+  region: Global
+  size: 2.4 GB
+  version: OnePlus7ProOxygen_13.W.43_GLO_043_2009072044
+- branch: Beta
+  changelog: 'OP7_O2_BETA_18
+
+    System
+
+    • Fixed the known issues with screen recorder
+
+    • Fixed the issue that the notification bar did not respond occasionally
+
+    • Updated Android security patch to 2020.09
+
+    • Updated GMS package to 2020.08
+
+    Game space
+
+    • Newly added gaming tools box for convienient switches of Fnatic mode. You can
+    now choose three ways of notifications: text only, heads up and block just for
+    your immersive gaming experience
+
+    • Newly added quick reply feature in small window for WhatsApp and INS (Enable
+    it by swipining down from upper right/left corners of the screen in gaming mode)
+
+    • Newly added mis-touch prevention feature. Enable it, swipe down from the top
+    of the screen, click and the notification bar will pop out
+
+    Community
+
+    • Add Best Answer function, which allows you to mark others'' answers. Best Answer
+    will also be rewarded with experience points
+
+    • Add mall function, you can buy mobile phones and other OnePlus products more
+    convenient
+
+    • Optimized the log information capture function'
+  date: '2020-09-07'
+  device: OnePlus 7
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_13.W.43_GLO_043_2009072043/OnePlus7Oxygen_13.W.43_OTA_043_all_2009072043_c0e5929cf120.zip
+  md5: 077bd6075aa72fe2735acb89541ea135
+  region: Global
+  size: 2.3 GB
+  version: OnePlus7Oxygen_13.W.43_GLO_043_2009072043
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Hydrogen OS 10.5.14.IN11
+
+    System
+
+    • Fixed known issues'
+  date: '2020-09-07'
+  device: OnePlus 8 Pro
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.23_023_2009071857/OnePlus8ProHydrogen_15.H.23_OTA_023_all_2009071857_373579a7df54.zip
+  md5: b8949da28cb47a8717c729a414068a3c
+  region: China
+  size: 3.4 GB
+  version: OnePlus8ProHydrogen_15.H.23_023_2009071857
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2020-09-07'
+  device: OnePlus 7
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_13.X.43_043_2009072045/OnePlus7Hydrogen_13.X.43_OTA_043_all_2009072045_e57cdbba6e4f8.zip
+  md5: 4ba4878ed4fe4a97fa1695336f3c50c3
+  region: China
+  size: 3.4 GB
+  version: OnePlus7Hydrogen_13.X.43_043_2009072045
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2020-09-07'
+  device: OnePlus 7 Pro
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_13.X.43_043_2009072059/OnePlus7ProHydrogen_13.X.43_OTA_043_all_2009072059_75bb.zip
+  md5: 941dad2efb4e09d19becdbd3e6806bd6
+  region: China
+  size: 3.5 GB
+  version: OnePlus7ProHydrogen_13.X.43_043_2009072059
+- branch: Stable
+  changelog: 'OnePlus 8 Hydrogen OS 10.5.10.IN21
+
+    System
+
+    • Fixed known issues'
+  date: '2020-09-07'
+  device: OnePlus 8
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.19_019_2009071901/OnePlus8Hydrogen_15.H.19_OTA_019_all_2009071901_b608c12274017.zip
+  md5: f833bc93a0f62f9730581110feb0b1a5
+  region: China
+  size: 3.3 GB
+  version: OnePlus8Hydrogen_15.H.19_019_2009071901
 - branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.7.AC01AA
 
