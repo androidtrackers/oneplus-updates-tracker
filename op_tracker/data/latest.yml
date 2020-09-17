@@ -1,4 +1,17 @@
 - branch: Stable
+  changelog: 'System
+
+    • Add the use of VoWifi in the some address Network
+
+    • Improved system stability'
+  date: '2020-09-17'
+  device: OnePlus 8 Visible
+  link: https://oxygenos.oneplus.net/OnePlus8VisibleOxygen_15_OTA_004_all_2007221646_557f4bb3dbf247cd.zip
+  md5: 0cc2b290c04a8e079c4e1c3194457e7b
+  region: Global
+  size: 2.19 GB
+  version: 10.5.3.IN68CE
+- branch: Stable
   changelog: '系统
 
     • 修复GPS定位信号弱的问题
