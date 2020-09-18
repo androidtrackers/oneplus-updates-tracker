@@ -372,6 +372,30 @@
   size: 3.0 GB
   version: OnePlus7TProOxygen_13.W.08_GLO_008_2009072125
 - branch: Stable
+  changelog: 'OnePlus 6T Hydrogen OS 10.0.6
+
+    System
+
+    • Fixed the issue that apps on launcher did not respond to click in a few cases
+
+    • Improved system stability and fixed general issues
+
+    Gallery
+
+    • Fixed the issue that the application list is not displayed when sharing pictures
+
+    Calendar
+
+    • Fixed the de-activated spot in Calendar that could not direct to the linked
+    map location'
+  date: '2020-09-07'
+  device: OnePlus 6T
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.46_046_2009071955/OnePlus6THydrogen_34_OTA_046_all_2009071955_b5d2d9aee1df6a1.zip
+  md5: d46f332f8539718dc5f7e0e6dff2eaee
+  region: China
+  size: 2.8 GB
+  version: OnePlus6THydrogen_34.K.46_046_2009071955
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.7.AC01AA
 
     Power
