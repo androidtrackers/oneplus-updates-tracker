@@ -2534,6 +2534,30 @@
   region: China
   size: 3.2 GB
   version: OnePlus8Hydrogen_15.H.16_016_2006300133
+- branch: Stable
+  changelog: 'System
+
+    • Optimize the time of the first major version OTA upgrade'
+  date: '2020-06-29'
+  device: OnePlus 5T
+  link: https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_068_all_2006012227_f63ba0f8b46a4c4a.zip
+  md5: 5cd5d2dbfd938ece3ad2ce37a1d5b8b0
+  region: India
+  size: 1.83 GB
+  version: OnePlus5TOxygen_43.J.68_GLO_068_2002242025
+- branch: Stable
+  changelog: 'System
+
+    • Optimize the time of the first major version OTA upgrade
+
+    • Fix the problem that the invalid function of the three-segment volume key'
+  date: '2020-06-29'
+  device: OnePlus 5
+  link: https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_068_all_2006012224_f14cb766f9c94108.zip
+  md5: 51a0dd530d90b81182d7cf27a3788afd
+  region: India
+  size: 1.82 GB
+  version: OnePlus5Oxygen_23.J.68_GLO_068_2002242016
 - branch: Beta
   changelog: 'System
 
