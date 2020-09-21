@@ -1,3 +1,73 @@
+- branch: Beta
+  changelog: 'System
+
+    • Fixed the known issues with screen recorder
+
+    • Fixed the issue that the notification bar did not respond occasionally
+
+    • Updated Android security patch to 2020.09
+
+    • Updated GMS package to 2020.08 Game space
+
+    • Newly added gaming tools box for convenient switches of Fnatic mode. You can
+    now choose three ways of notifications: text-only heads up and block just for
+    your immersive gaming experience
+
+    • Newly added quick reply feature in a small window for WhatsApp and INS (Enable
+    it by swiping down from upper right/left corners of the screen in gaming mode)
+
+    • Newly added mis-touch prevention feature. Enable it, swipe down from the top
+    of the screen, click and the notification bar will pop out Community
+
+    • Add the Best Answer function, which allows you to mark others'' answers. Best
+    Answer will also be rewarded with experience points
+
+    • Add mall function, you can buy mobile phones and other OnePlus products more
+    convenient
+
+    • Optimized the log information capture function'
+  date: '2020-09-21'
+  device: OnePlus 7T Pro
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_13.W.08_OTA_008_all_2009072125_f855ede8df8549b3.zip
+  md5: 3c523894e320757b0680788207fce503
+  region: EEA
+  size: 2.74 GB
+  version: OnePlus7TProOxygen_13.W.08_008_2009072125
+- branch: Beta
+  changelog: 'System
+
+    • Fixed the known issues with screen recorder
+
+    • Fixed the issue that the notification bar did not respond occasionally
+
+    • Updated Android security patch to 2020.09
+
+    • Updated GMS package to 2020.08 Game space
+
+    • Newly added gaming tools box for convenient switches of Fnatic mode. You can
+    now choose three ways of notifications: text-only heads up and block just for
+    your immersive gaming experience
+
+    • Newly added quick reply feature in a small window for WhatsApp and INS (Enable
+    it by swiping down from upper right/left corners of the screen in gaming mode)
+
+    • Newly added mis-touch prevention feature. Enable it, swipe down from the top
+    of the screen, click and the notification bar will pop out Community
+
+    • Add the Best Answer function, which allows you to mark others'' answers. Best
+    Answer will also be rewarded with experience points
+
+    • Add mall function, you can buy mobile phones and other OnePlus products more
+    convenient
+
+    • Optimized the log information capture function'
+  date: '2020-09-21'
+  device: OnePlus 7T
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.08_OTA_008_all_2009072104_fd22999478544ace.zip
+  md5: f1d72108e4cadbb95ba67f37febd54a5
+  region: EEA
+  size: 2.64 GB
+  version: OnePlus7TOxygen_13.W.08_008_2009072104
 - branch: Stable
   changelog: 'System
 
