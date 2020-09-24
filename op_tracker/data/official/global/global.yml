@@ -3,6 +3,16 @@
   name: OnePlus Nord
   product: ''
   region: ''
+- code: PM1587123976090
+  image: https://oneplusgsp.s3.cn-north-1.amazonaws.com.cn/uploadFiles/6c83652cbde94f4c936638287d97d5e0.png
+  name: OnePlus 8 Pro
+  product: ''
+  region: ''
+- code: PM1586920535300
+  image: https://oneplusgsp.s3.cn-north-1.amazonaws.com.cn/uploadFiles/0b1fd69126d5474fa328f3524bce4f92.png
+  name: OnePlus 8
+  product: ''
+  region: ''
 - code: PM1574162297465
   image: https://image01.oneplus.cn/shop/201910/24/377/9db9f819e394216fb41595cfe3341abf.png
   name: OnePlus 7T Pro

@@ -1,4 +1,64 @@
 - branch: Beta
+  changelog: 'System
+
+    • Optimized some UI display in Settings
+
+    • Fixed the low probability issue that widgets did not respond
+
+    • Fixed the failure to wake up Google Assistant in some cases
+
+    • Fixed the issue that the HD icon on the call log interface was not centered
+
+    • Fixed the black screen issue when the user entered “Tips & Support” interface
+
+    • Improved the system stability Clock
+
+    • Fixed the issue that numbers disappeared in Timer under some special circumstances
+    Ambient display
+
+    • Newly added Canvas feature that can automatically draw a wireframe picture based
+    on a lock screen photo on your phone（Path：Settings-Customization-Wallpaper-Canvas-Choose
+    photo preview and it can be generated automatically） Network
+
+    • Optimize the power consumption of the Smart 5G'
+  date: '2020-09-24'
+  device: OnePlus 8 Pro
+  link: https://oxygenos.oneplus.net/OnePlus8ProOxygen_15_OTA_0120_all_2009181219_67c7f509b51d4279.zip
+  md5: f542305e46095d4035c795c3784b288c
+  region: Global
+  size: 2.82 GB
+  version: Open Beta 2
+- branch: Beta
+  changelog: 'System
+
+    • Optimized some UI display in Settings
+
+    • Fixed the low probability issue that widgets did not respond
+
+    • Fixed the failure to wake up Google Assistant in some cases
+
+    • Fixed the issue that the HD icon on the call log interface was not centered
+
+    • Fixed the black screen issue when the user entered “Tips & Support” interface
+
+    • Improved the system stability Clock
+
+    • Fixed the issue that numbers disappeared in Timer under some special circumstances
+    Ambient display
+
+    • Newly added Canvas feature that can automatically draw a wireframe picture based
+    on a lock screen photo on your phone（Path：Settings-Customization-Wallpaper-Canvas-Choose
+    photo preview and it can be generated automatically） Network
+
+    • Optimize the power consumption of the Smart 5G'
+  date: '2020-09-24'
+  device: OnePlus 8
+  link: https://oxygenos.oneplus.net/OnePlus8Oxygen_15_OTA_0120_all_2009181221_51d035c365ed463d.zip
+  md5: 63be81d9ac7bf6fedd813ab553531da9
+  region: Global
+  size: 2.77 GB
+  version: Open Beta 2
+- branch: Beta
   changelog: '系统
 
     • 焕新 UI 视觉设计，多处细节优化带来更加舒适的观感体验
