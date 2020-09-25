@@ -1,4 +1,58 @@
 - branch: Beta
+  changelog: '系统
+
+    • 修复哔哩哔哩全屏播放小概率黑屏的问题
+
+    • 修复抖音极速版播放显示异常的问题
+
+    • 修复小概率微件无响应的问题
+
+    • 优化设置界面部分UI显示
+
+    • 提升系统稳定性 息屏显示
+
+    • 新增绘影功能，能将你的锁屏照片自动绘制成一张专属的线框图（路径：设置-个性化-壁纸-绘影-选择照片预览即可快速生成） 时钟
+
+    • 优化闹钟部分提示文本
+
+    • 修复特定情况下计时器数字部分缺失的问题 网络
+
+    • 优化智能5G功能的功耗体验'
+  date: '2020-09-25'
+  device: OnePlus 8
+  link: http://download.h2os.com/OnePlus8/OBT/OnePlus8Hydrogen_15_OTA_0120_all_2009181217_f6965f9cd37043a3.zip
+  md5: a9c7a519cfd643d581b5df9a31a1b350
+  region: China
+  size: 3.77 GB
+  version: Open Beta 2
+- branch: Beta
+  changelog: '系统
+
+    • 修复哔哩哔哩全屏播放小概率黑屏的问题
+
+    • 修复抖音极速版播放显示异常的问题
+
+    • 修复小概率微件无响应的问题
+
+    • 优化设置界面部分UI显示
+
+    • 提升系统稳定性 息屏显示
+
+    • 新增绘影功能，能将你的锁屏照片自动绘制成一张专属的线框图（路径：设置-个性化-壁纸-绘影-选择照片预览即可快速生成） 时钟
+
+    • 优化闹钟部分提示文本
+
+    • 修复特定情况下计时器数字部分缺失的问题 网络
+
+    • 优化智能5G功能的功耗体验'
+  date: '2020-09-25'
+  device: OnePlus 8 Pro
+  link: http://download.h2os.com/OnePlus8Pro/OBT/OnePlus8ProHydrogen_15_OTA_0120_all_2009181222_a853711a0aec4c38.zip
+  md5: e30de1c74962dfde77a6df0cd39a66f2
+  region: China
+  size: 3.82 GB
+  version: Open Beta 2
+- branch: Beta
   changelog: 'System
 
     • Optimized some UI display in Settings
