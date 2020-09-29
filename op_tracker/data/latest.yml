@@ -268,6 +268,100 @@
   size: 2.19 GB
   version: 10.5.3.IN68CE
 - branch: Stable
+  changelog: 'OnePlus 7 Pro Hydrogen OS 10.0.8.GM21
+
+    System
+
+    • Newly added user assistance feature to help user master usage skills quickly(Route:
+    Settings>OnePlus Tips&Support)
+
+    • Optimized the power consumption performance of the system and improve user experience
+
+    • Fixed the flashback issue with some third-party apps
+
+    • Fixed flashback issue with WeChat voice call
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.09'
+  date: '2020-09-15'
+  device: OnePlus 7 Pro
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_21.H.29_029_2009152105/OnePlus7ProHydrogen_21.H.29_OTA_029_all_2009152105_700892721f3.zip
+  md5: 505b30ba7afc7928fc6a714f7237a70d
+  region: China
+  size: 3.3 GB
+  version: OnePlus7ProHydrogen_21.H.29_029_2009152105
+- branch: Stable
+  changelog: 'OnePlus 7T Hydrogen OS 10.0.12.HD65
+
+    System
+
+    • Newly added user assistance feature to help user master usage skills quickly(Route:
+    Settings>OnePlus Tips&Support)
+
+    • Optimized the power consumption performance of the system and improve user experience
+
+    • Fixed the flashback issue with some third-party apps
+
+    • Fixed flashback issue with WeChat voice call
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.09'
+  date: '2020-09-15'
+  device: OnePlus 7T
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.15_015_2009152127/OnePlus7THydrogen_14.H.15_OTA_015_all_2009152127_74a5f277e5.zip
+  md5: 4cda33d955f63e4aa5a73387d24a9a80
+  region: China
+  size: 3.6 GB
+  version: OnePlus7THydrogen_14.H.15_015_2009152127
+- branch: Stable
+  changelog: 'OnePlus 7T Pro Hydrogen OS 10.0.10.HD01
+
+    System
+
+    • Newly added user assistance feature to help user master usage skills quickly(Route:
+    Settings>OnePlus Tips&Support)
+
+    • Optimized the power consumption performance of the system and improve user experience
+
+    • Fixed the flashback issue with some third-party apps
+
+    • Fixed flashback issue with WeChat voice call
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.09'
+  date: '2020-09-15'
+  device: OnePlus 7T Pro
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_14.H.15_015_2009152136/OnePlus7TProHydrogen_14.H.15_OTA_015_all_2009152136_95f5.zip
+  md5: d8fc8b3cc0605630f3ef62c92f0a6590
+  region: China
+  size: 3.7 GB
+  version: OnePlus7TProHydrogen_14.H.15_015_2009152136
+- branch: Stable
+  changelog: 'OnePlus 7 Hydrogen OS 10.0.8.GM57
+
+    System
+
+    • Newly added user assistance feature to help user master usage skills quickly(Route:
+    Settings>OnePlus Tips&Support)
+
+    • Fixed the flashback issue with some third-party apps
+
+    • Fixed flashback issue with WeChat voice call
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.09'
+  date: '2020-09-15'
+  device: OnePlus 7
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.29_029_2009152119/OnePlus7Hydrogen_14.H.29_OTA_029_all_2009152119_5186.zip
+  md5: 944333a2f9157cc865215bd02ead60ad
+  region: China
+  size: 3.2 GB
+  version: OnePlus7Hydrogen_14.H.29_029_2009152119
+- branch: Stable
   changelog: '系统
 
     • 修复GPS定位信号弱的问题
@@ -651,6 +745,30 @@
   region: China
   size: 2.8 GB
   version: OnePlus6THydrogen_34.K.46_046_2009071955
+- branch: Stable
+  changelog: 'OnePlus 6 Hydrogen OS 10.0.6
+
+    System
+
+    • Fixed the issue that apps on launcher did not respond to click in a few cases
+
+    • Improved system stability and fixed general issues
+
+    Gallery
+
+    • Fixed the issue that the application list is not displayed when sharing pictures
+
+    Calendar
+
+    • Fixed the de-activated spot in Calendar that could not direct to the linked
+    map location'
+  date: '2020-09-07'
+  device: OnePlus 6
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus6Hydrogen/OnePlus6Hydrogen_22.K.46_046_2009071932/OnePlus6Hydrogen_22_OTA_046_all_2009071932_a8615523d.zip
+  md5: a61252ec2a180cd1aca2517bde44e6c3
+  region: China
+  size: 2.7 GB
+  version: OnePlus6Hydrogen_22.K.46_046_2009071932
 - branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.7.AC01AA
 
