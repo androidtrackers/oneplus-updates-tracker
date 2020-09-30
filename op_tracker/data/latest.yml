@@ -20,6 +20,22 @@
   region: China
   size: 2.35 GB
   version: OnePlus5THydrogen_43.K.64_064_2002171231
+- branch: Stable
+  changelog: "OnePlus Nord Oxygen OS 10.5.8.AC01AA\nSystem\n• Newly added \"Hide silent\
+    \ notifications in status bar\" feature to filter unimportant notifications, making\
+    \ the app notification management easier( Route: Settings>Apps & Notifications>\
+    \ Notifications> Advanced> Hide silent notifications in the status bar )\n• Optimized\
+    \ the expanded screenshot user experience for some scenes\n• Fixed known issues\
+    \ and improved system stability\n• Updated Android security patch to 2020.09\n\
+    \ Camera\n• Optimized image stabilization performance\n Display\n• Improved general\
+    \ display calibration\nNetwork\n• Optimize the network stability"
+  date: '2020-09-26'
+  device: OnePlus Nord
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/NordOxygen/NordOxygen_14.O.10_GLO_010_2009260504/NordOxygen_14.O.10_OTA_010_all_2009260504_113aafee5.zip
+  md5: 5b606a84f4a317f52a317e0ecc428cac
+  region: Global
+  size: 2.6 GB
+  version: NordOxygen_14.O.10_GLO_010_2009260504
 - branch: Beta
   changelog: '系统
 
