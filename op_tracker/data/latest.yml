@@ -808,6 +808,25 @@
   size: 2.7 GB
   version: OnePlus6Hydrogen_22.K.46_046_2009071932
 - branch: Stable
+  changelog: 'OnePlus 7 Pro 5G Oxygen OS 10.0.8.GM27BA
+
+    System
+
+    • Updated Android security patch to 2020.09
+
+    • General bug fixes and stability improvements
+
+    Network
+
+    • Improved stability with network transmission'
+  date: '2020-09-07'
+  device: OnePlus 7 Pro 5G
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7ProNROxygen/OnePlus7ProNROxygen_21.E.24_GLO_024_2009072322/OnePlus7ProNROxygen_21_OTA_024_all_2009072322_ae0b53.zip
+  md5: 68c2c7400993981e4628d2c6c1374133
+  region: EEA
+  size: 2.2 GB
+  version: OnePlus7ProNROxygen_21.E.24_GLO_024_2009072322
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.7.AC01AA
 
     Power
