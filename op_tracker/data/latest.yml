@@ -10,6 +10,28 @@
   size: 2.34 GB
   version: OnePlus5Hydrogen_23.K.64_064_2002171234
 - branch: Stable
+  changelog: 'OnePlus 7TPro Oxygen OS 10.0.11.HD01AA
+
+    System
+
+    • Newly added user assistance feature to help user master usage skills quickly(Route:
+    Settings>OnePlus Tips&Support)
+
+    • Optimized the power consumption performance of the system and improve user experience
+
+    • Fixed the flashback issue with some third-party apps
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.09'
+  date: '2020-09-28'
+  device: OnePlus 7T Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.O.19_GLO_019_2009281704/OnePlus7TProOxygen_14.O.19_OTA_019_all_2009281704_a69c6577c.zip
+  md5: 33812e52a6775a77a72abd19bf3c2175
+  region: Global
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.O.19_GLO_019_2009281704
+- branch: Stable
   changelog: '系统
 
     • 修复系统已知问题'
