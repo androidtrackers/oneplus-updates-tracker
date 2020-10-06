@@ -58,6 +58,38 @@
   region: Global
   size: 2.6 GB
   version: NordOxygen_14.O.10_GLO_010_2009260504
+- branch: Stable
+  changelog: "OnePlus Nord Oxygen OS 10.5.8.AC01BA\nSystem\n• Newly added \"Hide silent\
+    \ notifications in status bar\" feature to filter unimportant notifications, making\
+    \ the app notification management easier( Route: Settings>Apps & Notifications>\
+    \ Notifications> Advanced> Hide silent notifications in the status bar )\n• Optimized\
+    \ the expanded screenshot user experience for some scenes\n• Fixed known issues\
+    \ and improved system stability\n• Updated Android security patch to 2020.09\n\
+    \ Camera\n• Optimized image stabilization performance\n Display\n• Improved general\
+    \ display calibration\nNetwork\n• Optimize the network stability"
+  date: '2020-09-26'
+  device: OnePlus Nord
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.10_GLO_010_2009260459/NordOxygen_14.E.10_OTA_010_all_2009260459_44d68c526.zip
+  md5: 44b5f5b37d06cd232669809b20d417cc
+  region: EEA
+  size: 2.6 GB
+  version: NordOxygen_14.E.10_GLO_010_2009260459
+- branch: Stable
+  changelog: "OnePlus Nord Oxygen OS 10.5.8.AC01DA\nSystem\n• Newly added \"Hide silent\
+    \ notifications in status bar\" feature to filter unimportant notifications, making\
+    \ the app notification management easier( Route: Settings>Apps & Notifications>\
+    \ Notifications> Advanced> Hide silent notifications in the status bar )\n• Optimized\
+    \ the expanded screenshot user experience for some scenes\n• Fixed known issues\
+    \ and improved system stability\n• Updated Android security patch to 2020.09\n\
+    \ Camera\n• Optimized image stabilization performance\n Display\n• Improved general\
+    \ display calibration\nNetwork\n• Optimize the network stability"
+  date: '2020-09-26'
+  device: OnePlus Nord
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.10_GLO_010_2009260428/NordOxygen_14.I.10_OTA_010_all_2009260428_a13cc843db5.zip
+  md5: 50fe72a73ebde987effae931d65e80a1
+  region: India
+  size: 2.7 GB
+  version: NordOxygen_14.I.10_GLO_010_2009260428
 - branch: Beta
   changelog: '系统
 
