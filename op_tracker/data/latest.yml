@@ -1,4 +1,37 @@
 - branch: Stable
+  changelog: "OnePlus 8 Pro Oxygen OS 11.IN11DA\nSystem\n• Fresh new UI visual design\
+    \ brings you more comfortable experience with various optimizations of details\n\
+    • Brand new weather UI supports dynamic switches between sunrise and sunset. You\
+    \ can have day and night at your hand now\n• Optimize the stability of some third-party\
+    \ applications and improve user experience\nGame Space\n• Newly added gaming tools\
+    \ box for convenient switches of Fnatic mode. You can now choose three ways of\
+    \ notifications: text-only, heads up and block, just for your immersive gaming\
+    \ experience\n• Newly added quick reply feature in a small window for WhatsApp\
+    \ and INS (Enable it by swiping down from upper right/left corners of the screen\
+    \ in gaming mode)\n• Newly added mis-touch prevention feature. Enable it, swipe\
+    \ down from the top of the screen, click and the notification bar will pop out\n\
+    Ambient Display \n• Added Always-on ambient Display function, custom Schedule/All\
+    \ day option included. Path: Settings – Display – Ambient Display\n• Newly added\
+    \ Insight clock style, a joint creation with Parsons School of Design. It will\
+    \ change according to the phone usage data ( To set: Settings > Customization\
+    \ > Clock Style)\n• Newly added 10 new clock styles ( To set: Settings > Customization\
+    \ > Clock Style)\nDark Mode\n• Added the shortcut key for Dark Mode, pull down\
+    \ the quick setting to enable.\n• Supporting automatically turn on feature & customize\
+    \ time range. path: Settings – Display – Dark Mode – Turn on automatically – Automatically\
+    \ enable from sunset to sunrise / Custom time range.\nZen Mode\n• Added 5 new\
+    \ themes (ocean, space, grassland, and so on), and more timing options.\n• Included\
+    \ the Group feature in Zen Mode, now you can invite your friends and enable the\
+    \ Zen Mode together\nGallery\n• Supporting Story function, automatically form\
+    \ weekly videos with photos and video in storage\n• Optimize the loading speed\
+    \ of the gallery, and the image preview is faster"
+  date: '2020-09-30'
+  device: OnePlus 8 Pro
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.30_GLO_0300_2009301822/OnePlus8ProOxygen_15.I.30_OTA_0300_all_2009301822_6eb947ec.zip
+  md5: b5a7ab4d96a84a9be2d581b4db1e90c9
+  region: India
+  size: 3.2 GB
+  version: OnePlus8ProOxygen_15.I.30_GLO_0300_2009301822
+- branch: Stable
   changelog: '系统
 
     • 修复系统已知问题'
