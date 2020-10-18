@@ -1,4 +1,34 @@
 - branch: Stable
+  changelog: 'OnePlus 6 Oxygen OS 10.3.6
+
+    System
+
+    • Improved system stability and fixed general bugs
+
+    • Updated Android Security Patch to 2020.09'
+  date: '2020-10-04'
+  device: OnePlus 6
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.48_GLO_048_2010042239/OnePlus6Oxygen_22.J.48_OTA_048_all_2010042239_c0c1fee2ee.zip
+  md5: 17bab9bc5f2621e86f1ffb2dad5f3d91
+  region: Global
+  size: 1.9 GB
+  version: OnePlus6Oxygen_22.J.48_GLO_048_2010042239
+- branch: Stable
+  changelog: 'OnePlus 6T Oxygen OS 10.3.6
+
+    System
+
+    • Improved system stability and fixed general bugs
+
+    • Updated Android Security Patch to 2020.09'
+  date: '2020-10-04'
+  device: OnePlus 6T
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.48_GLO_048_2010042240/OnePlus6TOxygen_34.J.48_OTA_048_all_2010042240_dbd576b615.zip
+  md5: ecb9877b0eb71b2926a4b4ef8dedb3d8
+  region: Global
+  size: 2.0 GB
+  version: OnePlus6TOxygen_34.J.48_GLO_048_2010042240
+- branch: Stable
   changelog: "OnePlus 8 Pro Oxygen OS 11.IN11DA\nSystem\n• Fresh new UI visual design\
     \ brings you more comfortable experience with various optimizations of details\n\
     • Brand new weather UI supports dynamic switches between sunrise and sunset. You\
