@@ -1,4 +1,34 @@
 - branch: Stable
+  changelog: 'OnePlus 7T Pro Hydrogen OS 10.0.11.HD01
+
+    System
+
+    • Fixed the issue that the alarm clock does not ring in certain scenarios
+
+    • Improved system stability'
+  date: '2020-10-11'
+  device: OnePlus 7T Pro
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_14.H.16_016_2010111817/OnePlus7TProHydrogen_14.H.16_OTA_016_all_2010111817_7611a05.zip
+  md5: bf3d3f482b6342009323195bbf432139
+  region: China
+  size: 3.7 GB
+  version: OnePlus7TProHydrogen_14.H.16_016_2010111817
+- branch: Stable
+  changelog: 'OnePlus 7T Hydrogen OS 10.0.13.HD65
+
+    System
+
+    • Fixed the issue that the alarm clock does not ring in certain scenarios
+
+    • Improved system stability'
+  date: '2020-10-11'
+  device: OnePlus 7T
+  link: http://otafsc1.h2os.com/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.16_016_2010111803/OnePlus7THydrogen_14.H.16_OTA_016_all_2010111803_8a45.zip
+  md5: 70484e7bc3c9ce18f203f852ea9cb54b
+  region: China
+  size: 3.6 GB
+  version: OnePlus7THydrogen_14.H.16_016_2010111803
+- branch: Stable
   changelog: 'OnePlus 6 Oxygen OS 10.3.6
 
     System
