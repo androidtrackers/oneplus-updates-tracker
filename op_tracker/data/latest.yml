@@ -55,6 +55,84 @@
   size: 2.7 GB
   version: OnePlus7TOxygen_14.E.20_GLO_020_2010111808
 - branch: Stable
+  changelog: "OnePlus 8 Pro Hydrogen OS 11.IN11\nFriendly Reminder\n• This is the\
+    \ first stable version based on Android 11 that is released by OnePlus. There\
+    \ still may be compatibility issues with some third-party apps. The adaptation\
+    \ relies on the third-party app team, and we will keep communicating with developers\
+    \ about this. If you find any compatibility issues after updating, contacting\
+    \ the app developer will help drive the adaptation process. Thank you for your\
+    \ support!\nSystem\n• Fresh new UI visual design brings you more comfortable experience\
+    \ with various optimizations of details\n• Brand new weather UI supports dynamic\
+    \ switches between sunrise and sunset. You can have day and night at your hand\
+    \ now\n• Optimize the stability of some third-party applications and improve user\
+    \ experience\nGame Space\n• Newly added gaming tools box for convenient switches\
+    \ of Fnatic mode. You can now choose three ways of notifications: text-only, heads\
+    \ up and block, just for your immersive gaming experience\n• Newly added quick\
+    \ reply feature in a small window for QQ and WeChat (Enable it by swiping down\
+    \ from upper right/left corners of the screen in gaming mode)\n• Newly added mis-touch\
+    \ prevention feature. Enable it, swipe down from the top of the screen, click\
+    \ and the notification bar will pop out\nAmbient Display \n• Added Always-on ambient\
+    \ Display function, custom Schedule/All day option included. Path: Settings –\
+    \ Display – Ambient Display\n• Newly added Insight clock style, a joint creation\
+    \ with Parsons School of Design. It will change according to the phone usage data\
+    \ ( To set: Settings > Customization > Clock Style)\n• Newly added 10 new clock\
+    \ styles ( To set: Settings > Customization > Clock Style)\nDark Mode\n• Added\
+    \ the shortcut key for Dark Mode, pull down the quick setting to enable.\n• Supporting\
+    \ automatically turn on feature & customize time range. path: Settings – Display\
+    \ – Dark Mode – Turn on automatically – Automatically enable from sunset to sunrise\
+    \ / Custom time range.\nZen Mode\n• Added 5 new themes (ocean, space, grassland,\
+    \ and so on), and more timing options.\n• Included the Group feature in Zen Mode,\
+    \ now you can invite your friends and enable the Zen Mode together\nGallery\n\
+    • Supporting Story function, automatically form weekly videos with photos and\
+    \ video in storage\n• Optimize the loading speed of the gallery, and the image\
+    \ preview is faster"
+  date: '2020-10-05'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.H.30_0300_2010052353/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.30_0300_2010052353/OnePlus8ProHydrogen_15.H.30_OTA_0300_all_2010052353_d478822b03732.zip
+  md5: f5436addeb5e3beb51fe132177dddea3
+  region: China
+  size: 4.1 GB
+  version: OnePlus8ProHydrogen_15.H.30_0300_2010052353
+- branch: Stable
+  changelog: "OnePlus 8 Hydrogen OS 11.IN21\nFriendly Reminder\n• This is the first\
+    \ stable version based on Android 11 that is released by OnePlus. There still\
+    \ may be compatibility issues with some third-party apps. The adaptation relies\
+    \ on the third-party app team, and we will keep communicating with developers\
+    \ about this. If you find any compatibility issues after updating, contacting\
+    \ the app developer will help drive the adaptation process. Thank you for your\
+    \ support!\nSystem\n• Fresh new UI visual design brings you more comfortable experience\
+    \ with various optimizations of details\n• Brand new weather UI supports dynamic\
+    \ switches between sunrise and sunset. You can have day and night at your hand\
+    \ now\n• Optimize the stability of some third-party applications and improve user\
+    \ experience\nGame Space\n• Newly added gaming tools box for convenient switches\
+    \ of Fnatic mode. You can now choose three ways of notifications: text-only, heads\
+    \ up and block, just for your immersive gaming experience\n• Newly added quick\
+    \ reply feature in a small window for QQ and WeChat (Enable it by swiping down\
+    \ from upper right/left corners of the screen in gaming mode)\n• Newly added mis-touch\
+    \ prevention feature. Enable it, swipe down from the top of the screen, click\
+    \ and the notification bar will pop out\nAmbient Display \n• Added Always-on ambient\
+    \ Display function, custom Schedule/All day option included. Path: Settings –\
+    \ Display – Ambient Display\n• Newly added Insight clock style, a joint creation\
+    \ with Parsons School of Design. It will change according to the phone usage data\
+    \ ( To set: Settings > Customization > Clock Style)\n• Newly added 10 new clock\
+    \ styles ( To set: Settings > Customization > Clock Style)\nDark Mode\n• Added\
+    \ the shortcut key for Dark Mode, pull down the quick setting to enable.\n• Supporting\
+    \ automatically turn on feature & customize time range. path: Settings – Display\
+    \ – Dark Mode – Turn on automatically – Automatically enable from sunset to sunrise\
+    \ / Custom time range.\nZen Mode\n• Added 5 new themes (ocean, space, grassland,\
+    \ and so on), and more timing options.\n• Included the Group feature in Zen Mode,\
+    \ now you can invite your friends and enable the Zen Mode together\nGallery\n\
+    • Supporting Story function, automatically form weekly videos with photos and\
+    \ video in storage\n• Optimize the loading speed of the gallery, and the image\
+    \ preview is faster"
+  date: '2020-10-05'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.H.30_0300_2010052347/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.30_0300_2010052347/OnePlus8Hydrogen_15.H.30_OTA_0300_all_2010052347_2bd4a244b95cc7.zip
+  md5: 2925038f4e3b131563acfb207a9f3b95
+  region: China
+  size: 4.0 GB
+  version: OnePlus8Hydrogen_15.H.30_0300_2010052347
+- branch: Stable
   changelog: 'OnePlus 6 Oxygen OS 10.3.6
 
     System
