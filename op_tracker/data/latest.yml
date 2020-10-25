@@ -81,6 +81,32 @@
   size: 2.2 GB
   version: OnePlus7ProOxygen_21.E.30_GLO_030_2010111747
 - branch: Stable
+  changelog: 'OnePlus 7T Oxygen OS 10.0.14.HD65AA
+
+    System
+
+    • Newly added user assistance feature to help user master usage skills quickly(Route:
+    Settings>OnePlus Tips&Support)
+
+    • Optimized power consumption of the system and improve user experience
+
+    • Fixed the issue that the alarm clock does not ring in certain scenarios
+
+    • Fixed the unstable issue with Messages in special cases
+
+    • Fixed the flashback issue with some third-party apps
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.09'
+  date: '2020-10-11'
+  device: OnePlus 7T
+  link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.20_GLO_020_2010111858/OnePlus7TOxygen_14.O.20_OTA_020_all_2010111858_ae4ef99dc6eeb4.zip
+  md5: 7800774958605c765cef8defea320dd5
+  region: Global
+  size: 2.7 GB
+  version: OnePlus7TOxygen_14.O.20_GLO_020_2010111858
+- branch: Stable
   changelog: "OnePlus 8 Pro Hydrogen OS 11.IN11\nFriendly Reminder\n• This is the\
     \ first stable version based on Android 11 that is released by OnePlus. There\
     \ still may be compatibility issues with some third-party apps. The adaptation\
