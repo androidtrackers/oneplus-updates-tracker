@@ -1,4 +1,74 @@
 - branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 10.5.9.AC01AA
+
+    System
+
+    • Updated Android security patch to 2020.10
+
+    • Improved system stability and general bug fixes
+
+    Game space
+
+    • Newly added gaming tools box for convenient switches of Fnatic mode. You can
+    now choose three ways of notifications: text-only heads up and block just for
+    your immersive gaming experience
+
+    • Newly added quick reply feature in a small window for Whatsapp and INS (Enable
+    it by swiping down from upper right/left corners of the screen in gaming mode)
+
+    • Newly added mis-touch prevention feature. Enable it, swipe down from the top
+    of the screen, click and the notification bar will pop out
+
+    Bluetooth
+
+    • Improved Bluetooth connection stability
+
+    Network
+
+    • Improved network stability'
+  date: '2020-10-23'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord/NordOxygen_14.O.11_GLO_011_2010232026/patch/amazone2/GLO/NordOxygen/NordOxygen_14.O.11_GLO_011_2010232026/NordOxygen_14.O.11_OTA_011_all_2010232026_83bb980e97.zip
+  md5: 93df7d7a7f520d3068493a78b1053fb2
+  region: Global
+  size: 2.6 GB
+  version: NordOxygen_14.O.11_GLO_011_2010232026
+- branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 10.5.9.AC01BA
+
+    System
+
+    • Updated Android security patch to 2020.10
+
+    • Improved system stability and general bug fixes
+
+    Game space
+
+    • Newly added gaming tools box for convenient switches of Fnatic mode. You can
+    now choose three ways of notifications: text-only heads up and block just for
+    your immersive gaming experience
+
+    • Newly added quick reply feature in a small window for Whatsapp and INS (Enable
+    it by swiping down from upper right/left corners of the screen in gaming mode)
+
+    • Newly added mis-touch prevention feature. Enable it, swipe down from the top
+    of the screen, click and the notification bar will pop out
+
+    Bluetooth
+
+    • Improved Bluetooth connection stability
+
+    Network
+
+    • Improved network stability'
+  date: '2020-10-23'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_EEA/NordOxygen_14.E.11_GLO_011_2010232003/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.11_GLO_011_2010232003/NordOxygen_14.E.11_OTA_011_all_2010232003_14585a463c7d5.zip
+  md5: f26f2c5e037acb24bc28c15eeb5b1b5e
+  region: EEA
+  size: 2.6 GB
+  version: NordOxygen_14.E.11_GLO_011_2010232003
+- branch: Stable
   changelog: 'OnePlus 7T Pro Hydrogen OS 10.0.11.HD01
 
     System
