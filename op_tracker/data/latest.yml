@@ -68,6 +68,128 @@
   region: EEA
   size: 2.6 GB
   version: NordOxygen_14.E.11_GLO_011_2010232003
+- branch: Beta
+  changelog: 'OP7T_O2_BETA_09
+
+    System
+
+    • Improved system stability and fixed general issues
+
+    • Updated Android Security Patch to 2020.10
+
+    Camera
+
+    • Fixed the flashback issue when switched to the front camera in particular cases'
+  date: '2020-10-19'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_13.W.09_GLO_009_2010191213/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_13.W.09_GLO_009_2010191213/OnePlus7TOxygen_13.W.09_OTA_009_all_2010191213_3068911d.zip
+  md5: e027b19ee36ab6e82b144ed837fbf8bc
+  region: EEA
+  size: 2.9 GB
+  version: OnePlus7TOxygen_13.W.09_GLO_009_2010191213
+- branch: Beta
+  changelog: 'OP7TPro_O2_BETA_09
+
+    System
+
+    • Improved system stability and fixed general issues
+
+    • Updated Android Security Patch to 2020.10
+
+    Camera
+
+    • Fixed the flashback issue when switched to the front camera in particular cases'
+  date: '2020-10-19'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_13.Y.09_GLO_009_2010191130/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.Y.09_GLO_009_2010191130/OnePlus7TProOxygen_13.Y.09_OTA_009_all_2010191130_89571b.zip
+  md5: 4f47145329dfd18fef3919b5b3a8ef1c
+  region: India
+  size: 2.6 GB
+  version: OnePlus7TProOxygen_13.Y.09_GLO_009_2010191130
+- branch: Beta
+  changelog: 'OP7T_O2_BETA_09
+
+    System
+
+    • Improved system stability and fixed general issues
+
+    • Updated Android Security Patch to 2020.10
+
+    Camera
+
+    • Fixed the flashback issue when switched to the front camera in particular cases'
+  date: '2020-10-19'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_13.Y.09_GLO_009_2010191213/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_13.Y.09_GLO_009_2010191213/OnePlus7TOxygen_13.Y.09_OTA_009_all_2010191213_e2ff106f.zip
+  md5: 82974b17b12b95557163f6cd79f6a690
+  region: India
+  size: 2.6 GB
+  version: OnePlus7TOxygen_13.Y.09_GLO_009_2010191213
+- branch: Beta
+  changelog: 'OP7TPro_O2_BETA_09
+
+    System
+
+    • Improved system stability and fixed general issues
+
+    • Updated Android Security Patch to 2020.10
+
+    Camera
+
+    • Fixed the flashback issue when switched to the front camera in particular cases'
+  date: '2020-10-19'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_13.W.09_GLO_009_2010191130/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.W.09_GLO_009_2010191130/OnePlus7TProOxygen_13.W.09_OTA_009_all_2010191130_ac06386.zip
+  md5: ad8540bcd373cf0865ff5b6edb1ce386
+  region: EEA
+  size: 3.0 GB
+  version: OnePlus7TProOxygen_13.W.09_GLO_009_2010191130
+- branch: Beta
+  changelog: 'OP7_O2_BETA_19
+
+    System
+
+    • Improved system stability and fixed general issues
+
+    • Updated Android Security Patch to 2020.10
+
+    Camera
+
+    • Fixed the flashback issue when switched to the front camera in particular cases'
+  date: '2020-10-19'
+  device: OnePlus 7
+  link: http://otafsg-cost-az.coloros.com/OnePlus7/OnePlus7Oxygen_13.W.45_GLO_045_2010191035/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_13.W.45_GLO_045_2010191035/OnePlus7Oxygen_13.W.45_OTA_045_all_2010191035_0b7a.zip
+  md5: d8cc1d6f9ca911f3c10ab16b43a86de2
+  region: Global
+  size: 2.4 GB
+  version: OnePlus7Oxygen_13.W.45_GLO_045_2010191035
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2020-10-19'
+  device: OnePlus 7T
+  link: http://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_13.X.010_010_2010191137/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_13.X.010_010_2010191137/OnePlus7THydrogen_13.X.010_OTA_010_all_2010191137_6db542cd9681dce.zip
+  md5: 1105ffdd82ed4c23f5d3854ac2034709
+  region: China
+  size: 3.8 GB
+  version: OnePlus7THydrogen_13.X.010_010_2010191137
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2020-10-19'
+  device: OnePlus 7T Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7TPro_CH/OnePlus7TProHydrogen_13.X.010_010_2010191924/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_13.X.010_010_2010191924/OnePlus7TProHydrogen_13.X.010_OTA_010_all_2010191924_af1e.zip
+  md5: 8dad0e2d6657b48a4a9c5d640cdf89fc
+  region: China
+  size: 3.9 GB
+  version: OnePlus7TProHydrogen_13.X.010_010_2010191924
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2020-10-19'
+  device: OnePlus 7
+  link: http://otafsc-cost.h2os.com/OnePlus7_CH/OnePlus7Hydrogen_13.X.45_045_2010191606/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_13.X.45_045_2010191606/OnePlus7Hydrogen_13.X.45_OTA_045_all_2010191606_a0ae599727.zip
+  md5: 0d1791973c2045b3342829296e2b6a92
+  region: China
+  size: 3.5 GB
+  version: OnePlus7Hydrogen_13.X.45_045_2010191606
 - branch: Stable
   changelog: 'OnePlus 7T Pro Hydrogen OS 10.0.11.HD01
 
@@ -176,6 +298,32 @@
   region: Global
   size: 2.7 GB
   version: OnePlus7TOxygen_14.O.20_GLO_020_2010111858
+- branch: Stable
+  changelog: 'OnePlus 7T Oxygen OS 10.3.6.HD65AA
+
+    System
+
+    • Newly added user assistance feature to help user master usage skills quickly(Route:
+    Settings>OnePlus Tips&Support)
+
+    • Optimized power consumption of the system and improve user experience
+
+    • Fixed the issue that the alarm clock does not ring in certain scenarios
+
+    • Fixed the unstable issue with Messages in special cases
+
+    • Fixed the flashback issue with some third-party apps
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.09'
+  date: '2020-10-11'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.I.20_GLO_020_2010111858/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.I.20_GLO_020_2010111858/OnePlus7TOxygen_14.I.20_OTA_020_all_2010111858_849a322.zip
+  md5: e16a0577196ad3a12fc224e6cec4c3cd
+  region: India
+  size: 2.4 GB
+  version: OnePlus7TOxygen_14.I.20_GLO_020_2010111858
 - branch: Stable
   changelog: "OnePlus 8 Pro Hydrogen OS 11.IN11\nFriendly Reminder\n• This is the\
     \ first stable version based on Android 11 that is released by OnePlus. There\
