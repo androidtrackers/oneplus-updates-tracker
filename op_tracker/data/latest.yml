@@ -190,6 +190,34 @@
   region: China
   size: 3.5 GB
   version: OnePlus7Hydrogen_13.X.45_045_2010191606
+- branch: Beta
+  changelog: 'OP7Pro_O2_BETA_19
+
+    System
+
+    • Improved system stability and fixed general issues
+
+    • Updated Android Security Patch to 2020.10
+
+    Camera
+
+    • Fixed the flashback issue when switched to the front camera in particular cases'
+  date: '2020-10-19'
+  device: OnePlus 7 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7Pro/OnePlus7ProOxygen_13.W.45_GLO_045_2010191035/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_13.W.45_GLO_045_2010191035/OnePlus7ProOxygen_13.W.45_OTA_045_all_2010191035_181a6b.zip
+  md5: 41c7ff680da3487b87f9d4f2912547fe
+  region: Global
+  size: 2.4 GB
+  version: OnePlus7ProOxygen_13.W.45_GLO_045_2010191035
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2020-10-19'
+  device: OnePlus 7 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7Pro_CH/OnePlus7ProHydrogen_13.X.45_045_2010191036/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_13.X.45_045_2010191036/OnePlus7ProHydrogen_13.X.45_OTA_045_all_2010191036_c72ccf.zip
+  md5: af2403e2c2709fb684ca55a6f21d782c
+  region: China
+  size: 3.5 GB
+  version: OnePlus7ProHydrogen_13.X.45_045_2010191036
 - branch: Stable
   changelog: 'OnePlus 7T Pro Hydrogen OS 10.0.11.HD01
 
