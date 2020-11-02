@@ -1,4 +1,21 @@
 - branch: Stable
+  changelog: 'Security
+
+    • Android Security Patch upgrade to Sept 2020
+
+    • Security fix added for the IP addresses outside of the US Multimedia
+
+    • Optimized media-sound fix Gallery
+
+    • Optimized Battery Life & user scenario'
+  date: '2020-11-02'
+  device: OnePlus 8 Visible
+  link: https://oxygenos.oneplus.net/OnePlus8VisibleOxygen_15.O.05_OTA_005_all_2010121051_9777576041474f2b.zip
+  md5: 1223e4dff06b4aff446e34e04637a164
+  region: Global
+  size: 2.19 GB
+  version: OnePlus8VisibleOxygen_15.O.05_005_2010121051
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.9.AC01AA
 
     System
