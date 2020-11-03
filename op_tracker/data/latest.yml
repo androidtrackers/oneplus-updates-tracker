@@ -85,6 +85,41 @@
   region: EEA
   size: 2.6 GB
   version: NordOxygen_14.E.11_GLO_011_2010232003
+- branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 10.5.9.AC01DA
+
+    System
+
+    • Updated Android security patch to 2020.10
+
+    • Improved system stability and general bug fixes
+
+    Game space
+
+    • Newly added gaming tools box for convenient switches of Fnatic mode. You can
+    now choose three ways of notifications: text-only heads up and block just for
+    your immersive gaming experience
+
+    • Newly added quick reply feature in a small window for Whatsapp and INS (Enable
+    it by swiping down from upper right/left corners of the screen in gaming mode)
+
+    • Newly added mis-touch prevention feature. Enable it, swipe down from the top
+    of the screen, click and the notification bar will pop out
+
+    Bluetooth
+
+    • Improved Bluetooth connection stability
+
+    Network
+
+    • Improved network stability'
+  date: '2020-10-23'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_IND/NordOxygen_14.I.11_GLO_011_2010232007/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.11_GLO_011_2010232007/NordOxygen_14.I.11_OTA_011_all_2010232007_80d939d45947ca.zip
+  md5: 60bd7ce6b31bb49bc250103ddaf605c0
+  region: India
+  size: 2.7 GB
+  version: NordOxygen_14.I.11_GLO_011_2010232007
 - branch: Beta
   changelog: 'OP7T_O2_BETA_09
 
