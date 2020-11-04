@@ -1,3 +1,83 @@
+- branch: Beta
+  changelog: '系统
+
+    • 优化稳定帧数算法，体验更加流畅
+
+    • 优化后台程序管理机制，改善待机表现
+
+    • 修复在部分游戏中输入文字被遮挡的问题
+
+    • 更新 Android 安全补丁至 2020.10
+
+    • 修复已知问题并提升系统稳定性 息屏显示
+
+    • 优化绘影的动画效果，解锁动画更自然
+
+    • 绘影现已支持息屏常亮功能（设置-息屏显示-息屏显示常亮-选择全天开启即可常亮显示） 禅定模式
+
+    • 修复在禅定模式下系统设置界面小概率停止运行的问题'
+  date: '2020-11-04'
+  device: OnePlus 8 Pro
+  link: http://download.h2os.com/OnePlus8Pro/OBT/OnePlus8ProHydrogen_15.Y.14_OTA_0140_all_2010200027_1bc1714063af44ff.zip
+  md5: 7a159bbd88c2b27c6a675dc15da3c915
+  region: China
+  size: 3.92 GB
+  version: OnePlus8ProHydrogen_15.Y.14_0140_2010200027
+- branch: Beta
+  changelog: '系统
+
+    • 优化稳定帧数算法，体验更加流畅
+
+    • 优化后台程序管理机制，改善待机表现
+
+    • 修复在部分游戏中输入文字被遮挡的问题
+
+    • 更新 Android 安全补丁至 2020.10
+
+    • 修复已知问题并提升系统稳定性 息屏显示
+
+    • 优化绘影的动画效果，解锁动画更自然
+
+    • 绘影现已支持息屏常亮功能（设置-息屏显示-息屏显示常亮-选择全天开启即可常亮显示） 禅定模式
+
+    • 修复在禅定模式下系统设置界面小概率停止运行的问题'
+  date: '2020-11-04'
+  device: OnePlus 8
+  link: http://download.h2os.com/OnePlus8/OBT/OnePlus8Hydrogen_15.Y.14_OTA_0140_all_2010200032_d3c6750820264b79.zip
+  md5: 88e2a95d35075c53b5dd8c240aeaa8b6
+  region: China
+  size: 3.86 GB
+  version: OnePlus8Hydrogen_15.Y.14_0140_2010200032
+- branch: Beta
+  changelog: 'System
+
+    • Improved system stability and fixed general issues
+
+    • Updated Android Security Patch to 2020.10 Camera
+
+    • Fixed the flashback issue when switched to the front camera in particular cases'
+  date: '2020-11-04'
+  device: OnePlus 7T Pro
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_13.W.09_OTA_009_all_2010191130_80341ab526be4194.zip
+  md5: c4f6cc70c71e947ea943ba12537dc09d
+  region: EEA
+  size: 2.77 GB
+  version: OnePlus7TProOxygen_13.W.09_009_2010191130
+- branch: Beta
+  changelog: 'System
+
+    • Improved system stability and fixed general issues
+
+    • Updated Android Security Patch to 2020.10 Camera
+
+    • Fixed the flashback issue when switched to the front camera in particular cases'
+  date: '2020-11-04'
+  device: OnePlus 7T
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.09_OTA_009_all_2010191213_38c1fe16b8d14bce.zip
+  md5: d57a0f0acf7c92907e9e4d99c9d3cbde
+  region: EEA
+  size: 2.67 GB
+  version: OnePlus7TOxygen_13.W.09_009_2010191213
 - branch: Stable
   changelog: 'Security
 
