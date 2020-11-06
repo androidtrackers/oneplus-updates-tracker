@@ -1,4 +1,100 @@
 - branch: Beta
+  changelog: 'System
+
+    • Optimized the UI smoothness of Call
+
+    • Fixed the flashback issue with some third-party apps
+
+    • Fixed the low probability issue that the microphone disabled during the call
+
+    • Fixed the abnormal display issue with Calendar widget on Shelf in Dark Mode
+    (low probability issue)
+
+    • Fixed the abnormal display issue under certain situations
+
+    • Improved the system stability Gallery
+
+    • Optimized the loading speed of the app'
+  date: '2020-11-06'
+  device: OnePlus 8 Pro
+  link: https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.W.13_OTA_0130_all_2010200029_caee083bbc50450f.zip
+  md5: d7e1251528e83a90d0f11ea28bfff2d4
+  region: India
+  size: 3.06 GB
+  version: OnePlus8ProOxygen_15.W.13_0130_2010200029
+- branch: Beta
+  changelog: 'System
+
+    • Optimized the UI smoothness of Call
+
+    • Fixed the flashback issue with some third-party apps
+
+    • Fixed the low probability issue that the microphone disabled during the call
+
+    • Fixed the abnormal display issue with Calendar widget on Shelf in Dark Mode
+    (low probability issue)
+
+    • Fixed the abnormal display issue under certain situations
+
+    • Improved the system stability Gallery
+
+    • Optimized the loading speed of the app'
+  date: '2020-11-06'
+  device: OnePlus 8
+  link: https://oxygenos.oneplus.net/OnePlus8Oxygen_15.W.13_OTA_0130_all_2010200033_3bcf0e3fbdd2490d.zip
+  md5: 524a1bb5a12c2ce39bfc6d3cbb70435b
+  region: India
+  size: 3.01 GB
+  version: OnePlus8Oxygen_15.W.13_0130_2010200033
+- branch: Beta
+  changelog: 'System
+
+    • Optimized the UI smoothness of Call
+
+    • Fixed the flashback issue with some third-party apps
+
+    • Fixed the low probability issue that the microphone disabled during the call
+
+    • Fixed the abnormal display issue with Calendar widget on Shelf in Dark Mode
+    (low probability issue)
+
+    • Fixed the abnormal display issue under certain situations
+
+    • Improved the system stability Gallery
+
+    • Optimized the loading speed of the app'
+  date: '2020-11-06'
+  device: OnePlus 8
+  link: https://oxygenos.oneplus.net/OnePlus8Oxygen_15.X.13_OTA_0130_all_2010200210_1403188d3b654c91.zip
+  md5: f29f330abc7dac87146e6e932b7bb618
+  region: Global
+  size: 2.81 GB
+  version: OnePlus8Oxygen_15.X.13_0130_2010200210
+- branch: Beta
+  changelog: 'System
+
+    • Optimized the UI smoothness of Call
+
+    • Fixed the flashback issue with some third-party apps
+
+    • Fixed the low probability issue that the microphone disabled during the call
+
+    • Fixed the abnormal display issue with Calendar widget on Shelf in Dark Mode
+    (low probability issue)
+
+    • Fixed the abnormal display issue under certain situations
+
+    • Improved the system stability Gallery
+
+    • Optimized the loading speed of the app'
+  date: '2020-11-06'
+  device: OnePlus 8 Pro
+  link: https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.X.13_OTA_0130_all_2010200209_597442495fcc435a.zip
+  md5: f7410d347d5a61f3e7a90dc29c6003f2
+  region: Global
+  size: 2.86 GB
+  version: OnePlus8ProOxygen_15.X.13_0130_2010200209
+- branch: Beta
   changelog: '系统
 
     • 优化稳定帧数算法，体验更加流畅
