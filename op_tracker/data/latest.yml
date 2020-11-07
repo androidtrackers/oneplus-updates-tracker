@@ -192,6 +192,92 @@
   size: 2.19 GB
   version: OnePlus8VisibleOxygen_15.O.05_005_2010121051
 - branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 11.0.1.1.IN11BA
+
+    System
+
+    • Optimized the frame stability algorithm to make the experience smoother
+
+    • Optimized adaptive brightness algorithm, making 8,192 levels of automatic brightness
+    adjustment more comfortable
+
+    • Optimized background process management mechanism to improve standby-by performance
+
+    • The quick setting has been adjusted to three lines
+
+    • Updated Android Security Patch to 2020.10
+
+    • Improved system stability
+
+    Ambient display
+
+    • Newly added Canvas feature that can automatically draw a wireframe picture based
+    on a lock screen photo on your phone（Path：Settings-Customization-Wallpaper-Canvas-Choose
+    photo preview and it can be generated automatically）
+
+    Network
+
+    • Optimized the intelligent 5G function to extend battery endurance capacity
+
+    • Optimized Wi-Fi connection to improve stability of connectivity
+
+    Bluetooth
+
+    • Optimized Wi-Fi connection to reduce transfer delay
+
+    • Fixed the low probability issue that it was muted after connecting to Bluetooth'
+  date: '2020-11-01'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_EEA/OnePlus8ProOxygen_15.E.31_GLO_0310_2011010124/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.E.31_GLO_0310_2011010124/OnePlus8ProOxygen_15.E.31_OTA_0310_all_2011010124_d85208.zip
+  md5: 36e6476000a88a9325386c70ff513d79
+  region: EEA
+  size: 3.1 GB
+  version: OnePlus8ProOxygen_15.E.31_GLO_0310_2011010124
+- branch: Stable
+  changelog: 'OnePlus 8 Oxygen OS 11.0.1.1.IN21BA
+
+    System
+
+    • Optimized the frame stability algorithm to make the experience smoother
+
+    • Optimized adaptive brightness algorithm, making 8,192 levels of automatic brightness
+    adjustment more comfortable
+
+    • Optimized background process management mechanism to improve standby-by performance
+
+    • Fixed the low probability issue of black screen
+
+    • The quick setting has been adjusted to three lines
+
+    • Updated Android Security Patch to 2020.10
+
+    • Improved system stability
+
+    Ambient display
+
+    • Newly added Canvas feature that can automatically draw a wireframe picture based
+    on a lock screen photo on your phone（Path：Settings-Customization-Wallpaper-Canvas-Choose
+    photo preview and it can be generated automatically）
+
+    Network
+
+    • Optimized the intelligent 5G function to extend battery endurance capacity
+
+    • Optimized Wi-Fi connection to improve stability of connectivity
+
+    Bluetooth
+
+    • Optimized Wi-Fi connection to reduce transfer delay
+
+    • Fixed the low probability issue that it was muted after connecting to Bluetooth'
+  date: '2020-11-01'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_EEA/OnePlus8Oxygen_15.E.31_GLO_0310_2011010118/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.E.31_GLO_0310_2011010118/OnePlus8Oxygen_15.E.31_OTA_0310_all_2011010118_955b939a.zip
+  md5: f73507ef543e7507e7e4761adb4ee215
+  region: EEA
+  size: 3.0 GB
+  version: OnePlus8Oxygen_15.E.31_GLO_0310_2011010118
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.9.AC01AA
 
     System
@@ -682,6 +768,46 @@
   region: EEA
   size: 2.8 GB
   version: OnePlus7TProOxygen_14.E.20_GLO_020_2010111813
+- branch: Stable
+  changelog: "OnePlus 7 Oxygen OS 10.3.6.GM57AA \nSystem\n• Newly added user assistance\
+    \ feature to help user master usage skills quickly(Route: Settings>OnePlus Tips&Support)\n\
+    • Fixed the issue that the alarm clock does not ring in certain scenarios\n• Fixed\
+    \ the unstable issue with Messages in special cases\n• Fixed the flashback issue\
+    \ with some third-party apps\n• Fixed known issues and improved system stability\n\
+    • Updated Android Security Patch to 2020.09"
+  date: '2020-10-11'
+  device: OnePlus 7
+  link: http://otafsg-cost-az.coloros.com/OnePlus7/OnePlus7Oxygen_14.P.30_GLO_030_2010111752/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.30_GLO_030_2010111752/OnePlus7Oxygen_14.P.30_OTA_030_all_2010111752_d61a262fbe4cf5.zip
+  md5: d40443abedb461815ea2ac66d8f99d1e
+  region: India
+  size: 2.2 GB
+  version: OnePlus7Oxygen_14.P.30_GLO_030_2010111752
+- branch: Stable
+  changelog: 'OnePlus 7 Pro Oxygen OS 10.3.6.GM21AA
+
+    System
+
+    • Newly added user assistance feature to help user master usage skills quickly(Route:
+    Settings>OnePlus Tips&Support)
+
+    • Optimized power consumption of the system and improve user experience
+
+    • Fixed the issue that the alarm clock does not ring in certain scenarios
+
+    • Fixed the unstable issue with Messages in special cases
+
+    • Fixed the flashback issue with some third-party apps
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android Security Patch to 2020.09'
+  date: '2020-10-11'
+  device: OnePlus 7 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7Pro/OnePlus7ProOxygen_21.P.30_GLO_030_2010111737/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_21.P.30_GLO_030_2010111737/OnePlus7ProOxygen_21.P.30_OTA_030_all_2010111737_2b80.zip
+  md5: e5c143a1ef25e4c3ba379c38ca3c15c1
+  region: Global
+  size: 2.3 GB
+  version: OnePlus7ProOxygen_21.P.30_GLO_030_2010111737
 - branch: Stable
   changelog: "OnePlus 8 Pro Hydrogen OS 11.IN11\nFriendly Reminder\n• This is the\
     \ first stable version based on Android 11 that is released by OnePlus. There\
