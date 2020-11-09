@@ -278,6 +278,92 @@
   size: 3.0 GB
   version: OnePlus8Oxygen_15.E.31_GLO_0310_2011010118
 - branch: Stable
+  changelog: 'OnePlus 8 Oxygen OS 11.0.1.1.IN21DA
+
+    System
+
+    • Optimized the frame stability algorithm to make the experience smoother
+
+    • Optimized adaptive brightness algorithm, making 8,192 levels of automatic brightness
+    adjustment more comfortable
+
+    • Optimized background process management mechanism to improve standby-by performance
+
+    • Fixed the low probability issue of black screen
+
+    • The quick setting has been adjusted to three lines
+
+    • Updated Android Security Patch to 2020.10
+
+    • Improved system stability
+
+    Ambient display
+
+    • Newly added Canvas feature that can automatically draw a wireframe picture based
+    on a lock screen photo on your phone（Path：Settings-Customization-Wallpaper-Canvas-Choose
+    photo preview and it can be generated automatically）
+
+    Network
+
+    • Optimized the intelligent 5G function to extend battery endurance capacity
+
+    • Optimized Wi-Fi connection to improve stability of connectivity
+
+    Bluetooth
+
+    • Optimized Wi-Fi connection to reduce transfer delay
+
+    • Fixed the low probability issue that it was muted after connecting to Bluetooth'
+  date: '2020-11-01'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.I.31_GLO_0310_2011010118/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.31_GLO_0310_2011010118/OnePlus8Oxygen_15.I.31_OTA_0310_all_2011010118_8ac3fff64.zip
+  md5: 2cdb8ba9bd10bf019cdc744624c9e733
+  region: India
+  size: 3.2 GB
+  version: OnePlus8Oxygen_15.I.31_GLO_0310_2011010118
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 11.0.1.1.IN11DA
+
+    System
+
+    • Optimized the frame stability algorithm to make the experience smoother
+
+    • Optimized adaptive brightness algorithm, making 8,192 levels of automatic brightness
+    adjustment more comfortable
+
+    • Optimized background process management mechanism to improve standby-by performance
+
+    • The quick setting has been adjusted to three lines
+
+    • Updated Android Security Patch to 2020.10
+
+    • Improved system stability
+
+    Ambient display
+
+    • Newly added Canvas feature that can automatically draw a wireframe picture based
+    on a lock screen photo on your phone（Path：Settings-Customization-Wallpaper-Canvas-Choose
+    photo preview and it can be generated automatically）
+
+    Network
+
+    • Optimized the intelligent 5G function to extend battery endurance capacity
+
+    • Optimized Wi-Fi connection to improve stability of connectivity
+
+    Bluetooth
+
+    • Optimized Wi-Fi connection to reduce transfer delay
+
+    • Fixed the low probability issue that it was muted after connecting to Bluetooth'
+  date: '2020-11-01'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.I.31_GLO_0310_2011010118/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.31_GLO_0310_2011010118/OnePlus8ProOxygen_15.I.31_OTA_0310_all_2011010118_76eea4b5a29f.zip
+  md5: 3254b736ab49b789dff3b857a4c635c8
+  region: India
+  size: 3.3 GB
+  version: OnePlus8ProOxygen_15.I.31_GLO_0310_2011010118
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.9.AC01AA
 
     System
