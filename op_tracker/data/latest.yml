@@ -364,6 +364,94 @@
   size: 3.3 GB
   version: OnePlus8ProOxygen_15.I.31_GLO_0310_2011010118
 - branch: Stable
+  changelog: 'OnePlus 8 Hydrogen OS 11.0.1.1.IN21
+
+    System
+
+    • Optimized adaptive brightness algorithm, making 8192 levels of automatic brightness
+    adjustment more comfortable
+
+    • Optimized background process management mechanism to improve standby-by performance
+
+    • Optimized the frame stability algorithm to make the experience smoother
+
+    • Fixed the low probability issue of black screen
+
+    • Fixed the low probability issue that the bus card would pop out the swipe screen
+    repeatedly
+
+    • The quick setting has been adjusted to three lines
+
+    • Improved system stability
+
+    Ambient display
+
+    • Newly added Canvas feature that can automatically draw a wireframe picture based
+    on a lock screen photo on your phone（Path：Settings-Customization-Wallpaper-Canvas-Choose
+    photo preview and it can be generated automatically）
+
+    Network
+
+    • Optimized the intelligent 5G function to extend battery endurance capacity
+
+    • Optimized Wi-Fi connection to improve stability of connectivity
+
+    Bluetooth
+
+    • Optimized Wi-Fi connection to reduce transfer delay
+
+    • Fixed the low probability issue that it was muted after connecting to Bluetooth'
+  date: '2020-10-29'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.H.31_0310_2010291924/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.31_0310_2010291924/OnePlus8Hydrogen_15.H.31_OTA_0310_all_2010291924_a60b7994b0.zip
+  md5: 46ba80ecca77c062db2ce3042d0bc843
+  region: China
+  size: 4.1 GB
+  version: OnePlus8Hydrogen_15.H.31_0310_2010291924
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Hydrogen OS 11.0.1.1.IN11
+
+    System
+
+    • Optimized adaptive brightness algorithm, making 8192 levels of automatic brightness
+    adjustment more comfortable
+
+    • Optimized background process management mechanism to improve standby-by performance
+
+    • Optimized the frame stability algorithm to make the experience smoother
+
+    • Fixed the low probability issue that the bus card would pop out the swipe screen
+    repeatedly
+
+    • The quick setting has been adjusted to three lines
+
+    • Improved system stability
+
+    Ambient display
+
+    • Newly added Canvas feature that can automatically draw a wireframe picture based
+    on a lock screen photo on your phone（Path：Settings-Customization-Wallpaper-Canvas-Choose
+    photo preview and it can be generated automatically）
+
+    Network
+
+    • Optimized the intelligent 5G function to extend battery endurance capacity
+
+    • Optimized Wi-Fi connection to improve stability of connectivity
+
+    Bluetooth
+
+    • Optimized Wi-Fi connection to reduce transfer delay
+
+    • Fixed the low probability issue that it was muted after connecting to Bluetooth'
+  date: '2020-10-29'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.H.31_0310_2010291922/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.31_0310_2010291922/OnePlus8ProHydrogen_15.H.31_OTA_0310_all_2010291922_17ef60a7f45f.zip
+  md5: 93b5d09c579a2c16cf2ff76f0dfc193b
+  region: China
+  size: 4.2 GB
+  version: OnePlus8ProHydrogen_15.H.31_0310_2010291922
+- branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.9.AC01AA
 
     System
