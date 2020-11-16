@@ -556,6 +556,74 @@
   region: India
   size: 2.7 GB
   version: NordOxygen_14.I.11_GLO_011_2010232007
+- branch: Stable
+  changelog: 'OnePlus6T Hydrogen OS 10.0.8
+
+    System
+
+    • Newly added two fonts in Customization for you to choose from (DynaFont Yuan
+    and Tsangerjinkai, the visual experience varies depending scenarios)
+
+    • Newly added "Hide silent notifications in status bar" feature to filter unimportant
+    notifications, making the app notification management easier( Route: Settings>Apps
+    & Notifications> Notifications> Advanced> Hide silent notifications in status
+    bar )
+
+    • Improved system stability and fixed general issues
+
+    Game space
+
+    • Newly added gaming tools box for convenient switches of Fnatic mode. You can
+    now choose three ways of notifications: text-only, heads up and block, just for
+    your immersive gaming experience
+
+    • Newly added quick reply feature in a small window for QQ and WeChat,You can
+    reply instantly in the game without returning to the desktop (Enable it by swiping
+    down from upper right/left corners of the screen in gaming mode)
+
+    • Newly added mis-touch prevention feature. Enable it, swipe down from the top
+    of the screen, click and the notification bar will pop out'
+  date: '2020-10-22'
+  device: OnePlus 6T
+  link: http://otafsc-cost.h2os.com/OnePlus6T/OnePlus6THydrogen_34.K.48_048_2010222249/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.48_048_2010222249/OnePlus6THydrogen_34.K.48_OTA_048_all_2010222249_7ed462dfe73dc6.zip
+  md5: af5ddd6667218ac07bab231acd04df60
+  region: China
+  size: 2.8 GB
+  version: OnePlus6THydrogen_34.K.48_048_2010222249
+- branch: Stable
+  changelog: 'OnePlus6 Hydrogen OS 10.0.8
+
+    System
+
+    • Newly added two fonts in Customization for you to choose from (DynaFont Yuan
+    and Tsangerjinkai, the visual experience varies depending scenarios)
+
+    • Newly added "Hide silent notifications in status bar" feature to filter unimportant
+    notifications, making the app notification management easier( Route: Settings>Apps
+    & Notifications> Notifications> Advanced> Hide silent notifications in status
+    bar )
+
+    • Improved system stability and fixed general issues
+
+    Game space
+
+    • Newly added gaming tools box for convenient switches of Fnatic mode. You can
+    now choose three ways of notifications: text-only, heads up and block, just for
+    your immersive gaming experience
+
+    • Newly added quick reply feature in a small window for QQ and WeChat,You can
+    reply instantly in the game without returning to the desktop (Enable it by swiping
+    down from upper right/left corners of the screen in gaming mode)
+
+    • Newly added mis-touch prevention feature. Enable it, swipe down from the top
+    of the screen, click and the notification bar will pop out'
+  date: '2020-10-22'
+  device: OnePlus 6
+  link: http://otafsc-cost.h2os.com/OnePlus6/OnePlus6Hydrogen_22.K.48_048_2010222226/patch/CHN/OnePlus6Hydrogen/OnePlus6Hydrogen_22.K.48_048_2010222226/OnePlus6Hydrogen_22.K.48_OTA_048_all_2010222226_2502bd9cd.zip
+  md5: e7ff9601303bb64ec843ccff4cb4dcd8
+  region: China
+  size: 2.7 GB
+  version: OnePlus6Hydrogen_22.K.48_048_2010222226
 - branch: Beta
   changelog: 'OP7T_O2_BETA_09
 
