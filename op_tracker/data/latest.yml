@@ -1,3 +1,34 @@
+- branch: Stable
+  changelog: '系统
+
+    • 优化通话功能稳定性
+
+    • 改善系统功耗表现，降低发热
+
+    • 改善游戏中可能误触的问题，提升游戏体验
+
+    • 优化部分游戏的流畅度，减少卡顿情况
+
+    • 优化三段式体验，增加三种模式切换的提示文案
+
+    • 修复横屏场景下，状态栏未正常隐藏的问题
+
+    • 修复小概率无法开启NFC的问题 相机
+
+    • 优化拍照成像效果，给你带来更好的拍摄体验
+
+    • 提升相机稳定性 网络
+
+    • 优化数据网络连接，提升信号网络强度
+
+    • 修复游戏过程中小概率出现断流的问题'
+  date: '2020-11-18'
+  device: OnePlus 8T
+  link: https://download.h2os.com/OnePlus8T/MP/OnePlus8THydrogen_15.H.19_OTA_0190_all_2011100104_d71268e8fd2942fd.zip
+  md5: 646e79109cfb607c55851dccf8dad259
+  region: China
+  size: 4.07 GB
+  version: OnePlus8THydrogen_15.H.19_0190_2011100104
 - branch: Beta
   changelog: 'System
 
