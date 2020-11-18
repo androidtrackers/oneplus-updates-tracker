@@ -775,6 +775,21 @@
   size: 3.5 GB
   version: OnePlus7ProHydrogen_13.X.45_045_2010191036
 - branch: Stable
+  changelog: 'OnePlus7 Hydrogen OS 10.0.9.GM57
+
+    System
+
+    • Fixed the issue that the alarm clock does not ring in certain scenarios
+
+    • Improved system stability'
+  date: '2020-10-16'
+  device: OnePlus 7
+  link: http://otafsc-cost.h2os.com/OnePlus7_CH/OnePlus7Hydrogen_14.H.30_030_2010161501/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.30_030_2010161501/OnePlus7Hydrogen_14.H.30_OTA_030_all_2010161501_876ea.zip
+  md5: 18fa170e3f2f3e255e6e99d315dfbae8
+  region: China
+  size: 3.2 GB
+  version: OnePlus7Hydrogen_14.H.30_030_2010161501
+- branch: Stable
   changelog: 'OnePlus 7T Pro Hydrogen OS 10.0.11.HD01
 
     System
