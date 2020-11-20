@@ -30,6 +30,54 @@
   size: 4.07 GB
   version: OnePlus8THydrogen_15.H.19_0190_2011100104
 - branch: Beta
+  changelog: "OxygenOS: OnePlus8_O₂_BETA_4\nSystem\n• Optimize the stability of the\
+    \ call \n• Optimized system power consumption\n• Optimized some UI display with\
+    \ Alarms\n• Optimized the user experience with a split-screen of apps\n• Fixed\
+    \ the issue that gaming frame rate decreased when pulling down the status bar\n\
+    • Fixed the issue that NFC cannot be turned on in a small probability\n• Fixed\
+    \ the issue that Play Store could not install the app\n• Fixed the lagging issue\
+    \ with MX player\n• Updated Android security patch to 2020.11\nNetwork\n• Fixed\
+    \ the low probability automatic disconnection issue with Wi-Fi"
+  date: '2020-11-11'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.W.14_GLO_0140_2011111135/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.W.14_GLO_0140_2011111135/OnePlus8Oxygen_15.W.14_OTA_0140_all_2011111135_91d227eb.zip
+  md5: da4839d527072cda1fa00b2e5c738c73
+  region: India
+  size: 3.2 GB
+  version: OnePlus8Oxygen_15.W.14_GLO_0140_2011111135
+- branch: Beta
+  changelog: "OxygenOS: OnePlus8Pro_O₂_BETA_4\nSystem\n• Optimize the stability of\
+    \ the call \n• Optimized system power consumption\n• Optimized some UI display\
+    \ with Alarms\n• Optimized the user experience with a split-screen of apps\n•\
+    \ Fixed the issue that gaming frame rate decreased when pulling down the status\
+    \ bar\n• Fixed the issue that NFC cannot be turned on in a small probability\n\
+    • Fixed the issue that Play Store could not install the app\n• Fixed the lagging\
+    \ issue with MX player\n• Updated Android security patch to 2020.11\nNetwork\n\
+    • Fixed the low probability automatic disconnection issue with Wi-Fi"
+  date: '2020-11-11'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro/OnePlus8ProOxygen_15.X.14_GLO_0140_2011111132/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.X.14_GLO_0140_2011111132/OnePlus8ProOxygen_15.X.14_OTA_0140_all_2011111132_935754d7847.zip
+  md5: 5c1053e5484c7d5c2f8e9a98131253d5
+  region: Global
+  size: 3.1 GB
+  version: OnePlus8ProOxygen_15.X.14_GLO_0140_2011111132
+- branch: Beta
+  changelog: "OxygenOS: OnePlus8_O₂_BETA_4\nSystem\n• Optimize the stability of the\
+    \ call \n• Optimized system power consumption\n• Optimized some UI display with\
+    \ Alarms\n• Optimized the user experience with a split-screen of apps\n• Fixed\
+    \ the issue that gaming frame rate decreased when pulling down the status bar\n\
+    • Fixed the issue that NFC cannot be turned on in a small probability\n• Fixed\
+    \ the issue that Play Store could not install the app\n• Fixed the lagging issue\
+    \ with MX player\n• Updated Android security patch to 2020.11\nNetwork\n• Fixed\
+    \ the low probability automatic disconnection issue with Wi-Fi"
+  date: '2020-11-11'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8/OnePlus8Oxygen_15.X.14_GLO_0140_2011111129/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.X.14_GLO_0140_2011111129/OnePlus8Oxygen_15.X.14_OTA_0140_all_2011111129_603b4dd740.zip
+  md5: b685c2fb1d87a5f41b33a4701ab1059e
+  region: Global
+  size: 3.0 GB
+  version: OnePlus8Oxygen_15.X.14_GLO_0140_2011111129
+- branch: Beta
   changelog: 'System
 
     • Optimized the UI smoothness of Call
