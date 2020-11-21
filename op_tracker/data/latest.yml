@@ -78,6 +78,53 @@
   size: 3.0 GB
   version: OnePlus8Oxygen_15.X.14_GLO_0140_2011111129
 - branch: Beta
+  changelog: "OxygenOS: OnePlus8Pro_O₂_BETA_4\nSystem\n• Optimize the stability of\
+    \ the call \n• Optimized system power consumption\n• Optimized some UI display\
+    \ with Alarms\n• Optimized the user experience with a split-screen of apps\n•\
+    \ Fixed the issue that gaming frame rate decreased when pulling down the status\
+    \ bar\n• Fixed the issue that NFC cannot be turned on in a small probability\n\
+    • Fixed the issue that Play Store could not install the app\n• Fixed the lagging\
+    \ issue with MX player\n• Updated Android security patch to 2020.11\nNetwork\n\
+    • Fixed the low probability automatic disconnection issue with Wi-Fi"
+  date: '2020-11-11'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.W.14_GLO_0140_2011111133/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.W.14_GLO_0140_2011111133/OnePlus8ProOxygen_15.W.14_OTA_0140_all_2011111133_66ee131.zip
+  md5: 9fed9391d86f0073491b8cf838b4accf
+  region: India
+  size: 3.3 GB
+  version: OnePlus8ProOxygen_15.W.14_GLO_0140_2011111133
+- branch: Stable
+  changelog: 'OnePlus7 Pro Hydrogen OS 10.0.10.GM21
+
+    System
+
+    • Optimized the user experience of the status bar in the call scene to reduce
+    mis-touches
+
+    • Fixed small probability crash issue with honor of kings
+
+    • Fixed small probability crash issue with Phone app
+
+    • Updated Android Security Patch to 2020.11
+
+    Message
+
+    • Newly added the auto-clean feature for historical messages. Once enabled, it
+    will delete life service messages after 45 days and the verification codes will
+    be removed after 3 days
+
+    • The messages can now smartly recognize links and numbers contained in the text.
+    The link can be accessed by one click
+
+    • Newly added labeling as important feature for couriers, cards and ticket'
+  date: '2020-11-09'
+  device: OnePlus 7 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7Pro_CH/OnePlus7ProHydrogen_21.H.31_031_2011091840/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_21.H.31_031_2011091840/OnePlus7ProHydrogen_21.H.31_OTA_031_all_2011091840_0a74aa44f9c8c7.zip
+  md5: 0a60ee43f2edd270d35c1c7118ef3a03
+  region: China
+  size: 3.3 GB
+  version: OnePlus7ProHydrogen_21.H.31_031_2011091840
+- branch: Beta
   changelog: 'System
 
     • Optimized the UI smoothness of Call
