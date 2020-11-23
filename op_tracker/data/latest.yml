@@ -220,6 +220,26 @@
   region: Global
   size: 2.86 GB
   version: OnePlus8ProOxygen_15.X.13_0130_2010200209
+- branch: Stable
+  changelog: 'OnePlus 7T Oxygen OS 10.0.15.HD65AA
+
+    System
+
+    • Optimized the user experience of the status bar in the call scene to reduce
+    mis-touches
+
+    • Fixed small probability flashback issue with Phone app
+
+    • Updated Android Security Patch to 2020.11
+
+    • Updated GMS package to 2020.08'
+  date: '2020-11-05'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.O.21_GLO_021_2011052319/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.21_GLO_021_2011052319/OnePlus7TOxygen_14.O.21_OTA_021_all_2011052319_ecaa34d9d94502c.zip
+  md5: 47366e2bb722291d74b8e48fbb3bb745
+  region: Global
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.O.21_GLO_021_2011052319
 - branch: Beta
   changelog: '系统
 
