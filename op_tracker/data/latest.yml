@@ -124,6 +124,99 @@
   region: China
   size: 3.3 GB
   version: OnePlus7ProHydrogen_21.H.31_031_2011091840
+- branch: Stable
+  changelog: 'OnePlus 7T Pro Hydrogen OS 10.0.12.HD01
+
+    System
+
+    • Optimized the user experience of the status bar in the call scene to reduce
+    mis-touches
+
+    • Fixed small probability crash issue with honor of kings
+
+    • Fixed small probability crash issue with Phone app
+
+    • Updated Android Security Patch to 2020.11
+
+    Message
+
+    • Newly added the auto-clean feature for historical messages. Once enabled, it
+    will delete life service messages after 45 days and the verification codes will
+    be removed after 3 days
+
+    • The messages can now smartly recognize links and numbers contained in the text.
+    The link can be accessed by one click
+
+    • Newly added labeling as important feature for couriers, cards and ticket'
+  date: '2020-11-09'
+  device: OnePlus 7T Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7TPro_CH/OnePlus7TProHydrogen_14.H.17_017_2011091917/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_14.H.17_017_2011091917/OnePlus7TProHydrogen_14.H.17_OTA_017_all_2011091917_47cf2bceb1aa.zip
+  md5: a199e388e8995cf829a16cf2171a290c
+  region: China
+  size: 3.7 GB
+  version: OnePlus7TProHydrogen_14.H.17_017_2011091917
+- branch: Stable
+  changelog: 'OnePlus 7T Hydrogen OS 10.0.14.HD65
+
+    System
+
+    • Optimized the user experience of the status bar in the call scene to reduce
+    mis-touches
+
+    • Fixed small probability crash issue with honor of kings
+
+    • Fixed small probability crash issue with Phone app
+
+    • Updated Android Security Patch to 2020.11
+
+    Message
+
+    • Newly added the auto-clean feature for historical messages. Once enabled, it
+    will delete life service messages after 45 days and the verification codes will
+    be removed after 3 days
+
+    • The messages can now smartly recognize links and numbers contained in the text.
+    The link can be accessed by one click
+
+    • Newly added labeling as important feature for couriers, cards and ticket'
+  date: '2020-11-09'
+  device: OnePlus 7T
+  link: http://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.17_017_2011091900/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.17_017_2011091900/OnePlus7THydrogen_14.H.17_OTA_017_all_2011091900_e92a2a1959e995.zip
+  md5: 5f23126d3f413ca2d76699ccfa26702b
+  region: China
+  size: 3.6 GB
+  version: OnePlus7THydrogen_14.H.17_017_2011091900
+- branch: Stable
+  changelog: 'OnePlus7 Hydrogen OS 10.0.10.GM57
+
+    System
+
+    • Optimized the user experience of the status bar in the call scene to reduce
+    mis-touches
+
+    • Fixed small probability crash issue with honor of kings
+
+    • Fixed small probability crash issue with Phone app
+
+    • Updated Android Security Patch to 2020.11
+
+    Message
+
+    • Newly added the auto-clean feature for historical messages. Once enabled, it
+    will delete life service messages after 45 days and the verification codes will
+    be removed after 3 days
+
+    • The messages can now smartly recognize links and numbers contained in the text.
+    The link can be accessed by one click
+
+    • Newly added labeling as important feature for couriers, cards and ticket'
+  date: '2020-11-09'
+  device: OnePlus 7
+  link: http://otafsc-cost.h2os.com/OnePlus7_CH/OnePlus7Hydrogen_14.H.31_031_2011091838/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.31_031_2011091838/OnePlus7Hydrogen_14.H.31_OTA_031_all_2011091838_2c8347d55ff2.zip
+  md5: 84821b261ebff93b08efe3281a770ce4
+  region: China
+  size: 3.2 GB
+  version: OnePlus7Hydrogen_14.H.31_031_2011091838
 - branch: Beta
   changelog: 'System
 
