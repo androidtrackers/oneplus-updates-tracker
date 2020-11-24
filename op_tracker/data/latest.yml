@@ -1,4 +1,76 @@
 - branch: Stable
+  changelog: 'System
+
+    • Optimized the frame stability algorithm to make the experience smoother
+
+    • Optimized adaptive brightness algorithm, making 8,192 levels of automatic brightness
+    adjustment more comfortable
+
+    • Optimized background process management mechanism to improve standby-by performance
+
+    • Fixed the low probability issue of black screen
+
+    • The quick setting has been adjusted to three lines
+
+    • Updated Android Security Patch to 2020.10
+
+    • Improved system stability Ambient display
+
+    • Newly added Canvas feature that can automatically draw a wireframe picture based
+    on a lock screen photo on your phone（Path：Settings-Customization-Wallpaper-Canvas-Choose
+    photo preview and it can be generated automatically） Network
+
+    • Optimized the intelligent 5G function to extend battery endurance capacity
+
+    • Optimized Wi-Fi connection to improve stability of connectivity
+
+    • Optimized Wi-Fi connection to reduce transfer delay Bluetooth
+
+    • Fixed the low probability issue that it was muted after connecting to Bluetooth'
+  date: '2020-11-24'
+  device: OnePlus 8
+  link: https://oxygenos.oneplus.net/OnePlus8Oxygen_15.O.31_OTA_0310_all_2011010118_9ab2204c91f94f98.zip
+  md5: 908c62e999cf8addd939b5985820cab0
+  region: Global
+  size: 2.81 GB
+  version: OnePlus8Oxygen_15.O.31_0310_2011010118
+- branch: Stable
+  changelog: 'System
+
+    • Optimized the frame stability algorithm to make the experience smoother
+
+    • Optimized adaptive brightness algorithm, making 8,192 levels of automatic brightness
+    adjustment more comfortable
+
+    • Optimized background process management mechanism to improve standby-by performance
+
+    • Fixed the low probability issue of black screen
+
+    • The quick setting has been adjusted to three lines
+
+    • Updated Android Security Patch to 2020.10
+
+    • Improved system stability Ambient display
+
+    • Newly added Canvas feature that can automatically draw a wireframe picture based
+    on a lock screen photo on your phone（Path：Settings-Customization-Wallpaper-Canvas-Choose
+    photo preview and it can be generated automatically） Network
+
+    • Optimized the intelligent 5G function to extend battery endurance capacity
+
+    • Optimized Wi-Fi connection to improve stability of connectivity
+
+    • Optimized Wi-Fi connection to reduce transfer delay Bluetooth
+
+    • Fixed the low probability issue that it was muted after connecting to Bluetooth'
+  date: '2020-11-24'
+  device: OnePlus 8 Pro
+  link: https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.O.31_OTA_0310_all_2011010122_9011a4e9a0524993.zip
+  md5: bda937925b549ec282367a41aa41618e
+  region: Global
+  size: 2.85 GB
+  version: OnePlus8ProOxygen_15.O.31_0310_2011010122
+- branch: Stable
   changelog: '系统
 
     • 优化通话功能稳定性
