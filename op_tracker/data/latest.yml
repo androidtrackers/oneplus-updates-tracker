@@ -405,6 +405,98 @@
   region: Global
   size: 2.8 GB
   version: OnePlus7TOxygen_14.O.21_GLO_021_2011052319
+- branch: Stable
+  changelog: "OnePlus 7 Oxygen OS 10.3.7.GM57AA \nSystem\n• Optimized the user experience\
+    \ of the status bar in the call scene to reduce mis-touches\n• Fixed small probability\
+    \ flashback issue with Phone app\n• Updated Android Security Patch to 2020.11\n\
+    • Updated GMS package to 2020.08"
+  date: '2020-11-05'
+  device: OnePlus 7
+  link: http://otafsg-cost-az.coloros.com/OnePlus7/OnePlus7Oxygen_14.P.31_GLO_031_2011052313/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.31_GLO_031_2011052313/OnePlus7Oxygen_14.P.31_OTA_031_all_2011052313_afdc9.zip
+  md5: e47b1c20677a6294481aa8bc7e4344e6
+  region: India
+  size: 2.2 GB
+  version: OnePlus7Oxygen_14.P.31_GLO_031_2011052313
+- branch: Stable
+  changelog: 'OnePlus 7T Oxygen OS 10.3.7.HD65AA
+
+    System
+
+    • Optimized the user experience of the status bar in the call scene to reduce
+    mis-touches
+
+    • Fixed small probability flashback issue with Phone app
+
+    • Updated Android Security Patch to 2020.11
+
+    • Updated GMS package to 2020.08'
+  date: '2020-11-05'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.I.21_GLO_021_2011052319/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.I.21_GLO_021_2011052319/OnePlus7TOxygen_14.I.21_OTA_021_all_2011052319_9d5413f6c8692a4.zip
+  md5: 4f02ba3c0ca5bbbf5db20b02f6237a4c
+  region: India
+  size: 2.4 GB
+  version: OnePlus7TOxygen_14.I.21_GLO_021_2011052319
+- branch: Stable
+  changelog: 'OnePlus 7 Pro Oxygen OS 10.0.10.GM21BA
+
+    System
+
+    • Optimized the user experience of the status bar in the call scene to reduce
+    mis-touches
+
+    • Fixed small probability flashback issue with Phone app
+
+    • Updated Android Security Patch to 2020.11
+
+    • Updated GMS package to 2020.08'
+  date: '2020-11-05'
+  device: OnePlus 7 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7Pro_EEA/OnePlus7ProOxygen_21.E.31_GLO_031_2011052309/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_21.E.31_GLO_031_2011052309/OnePlus7ProOxygen_21.E.31_OTA_031_all_2011052309_8e8aa823fd22.zip
+  md5: 587da5bbfe719e06bbe60d6b0115f2d0
+  region: EEA
+  size: 2.2 GB
+  version: OnePlus7ProOxygen_21.E.31_GLO_031_2011052309
+- branch: Stable
+  changelog: 'OnePlus 7TPro Oxygen OS 10.3.7.HD01AA
+
+    System
+
+    • Optimized the user experience of the status bar in the call scene to reduce
+    mis-touches
+
+    • Fixed small probability flashback issue with Phone app
+
+    • Updated Android Security Patch to 2020.11
+
+    • Updated GMS package to 2020.08'
+  date: '2020-11-05'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.I.21_GLO_021_2011052307/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.I.21_GLO_021_2011052307/OnePlus7TProOxygen_14.I.21_OTA_021_all_2011052307_e2a16.zip
+  md5: 61e2fe73e2536d6a1ad9e09a0c396aed
+  region: India
+  size: 2.5 GB
+  version: OnePlus7TProOxygen_14.I.21_GLO_021_2011052307
+- branch: Stable
+  changelog: 'OnePlus 7TPro Oxygen OS 10.0.13.HD01AA
+
+    System
+
+    • Optimized the user experience of the status bar in the call scene to reduce
+    mis-touches
+
+    • Fixed small probability flashback issue with Phone app
+
+    • Updated Android Security Patch to 2020.11
+
+    • Updated GMS package to 2020.08'
+  date: '2020-11-05'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.O.21_GLO_021_2011052307/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.O.21_GLO_021_2011052307/OnePlus7TProOxygen_14.O.21_OTA_021_all_2011052307_bbe8ee31828a7a6.zip
+  md5: 9b9c539ba2a5803fd6a06409687098da
+  region: Global
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.O.21_GLO_021_2011052307
 - branch: Beta
   changelog: '系统
 
