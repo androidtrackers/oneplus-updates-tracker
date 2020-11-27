@@ -71,6 +71,46 @@
   size: 2.85 GB
   version: OnePlus8ProOxygen_15.O.31_0310_2011010122
 - branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 11.0.2.2.IN11DA
+
+    System
+
+    • Optimized the experience with a split-screen of apps
+
+    • Further optimized system power consumption and increase battery life
+
+    • Fixed the small probability issue that expanded screenshot may stop working
+
+    • Fixed the issue that cache is not deleted after uninstalling apps
+
+    • Fixed the issue that the screen may flash when using fingerprint unlock
+
+    • Fixed the issue that Horizon light is not activated normally
+
+    • Fixed the small probability issue that NFC can not be turned on
+
+    • Fixed the small probability issue that Parallel Apps can not be turned on
+
+    • Fixed the small probability issue that the fan of the Warp Charge 30 Wireless
+    Charger may not work
+
+    • Fixed the issue that Play Store could not install the app
+
+    • Updated Android security patch to 2020.11
+
+    Network
+
+    • Fixed the small probability issue that network interruption issue in some apps
+
+    • Improve the stability of communication functions'
+  date: '2020-11-19'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.I.32_GLO_0320_2011190124/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.32_GLO_0320_2011190124/OnePlus8ProOxygen_15.I.32_OTA_0320_all_2011190124_6f85dfcc1adc2bc.zip
+  md5: e595645cf26d21291ac0ec59f5fb9330
+  region: India
+  size: 3.3 GB
+  version: OnePlus8ProOxygen_15.I.32_GLO_0320_2011190124
+- branch: Stable
   changelog: '系统
 
     • 优化通话功能稳定性
@@ -497,6 +537,66 @@
   region: Global
   size: 2.8 GB
   version: OnePlus7TProOxygen_14.O.21_GLO_021_2011052307
+- branch: Stable
+  changelog: 'OnePlus 7 Pro Oxygen OS 10.3.7.GM21AA
+
+    System
+
+    • Optimized the user experience of the status bar in the call scene to reduce
+    mis-touches
+
+    • Fixed small probability flashback issue with Phone app
+
+    • Updated Android Security Patch to 2020.11
+
+    • Updated GMS package to 2020.08'
+  date: '2020-11-05'
+  device: OnePlus 7 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7Pro/OnePlus7ProOxygen_21.P.31_GLO_031_2011052258/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_21.P.31_GLO_031_2011052258/OnePlus7ProOxygen_21.P.31_OTA_031_all_2011052258_0a31cd8d82f0.zip
+  md5: 3c70b1d5011c0e84ed65dca957adba57
+  region: Global
+  size: 2.3 GB
+  version: OnePlus7ProOxygen_21.P.31_GLO_031_2011052258
+- branch: Stable
+  changelog: 'OnePlus 7T Oxygen OS 10.0.15.HD65BA
+
+    System
+
+    • Optimized the user experience of the status bar in the call scene to reduce
+    mis-touches
+
+    • Fixed small probability flashback issue with Phone app
+
+    • Updated Android Security Patch to 2020.11
+
+    • Updated GMS package to 2020.08'
+  date: '2020-11-05'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.E.21_GLO_021_2011052316/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.E.21_GLO_021_2011052316/OnePlus7TOxygen_14.E.21_OTA_021_all_2011052316_56bb66853c.zip
+  md5: 8c73d7faaf4763f916abd50519e454d7
+  region: EEA
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.E.21_GLO_021_2011052316
+- branch: Stable
+  changelog: 'OnePlus 7 Oxygen OS 10.0.10.GM57BA
+
+    System
+
+    • Optimized the user experience of the status bar in the call scene to reduce
+    mis-touches
+
+    • Fixed small probability flashback issue with Phone app
+
+    • Updated Android Security Patch to 2020.11
+
+    • Updated GMS package to 2020.08'
+  date: '2020-11-05'
+  device: OnePlus 7
+  link: http://otafsg-cost-az.coloros.com/OnePlus7_EEA/OnePlus7Oxygen_14.E.31_GLO_031_2011052315/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.E.31_GLO_031_2011052315/OnePlus7Oxygen_14.E.31_OTA_031_all_2011052315_304cffe59ff7.zip
+  md5: d77bdec7eea73606b1bc18fa669bc7c3
+  region: EEA
+  size: 2.2 GB
+  version: OnePlus7Oxygen_14.E.31_GLO_031_2011052315
 - branch: Beta
   changelog: '系统
 
