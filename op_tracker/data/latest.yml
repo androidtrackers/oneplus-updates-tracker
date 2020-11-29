@@ -138,6 +138,132 @@
   size: 3.3 GB
   version: OnePlus8ProOxygen_15.I.32_GLO_0320_2011190124
 - branch: Stable
+  changelog: 'OnePlus 8 Oxygen OS 11.0.2.2.IN21DA
+
+    System
+
+    • Optimized the experience with a split-screen of apps
+
+    • Further optimized system power consumption and increase battery life
+
+    • Fixed the small probability issue that expanded screenshot may stop working
+
+    • Fixed the issue that cache is not deleted after uninstalling apps
+
+    • Fixed the issue that the screen may flash when using fingerprint unlock
+
+    • Fixed the issue that Horizon light is not activated normally
+
+    • Fixed the small probability issue that NFC can not be turned on
+
+    • Fixed the small probability issue that Parallel Apps can not be turned on
+
+    • Fixed the issue that Play Store could not install the app
+
+    • Updated Android security patch to 2020.11
+
+    Network
+
+    • Fixed the small probability issue that network interruption issue in some apps
+
+    • Improve the stability of communication functions'
+  date: '2020-11-19'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.I.32_GLO_0320_2011190127/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.32_GLO_0320_2011190127/OnePlus8Oxygen_15.I.32_OTA_0320_all_2011190127_a6dde49d.zip
+  md5: 2ec18a116f9a3f166d9b0e5b2b106e9f
+  region: India
+  size: 3.2 GB
+  version: OnePlus8Oxygen_15.I.32_GLO_0320_2011190127
+- branch: Stable
+  changelog: 'OnePlus 8 Hydrogen OS 11.0.2.2.IN21
+
+    System
+
+    • Optimized the experience with a split-screen of apps
+
+    • Optimized the application fluency of Honor of Kings to improve user experience
+
+    • Further optimized system power consumption and increase battery life
+
+    • Optimized the Bottom Bar to iQiYi for immersive experience, now it can be normally
+    displayed
+
+    • Fixed the small probability issue that expanded screenshot may stop working
+
+    • Fixed the issue that cache is not deleted after uninstalling apps
+
+    • Fixed the issue that the screen may flash when using fingerprint unlock
+
+    • Fixed the issue that apps downloaded by QQ cannot be installed
+
+    • Fixed the issue that Horizon light is not activated normally
+
+    • Fixed the small probability issue that NFC can not be turned on
+
+    • Fixed the issue that gaming frame rate decreased when pulling down the status
+    bar
+
+    • Updated Android security patch to 2020.11
+
+    Network
+
+    • Fixed the small probability issue that network interruption issue in some apps
+
+    • Improve the stability of communication functions'
+  date: '2020-11-19'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.H.32_0320_2011190126/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.32_0320_2011190126/OnePlus8Hydrogen_15.H.32_OTA_0320_all_2011190126_be47555efa242.zip
+  md5: 6f76ad2a56c02584006a7eb7a1104741
+  region: China
+  size: 4.1 GB
+  version: OnePlus8Hydrogen_15.H.32_0320_2011190126
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Hydrogen OS 11.0.2.2.IN11
+
+    System
+
+    • Optimized the experience with a split-screen of apps
+
+    • Optimized the application fluency of Honor of Kings to improve user experience
+
+    • Further optimized system power consumption and increase battery life
+
+    • Optimized the Bottom Bar to iQiYi for immersive experience, now it can be normally
+    displayed
+
+    • Fixed the small probability issue that expanded screenshot may stop working
+
+    • Fixed the issue that cache is not deleted after uninstalling apps
+
+    • Fixed the issue that the screen may flash when using fingerprint unlock
+
+    • Fixed the issue that apps downloaded by QQ cannot be installed
+
+    • Fixed the issue that Horizon light is not activated normally
+
+    • Fixed the small probability issue that NFC can not be turned on
+
+    • Fixed the small probability issue that the fan of the Warp Charge 30 Wireless
+    Charger may not work
+
+    • Fixed the issue that gaming frame rate decreased when pulling down the status
+    bar
+
+    • Updated Android security patch to 2020.11
+
+    Network
+
+    • Fixed the small probability issue that network interruption issue in some apps
+
+    • Improve the stability of communication functions'
+  date: '2020-11-19'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.H.32_0320_2011190125/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.32_0320_2011190125/OnePlus8ProHydrogen_15.H.32_OTA_0320_all_2011190125_180a.zip
+  md5: dc9050997ee00f2a68443c601ae6bc8a
+  region: China
+  size: 4.2 GB
+  version: OnePlus8ProHydrogen_15.H.32_0320_2011190125
+- branch: Stable
   changelog: '系统
 
     • 优化通话功能稳定性
