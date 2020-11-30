@@ -28,6 +28,24 @@
 - branch: Stable
   changelog: 'System
 
+    • Optimized the user experience of the status bar in the call scene to reduce
+    mis-touches
+
+    • Fixed small probability flashback issue with a Phone app
+
+    • Updated Android Security Patch to 2020.11
+
+    • Updated GMS package to 2020.08'
+  date: '2020-11-27'
+  device: OnePlus 7T Pro
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_14.E.21_OTA_021_all_2011052319_60e4bb52eba847fc.zip
+  md5: 2db188fbde7aa55bad7405284e87f839
+  region: EEA
+  size: 2.62 GB
+  version: OnePlus7TProOxygen_14.E.21_021_2011052319
+- branch: Stable
+  changelog: 'System
+
     • Increased the success rate when registering fingerprint and improved experience
 
     • Optimized the media file scanning feature to make searching faste
