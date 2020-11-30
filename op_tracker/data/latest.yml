@@ -28,6 +28,85 @@
 - branch: Stable
   changelog: 'System
 
+    • Increased the success rate when registering fingerprint and improved experience
+
+    • Optimized the media file scanning feature to make searching faste
+
+    r
+
+    • Further optimized system power consumption and increase battery life
+
+    • Fixed the issue that the app cache has not been deleted correctly after the
+    app uninstalled
+
+    • Fixed the issue that the screen may flash when using fingerprint unlock
+
+    • Optimized system performance and improve stability Camera
+
+    • Optimized camera white balance and improved imaging quality Network
+
+    • Continuously optimize network connection stability and improved gaming experience
+
+    • Improve the stability of video calls'
+  date: '2020-11-26'
+  device: OnePlus 8T
+  link: https://oxygenos.oneplus.net/OnePlus8TOxygen_15.I.20_OTA_0200_all_2011132215_b2e3a65d166e4e29.zip
+  md5: 9307c71e45d3d8ed51579ce5e1d46b59
+  region: India
+  size: 2.80 GB
+  version: OnePlus8TOxygen_15.I.20_0200_2011132215
+- branch: Stable
+  changelog: 'System
+
+    • Increased the success rate when registering fingerprint and improved experience
+
+    • Optimized the media file scanning feature to make searching faste
+
+    r
+
+    • Further optimized system power consumption and increase battery life
+
+    • Fixed the issue that the app cache has not been deleted correctly after the
+    app uninstalled
+
+    • Fixed the issue that the screen may flash when using fingerprint unlock
+
+    • Optimized system performance and improve stability Camera
+
+    • Optimized camera white balance and improved imaging quality Network
+
+    • Continuously optimize network connection stability and improved gaming experience
+
+    • Improve the stability of video calls'
+  date: '2020-11-26'
+  device: OnePlus 8T
+  link: https://oxygenos.oneplus.net/OnePlus8TOxygen_15.O.20_OTA_0200_all_2011132216_a6374d5b0e134ca7.zip
+  md5: a654f8ca30da0385d942a104d846f5c7
+  region: Global
+  size: 2.80 GB
+  version: OnePlus8TOxygen_15.O.20_0200_2011132216
+- branch: Stable
+  changelog: 'System
+
+    • Optimized the power consumption
+
+    • Optimized touch and interaction experience
+
+    • Updated Android Security Patch to 2020.11
+
+    • Updated GMS package to 2020.08 Camera
+
+    • Optimized filming results and improved image quality'
+  date: '2020-11-26'
+  device: OnePlus Nord N10
+  link: https://oxygenos.oneplus.net/OnePlusN10Oxygen_14.E.07_OTA_007_all_2011210254_d65d1431c73a46dd.zip
+  md5: 03847a52e48eda122d6441759cd9750a
+  region: EEA
+  size: 2.29 GB
+  version: OnePlusN10Oxygen_14.E.07_007_2011210254
+- branch: Stable
+  changelog: 'System
+
     • Optimized the frame stability algorithm to make the experience smoother
 
     • Optimized adaptive brightness algorithm, making 8,192 levels of automatic brightness
