@@ -373,6 +373,16 @@
   region: China
   size: 4.07 GB
   version: OnePlus8THydrogen_15.H.19_0190_2011100104
+- branch: Stable
+  changelog: "OnePlus 7 Pro 5G Oxygen OS 10.0.9.GM27BA\nSystem \n• Updated Android\
+    \ security patch to 2020.11\n• Updated GMS package to 2020.09"
+  date: '2020-11-18'
+  device: OnePlus 7 Pro 5G
+  link: http://otafsg-cost-az.coloros.com/OnePlus7ProNR_EEA/OnePlus7ProNROxygen_21.E.25_GLO_025_2011182351/patch/amazone2/GLO/OnePlus7ProNROxygen/OnePlus7ProNROxygen_21.E.25_GLO_025_2011182351/OnePlus7ProNROxygen_21.E.25_OTA_025_all_2011182351_e3219790243.zip
+  md5: ba603894f12fadddfeac8630cb04d4f2
+  region: EEA
+  size: 2.2 GB
+  version: OnePlus7ProNROxygen_21.E.25_GLO_025_2011182351
 - branch: Beta
   changelog: "OxygenOS: OnePlus8_O₂_BETA_4\nSystem\n• Optimize the stability of the\
     \ call \n• Optimized system power consumption\n• Optimized some UI display with\
