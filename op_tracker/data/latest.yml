@@ -401,6 +401,74 @@
   region: EEA
   size: 2.2 GB
   version: OnePlus7ProNROxygen_21.E.25_GLO_025_2011182351
+- branch: Stable
+  changelog: 'OnePlus 6 Oxygen OS 10.3.7
+
+    System
+
+    • Newly added "Hide silent notifications in status bar" feature to filter unimportant
+    notifications, making the app notification management easier( Route: Settings>Apps
+    & Notifications> Notifications> Advanced> Hide silent notifications in status
+    bar )
+
+    • Fixed the small probability issue that Screenshot may fail
+
+    • Updated Android Security Patch to 2020.11
+
+    • Improved system stability and fixed general bugs
+
+    Game Space
+
+    • Newly added gaming tools box for convenient switches of Fnatic mode. You can
+    now choose three ways of notifications: text-only, heads up and block, just for
+    your immersive gaming experience
+
+    • Newly added quick reply feature in a small window for WhatsApp and INS (Enable
+    it by swiping down from upper right/left corners of the screen in gaming mode)
+
+    • Newly added mis-touch prevention feature. Enable it, swipe down from the top
+    of the screen, click and the notification bar will pop out'
+  date: '2020-11-16'
+  device: OnePlus 6
+  link: http://otafsg-cost-az.coloros.com/OnePlus6/OnePlus6Oxygen_22.J.49_GLO_049_2011161942/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.49_GLO_049_2011161942/OnePlus6Oxygen_22.J.49_OTA_049_all_2011161942_9d1dafc7a.zip
+  md5: 74e8f5a4439516aac04ce8c94fb9427a
+  region: Global
+  size: 1.9 GB
+  version: OnePlus6Oxygen_22.J.49_GLO_049_2011161942
+- branch: Stable
+  changelog: 'OnePlus 6T Oxygen OS 10.3.7
+
+    System
+
+    • Newly added "Hide silent notifications in status bar" feature to filter unimportant
+    notifications, making the app notification management easier( Route: Settings>Apps
+    & Notifications> Notifications> Advanced> Hide silent notifications in status
+    bar )
+
+    • Fixed the small probability issue that Screenshot may fail
+
+    • Updated Android Security Patch to 2020.11
+
+    • Improved system stability and fixed general bugs
+
+    Game Space
+
+    • Newly added gaming tools box for convenient switches of Fnatic mode. You can
+    now choose three ways of notifications: text-only, heads up and block, just for
+    your immersive gaming experience
+
+    • Newly added quick reply feature in a small window for WhatsApp and INS (Enable
+    it by swiping down from upper right/left corners of the screen in gaming mode)
+
+    • Newly added mis-touch prevention feature. Enable it, swipe down from the top
+    of the screen, click and the notification bar will pop out'
+  date: '2020-11-16'
+  device: OnePlus 6T
+  link: http://otafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_34.J.49_GLO_049_2011161944/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.49_GLO_049_2011161944/OnePlus6TOxygen_34.J.49_OTA_049_all_2011161944_5529.zip
+  md5: 3d7c020bd0fb67894bc1c23f67c8eb72
+  region: Global
+  size: 2.0 GB
+  version: OnePlus6TOxygen_34.J.49_GLO_049_2011161944
 - branch: Beta
   changelog: "OxygenOS: OnePlus8_O₂_BETA_4\nSystem\n• Optimize the stability of the\
     \ call \n• Optimized system power consumption\n• Optimized some UI display with\
