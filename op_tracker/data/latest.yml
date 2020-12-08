@@ -1,4 +1,37 @@
 - branch: Stable
+  changelog: 'System
+
+    • Optimized the experience with a split-screen of apps
+
+    • Further optimized system power consumption and increase battery life
+
+    • Fixed the small probability issue that expanded screenshot may stop working
+
+    • Fixed the issue that cache is not deleted after uninstalling apps
+
+    • Fixed the issue that the screen may flash when using fingerprint unlock
+
+    • Fixed the issue that Horizon light is not activated normally
+
+    • Fixed the small probability issue that NFC can not be turned on
+
+    • Fixed the small probability issue that Parallel Apps can not be turned on
+
+    • Fixed the issue that Play Store could not install the app
+
+    • Updated Android security patch to 2020.11 Network
+
+    • Fixed the small probability issue that network interruption issue in some apps
+
+    • Improve the stability of communication functions'
+  date: '2020-12-07'
+  device: OnePlus 8 Pro
+  link: https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.O.32_OTA_0320_all_2011190130_785679267cee43a4.zip
+  md5: 6addfbe3c9193d45223f2e3231af4146
+  region: Global
+  size: 2.86 GB
+  version: OnePlus8ProOxygen_15.O.32_0320_2011190130
+- branch: Stable
   changelog: '系统
 
     • 提升指纹录入成功率，提升使用体验
