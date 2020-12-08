@@ -361,6 +361,120 @@
   size: 4.2 GB
   version: OnePlus8ProHydrogen_15.H.32_0320_2011190125
 - branch: Stable
+  changelog: 'OnePlus 8 Oxygen OS 11.0.2.2.IN21AA
+
+    System
+
+    • Optimized the experience with a split-screen of apps
+
+    • Further optimized system power consumption and increase battery life
+
+    • Fixed the small probability issue that expanded screenshot may stop working
+
+    • Fixed the issue that cache is not deleted after uninstalling apps
+
+    • Fixed the issue that the screen may flash when using fingerprint unlock
+
+    • Fixed the issue that Horizon light is not activated normally
+
+    • Fixed the small probability issue that NFC can not be turned on
+
+    • Fixed the small probability issue that Parallel Apps can not be turned on
+
+    • Fixed the issue that Play Store could not install the app
+
+    • Updated Android security patch to 2020.11
+
+    Network
+
+    • Fixed the small probability issue that network interruption issue in some apps
+
+    • Improve the stability of communication functions'
+  date: '2020-11-19'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8/OnePlus8Oxygen_15.O.32_GLO_0320_2011190313/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.O.32_GLO_0320_2011190313/OnePlus8Oxygen_15.O.32_OTA_0320_all_2011190313_fcc30ad.zip
+  md5: 8e7dbdd9d144e7aae7c5fc9226298345
+  region: Global
+  size: 3.0 GB
+  version: OnePlus8Oxygen_15.O.32_GLO_0320_2011190313
+- branch: Stable
+  changelog: 'OnePlus 8 Oxygen OS 11.0.2.2.IN21BA
+
+    System
+
+    • Optimized the experience with a split-screen of apps
+
+    • Further optimized system power consumption and increase battery life
+
+    • Fixed the small probability issue that expanded screenshot may stop working
+
+    • Fixed the issue that cache is not deleted after uninstalling apps
+
+    • Fixed the issue that the screen may flash when using fingerprint unlock
+
+    • Fixed the issue that Horizon light is not activated normally
+
+    • Fixed the small probability issue that NFC can not be turned on
+
+    • Fixed the small probability issue that Parallel Apps can not be turned on
+
+    • Fixed the issue that Play Store could not install the app
+
+    • Updated Android security patch to 2020.11
+
+    Network
+
+    • Fixed the small probability issue that network interruption issue in some apps
+
+    • Improve the stability of communication functions'
+  date: '2020-11-19'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_EEA/OnePlus8Oxygen_15.E.32_GLO_0320_2011190124/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.E.32_GLO_0320_2011190124/OnePlus8Oxygen_15.E.32_OTA_0320_all_2011190124_eba775c.zip
+  md5: 8c6a0b406778f13e86812a15f2ddab64
+  region: EEA
+  size: 3.0 GB
+  version: OnePlus8Oxygen_15.E.32_GLO_0320_2011190124
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 11.0.2.2.IN11BA
+
+    System
+
+    • Optimized the experience with a split-screen of apps
+
+    • Further optimized system power consumption and increase battery life
+
+    • Fixed the small probability issue that expanded screenshot may stop working
+
+    • Fixed the issue that cache is not deleted after uninstalling apps
+
+    • Fixed the issue that the screen may flash when using fingerprint unlock
+
+    • Fixed the issue that Horizon light is not activated normally
+
+    • Fixed the small probability issue that NFC can not be turned on
+
+    • Fixed the small probability issue that Parallel Apps can not be turned on
+
+    • Fixed the small probability issue that the fan of the Warp Charge 30 Wireless
+    Charger may not work
+
+    • Fixed the issue that Play Store could not install the app
+
+    • Updated Android security patch to 2020.11
+
+    Network
+
+    • Fixed the small probability issue that network interruption issue in some apps
+
+    • Improve the stability of communication functions'
+  date: '2020-11-19'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_EEA/OnePlus8ProOxygen_15.E.32_GLO_0320_2011190127/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.E.32_GLO_0320_2011190127/OnePlus8ProOxygen_15.E.32_OTA_0320_all_2011190127_189c6fc.zip
+  md5: 7e5bd9fb6cf28af9b3b4783260722a07
+  region: EEA
+  size: 3.1 GB
+  version: OnePlus8ProOxygen_15.E.32_GLO_0320_2011190127
+- branch: Stable
   changelog: '系统
 
     • 优化通话功能稳定性
