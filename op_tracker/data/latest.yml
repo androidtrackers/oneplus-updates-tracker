@@ -1,6 +1,25 @@
 - branch: Stable
   changelog: 'System
 
+    • Optimized the power consumption
+
+    • Fixed a noise issue with voice call
+
+    • Updated GMS package to 2020.09 Camera
+
+    • Optimized filming results and improved image quality Bluetooth
+
+    • Optimized Bluetooth compatibility with different devices'
+  date: '2020-12-10'
+  device: OnePlus Nord N100
+  link: https://oxygenos.oneplus.net/OnePlusN100Oxygen_14.E.06_OTA_006_all_2011202040_a057ce58a9914298.zip
+  md5: cbfa5eab59ce67bcd13c5ab5d8e70c1e
+  region: EEA
+  size: 2.00 GB
+  version: OnePlusN100Oxygen_14.E.06_006_2011202040
+- branch: Stable
+  changelog: 'System
+
     • Optimized the experience with a split-screen of apps
 
     • Further optimized system power consumption and increase battery life
