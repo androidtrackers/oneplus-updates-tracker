@@ -1,3 +1,147 @@
+- branch: Beta
+  changelog: 'OxygenOS: OnePlus8_O₂_BETA_5
+
+    System
+
+    • Optimized the startup speed of some apps for a faster launch experience
+
+    • Fixed the small probability issue that receiving messages may delay
+
+    • Fixed the issue that the volume adjustment has a small probability of failure
+
+    • Fixed the small probability issue that the speaker doesn''t work
+
+    • Updated Android security patch to 2020.12
+
+    Camera
+
+    • Refresh the animation effects when activating the front camera
+
+    Game Space
+
+    • Newly added Rewind Recording where you can record the exciting moments in the
+    game of past 30 seconds with just one tap (Swipe down from the upper left or right
+    corner to quickly open in the Gaming Tools)
+
+    Bluetooth
+
+    • Fixed the issue that the call may freeze when receiving the phone when playing
+    music via Bluetooth'
+  date: '2020-12-12'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8/OnePlus8Oxygen_15.X.15_GLO_0150_2012121518/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.X.15_GLO_0150_2012121518/OnePlus8Oxygen_15.X.15_OTA_0150_all_2012121518_b93557a569.zip
+  md5: 55a3d53f3dc03f8662d36e6bed20e2ff
+  region: Global
+  size: 3.1 GB
+  version: OnePlus8Oxygen_15.X.15_GLO_0150_2012121518
+- branch: Beta
+  changelog: 'OxygenOS: OnePlus8Pro_O₂_BETA_5
+
+    System
+
+    • Optimized the startup speed of some apps for a faster launch experience
+
+    • Fixed the small probability issue that receiving messages may delay
+
+    • Fixed the issue that the volume adjustment has a small probability of failure
+
+    • Fixed the small probability issue that the speaker doesn''t work
+
+    • Updated Android security patch to 2020.12
+
+    Camera
+
+    • Refresh the animation effects when activating the front camera
+
+    Game Space
+
+    • Newly added Rewind Recording where you can record the exciting moments in the
+    game of past 30 seconds with just one tap (Swipe down from the upper left or right
+    corner to quickly open in the Gaming Tools)
+
+    Bluetooth
+
+    • Fixed the issue that the call may freeze when receiving the phone when playing
+    music via Bluetooth'
+  date: '2020-12-12'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.W.15_GLO_0150_2012121520/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.W.15_GLO_0150_2012121520/OnePlus8ProOxygen_15.W.15_OTA_0150_all_2012121520_5b0056f027.zip
+  md5: 9f5ae411a1202f3f762bf5f316790293
+  region: India
+  size: 3.3 GB
+  version: OnePlus8ProOxygen_15.W.15_GLO_0150_2012121520
+- branch: Beta
+  changelog: 'OxygenOS: OnePlus8Pro_O₂_BETA_5
+
+    System
+
+    • Optimized the startup speed of some apps for a faster launch experience
+
+    • Fixed the small probability issue that receiving messages may delay
+
+    • Fixed the issue that the volume adjustment has a small probability of failure
+
+    • Fixed the small probability issue that the speaker doesn''t work
+
+    • Updated Android security patch to 2020.12
+
+    Camera
+
+    • Refresh the animation effects when activating the front camera
+
+    Game Space
+
+    • Newly added Rewind Recording where you can record the exciting moments in the
+    game of past 30 seconds with just one tap (Swipe down from the upper left or right
+    corner to quickly open in the Gaming Tools)
+
+    Bluetooth
+
+    • Fixed the issue that the call may freeze when receiving the phone when playing
+    music via Bluetooth'
+  date: '2020-12-12'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro/OnePlus8ProOxygen_15.X.15_GLO_0150_2012121520/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.X.15_GLO_0150_2012121520/OnePlus8ProOxygen_15.X.15_OTA_0150_all_2012121520_57fd91afe5c.zip
+  md5: c9968445ac5c80dedc78b94a08518795
+  region: Global
+  size: 3.1 GB
+  version: OnePlus8ProOxygen_15.X.15_GLO_0150_2012121520
+- branch: Beta
+  changelog: 'OxygenOS: OnePlus8_O₂_BETA_5
+
+    System
+
+    • Optimized the startup speed of some apps for a faster launch experience
+
+    • Fixed the small probability issue that receiving messages may delay
+
+    • Fixed the issue that the volume adjustment has a small probability of failure
+
+    • Fixed the small probability issue that the speaker doesn''t work
+
+    • Updated Android security patch to 2020.12
+
+    Camera
+
+    • Refresh the animation effects when activating the front camera
+
+    Game Space
+
+    • Newly added Rewind Recording where you can record the exciting moments in the
+    game of past 30 seconds with just one tap (Swipe down from the upper left or right
+    corner to quickly open in the Gaming Tools)
+
+    Bluetooth
+
+    • Fixed the issue that the call may freeze when receiving the phone when playing
+    music via Bluetooth'
+  date: '2020-12-12'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.W.15_GLO_0150_2012121519/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.W.15_GLO_0150_2012121519/OnePlus8Oxygen_15.W.15_OTA_0150_all_2012121519_4c39993215b461b.zip
+  md5: 934172169df26ad1f6acb0475b247072
+  region: India
+  size: 3.3 GB
+  version: OnePlus8Oxygen_15.W.15_GLO_0150_2012121519
 - branch: Stable
   changelog: 'System
 
