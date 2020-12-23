@@ -1,4 +1,96 @@
 - branch: Beta
+  changelog: '系统
+
+    • 新增键盘底部高度调节功能，支持抬高或隐藏底部快捷操作栏，带来更好的输入体验（路径：设置-系统-语音和输入法-键盘底部高度调节即可选择）
+
+    • 新增欢太商城 App，官方正品无忧购
+
+    • 优化后台程序管理机制，改善待机表现
+
+    • 优化和平精英运行流畅度，提升游玩体验
+
+    • 修复微信启用双开后，无法查看部分照片的问题
+
+    • 修复锁屏使用特殊字符无法解锁的问题
+
+    • 修复部分第三方应用闪退的问题
+
+    • 修复抖音开启小窗失败的问题 图库
+
+    • 修复低概率部分照片在图库中不显示的问题 蓝牙
+
+    • 修复连接蓝牙耳机小概率无弹窗的问题 网络
+
+    • 修复特定情况下WiFi连接失败的问题'
+  date: '2020-12-23'
+  device: OnePlus 8 Pro
+  link: http://download.h2os.com/OnePlus8Pro/OBT/OnePlus8ProHydrogen_15.Y.16_OTA_0160_all_2012121516_47b7389822194d22.zip
+  md5: 259028e7de7fe90ba1f0f85841546add
+  region: China
+  size: 3.99 GB
+  version: OnePlus8ProHydrogen_15.Y.16_0160_2012121516
+- branch: Stable
+  changelog: '系统
+
+    • 新增两款系统新字体仓耳今楷、华康圆体（设置路径：设置-个性化-字体）
+
+    • 修复天气应用小概率闪退的问题
+
+    • 更新Android安全补丁至2020.11'
+  date: '2020-12-23'
+  device: OnePlus 5
+  link: http://download.h2os.com/OnePlus5/MP/OnePlus5Hydrogen_23_OTA_065_all_2012030353_e8c692aa5e0c45ca.zip
+  md5: 8e9de2b3c94ffc153c2c9541fc7db7ce
+  region: China
+  size: 2.41 GB
+  version: OnePlus5Hydrogen_23.K.65_065_2002171234
+- branch: Beta
+  changelog: '系统
+
+    • 新增键盘底部高度调节功能，支持抬高或隐藏底部快捷操作栏，带来更好的输入体验（路径：设置-系统-语音和输入法-键盘底部高度调节即可选择）
+
+    • 新增欢太商城 App，官方正品无忧购
+
+    • 优化后台程序管理机制，改善待机表现
+
+    • 优化和平精英运行流畅度，提升游玩体验
+
+    • 修复微信启用双开后，无法查看部分照片的问题
+
+    • 修复锁屏使用特殊字符无法解锁的问题
+
+    • 修复部分第三方应用闪退的问题
+
+    • 修复抖音开启小窗失败的问题 图库
+
+    • 修复低概率部分照片在图库中不显示的问题 蓝牙
+
+    • 修复连接蓝牙耳机小概率无弹窗的问题 网络
+
+    • 修复特定情况下WiFi连接失败的问题'
+  date: '2020-12-23'
+  device: OnePlus 8
+  link: http://download.h2os.com/OnePlus8/OBT/OnePlus8Hydrogen_15.Y.16_OTA_0160_all_2012121519_8852575f672c4355.zip
+  md5: 81c7a019cdfcd904e4de0c7a5f9b62ef
+  region: China
+  size: 3.93 GB
+  version: OnePlus8Hydrogen_15.Y.16_0160_2012121519
+- branch: Stable
+  changelog: '系统
+
+    • 新增两款系统新字体仓耳今楷、华康圆体（设置路径：设置-个性化-字体）
+
+    • 修复天气应用小概率闪退的问题
+
+    • 更新Android安全补丁至2020.11'
+  date: '2020-12-23'
+  device: OnePlus 5T
+  link: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_065_all_2012030405_03dba2c095454647.zip
+  md5: 75360c3fd38971f752ea4231ae345902
+  region: China
+  size: 2.42 GB
+  version: OnePlus5THydrogen_43.K.65_065_2002171231
+- branch: Beta
   changelog: 'OxygenOS: OnePlus8_O₂_BETA_5
 
     System
