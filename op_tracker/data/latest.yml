@@ -287,6 +287,48 @@
   size: 2.86 GB
   version: OnePlus8ProOxygen_15.O.32_0320_2011190130
 - branch: Stable
+  changelog: "OnePlus 8 Hydrogen OS 11.0.3.3.IN21\nSystem\n• Newly added keyboard\
+    \ height adjustment where you can raise or hide the bottom shortcut bar for a\
+    \ better input experience (Go to Settings-System-Language & input-Keyboard height\
+    \ adjustment)\n• Newly added HeyTap Mall for the real deal in good quality\n•\
+    \ Optimized backstage program management system to improve standby performance\n\
+    • Optimized the running condition of Game for Peace and enhance the play experience\n\
+    • Fixed the issue with WeChat not being able to view some photos when it's paralleled\n\
+    • Fixed the issue that the lock screen cannot be unlocked with special characters\n\
+    • Fixed the crash issue of some third-party apps\n• Fixed the issue that Douyin's\
+    \ small window is not able to acivate \nGallery\n• Fixed a small probability issue\
+    \ that photos don't display in the Gallery\nBluetooth\n• Fixed the small probability\
+    \ issue that no pop-up window shows up when connecting Bluetooth headset\nNetwork\n\
+    • Fixed the issue that the WiFi connection failed in a specific situation"
+  date: '2020-12-04'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.H.33_0330_2012042324/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.33_0330_2012042324/OnePlus8Hydrogen_15.H.33_OTA_0330_all_2012042324_8ae26e1.zip
+  md5: af64ab63fa6886130267ef68dc88bbdc
+  region: China
+  size: 4.1 GB
+  version: OnePlus8Hydrogen_15.H.33_0330_2012042324
+- branch: Stable
+  changelog: "OnePlus 8 Pro Hydrogen OS 11.0.3.3.IN11\nSystem\n• Newly added keyboard\
+    \ height adjustment where you can raise or hide the bottom shortcut bar for a\
+    \ better input experience (Go to Settings-System-Language & input-Keyboard height\
+    \ adjustment)\n• Newly added HeyTap Mall for the real deal in good quality\n•\
+    \ Optimized backstage program management system to improve standby performance\n\
+    • Optimized the running condition of Game for Peace and enhance the play experience\n\
+    • Fixed the issue with WeChat not being able to view some photos when it's paralleled\n\
+    • Fixed the issue that the lock screen cannot be unlocked with special characters\n\
+    • Fixed the crash issue of some third-party apps\n• Fixed the issue that Douyin's\
+    \ small window is not able to acivate \nGallery\n• Fixed a small probability issue\
+    \ that photos don't display in the Gallery\nBluetooth\n• Fixed the small probability\
+    \ issue that no pop-up window shows up when connecting Bluetooth headset\nNetwork\n\
+    • Fixed the issue that the WiFi connection failed in a specific situation"
+  date: '2020-12-04'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.H.33_0330_2012042319/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.33_0330_2012042319/OnePlus8ProHydrogen_15.H.33_OTA_0330_all_2012042319_370e.zip
+  md5: 680e321f28752272a42208ed5f6cd8a3
+  region: China
+  size: 4.2 GB
+  version: OnePlus8ProHydrogen_15.H.33_0330_2012042319
+- branch: Stable
   changelog: '系统
 
     • 提升指纹录入成功率，提升使用体验
