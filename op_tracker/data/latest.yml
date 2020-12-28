@@ -1,3 +1,34 @@
+- branch: Stable
+  changelog: '系统
+
+    • 优化全屏手势的操作体验
+
+    • 提升指纹解锁成功率，解锁更迅捷
+
+    • 新增键盘底部高度调节功能，支持抬高或隐藏底部快捷操作栏，带来更好的输入体验（路径：设置-系统-语音和输入法-键盘底部高度调节即可选择）
+
+    • 改善王者荣耀小概率断触的情况，提升游玩体验
+
+    • 修复微信启用双开后，无法查看部分照片的问题
+
+    • 修复自带浏览器小概率出现无法下载的问题
+
+    • 更新Android安全补丁至2020.11 相机
+
+    • 优化相机夜景拍摄，提升成像效果 图库
+
+    • 修复低概率部分照片在图库中不显示的问题 网络
+
+    • 修复特定情况下WiFi连接失败的问题
+
+    • 提升通信功能稳定性'
+  date: '2020-12-28'
+  device: OnePlus 8T
+  link: https://download.h2os.com/OnePlus8T/MP/OnePlus8THydrogen_15.H.21_OTA_0210_all_2012071925_25dfa7e13a5c4b9f.zip
+  md5: 0afc12a4caf9342779d8b134cc7c3abf
+  region: China
+  size: 4.17 GB
+  version: OnePlus8THydrogen_15.H.21_0210_2012071925
 - branch: Beta
   changelog: '系统
 
@@ -90,6 +121,23 @@
   region: China
   size: 2.42 GB
   version: OnePlus5THydrogen_43.K.65_065_2002171231
+- branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 10.5.10.AC01AA
+
+    System
+
+    • Updated Android Security Patch to 2020.12
+
+    • Updated GMS package to 2020.09
+
+    • General bug fixes and improved stability'
+  date: '2020-12-21'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord/NordOxygen_14.O.12_GLO_012_2012212243/patch/amazone2/GLO/NordOxygen/NordOxygen_14.O.12_GLO_012_2012212243/NordOxygen_14.O.12_OTA_012_all_2012212243_68115b.zip
+  md5: 8431da45312b5b868570f5403bacc97d
+  region: Global
+  size: 2.6 GB
+  version: NordOxygen_14.O.12_GLO_012_2012212243
 - branch: Beta
   changelog: 'OxygenOS: OnePlus8_O₂_BETA_5
 
