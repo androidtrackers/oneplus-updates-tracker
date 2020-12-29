@@ -1,3 +1,65 @@
+- branch: Beta
+  changelog: '系统
+
+    • 优化系统功耗
+
+    • 优化闹钟部分UI显示
+
+    • 优化通话功能稳定性
+
+    • 优化应用分屏的使用体验
+
+    • 优化王者荣耀运行流畅度，改善游戏体验
+
+    • 修复下拉状态栏时游戏帧数降低的问题
+
+    • 修复使用MX播放器可能出现卡顿的问题
+
+    • 修复小概率无法开启NFC的问题
+
+    • 更新Android安全补丁至2020.11
+
+    ​ 网络
+
+    • 修复WIFI低概率出现自动断连的问题'
+  date: '2020-12-29'
+  device: OnePlus 8
+  link: http://download.h2os.com/OnePlus8/OBT/OnePlus8Hydrogen_15.Y.15_OTA_0150_all_2011192133_4026bc79a9a3404e.zip
+  md5: ab889e276d5069b43d4770929e67928e
+  region: China
+  size: 3.88 GB
+  version: OnePlus8Hydrogen_15.Y.15_0150_2011192133
+- branch: Beta
+  changelog: '系统
+
+    • 优化系统功耗
+
+    • 优化闹钟部分UI显示
+
+    • 优化通话功能稳定性
+
+    • 优化应用分屏的使用体验
+
+    • 优化王者荣耀运行流畅度，改善游戏体验
+
+    • 修复下拉状态栏时游戏帧数降低的问题
+
+    • 修复使用MX播放器可能出现卡顿的问题
+
+    • 修复小概率无法开启NFC的问题
+
+    • 更新Android安全补丁至2020.11
+
+    ​ 网络
+
+    • 修复WIFI低概率出现自动断连的问题'
+  date: '2020-12-29'
+  device: OnePlus 8 Pro
+  link: http://download.h2os.com/OnePlus8Pro/OBT/OnePlus8ProHydrogen_15.Y.15_OTA_0150_all_2011192129_1a87c94b609c4741.zip
+  md5: 26c6541d8b0d99cd009a067b746e037b
+  region: China
+  size: 3.94 GB
+  version: OnePlus8ProHydrogen_15.Y.15_0150_2011192129
 - branch: Stable
   changelog: '系统
 
