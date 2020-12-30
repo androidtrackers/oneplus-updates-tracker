@@ -200,6 +200,23 @@
   region: Global
   size: 2.6 GB
   version: NordOxygen_14.O.12_GLO_012_2012212243
+- branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 10.5.10.AC01BA
+
+    System
+
+    • Updated Android Security Patch to 2020.12
+
+    • Updated GMS package to 2020.09
+
+    • General bug fixes and improved stability'
+  date: '2020-12-21'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_EEA/NordOxygen_14.E.12_GLO_012_2012212225/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.12_GLO_012_2012212225/NordOxygen_14.E.12_OTA_012_all_2012212225_23f0af92fc0.zip
+  md5: 3a7759c1fc54885cf7d39b8269085343
+  region: EEA
+  size: 2.6 GB
+  version: NordOxygen_14.E.12_GLO_012_2012212225
 - branch: Beta
   changelog: 'OxygenOS: OnePlus8_O₂_BETA_5
 
