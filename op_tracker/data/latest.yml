@@ -1,3 +1,51 @@
+- branch: Stable
+  changelog: 'System
+
+    • Optimized system power consumption in some scenarios
+
+    • Added a quick setting switch to adjust mute, ringtone, and vibration
+
+    • Fixed the issue that the phone cannot wake up under certain circumstances
+
+    • Fixed a low probability call noise issue
+
+    • Updated Android Security Patch to 2020.12
+
+    • Updated GMS package to 2020.09 Camera
+
+    • Improved the camera''s shooting experience Network
+
+    • Improve the stability of communication functions Bluetooth
+
+    • Optimize Bluetooth device compatibility'
+  date: '2020-12-31'
+  device: OnePlus Nord N100
+  link: https://oxygenos.oneplus.net/OnePlusN100Oxygen_14.O.07_OTA_007_all_2012151222_d81743ad5f9f4c69.zip
+  md5: d0632b57e12d8124413200c0a41245be
+  region: Global
+  size: 2.00 GB
+  version: OnePlusN100Oxygen_14.O.07_007_2012151222
+- branch: Stable
+  changelog: 'System
+
+    • Optimized system power consumption in some scenarios
+
+    • Added a quick setting switch to adjust mute, ringtone, and vibration
+
+    • Fixed a low probability call noise issue
+
+    • Updated Android Security Patch to 2020.12 Camera
+
+    • Improved the camera''s shooting experience Network
+
+    • Improve the stability of communication functions'
+  date: '2020-12-31'
+  device: OnePlus Nord N100
+  link: https://oxygenos.oneplus.net/OnePlusN100Oxygen_14.E.08_OTA_008_all_2012151227_edf41bd540d840f2.zip
+  md5: d50d1c0a7d725eb601012a064a7f3501
+  region: EEA
+  size: 2.00 GB
+  version: OnePlusN100Oxygen_14.E.08_008_2012151227
 - branch: Beta
   changelog: '系统
 
