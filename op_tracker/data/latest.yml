@@ -1,4 +1,47 @@
 - branch: Stable
+  changelog: 'OnePlus 8T Oxygen OS 11.0.6.8.KB05DA
+
+    System
+
+    • Optimized the experience of full-screen gestures
+
+    • Increased fingerprint unlock success rates for faster unlock speed
+
+    • Newly added keyboard height adjustment where you can raise or hide the bottom
+    shortcut bar for a better input experience (Go to Settings-System-Language & input-Keyboard
+    height adjustment)
+
+    • Fixed the issue that the media player may pause abnormally
+
+    • Updated Android security patch to 2020.11
+
+    Camera
+
+    • Optimized the image quality on nightscape
+
+    Gallery
+
+    • Fixed a small probability issue that photos don''t display in the Gallery
+
+    Network
+
+    • Fixed the issue that the WiFi connection failed in a specific situation
+
+    • Improved the stability of communication
+
+    OnePlus Store
+
+    • An intuitive and convenient way to manage your OnePlus account, get easy-to-access
+    support, discover exciting members-only benefits, and shop for OnePlus products.
+    (Please note that it can be uninstalled)'
+  date: '2021-01-01'
+  device: OnePlus 8T
+  link: http://otafsg-cost-az.coloros.com/OnePlus8T_IND/OnePlus8TOxygen_15.I.21_GLO_0215_2101010519/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.I.21_GLO_0215_2101010519/OnePlus8TOxygen_15.I.21_OTA_0215_all_2101010519_66bcd10b196c3.zip
+  md5: 9e3282dd38bc58319cb27396e64692f6
+  region: India
+  size: 3.0 GB
+  version: OnePlus8TOxygen_15.I.21_GLO_0215_2101010519
+- branch: Stable
   changelog: 'System
 
     • Optimized system power consumption in some scenarios
