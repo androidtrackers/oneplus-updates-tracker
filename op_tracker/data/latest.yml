@@ -495,6 +495,82 @@
   size: 2.00 GB
   version: OnePlusN100Oxygen_14.E.06_006_2011202040
 - branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 11.0.3.3.IN11DA
+
+    System
+
+    • Newly added keyboard height adjustment where you can raise or hide the bottom
+    shortcut bar for a better input experience (Go to Settings-System-Language & input-Keyboard
+    height adjustment)
+
+    • Fixed the issue of a small probability that the alarm clock starts abnormally
+
+    • Fixed the failure to enable auto rotate feature
+
+    Gallery
+
+    • Fixed a small probability issue that photos don''t display in the Gallery
+
+    Bluetooth
+
+    • Fixed the small probability issue that no pop-up window shows up when connecting
+    Bluetooth headset
+
+    Network
+
+    • Fixed the issue that the WiFi connection failed in a specific situation
+
+    OnePlus Store
+
+    • An intuitive and convenient way to manage your OnePlus account, get easy-to-access
+    support, discover exciting members-only benefits, and shop for OnePlus products.
+    (Please note that it can be uninstalled)'
+  date: '2020-12-10'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.I.33_GLO_0330_2012102327/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.33_GLO_0330_2012102327/OnePlus8ProOxygen_15.I.33_OTA_0330_all_2012102327_c7d24b59f0.zip
+  md5: 50f9827240b227913db8cb43c4a989e2
+  region: India
+  size: 3.3 GB
+  version: OnePlus8ProOxygen_15.I.33_GLO_0330_2012102327
+- branch: Stable
+  changelog: 'OnePlus 8 Oxygen OS 11.0.3.3.IN21DA
+
+    System
+
+    • Newly added keyboard height adjustment where you can raise or hide the bottom
+    shortcut bar for a better input experience (Go to Settings-System-Language & input-Keyboard
+    height adjustment)
+
+    • Fixed the issue of a small probability that the alarm clock starts abnormally
+
+    • Fixed the failure to enable the auto-rotate feature
+
+    Gallery
+
+    • Fixed a small probability issue that photos don''t display in the Gallery
+
+    Bluetooth
+
+    • Fixed the small probability issue that no pop-up window shows up when connecting
+    Bluetooth headset
+
+    Network
+
+    • Fixed the issue that the WiFi connection failed in a specific situation
+
+    OnePlus Store
+
+    • An intuitive and convenient way to manage your OnePlus account, get easy-to-access
+    support, discover exciting members-only benefits, and shop for OnePlus products.
+    (Please note that it can be uninstalled)'
+  date: '2020-12-10'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.I.33_GLO_0330_2012102327/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.33_GLO_0330_2012102327/OnePlus8Oxygen_15.I.33_OTA_0330_all_2012102327_97bf8.zip
+  md5: 203bc37e5f648e630f6bd31f411fce83
+  region: India
+  size: 3.3 GB
+  version: OnePlus8Oxygen_15.I.33_GLO_0330_2012102327
+- branch: Stable
   changelog: 'System
 
     • Optimized the experience with a split-screen of apps
