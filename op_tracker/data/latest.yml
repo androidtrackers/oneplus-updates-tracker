@@ -1,3 +1,30 @@
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-01-11'
+  device: OnePlus 7T Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7TPro_CH/OnePlus7TProHydrogen_13.X.20_0200_2101110951/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_13.X.20_0200_2101110951/OnePlus7TProHydrogen_13.X.20_OTA_0200_all_2101110951_07d238.zip
+  md5: ab7c63bdcb5291ec37b2403d8939a8d8
+  region: China
+  size: 4.0 GB
+  version: OnePlus7TProHydrogen_13.X.20_0200_2101110951
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-01-10'
+  device: OnePlus 7T
+  link: http://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_13.X.20_0200_2101102344/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_13.X.20_0200_2101102344/OnePlus7THydrogen_13.X.20_OTA_0200_all_2101102344_03d3d2a.zip
+  md5: d6a73c76515d16cc08eda39796b46f7a
+  region: China
+  size: 3.9 GB
+  version: OnePlus7THydrogen_13.X.20_0200_2101102344
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-01-10'
+  device: OnePlus 7
+  link: http://otafsc-cost.h2os.com/OnePlus7_CH/OnePlus7Hydrogen_13.X.55_0550_2101102318/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_13.X.55_0550_2101102318/OnePlus7Hydrogen_13.X.55_OTA_0550_all_2101102318_aadf788.zip
+  md5: d11bb8d0c2889584d46aabbfc1e4f5c5
+  region: China
+  size: 3.9 GB
+  version: OnePlus7Hydrogen_13.X.55_0550_2101102318
 - branch: Stable
   changelog: 'OnePlus 8T Oxygen OS 11.0.6.8.KB05DA
 
@@ -570,6 +597,70 @@
   region: India
   size: 3.3 GB
   version: OnePlus8Oxygen_15.I.33_GLO_0330_2012102327
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 11.0.3.3.IN11BA
+
+    System
+
+    • Newly added keyboard height adjustment where you can raise or hide the bottom
+    shortcut bar for a better input experience (Go to Settings-System-Language & input-Keyboard
+    height adjustment)
+
+    • Fixed the issue of a small probability that the alarm clock starts abnormally
+
+    • Fixed the failure to enable auto rotate feature
+
+    Gallery
+
+    • Fixed a small probability issue that photos don''t display in the Gallery
+
+    Bluetooth
+
+    • Fixed the small probability issue that no pop-up window shows up when connecting
+    Bluetooth headset
+
+    Network
+
+    • Fixed the issue that the WiFi connection failed in a specific situation'
+  date: '2020-12-10'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_EEA/OnePlus8ProOxygen_15.E.33_GLO_0330_2012102330/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.E.33_GLO_0330_2012102330/OnePlus8ProOxygen_15.E.33_OTA_0330_all_2012102330_0d9eba1ce76c2.zip
+  md5: 5dd23bd11374b64abab639020729537d
+  region: EEA
+  size: 3.0 GB
+  version: OnePlus8ProOxygen_15.E.33_GLO_0330_2012102330
+- branch: Stable
+  changelog: 'OnePlus 8 Oxygen OS 11.0.3.3.IN21BA
+
+    System
+
+    • Newly added keyboard height adjustment where you can raise or hide the bottom
+    shortcut bar for a better input experience (Go to Settings-System-Language & input-Keyboard
+    height adjustment)
+
+    • Fixed the issue of a small probability that the alarm clock starts abnormally
+
+    • Fixed the failure to enable auto rotate feature
+
+    Gallery
+
+    • Fixed a small probability issue that photos don''t display in the Gallery
+
+    Bluetooth
+
+    • Fixed the small probability issue that no pop-up window shows up when connecting
+    Bluetooth headset
+
+    Network
+
+    • Fixed the issue that the WiFi connection failed in a specific situation'
+  date: '2020-12-10'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_EEA/OnePlus8Oxygen_15.E.33_GLO_0330_2012102327/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.E.33_GLO_0330_2012102327/OnePlus8Oxygen_15.E.33_OTA_0330_all_2012102327_13a5de65bac31b.zip
+  md5: 58218c84a154698dda26a1d9c7fbe2cd
+  region: EEA
+  size: 3.0 GB
+  version: OnePlus8Oxygen_15.E.33_GLO_0330_2012102327
 - branch: Stable
   changelog: 'System
 
