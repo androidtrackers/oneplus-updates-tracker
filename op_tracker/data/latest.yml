@@ -9,6 +9,15 @@
   version: OnePlus7TProHydrogen_13.X.20_0200_2101110951
 - branch: Beta
   changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-01-11'
+  device: OnePlus 7 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7Pro_CH/OnePlus7ProHydrogen_13.X.55_0550_2101111007/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_13.X.55_0550_2101111007/OnePlus7ProHydrogen_13.X.55_OTA_0550_all_2101111007_ed135b.zip
+  md5: af1a91149f51394ad0f2699b5c939b7c
+  region: China
+  size: 3.9 GB
+  version: OnePlus7ProHydrogen_13.X.55_0550_2101111007
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
   date: '2021-01-10'
   device: OnePlus 7T
   link: http://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_13.X.20_0200_2101102344/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_13.X.20_0200_2101102344/OnePlus7THydrogen_13.X.20_OTA_0200_all_2101102344_03d3d2a.zip
