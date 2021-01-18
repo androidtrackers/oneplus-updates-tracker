@@ -125,6 +125,50 @@
   region: EEA
   size: 2.00 GB
   version: OnePlusN100Oxygen_14.E.08_008_2012151227
+- branch: Stable
+  changelog: 'System
+
+    • Fixed the abnormal call recording issue
+
+    • Fixed the de-activated alarm issue when the phone was powered off
+
+    • Updated Android Security Patch to 2020. 09
+
+    • Updated GMS package to 2020.08 Full Screen Gestures
+
+    • Back gesture from the bottom of the screen is available Camera
+
+    • Electronic Image Stabilization has been added, bringing you the more stable
+    shooting experience'
+  date: '2020-12-31'
+  device: OnePlus 5T
+  link: https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_069_all_2010292144_76910d123e3940e5.zip
+  md5: 242e3a4021f0b37c513ac4be935fbea0
+  region: India
+  size: 1.83 GB
+  version: OnePlus5TOxygen_43.J.69_GLO_069_2002242025
+- branch: Stable
+  changelog: 'System
+
+    • Fixed the abnormal call recording issue
+
+    • Fixed the de-activated alarm issue when the phone was powered off
+
+    • Updated Android Security Patch to 2020. 09
+
+    • Updated GMS package to 2020.08 Full Screen Gestures
+
+    • Back gesture from the bottom of the screen is available Camera
+
+    • Electronic Image Stabilization has been added, bringing you the more stable
+    shooting experience'
+  date: '2020-12-31'
+  device: OnePlus 5
+  link: https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_069_all_2010292138_55db5445239246dd.zip
+  md5: 8f41d1cca57e8a91879f4b09088103b4
+  region: India
+  size: 1.82 GB
+  version: OnePlus5Oxygen_23.J.69_GLO_069_2002242016
 - branch: Beta
   changelog: '系统
 
