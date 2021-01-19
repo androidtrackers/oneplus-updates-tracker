@@ -1,3 +1,82 @@
+- branch: Stable
+  changelog: 'System
+
+    • Optimized the experience of full-screen gestures
+
+    • Increased fingerprint unlock success rates for faster unlock speed
+
+    • Newly added keyboard height adjustment where you can raise or hide the bottom
+    shortcut bar for a better input experience (Go to Settings-System-Language & input-Keyboard
+    height adjustment)
+
+    • Fixed the issue that the media player may pause abnormally
+
+    • Updated Android security patch to 2020.11
+
+    ​ Camera
+
+    • Optimized the image quality on nightscape Gallery
+
+    • Fixed a small probability issue that photos don''t display in the Gallery Network
+
+    • Fixed the issue that the WiFi connection failed in a specific situation
+
+    • Improved the stability of communication'
+  date: '2021-01-19'
+  device: OnePlus 8T
+  link: https://oxygenos.oneplus.net/OnePlus8TOxygen_15.O.21_OTA_0215_all_2101010247_ec6a7bddc57f444a.zip
+  md5: a20afa67747ed2854d379f0baac0917f
+  region: Global
+  size: 2.70 GB
+  version: OnePlus8TOxygen_15.O.21_0215_2101010247
+- branch: Stable
+  changelog: 'System
+
+    • Optimized the experience of full-screen gestures
+
+    • Increased fingerprint unlock success rates for faster unlock speed
+
+    • Newly added keyboard height adjustment where you can raise or hide the bottom
+    shortcut bar for a better input experience (Go to Settings-System-Language & input-Keyboard
+    height adjustment)
+
+    • Fixed the issue that the media player may pause abnormally
+
+    • Updated Android security patch to 2020.11
+
+    ​ Camera
+
+    • Optimized the image quality on nightscape Gallery
+
+    • Fixed a small probability issue that photos don''t display in the Gallery Network
+
+    • Fixed the issue that the WiFi connection failed in a specific situation
+
+    • Improved the stability of communication'
+  date: '2021-01-19'
+  device: OnePlus 8T
+  link: https://oxygenos.oneplus.net/OnePlus8TOxygen_15.E.22_OTA_0225_all_2101010528_97c068fa0c1f42a7.zip
+  md5: d60d540017f4a772623bdc67a29c6da1
+  region: EEA
+  size: 2.70 GB
+  version: OnePlus8TOxygen_15.E.22_0225_2101010528
+- branch: Stable
+  changelog: 'System
+
+    • Optimized the experience of Quick Settings for mute and vibration
+
+    • Optimized some text of the Setting
+
+    • Improved system stability Network
+
+    • Further improved network stability'
+  date: '2021-01-19'
+  device: OnePlus Nord N100
+  link: https://oxygenos.oneplus.net/OnePlusN100Oxygen_14.E.09_OTA_009_all_2012232048_c1c1d06e8bc34f18.zip
+  md5: edb7c71996bea96729fbdb911baa9a65
+  region: EEA
+  size: 2.00 GB
+  version: OnePlusN100Oxygen_14.E.09_009_2012232048
 - branch: Beta
   changelog: 请用英语EN（旧语言编码）设置简介
   date: '2021-01-11'
