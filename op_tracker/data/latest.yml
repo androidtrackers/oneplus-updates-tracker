@@ -434,6 +434,25 @@
   region: India
   size: 1.82 GB
   version: OnePlus5Oxygen_23.J.69_GLO_069_2002242016
+- branch: Stable
+  changelog: 'System
+
+    • Optimized the power consumption
+
+    • Optimized touch and interaction experience
+
+    • Updated Android Security Patch to 2020.11
+
+    • Updated GMS package to 2020.08 Camera
+
+    • Optimized filming results and improved image quality'
+  date: '2020-12-30'
+  device: OnePlus Nord N10
+  link: https://oxygenos.oneplus.net/OnePlusN10Oxygen_14.O.07_OTA_007_all_2011210317_3193876a482f4a6b.zip
+  md5: 793b4698407270ff7c3ab4a2f1c1a765
+  region: Global
+  size: 2.70 GB
+  version: OnePlusN10Oxygen_14.O.07_007_2011210317
 - branch: Beta
   changelog: '系统
 
