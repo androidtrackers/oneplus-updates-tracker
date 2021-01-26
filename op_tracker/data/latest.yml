@@ -1,6 +1,36 @@
 - branch: Stable
   changelog: 'System
 
+    • Optimized power consumption of the OS
+
+    • Updated Android Security Patch to 2021.01 Network
+
+    • Further improved network stability'
+  date: '2021-01-26'
+  device: OnePlus Nord N10
+  link: https://oxygenos.oneplus.net/OnePlusN10Oxygen_14.E.09_OTA_009_all_2101021731_9c32820c43e443f1.zip
+  md5: c4bc21ef759e4bc5c3a6dd36ed70d6a6
+  region: EEA
+  size: 2.29 GB
+  version: OnePlusN10Oxygen_14.E.09_009_2101021731
+- branch: Stable
+  changelog: 'System
+
+    • Optimized power consumption of the OS
+
+    • Updated Android Security Patch to 2021.01 Network
+
+    • Further improved network stability'
+  date: '2021-01-26'
+  device: OnePlus Nord N10
+  link: https://oxygenos.oneplus.net/OnePlusN10Oxygen_14.O.09_OTA_009_all_2101021729_4ffc63286ef4480e.zip
+  md5: cfc6ed60e16ba22e8af6b7d1cf3a8d7f
+  region: Global
+  size: 2.29 GB
+  version: OnePlusN10Oxygen_14.O.09_009_2101021729
+- branch: Stable
+  changelog: 'System
+
     • Optimized the experience of full-screen gestures
 
     • Increased fingerprint unlock success rates for faster unlock speed
