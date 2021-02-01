@@ -59,6 +59,52 @@
   size: 2.29 GB
   version: OnePlusN10Oxygen_14.O.09_009_2101021729
 - branch: Stable
+  changelog: 'OnePlus 6 Oxygen OS 10.3.8
+
+    System
+
+    • Updated MemberShip to 1.2.0.2
+
+    • Updated Android Security Patch to 2021.01
+
+    • Updated GMS package to 2020.09
+
+    OnePlus Store
+
+    • An intuitive and convenient way to manage your OnePlus account, get easy-to-access
+    support, discover exciting members-only benefits, and shop for OnePlus products.
+    (Please note that it can be uninstalled)'
+  date: '2021-01-21'
+  device: OnePlus 6
+  link: http://otafsg-cost-az.coloros.com/OnePlus6/OnePlus6Oxygen_22.J.50_GLO_050_2101210452/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.50_GLO_050_2101210452/OnePlus6Oxygen_22.J.50_OTA_050_all_2101210452_ef81df2df.zip
+  md5: 91759d1816f791a51ddb864b745e3e61
+  region: Global
+  size: 2.0 GB
+  version: OnePlus6Oxygen_22.J.50_GLO_050_2101210452
+- branch: Stable
+  changelog: 'OnePlus 6T Oxygen OS 10.3.8
+
+    System
+
+    • Updated MemberShip to 1.2.0.2
+
+    • Updated Android Security Patch to 2021.01
+
+    • Updated GMS package to 2020.09
+
+    OnePlus Store
+
+    • An intuitive and convenient way to manage your OnePlus account, get easy-to-access
+    support, discover exciting members-only benefits, and shop for OnePlus products.
+    (Please note that it can be uninstalled)'
+  date: '2021-01-21'
+  device: OnePlus 6T
+  link: http://otafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_34.J.50_GLO_050_2101210546/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.50_GLO_050_2101210546/OnePlus6TOxygen_34.J.50_OTA_050_all_2101210546_ee562c52ade.zip
+  md5: 95eba3e90c1b06ccbc839f2ce0deceda
+  region: Global
+  size: 2.1 GB
+  version: OnePlus6TOxygen_34.J.50_GLO_050_2101210546
+- branch: Stable
   changelog: 'System
 
     • Optimized the experience of full-screen gestures
