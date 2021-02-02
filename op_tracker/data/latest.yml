@@ -29,6 +29,36 @@
   size: 2.5 GB
   version: OnePlus7TOxygen_14.I.22_GLO_022_2101280011
 - branch: Stable
+  changelog: 'OnePlus 7T Oxygen OS 10.0.16.HD65AA
+
+    System
+
+    • Updated Android Security Patch to 2021.01
+
+    • Updated GMS package to 2020.09'
+  date: '2021-01-28'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.O.22_GLO_022_2101280011/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.22_GLO_022_2101280011/OnePlus7TOxygen_14.O.22_OTA_022_all_2101280011_848421aa.zip
+  md5: 653dba46e9170eac078fe8c7224388f5
+  region: Global
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.O.22_GLO_022_2101280011
+- branch: Stable
+  changelog: 'OnePlus 7TPro Oxygen OS 10.0.14.HD01AA
+
+    System
+
+    • Updated Android Security Patch to 2021.01
+
+    • Updated GMS package to 2020.09'
+  date: '2021-01-28'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.O.22_GLO_022_2101280017/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.O.22_GLO_022_2101280017/OnePlus7TProOxygen_14.O.22_OTA_022_all_2101280017_49ec0fcaf9fac.zip
+  md5: c7563a1c3f543a3e6fc0c12c0725a9c7
+  region: Global
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.O.22_GLO_022_2101280017
+- branch: Stable
   changelog: 'System
 
     • Optimized power consumption of the OS
