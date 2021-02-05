@@ -1,3 +1,66 @@
+- branch: Beta
+  changelog: "OP7TPro_O2_BETA_2\nSystem\n• Optimized the sliding effect of the dynamic\
+    \ wallpaper\n• Improved power consumption in some scenarios\n• Optimized the adjusting\
+    \ intensity of automatic brightness to bring a more smooth using experience\n\
+    • Fixed the issue with the adapter not charging and using the headset at the same\
+    \ time\n• Fixed the issue in which the battery icon is not displayed on the status\
+    \ bar\n• Fixed the issue that 'Tips & Support' is not displayed in the Settings\n\
+    Camera\n• Fixed the small probability flashback issue with the camera when unlocking\
+    \ in professional mode \nAmbient Display\n• Newly support Always-on ambient display\
+    \ feature for OP7Pro and OP7TPro (Go to: Settings - Utilities - OnePlus Laboratory\
+    \ - Always-on ambient display)"
+  date: '2021-01-30'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_13.W.22_GLO_0220_2101301500/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.W.22_GLO_0220_2101301500/OnePlus7TProOxygen_13.W.22_OTA_0220_all_2101301500_34877ccf0b1997f.zip
+  md5: eadfb6afc0b71c22f54da05d06761992
+  region: EEA
+  size: 2.7 GB
+  version: OnePlus7TProOxygen_13.W.22_GLO_0220_2101301500
+- branch: Beta
+  changelog: "OP7TPro_O2_BETA_2\nSystem\n• Optimized the sliding effect of the dynamic\
+    \ wallpaper\n• Improved power consumption in some scenarios\n• Optimized the adjusting\
+    \ intensity of automatic brightness to bring a more smooth using experience\n\
+    • Fixed the issue with the adapter not charging and using the headset at the same\
+    \ time\n• Fixed the issue in which the battery icon is not displayed on the status\
+    \ bar\n• Fixed the issue that 'Tips & Support' is not displayed in the Settings\n\
+    Camera\n• Fixed the small probability flashback issue with the camera when unlocking\
+    \ in professional mode \nAmbient Display\n• Newly support Always-on ambient display\
+    \ feature for OP7Pro and OP7TPro (Go to: Settings - Utilities - OnePlus Laboratory\
+    \ - Always-on ambient display)"
+  date: '2021-01-30'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_13.Y.22_GLO_0220_2101301500/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.Y.22_GLO_0220_2101301500/OnePlus7TProOxygen_13.Y.22_OTA_0220_all_2101301500_62bcccef.zip
+  md5: ea10fff3ddbb5cd7433bb2ba7a49d8f4
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_13.Y.22_GLO_0220_2101301500
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-01-30'
+  device: OnePlus 7T Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7TPro_CH/OnePlus7TProHydrogen_13.X.21_0210_2101301505/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_13.X.21_0210_2101301505/OnePlus7TProHydrogen_13.X.21_OTA_0210_all_2101301505_0bb22.zip
+  md5: a934255caa810fd1cfba56f4e564a930
+  region: China
+  size: 3.9 GB
+  version: OnePlus7TProHydrogen_13.X.21_0210_2101301505
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-01-29'
+  device: OnePlus 7
+  link: http://otafsc-cost.h2os.com/OnePlus7_CH/OnePlus7Hydrogen_13.X.56_0560_2101291753/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_13.X.56_0560_2101291753/OnePlus7Hydrogen_13.X.56_OTA_0560_all_2101291753_35dd494914e42.zip
+  md5: b5f6d5f8bfaa0b2a189d24dcd9bf6d80
+  region: China
+  size: 3.8 GB
+  version: OnePlus7Hydrogen_13.X.56_0560_2101291753
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-01-29'
+  device: OnePlus 7T
+  link: http://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_13.X.21_0210_2101291026/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_13.X.21_0210_2101291026/OnePlus7THydrogen_13.X.21_OTA_0210_all_2101291026_575ee757e84fd50.zip
+  md5: b859fcc78360a24074944d5e049a3982
+  region: China
+  size: 3.9 GB
+  version: OnePlus7THydrogen_13.X.21_0210_2101291026
 - branch: Stable
   changelog: 'OnePlus 7TPro Oxygen OS 10.3.8.HD01AA
 
@@ -83,6 +146,21 @@
   region: India
   size: 2.3 GB
   version: OnePlus7Oxygen_14.P.32_GLO_032_2101280019
+- branch: Stable
+  changelog: 'OnePlus 7TPro Oxygen OS 10.0.14.HD01BA
+
+    System
+
+    • Updated Android Security Patch to 2021.01
+
+    • Updated GMS package to 2020.09'
+  date: '2021-01-28'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.E.22_GLO_022_2101282148/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.E.22_GLO_022_2101282148/OnePlus7TProOxygen_14.E.22_OTA_022_all_2101282148_bb2ebdacbdd.zip
+  md5: 2ba9cc2ef35a96e585b5c254406998ca
+  region: EEA
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.E.22_GLO_022_2101282148
 - branch: Beta
   changelog: 'OxygenOS: OnePlus8Pro_O₂_BETA_6
 
