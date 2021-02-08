@@ -1,3 +1,114 @@
+- branch: Stable
+  changelog: 'OnePlus 8T OS 11.0.7.9.KB05DA
+
+    System
+
+    • Optimized the experience of using long screenshots
+
+    • Optimized the UI display effect of the notification bar
+
+    • Improve the stuttering problem of some tripartite applications
+
+    • Fixed the small probability issue that Twitter may freeze
+
+    • Fixed the issue that opening app split-screen may fail
+
+    • Fixed the issue of failure to switch the accent color in a small probability
+
+    • Fixed the inaccurate display of the attribution of some numbers
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android security patch to 2021.01
+
+    Galley
+
+    • Fixed the issue that the video cannot be played in a small probability
+
+    Network
+
+    • Fixed the noise issue of 5G calls'
+  date: '2021-02-01'
+  device: OnePlus 8T
+  link: http://otafsg-cost-az.coloros.com/OnePlus8T_IND/OnePlus8TOxygen_15.I.22_GLO_0220_2102011820/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.I.22_GLO_0220_2102011820/OnePlus8TOxygen_15.I.22_OTA_0220_all_2102011820_4231c4.zip
+  md5: 8fbdeb830531aa7d146abf8e9866ee04
+  region: India
+  size: 3.1 GB
+  version: OnePlus8TOxygen_15.I.22_GLO_0220_2102011820
+- branch: Stable
+  changelog: 'OnePlus 8 Oxygen OS 11.0.4.4.IN21DA
+
+    System
+
+    • Optimized the experience of using long screenshots
+
+    • Optimized the UI display effect of the notification bar
+
+    • Improve the stuttering problem of some tripartite applications
+
+    • Fixed the small probability issue that Twitter may freeze
+
+    • Fixed the issue that opening app split-screen may fail
+
+    • Fixed the issue of failure to switch the accent color in a small probability
+
+    • Fixed the inaccurate display of the attribution of some numbers
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android security patch to 2021.01
+
+    Galley
+
+    • Fixed the issue that the video cannot be played in a small probability
+
+    Network
+
+    • Fixed the noise issue of 5G calls'
+  date: '2021-02-01'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.I.34_GLO_0340_2102011819/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.34_GLO_0340_2102011819/OnePlus8Oxygen_15.I.34_OTA_0340_all_2102011819_07f7e5d0ad97b48.zip
+  md5: a9bfce108771c17eb63a99fa30f217f7
+  region: India
+  size: 3.3 GB
+  version: OnePlus8Oxygen_15.I.34_GLO_0340_2102011819
+- branch: Stable
+  changelog: 'OnePlus8 Pro Oxygen OS11.0.4.4.IN11DA
+
+    System
+
+    • Optimized the experience of using long screenshots
+
+    • Optimized the UI display effect of the notification bar
+
+    • Improve the stuttering problem of some tripartite applications
+
+    • Fixed the issue of Twitter freeze with a small probability
+
+    • Fixed the issue that opening app split-screen may fail
+
+    • Fixed the issue of failure to switch the accent color in a small probability
+
+    • Fixed the inaccurate display of the attribution of some numbers
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android security patch to 2021.01
+
+    Galley
+
+    • Fixed the issue that the video cannot be played in a small probability
+
+    Network
+
+    • Fixed the noise issue of 5G calls'
+  date: '2021-02-01'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.I.34_GLO_0340_2102011820/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.34_GLO_0340_2102011820/OnePlus8ProOxygen_15.I.34_OTA_0340_all_2102011820_09e0.zip
+  md5: 0a2f2a50862cb15351f7b6c0caddafbf
+  region: India
+  size: 3.3 GB
+  version: OnePlus8ProOxygen_15.I.34_GLO_0340_2102011820
 - branch: Beta
   changelog: "OP7TPro_O2_BETA_2\nSystem\n• Optimized the sliding effect of the dynamic\
     \ wallpaper\n• Improved power consumption in some scenarios\n• Optimized the adjusting\
@@ -61,6 +172,15 @@
   region: China
   size: 3.9 GB
   version: OnePlus7THydrogen_13.X.21_0210_2101291026
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-01-29'
+  device: OnePlus 7 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7Pro_CH/OnePlus7ProHydrogen_13.X.56_0560_2101290939/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_13.X.56_0560_2101290939/OnePlus7ProHydrogen_13.X.56_OTA_0560_all_2101290939_7779727b.zip
+  md5: 4ee99e30a342e115bc978458f59fc1fd
+  region: China
+  size: 3.8 GB
+  version: OnePlus7ProHydrogen_13.X.56_0560_2101290939
 - branch: Stable
   changelog: 'OnePlus 7TPro Oxygen OS 10.3.8.HD01AA
 
