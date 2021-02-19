@@ -281,6 +281,51 @@
   region: EEA
   size: 2.8 GB
   version: OnePlus7TProOxygen_14.E.22_GLO_022_2101282148
+- branch: Stable
+  changelog: 'OnePlus 7 Pro Oxygen OS 10.0.11.GM21BA
+
+    System
+
+    • Updated Android Security Patch to 2021.01
+
+    • Updated GMS package to 2020.09'
+  date: '2021-01-28'
+  device: OnePlus 7 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7Pro_EEA/OnePlus7ProOxygen_21.E.32_GLO_032_2101280020/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_21.E.32_GLO_032_2101280020/OnePlus7ProOxygen_21.E.32_OTA_032_all_2101280020_c39273ef1f205b6.zip
+  md5: 4b1d39420cebf80364ccfb8618dd1fd9
+  region: EEA
+  size: 2.2 GB
+  version: OnePlus7ProOxygen_21.E.32_GLO_032_2101280020
+- branch: Stable
+  changelog: 'OnePlus 7T Oxygen OS 10.0.16.HD65BA
+
+    System
+
+    • Updated Android Security Patch to 2021.01
+
+    • Updated GMS package to 2020.09'
+  date: '2021-01-28'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.E.22_GLO_022_2101282159/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.E.22_GLO_022_2101282159/OnePlus7TOxygen_14.E.22_OTA_022_all_2101282159_d237c94f0.zip
+  md5: 7e2f115edc099d7100249172869359c1
+  region: EEA
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.E.22_GLO_022_2101282159
+- branch: Stable
+  changelog: 'OnePlus 7 Oxygen OS 10.0.11.GM57BA
+
+    System
+
+    • Updated Android Security Patch to 2021.01
+
+    • Updated GMS package to 2020.09'
+  date: '2021-01-28'
+  device: OnePlus 7
+  link: http://otafsg-cost-az.coloros.com/OnePlus7_EEA/OnePlus7Oxygen_14.E.32_GLO_032_2101280017/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.E.32_GLO_032_2101280017/OnePlus7Oxygen_14.E.32_OTA_032_all_2101280017_bbd23c3f.zip
+  md5: 0307cc23151b8d33aeba11f7d67329e8
+  region: EEA
+  size: 2.2 GB
+  version: OnePlus7Oxygen_14.E.32_GLO_032_2101280017
 - branch: Beta
   changelog: 'OxygenOS: OnePlus8Pro_O₂_BETA_6
 
