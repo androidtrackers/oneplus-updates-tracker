@@ -1,6 +1,32 @@
 - branch: Stable
   changelog: 'System
 
+    • Updated Android Security Patch to 2021.01
+
+    • Updated GMS package to 2020.09'
+  date: '2021-02-22'
+  device: OnePlus 7T
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.E.22_OTA_022_all_2101280011_5bede9d26cf949af.zip
+  md5: 6d3eee882293584f32c6a008cec2dc8a
+  region: EEA
+  size: 2.59 GB
+  version: OnePlus7TOxygen_14.E.22_022_2101280011
+- branch: Stable
+  changelog: 'System
+
+    • Updated Android Security Patch to 2021.01
+
+    • Updated GMS package to 2020.09'
+  date: '2021-02-22'
+  device: OnePlus 7T Pro
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_14.E.22_OTA_022_all_2101280017_d66e72591a5b48e2.zip
+  md5: cb15ee6cb38274626329b7dda9ef0f03
+  region: EEA
+  size: 2.65 GB
+  version: OnePlus7TProOxygen_14.E.22_022_2101280017
+- branch: Stable
+  changelog: 'System
+
     • Optimized the experience of using long screenshots
 
     • Optimized the UI display effect of the notification bar
