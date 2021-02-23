@@ -211,6 +211,21 @@
   size: 2.87 GB
   version: OnePlus8ProOxygen_15.O.34_0340_2102011818
 - branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 10.5.11.AC01AA
+
+    System
+
+    • Updated Android Security Patch to 2021.01
+
+    • Improved system stability'
+  date: '2021-02-04'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord/NordOxygen_14.O.13_GLO_013_2102040620/patch/amazone2/GLO/NordOxygen/NordOxygen_14.O.13_GLO_013_2102040620/NordOxygen_14.O.13_OTA_013_all_2102040620_82e7f8c76.zip
+  md5: 15fd4ca2a744e0d24fc46d93f27630cc
+  region: Global
+  size: 2.6 GB
+  version: NordOxygen_14.O.13_GLO_013_2102040620
+- branch: Stable
   changelog: 'OnePlus 8T OS 11.0.7.9.KB05DA
 
     System
