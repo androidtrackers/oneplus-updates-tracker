@@ -3,6 +3,11 @@
   name: OnePlus Nord N100
   product: ''
   region: ''
+- code: PM1605857280263
+  image: https://oneplusgsp.s3.cn-north-1.amazonaws.com.cn/uploadFiles/b3f74978fe104ce5aa00c4a37a6e9b88.jpg
+  name: OnePlus Nord N10
+  product: ''
+  region: ''
 - code: PM1605596915581
   image: https://oneplusgsp.s3.cn-north-1.amazonaws.com.cn/uploadFiles/eea37ded5fec43f99d147bd32aa461b4.png
   name: OnePlus 8T
@@ -16,6 +21,16 @@
 - code: PM1587123976090
   image: https://image01.oneplus.net/shop/202010/21/1-M00-1B-EB-rB8LB1-QTr6AQjkSAAFqgNqvGog25.jpeg
   name: OnePlus 8 Pro
+  product: ''
+  region: ''
+- code: PM1586920535300
+  image: https://image01.oneplus.net/shop/202010/21/1-M00-1B-EB-rB8bwl-QTqSAfo4qAAFru52nytI97.jpeg
+  name: OnePlus 8
+  product: ''
+  region: ''
+- code: PM1600329725089
+  image: https://image01.oneplus.net/shop/202010/22/1-M00-1B-F1-rB8bwl-Q7JuAH2X7AAQpxd402Ok348.png
+  name: OnePlus 8 Visible
   product: ''
   region: ''
 - code: PM1574162297465
