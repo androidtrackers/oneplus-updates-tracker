@@ -1,3 +1,104 @@
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-02-26'
+  device: OnePlus 7T Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7TPro_CH/OnePlus7TProHydrogen_13.X.22_0220_2102261706/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_13.X.22_0220_2102261706/OnePlus7TProHydrogen_13.X.22_OTA_0220_all_2102261706_dac4f75c2c.zip
+  md5: 3161f201b0b07e7be29d598e9286444a
+  region: China
+  size: 3.9 GB
+  version: OnePlus7TProHydrogen_13.X.22_0220_2102261706
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-02-26'
+  device: OnePlus 7 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7Pro_CH/OnePlus7ProHydrogen_13.X.57_0570_2102261638/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_13.X.57_0570_2102261638/OnePlus7ProHydrogen_13.X.57_OTA_0570_all_2102261638_d79f16.zip
+  md5: 35a78a889e5d0e4c10631b95efa2d6ba
+  region: China
+  size: 3.8 GB
+  version: OnePlus7ProHydrogen_13.X.57_0570_2102261638
+- branch: Beta
+  changelog: "OP7TPro_O2_BETA_3\nSystem\n• Optimized the effect of unlocking animation\n\
+    • Fixed the issue of slow charging rate in some cases\n• Fixed the lagging issue\
+    \ when playing screen-recorded videos\n• Fixed the small probability failure issue\
+    \ with the Double Tap to Wake \nBluetooth\n• Fixed the silent issue when the Bluetooth\
+    \ transport protocol is changed to AptX\nNetwork\n• Improved the stability of\
+    \ the Wi-Fi connection and reduce Internet outages"
+  date: '2021-02-26'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_13.Y.23_GLO_0230_2102261701/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.Y.23_GLO_0230_2102261701/OnePlus7TProOxygen_13.Y.23_OTA_0230_all_2102261701_aa131784.zip
+  md5: 99123d034446517404cd79d3e0e1d898
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_13.Y.23_GLO_0230_2102261701
+- branch: Beta
+  changelog: "OP7Pro_O2_BETA_3\nSystem\n• Optimized the effect of unlocking animation\n\
+    • Fixed the issue of slow charging rate in some cases\n• Fixed the lagging issue\
+    \ when playing screen-recorded videos\n• Fixed the small probability failure issue\
+    \ with the Double Tap to Wake \nBluetooth\n• Fixed the silent issue when the Bluetooth\
+    \ transport protocol is changed to AptX\nNetwork\n• Improved the stability of\
+    \ the Wi-Fi connection and reduce Internet outages"
+  date: '2021-02-26'
+  device: OnePlus 7 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7Pro/OnePlus7ProOxygen_13.W.58_GLO_0580_2102261639/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_13.W.58_GLO_0580_2102261639/OnePlus7ProOxygen_13.W.58_OTA_0580_all_2102261639_996f2.zip
+  md5: d5bddc450653d2c2cfee341522af167d
+  region: Global
+  size: 2.5 GB
+  version: OnePlus7ProOxygen_13.W.58_GLO_0580_2102261639
+- branch: Beta
+  changelog: "OP7TPro_O2_BETA_3\nSystem\n• Optimized the effect of unlocking animation\n\
+    • Fixed the issue of slow charging rate in some cases\n• Fixed the lagging issue\
+    \ when playing screen-recorded videos\n• Fixed the small probability failure issue\
+    \ with the Double Tap to Wake \nBluetooth\n• Fixed the silent issue when the Bluetooth\
+    \ transport protocol is changed to AptX\nNetwork\n• Improved the stability of\
+    \ the Wi-Fi connection and reduce Internet outages"
+  date: '2021-02-26'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_13.W.23_GLO_0230_2102261701/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.W.23_GLO_0230_2102261701/OnePlus7TProOxygen_13.W.23_OTA_0230_all_2102261701_905560a700.zip
+  md5: c9cf20be4a8c1e779274077939d1f26f
+  region: EEA
+  size: 2.7 GB
+  version: OnePlus7TProOxygen_13.W.23_GLO_0230_2102261701
+- branch: Beta
+  changelog: "OP7T_O2_BETA_3\nSystem\n• Optimized the effect of unlocking animation\n\
+    • Fixed the issue of slow charging rate in some cases\n• Fixed the lagging issue\
+    \ when playing screen-recorded videos\n• Fixed the small probability failure issue\
+    \ with the Double Tap to Wake \nAmbient Display\n• Always-on ambient display is\
+    \ available now (Go to: Settings - Utilities - OnePlus Laboratory - Always-on\
+    \ ambient display)\nBluetooth\n• Fixed the silent issue when the Bluetooth transport\
+    \ protocol is changed to AptX\nNetwork\n• Improved the stability of the Wi-Fi\
+    \ connection and reduce Internet outages"
+  date: '2021-02-26'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_13.W.23_GLO_0230_2102261720/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_13.W.23_GLO_0230_2102261720/OnePlus7TOxygen_13.W.23_OTA_0230_all_2102261720_86687b22.zip
+  md5: 415876ae7610fb2b14b3f68f9047208b
+  region: EEA
+  size: 2.7 GB
+  version: OnePlus7TOxygen_13.W.23_GLO_0230_2102261720
+- branch: Beta
+  changelog: "OP7T_O2_BETA_3\nSystem\n• Optimized the effect of unlocking animation\n\
+    • Fixed the issue of slow charging rate in some cases\n• Fixed the lagging issue\
+    \ when playing screen-recorded videos\n• Fixed the small probability failure issue\
+    \ with the Double Tap to Wake \nAmbient Display\n• Always-on ambient display is\
+    \ available now (Go to: Settings - Utilities - OnePlus Laboratory - Always-on\
+    \ ambient display)\nBluetooth\n• Fixed the silent issue when the Bluetooth transport\
+    \ protocol is changed to AptX\nNetwork\n• Improved the stability of the Wi-Fi\
+    \ connection and reduce Internet outages"
+  date: '2021-02-26'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_13.Y.23_GLO_0230_2102261720/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_13.Y.23_GLO_0230_2102261720/OnePlus7TOxygen_13.Y.23_OTA_0230_all_2102261720_d107706d.zip
+  md5: 20a162ed89f38e87e91d3037d6020b24
+  region: India
+  size: 2.7 GB
+  version: OnePlus7TOxygen_13.Y.23_GLO_0230_2102261720
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-02-26'
+  device: OnePlus 7T
+  link: http://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_13.X.22_0220_2102261706/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_13.X.22_0220_2102261706/OnePlus7THydrogen_13.X.22_OTA_0220_all_2102261706_8640308dc9e20a.zip
+  md5: 923881f377c13fa356927ff8b61823d8
+  region: China
+  size: 3.9 GB
+  version: OnePlus7THydrogen_13.X.22_0220_2102261706
 - branch: Stable
   changelog: 'System
 
@@ -210,6 +311,98 @@
   region: Global
   size: 2.87 GB
   version: OnePlus8ProOxygen_15.O.34_0340_2102011818
+- branch: Beta
+  changelog: "OxygenOS: OnePlus8Pro_O₂_BETA_7\nSystem\n• Adjusted the layout of the\
+    \ emergency rescue in the password lock screen \n• Fixed the issue that the Horizon\
+    \ light has a small probability of failing to turn on\n• Updated Android Security\
+    \ Patch to 2021.02\nCamera\n• Optimized the stability"
+  date: '2021-02-19'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro/OnePlus8ProOxygen_15.X.17_GLO_0170_2102192258/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.X.17_GLO_0170_2102192258/OnePlus8ProOxygen_15.X.17_OTA_0170_all_2102192258_3d2241.zip
+  md5: 47eadba5de4c73c4b57506227ac3e766
+  region: Global
+  size: 3.1 GB
+  version: OnePlus8ProOxygen_15.X.17_GLO_0170_2102192258
+- branch: Beta
+  changelog: "OxygenOS: OnePlus8_O₂_BETA_7\nSystem\n• Adjusted the layout of the emergency\
+    \ rescue in the password lock screen \n• Fixed the issue that the Horizon light\
+    \ has a small probability of failing to turn on\n• Updated Android Security Patch\
+    \ to 2021.02\nCamera\n• Optimized the stability"
+  date: '2021-02-19'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8/OnePlus8Oxygen_15.X.17_GLO_0170_2102192301/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.X.17_GLO_0170_2102192301/OnePlus8Oxygen_15.X.17_OTA_0170_all_2102192301_c29c4aa8de260c.zip
+  md5: 237c0c620471f50d43328c1b067658cb
+  region: Global
+  size: 3.1 GB
+  version: OnePlus8Oxygen_15.X.17_GLO_0170_2102192301
+- branch: Beta
+  changelog: "OxygenOS: OnePlus8Pro_O₂_BETA_7\nSystem\n• Adjusted the layout of the\
+    \ emergency rescue in the password lock screen \n• Fixed the issue that the Horizon\
+    \ light has a small probability of failing to turn on\n• Updated Android Security\
+    \ Patch to 2021.02\nCamera\n• Optimized the stability"
+  date: '2021-02-19'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.W.17_GLO_0170_2102192300/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.W.17_GLO_0170_2102192300/OnePlus8ProOxygen_15.W.17_OTA_0170_all_2102192300_316953cceaa.zip
+  md5: b5a846e19e0a3cb2498db59f0e6c563a
+  region: India
+  size: 3.3 GB
+  version: OnePlus8ProOxygen_15.W.17_GLO_0170_2102192300
+- branch: Beta
+  changelog: "OxygenOS: OnePlus8_O₂_BETA_7\nSystem\n• Adjusted the layout of the emergency\
+    \ rescue in the password lock screen \n• Fixed the issue that the Horizon light\
+    \ has a small probability of failing to turn on\n• Updated Android Security Patch\
+    \ to 2021.02\nCamera\n• Optimized the stability"
+  date: '2021-02-19'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.W.17_GLO_0170_2102192301/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.W.17_GLO_0170_2102192301/OnePlus8Oxygen_15.W.17_OTA_0170_all_2102192301_5fa2a8fd96f7.zip
+  md5: c85fdacc4987b2ee35f5618f07c5c43b
+  region: India
+  size: 3.3 GB
+  version: OnePlus8Oxygen_15.W.17_GLO_0170_2102192301
+- branch: Beta
+  changelog: "HydrogenOS: OnePlus8Pro_H₂_BETA_7\nSystem\n• Optimized the UI display\
+    \ of the status bar\n• Optimized the stability of frame rate and improved the\
+    \ experience when playing games\n• Optimized the interface of the Community homepage\
+    \ and make notifications more eye-catching\n• Adjusted the layout of the emergency\
+    \ call in the password lock screen \n• Fixed the crash issue where the drop-down\
+    \ menu of Browser\n• Updated Android security patch to 2021.02\nMessage\n• Newly\
+    \ added SMS verification codes hiding function. Your verification codes can be\
+    \ private on the locked screen for better information security (Go to: Messages-settings-Auto\
+    \ clean classified message )\nWeather\n• Optimized animations for sunny and cloudy\
+    \ days for a clearer dynamic display\nCamera\n• Optimized the stability \nGaming\
+    \ Space\n• Fixed the issue where notifications could not be turned off in the\
+    \ game in some cases\nGallery\n• Optimized the layout of the cloud service interface\
+    \ in the Gallery for a better operation experience\nBluetooth\n• Improved the\
+    \ transmission rate of Bluetooth when connecting watches"
+  date: '2021-02-19'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.Y.17_0170_2102192302/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.Y.17_0170_2102192302/OnePlus8ProHydrogen_15.Y.17_OTA_0170_all_2102192302_bf991.zip
+  md5: 92c5f292952007f856c13ab630cc8271
+  region: China
+  size: 4.3 GB
+  version: OnePlus8ProHydrogen_15.Y.17_0170_2102192302
+- branch: Beta
+  changelog: "HydrogenOS: OnePlus8_H₂_BETA_7\nSystem\n• Optimized the UI display of\
+    \ the status bar\n• Optimized the stability of frame rate and improved the experience\
+    \ when playing games\n• Optimized the interface of the Community homepage and\
+    \ make notifications more eye-catching\n• Adjusted the layout of the emergency\
+    \ call in the password lock screen \n• Fixed the crash issue where the drop-down\
+    \ menu of Browser\n• Updated Android security patch to 2021.02\nMessage\n• Newly\
+    \ added SMS verification codes hiding function. Your verification codes can be\
+    \ private on the locked screen for better information security (Go to: Messages-settings-Auto\
+    \ clean classified message )\nWeather\n• Optimized animations for sunny and cloudy\
+    \ days for a clearer dynamic display\nCamera\n• Optimized the stability \nGaming\
+    \ Space\n• Fixed the issue where notifications could not be turned off in the\
+    \ game in some cases\nGallery\n• Optimized the layout of the cloud service interface\
+    \ in the Gallery for a better operation experience\nBluetooth\n• Improved the\
+    \ transmission rate of Bluetooth when connecting watches"
+  date: '2021-02-19'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.Y.17_0170_2102192259/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.Y.17_0170_2102192259/OnePlus8Hydrogen_15.Y.17_OTA_0170_all_2102192259_31f974ca.zip
+  md5: 50ac0530e23688f4fc04233db5177120
+  region: China
+  size: 4.2 GB
+  version: OnePlus8Hydrogen_15.Y.17_0170_2102192259
 - branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.11.AC01AA
 
@@ -225,6 +418,74 @@
   region: Global
   size: 2.6 GB
   version: NordOxygen_14.O.13_GLO_013_2102040620
+- branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 10.5.11.AC01BA
+
+    System
+
+    • Updated Android Security Patch to 2021.01
+
+    • Improved system stability'
+  date: '2021-02-04'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_EEA/NordOxygen_14.E.13_GLO_013_2102040307/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.13_GLO_013_2102040307/NordOxygen_14.E.13_OTA_013_all_2102040307_27ee6.zip
+  md5: d4a673152109e7d5249207b0e0dd4357
+  region: EEA
+  size: 2.6 GB
+  version: NordOxygen_14.E.13_GLO_013_2102040307
+- branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 10.5.11.AC01DA
+
+    System
+
+    • Updated Android Security Patch to 2021.01
+
+    • Improved system stability'
+  date: '2021-02-04'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_IND/NordOxygen_14.I.13_GLO_013_2102040316/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.13_GLO_013_2102040316/NordOxygen_14.I.13_OTA_013_all_2102040316_ef9993de35.zip
+  md5: 3670bff07bcf6383c10c92900de99eac
+  region: India
+  size: 2.8 GB
+  version: NordOxygen_14.I.13_GLO_013_2102040316
+- branch: Stable
+  changelog: "OnePlus 8 Pro Hydrogen OS 11.0.4.4.IN11\nSystem\n• Optimized the experience\
+    \ of using long screenshots\n• Optimized the UI display effect of the notification\
+    \ bar\n• Optimized the back-end management of WeCom\n• Improve the stuttering\
+    \ problem of some tripartite applications\n• Fix the issue that opening app split-screen\
+    \ may fail\n• Fix the issue of failure to switch the accent color in a small probability\n\
+    • Fixed the lag issue with WeChat when sending pictures in the small window \n\
+    • Fixed the inaccurate display of the attribution of some numbers\n• Fixed the\
+    \ issue where the screen would display slightly yellow when browsing pictures\
+    \ in Zhihu\n• Updated Android security patch to 2021.01\nGalley\n• Fixed the issue\
+    \ that the video cannot be played in a small probability\nNetwork\n• Fixed the\
+    \ noise issue of 5G calls"
+  date: '2021-02-02'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.H.34_0340_2102022326/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.34_0340_2102022326/OnePlus8ProHydrogen_15.H.34_OTA_0340_all_2102022326_87a10470641.zip
+  md5: be9b8c22f11d5392b757e9808aefd270
+  region: China
+  size: 4.2 GB
+  version: OnePlus8ProHydrogen_15.H.34_0340_2102022326
+- branch: Stable
+  changelog: "OnePlus 8 Hydrogen OS 11.0.4.4.IN21\nSystem\n• Optimized the experience\
+    \ of using long screenshots\n• Optimized the UI display effect of the notification\
+    \ bar\n• Optimized the back-end management of WeCom\n• Improved the stuttering\
+    \ problem of some tripartite applications\n• Fixed the issue that opening app\
+    \ split-screen may fail\n• Fixed the issue of failure to switch the accent color\
+    \ in a small probability\n• Fixed the lag issue with WeChat when sending pictures\
+    \ in the small window \n• Fixed the inaccurate display of the attribution of some\
+    \ numbers\n• Fixed the issue where the screen would display slightly yellow when\
+    \ browsing pictures in Zhihu\n• Updated Android security patch to 2021.01\nGalley\n\
+    • Fixed the issue that the video cannot be played in a small probability\nNetwork\n\
+    • Fixed the noise issue of 5G calls"
+  date: '2021-02-02'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.H.34_0340_2102022320/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.34_0340_2102022320/OnePlus8Hydrogen_15.H.34_OTA_0340_all_2102022320_48d1.zip
+  md5: 01db1e0f43c369426c9ac13296055d7b
+  region: China
+  size: 4.2 GB
+  version: OnePlus8Hydrogen_15.H.34_0340_2102022320
 - branch: Stable
   changelog: 'OnePlus 8T OS 11.0.7.9.KB05DA
 
