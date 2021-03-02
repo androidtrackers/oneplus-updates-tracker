@@ -31,6 +31,70 @@
   size: 2.50 GB
   version: OnePlus7TOxygen_13.W.22_0220_2101291101
 - branch: Beta
+  changelog: 'S
+
+    ystem
+
+    • Optimized the sliding effect of the dynamic wallpaper
+
+    • Improved power consumption in some scenarios
+
+    • Optimized the adjusting intensity of automatic brightness to bring a more smooth
+    using experience
+
+    • Fixed the issue with the adapter not charging and using the headset at the same
+    time
+
+    • Fixed the issue in which the battery icon is not displayed on the status bar
+
+    • Fixed the issue that ''Tips & Support'' is not displayed in the Settings Camera
+
+    • Fixed the small probability flashback issue with the camera when unlocking in
+    professional mode Ambient Display
+
+    • Newly supported Always-on ambient display feature for OP7Pro and OP7TPro (Go
+    to: Settings - Utilities - OnePlus Laboratory - Always-on ambient display) The
+    feature on OP7 and OP7T will be available in subsequent releases)'
+  date: '2021-03-02'
+  device: OnePlus 7Pro
+  link: https://oxygenos.oneplus.net/OnePlus7ProOxygen_13.W.57_OTA_0570_all_2101290942_e4329af1684c4bcc.zip
+  md5: 3bc24af991f6566a7e8716847bf77fac
+  region: India
+  size: 2.35 GB
+  version: OnePlus7ProOxygen_13.W.57_0570_2101290942
+- branch: Beta
+  changelog: 'S
+
+    ystem
+
+    • Optimized the sliding effect of the dynamic wallpaper
+
+    • Improved power consumption in some scenarios
+
+    • Optimized the adjusting intensity of automatic brightness to bring a more smooth
+    using experience
+
+    • Fixed the issue with the adapter not charging and using the headset at the same
+    time
+
+    • Fixed the issue in which the battery icon is not displayed on the status bar
+
+    • Fixed the issue that ''Tips & Support'' is not displayed in the Settings Camera
+
+    • Fixed the small probability flashback issue with the camera when unlocking in
+    professional mode Ambient Display
+
+    • Newly supported Always-on ambient display feature for OP7Pro and OP7TPro (Go
+    to: Settings - Utilities - OnePlus Laboratory - Always-on ambient display) The
+    feature on OP7 and OP7T will be available in subsequent releases)'
+  date: '2021-03-02'
+  device: OnePlus 7
+  link: https://oxygenos.oneplus.net/OnePlus7Oxygen_13.W.57_OTA_0570_all_2101291753_586633ea895240be.zip
+  md5: a32b221f36603f0b8c065a83ac96283a
+  region: India
+  size: 2.34 GB
+  version: OnePlus7Oxygen_13.W.57_0570_2101291753
+- branch: Beta
   changelog: 请用英语EN（旧语言编码）设置简介
   date: '2021-02-26'
   device: OnePlus 7T Pro
