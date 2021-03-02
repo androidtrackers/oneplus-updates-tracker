@@ -100,6 +100,55 @@
   size: 3.9 GB
   version: OnePlus7THydrogen_13.X.22_0220_2102261706
 - branch: Stable
+  changelog: 'OnePlus Nord Oxygen OS 11.AC01AA
+
+    System
+
+    • Update to Android 11 version
+
+    • The brand new UI design brings you a more comfortable experience with various
+    optimizations of details
+
+    • Optimized the stability of some third-party apps and improved experience
+
+    Ambient Display
+
+    • Newly added Insight clock style, a joint creation with Parsons School of Design.
+    It will change according to the phone usage data (Go to: Settings > Customization
+    > Clock on ambient display)
+
+    • Newly added the Canvas always-on display, which can extract the subject''s outline
+    from any photo and display it on your lock screen（Go to：Settings-Customization-Wallpaper-Canvas-Choose
+    photo preview and it can be generated automatically）
+
+    Dark Mode
+
+    • Added the shortcut key for Dark Mode, pull down the quick setting to enable
+
+    • Now supporting automatically turn on feature & customize time range. (Go to:
+    Settings – Display – Dark Mode – Turn on automatically – Automatically enable
+    from sunset to sunrise / Custom time range)
+
+    Shelf
+
+    • Brand new shelf UI
+
+    • Newly added a weather widget with smarter animation effect
+
+    Gallery
+
+    • Newly added the Story feature, which can automatically create the weekly stories
+    by using your local photos and videos
+
+    • Optimized the loading speed to improve the image preview experience'
+  date: '2021-02-24'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord/NordOxygen_14.O.17_GLO_0170_2102241630/patch/amazone2/GLO/NordOxygen/NordOxygen_14.O.17_GLO_0170_2102241630/NordOxygen_14.O.17_OTA_0170_all_2102241630_7427d0.zip
+  md5: 062bee4199f507934d1411521183e341
+  region: Global
+  size: 2.9 GB
+  version: NordOxygen_14.O.17_GLO_0170_2102241630
+- branch: Stable
   changelog: 'System
 
     • Updated Android Security Patch to 2021.01
