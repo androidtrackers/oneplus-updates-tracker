@@ -1,3 +1,40 @@
+- branch: Stable
+  changelog: 'System
+
+    • Improved the power consumption
+
+    • Updated Android Security Patch to 2021.01
+
+    • Improved system stability and fixed some bugs Network
+
+    • Further improved network stability
+
+    • Optimized the stability of VoWiFi connection'
+  date: '2021-03-03'
+  device: OnePlus Nord N100
+  link: https://oxygenos.oneplus.net/OnePlusN100Oxygen_14.O.08_OTA_008_all_2101222339_b8f889d245654ce0.zip
+  md5: 24e2c7149d2e0f966c3e6b7951b16186
+  region: India
+  size: 2.00 GB
+  version: OnePlusN100Oxygen_14.O.08_008_2101222339
+- branch: Stable
+  changelog: 'System
+
+    • Adjusted a few feature descriptions
+
+    • Updated Android Security Patch to 2021.02
+
+    • Updated GMS package to 2020.12 Network
+
+    • Improved 5G quality of connection in some scenarios to provide a better and
+    stable network environment'
+  date: '2021-03-03'
+  device: OnePlus Nord N10
+  link: https://oxygenos.oneplus.net/OnePlusN10Oxygen_14.O.11_OTA_011_all_2101282246_edc9094fefdc4033.zip
+  md5: 983022da81745e1b2d44c4134de69929
+  region: India
+  size: 2.36 GB
+  version: OnePlusN10Oxygen_14.O.11_011_2101282246
 - branch: Beta
   changelog: 'S
 
