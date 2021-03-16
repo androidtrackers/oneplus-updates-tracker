@@ -1,3 +1,39 @@
+- branch: Beta
+  changelog: 'System
+
+    • Fixed the issue where Work-Life Balance does not display full information in
+    the Quick Settings
+
+    • Fixed the flashback issue with the Quick Settings when enabling the Location
+
+    • Fixed the small probability issue that the documents in the Lockbox may disappear
+
+    • Fixed the issue that the Privacy Policy page is displayed abnormally if the
+    device is in Dark Mode
+
+    • Fixed the issue that the fast charging sound is too loud
+
+    • Fixed the issue with the Calculator that the UI where results are showed is
+    displayed abnormally
+
+    • Fixed the issue with the abnormal display of Calculator button size
+
+    • Updated Android Security Patch to 2021.02
+
+    • Improved system stability File Manager
+
+    • Fixed the issue that the File Manager may crash when stopping the unzipping
+    process OnePlus Community
+
+    • Fixed the small probability flashback issue with the OnePlus Community when
+    entering the Profile page'
+  date: '2021-03-16'
+  device: OnePlus Nord
+  link: https://oxygenos.oneplus.net/NordOxygen_14.X.07_OTA_0070_all_2103011940_a9c43a8db40a4ffa.zip
+  md5: 4f9a5cc4ac5819e8cbedd376eb741666
+  region: India
+  size: 2.71 GB
+  version: NordOxygen_14.X.07_0070_2103011940
 - branch: Stable
   changelog: "Nord Oxygen OS 11.1.1.1.AC01AA\nSystem\n• Update to Android 11 version\
     \ \n• The brand new UI design brings you a more comfortable experience with various\
