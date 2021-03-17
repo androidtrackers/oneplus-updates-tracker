@@ -35,6 +35,33 @@
   size: 2.71 GB
   version: NordOxygen_14.X.07_0070_2103011940
 - branch: Stable
+  changelog: "Nord Oxygen OS 11.1.1.1.AC01BA\nSystem\n• Update to Android 11 version\
+    \ \n• The brand new UI design brings you a more comfortable experience with various\
+    \ optimizations of details\n• Optimized the stability of some third-party apps\
+    \ and improved user experience\n• Optimized power consumption to increase battery\
+    \ life\n• Improved system stability\n• Fixed the known issues\nAmbient Display\
+    \ \n• Newly added Insight clock style, a joint creation with Parsons School of\
+    \ Design. It will change according to the phone usage data (Go to: Settings >\
+    \ Customization > Clock on ambient display)\n• Newly added the Canvas always-on\
+    \ display, which can extract the subject's outline from any photo and display\
+    \ it on your lock screen (Go to: Settings - Customization - Wallpaper - Canvas\
+    \ - Choose photo preview and it can be generated automatically)\nDark Mode\n•\
+    \ Added the shortcut key for Dark Mode, pull down the quick setting to enable\n\
+    • Now supporting automatically turn on feature & customize time range (Go to:\
+    \ Settings - Display - Dark Mode - Turn on automatically - Automatically enable\
+    \ from sunset to sunrise / Custom time range)\nShelf\n• Brand new shelf UI\n•\
+    \ Newly added a weather widget with smarter animation effect\nGallery\n• Newly\
+    \ added the Story feature, which can automatically create the weekly stories by\
+    \ using your local photos and videos\n• Optimized the loading speed to improve\
+    \ the image preview experience"
+  date: '2021-03-11'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_EEA/NordOxygen_14.E.18_GLO_0180_2103112026/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.18_GLO_0180_2103112026/NordOxygen_14.E.18_OTA_0180_all_2103112026_22699e750a6.zip
+  md5: 5374f188c7b023735bf7f42897cbfef9
+  region: EEA
+  size: 2.9 GB
+  version: NordOxygen_14.E.18_GLO_0180_2103112026
+- branch: Stable
   changelog: "Nord Oxygen OS 11.1.1.1.AC01AA\nSystem\n• Update to Android 11 version\
     \ \n• The brand new UI design brings you a more comfortable experience with various\
     \ optimizations of details\n• Optimized the stability of some third-party apps\
