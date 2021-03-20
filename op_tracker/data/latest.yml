@@ -1,4 +1,144 @@
 - branch: Beta
+  changelog: 'OP7T_O2_BETA_4
+
+    System
+
+    • Fixed the issue that the battery icon in the status bar is abnormally displayed
+
+    • Fixed known issues and improved system stability
+
+    Bluetooth
+
+    • Fixed the issue where Bluetooth headsets are silent in aptX Adaptive mode'
+  date: '2021-03-19'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_13.W.24_GLO_0240_2103190108/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_13.W.24_GLO_0240_2103190108/OnePlus7TOxygen_13.W.24_OTA_0240_all_2103190108_9328ec84c.zip
+  md5: b0f0b4a0361d90b9c1e91f1b231861fc
+  region: EEA
+  size: 2.7 GB
+  version: OnePlus7TOxygen_13.W.24_GLO_0240_2103190108
+- branch: Beta
+  changelog: "OP7_O2_BETA_4\nSystem\n• Fixed the issue of slow charging rate in some\
+    \ cases\n• Fixed the issue where Voice Wakeup is turned off after a system upgrade\n\
+    • Fixed the lagging issue when playing screen-recorded videos\n• Fixed the small\
+    \ probability failure issue with the Double Tap to Wake \n• Fixed the issue that\
+    \ the battery icon in the status bar is abnormally displayed\nAmbient Display\n\
+    • Always-on ambient display is available now (Go to: Settings - Utilities - OnePlus\
+    \ Laboratory - Always-on ambient display)\nBluetooth\n• Fixed the silent issue\
+    \ when the Bluetooth transport protocol is changed to aptX or aptX Adaptive\n\
+    Network\n• Improved the stability of the Wi-Fi connection and reduce Internet\
+    \ outages"
+  date: '2021-03-19'
+  device: OnePlus 7
+  link: http://otafsg-cost-az.coloros.com/OnePlus7/OnePlus7Oxygen_13.W.59_GLO_0590_2103190036/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_13.W.59_GLO_0590_2103190036/OnePlus7Oxygen_13.W.59_OTA_0590_all_2103190036_70b69df624d34.zip
+  md5: 02287b661a4ac76ba978cb33411a5466
+  region: Global
+  size: 2.5 GB
+  version: OnePlus7Oxygen_13.W.59_GLO_0590_2103190036
+- branch: Beta
+  changelog: 'OP7T_O2_BETA_4
+
+    System
+
+    • Fixed the issue that the battery icon in the status bar is abnormally displayed
+
+    • Fixed known issues and improved system stability
+
+    Bluetooth
+
+    • Fixed the issue where Bluetooth headsets are silent in aptX Adaptive mode'
+  date: '2021-03-19'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_13.Y.24_GLO_0240_2103190108/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_13.Y.24_GLO_0240_2103190108/OnePlus7TOxygen_13.Y.24_OTA_0240_all_2103190108_13c2c7274f99f7.zip
+  md5: d26938e2b3399d1bd74a6599b9cd417a
+  region: India
+  size: 2.7 GB
+  version: OnePlus7TOxygen_13.Y.24_GLO_0240_2103190108
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-03-19'
+  device: OnePlus 7
+  link: http://otafsc-cost.h2os.com/OnePlus7_CH/OnePlus7Hydrogen_13.X.58_0580_2103190519/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_13.X.58_0580_2103190519/OnePlus7Hydrogen_13.X.58_OTA_0580_all_2103190519_6b7f3fa6493c.zip
+  md5: fbf9e2101d0777cdd000a06edeff130b
+  region: China
+  size: 3.8 GB
+  version: OnePlus7Hydrogen_13.X.58_0580_2103190519
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-03-19'
+  device: OnePlus 7T
+  link: http://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_13.X.23_0230_2103190104/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_13.X.23_0230_2103190104/OnePlus7THydrogen_13.X.23_OTA_0230_all_2103190104_13fb2181e19.zip
+  md5: f310930cc459a7cf3bc2e8796fc4efaf
+  region: China
+  size: 3.9 GB
+  version: OnePlus7THydrogen_13.X.23_0230_2103190104
+- branch: Beta
+  changelog: 'OP7TPro_O2_BETA_4
+
+    System
+
+    • Fixed the issue that the battery icon in the status bar is abnormally displayed
+
+    • Fixed known issues and improved system stability
+
+    Bluetooth
+
+    • Fixed the issue where Bluetooth headsets are silent in aptX Adaptive mode'
+  date: '2021-03-17'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_13.W.24_GLO_0240_2103170222/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.W.24_GLO_0240_2103170222/OnePlus7TProOxygen_13.W.24_OTA_0240_all_2103170222_f1be07.zip
+  md5: 4b620a1c6dbf43c0821801ae30578aaa
+  region: EEA
+  size: 2.7 GB
+  version: OnePlus7TProOxygen_13.W.24_GLO_0240_2103170222
+- branch: Beta
+  changelog: 'OP7TPro_O2_BETA_4
+
+    System
+
+    • Fixed the issue that the battery icon in the status bar is abnormally displayed
+
+    • Fixed known issues and improved system stability
+
+    Bluetooth
+
+    • Fixed the issue where Bluetooth headsets are silent in aptX Adaptive mode'
+  date: '2021-03-17'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_13.Y.24_GLO_0240_2103170222/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.Y.24_GLO_0240_2103170222/OnePlus7TProOxygen_13.Y.24_OTA_0240_all_2103170222_4258b86fff2.zip
+  md5: 8d3a4c705c88386d54eac79a3fddd118
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_13.Y.24_GLO_0240_2103170222
+- branch: Beta
+  changelog: 'OP7Pro_O2_BETA_4
+
+    System
+
+    • Fixed the issue that the battery icon in the status bar is abnormally displayed
+
+    • Fixed known issues and improved system stability
+
+    Bluetooth
+
+    • Fixed the issue where Bluetooth headsets are silent in aptX Adaptive mode'
+  date: '2021-03-17'
+  device: OnePlus 7 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7Pro/OnePlus7ProOxygen_13.W.59_GLO_0590_2103170150/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_13.W.59_GLO_0590_2103170150/OnePlus7ProOxygen_13.W.59_OTA_0590_all_2103170150_8cc4b22e8a7177e.zip
+  md5: 79939ef50e6adb74f8d167f22d4f1618
+  region: Global
+  size: 2.5 GB
+  version: OnePlus7ProOxygen_13.W.59_GLO_0590_2103170150
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-03-17'
+  device: OnePlus 7T Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7TPro_CH/OnePlus7TProHydrogen_13.X.23_0230_2103170229/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_13.X.23_0230_2103170229/OnePlus7TProHydrogen_13.X.23_OTA_0230_all_2103170229_9ff54.zip
+  md5: 6573c49d565a08eed625e8e81db0d398
+  region: China
+  size: 3.9 GB
+  version: OnePlus7TProHydrogen_13.X.23_0230_2103170229
+- branch: Beta
   changelog: 'System
 
     • Fixed the issue where Work-Life Balance does not display full information in
@@ -34,6 +174,47 @@
   region: India
   size: 2.71 GB
   version: NordOxygen_14.X.07_0070_2103011940
+- branch: Stable
+  changelog: "Hydrogen OS 11.0.0.1 HD01\nSystem\n• Update to HydrogenOS 11 version\
+    \ \n• Fresh new UI visual design brings you a more comfortable experience with\
+    \ various optimizations of details\n• Optimize the stability of some third-party\
+    \ applications and improve the experience\n• Updated Android Security Patch to\
+    \ 2021.02\n• Since this is the upgrade of Android 11 version with many new features,\
+    \ the upgrade time may be longer. Please wait for the completion of the upgrade\n\
+    Camera\n• Updated the camera UI and optimized some of the function paths to offer\
+    \ more convenient operation\n• Newly added HEVC codec to reduce video storage\
+    \ size seamlessly, capture and shoot more without compromising on quality\n• Newly\
+    \ added access to a third-party app to share the picture by pressing and holding\
+    \ it in preview \n• Newly added the quick access to recording mode by pressing\
+    \ and holding the shutter button and by sliding the button, you can easily zoom\
+    \ in or zoom out\n• Newly added the playback display in Time-lapse mode to show\
+    \ the actual filming time\nAmbient Display \n• Newly added Insight clock style,\
+    \ a joint creation with Parsons School of Design. It will change according to\
+    \ the phone usage data (To set: Settings > Customization > Clock on ambient display)\n\
+    • Newly added Canvas feature that can automatically draw a wireframe picture based\
+    \ on a lock screen photo on your phone（Path: Settings - Customization - Wallpaper\
+    \ - Canvas - Choose photo preview and it can be generated automatically）\nDark\
+    \ Mode\n• Added the shortcut key for Dark Mode, pull down the quick setting to\
+    \ enable\n• Supporting automatically turn on feature & customize time range (path:\
+    \ Settings - Display - Dark Mode - Turn on automatically - Automatically enable\
+    \ from sunset to sunrise/Custom time range)\nGame Space\n• Newly added gaming\
+    \ tools box for convenient switches of Fnatic mode. You can now choose three ways\
+    \ of notifications: text-only, heads up and block, just for your immersive gaming\
+    \ experience\n• Newly added quick reply feature in a small window for QQ and WeChat\
+    \ (Enable it by swiping down from upper right/left corners of the screen in gaming\
+    \ mode)\n• Newly added mis-touch prevention feature. Enable it, swipe down from\
+    \ the top of the screen, click and the notification bar will pop out\nShelf\n\
+    • Newly shelf interface design, the interface is clearer\n• Added weather widget,\
+    \ animation effect smarter\nGallery\n• Supporting Story function, automatically\
+    \ form weekly videos with photos and video in storage\n• Optimize the loading\
+    \ speed of the gallery, and the image preview is faster"
+  date: '2021-03-16'
+  device: OnePlus 7T Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7TPro_CH/OnePlus7TProHydrogen_14.H.22_0220_2103162319/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_14.H.22_0220_2103162319/OnePlus7TProHydrogen_14.H.22_OTA_0220_all_2103162319_7db20b8.zip
+  md5: 584432036b83a84f5e9adee11e424627
+  region: China
+  size: 3.9 GB
+  version: OnePlus7TProHydrogen_14.H.22_0220_2103162319
 - branch: Stable
   changelog: "Nord Oxygen OS 11.1.1.1.AC01BA\nSystem\n• Update to Android 11 version\
     \ \n• The brand new UI design brings you a more comfortable experience with various\
@@ -88,6 +269,257 @@
   region: Global
   size: 2.9 GB
   version: NordOxygen_14.O.18_GLO_0180_2103100429
+- branch: Beta
+  changelog: "OxygenOS: OnePlus8_O₂_BETA_8\nSystem\n• OnePlus account now can be registered\
+    \ with the phone number in more countries or regions\n• Optimized the startup\
+    \ speed of some apps to improve the user experience\n• Fixed the noise issue of\
+    \ 5G calls \n• Fixed the issue that the fingerprint pattern is not displayed on\
+    \ the screen\n• Fixed the issue that WhatsApp cannot receive messages when it\
+    \ is in the background for a long time\n• Fixed the issue in which the \"Turn\
+    \ on automatically\" in Dark Mode is disabled after the system update\n• Fixed\
+    \ the disappearing issue with the animation of the voice assistant wake-up gesture\
+    \ \n• Fixed the issue that no caller ID is displayed from the favorite contacts\
+    \ in Do Not Disturb mode\n• Fixed the issue that the Setting interface displays\
+    \ abnormally under the split screen of call forwarding\n• Fixed the flash issue\
+    \ with the Quick Reply in Landscape\n• Fixed the issue that the status bar is\
+    \ displayed abnormally when using split-screen with the Chrome\n• Fixed the small\
+    \ probability issue that the expanded screenshot may stop working \n• Updated\
+    \ Android security patch to 2021.03\nCamera\n• Newly added time watermark (Go\
+    \ to: Camera - Settings - Shot on OnePlus watermark - Time)\nGallery\n• Fixed\
+    \ the issue in which pictures are not displayed in the Gallery after they are\
+    \ copied to the DCIM category\n• Fixed the issue that the Nearby Share button\
+    \ may disappear when using Google Photos\nBluetooth\n• Fixed the issue that the\
+    \ SCENARIO-BASED ENHANCEMENT switch is not displayed in the settings when OnePlus\
+    \ Buds is connected to the phone\n• Fixed the issue that the device cannot be\
+    \ searched by other Bluetooth devices\nMessage\n• Fixed the issue of the incomplete\
+    \ dialog box displayed in landscape mode\n• Fixed known issues with the SMS to\
+    \ improve functional stability\nClock\n• Improved the touch range of stopwatch\
+    \ buttons and improved the user experience\nAmbient Display\n• Fixed the issue\
+    \ in which the AOD displays the wrong time sequence after setting up some languages\
+    \ as system languages \n• Fixed the issue with AOD that the screen may flash when\
+    \ unlocking with fingerprint \n• Fixed the issue with AOD that the screen may\
+    \ display red in some scenes\n• Fixed the issue of blurred lines in AOD \nNetwork\n\
+    • Fixed the failure issue with Wi-Fi\nZen Mode\n• Newly added the Tide Voice Medal\
+    \ (Complete 3 Zen Mode challenges with white noise to win this medal)"
+  date: '2021-03-10'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8/OnePlus8Oxygen_15.X.18_GLO_0180_2103101834/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.X.18_GLO_0180_2103101834/OnePlus8Oxygen_15.X.18_OTA_0180_all_2103101834_0a8e9847b0.zip
+  md5: 7649d99c8beff1cc632eda5d6fb7c386
+  region: Global
+  size: 3.1 GB
+  version: OnePlus8Oxygen_15.X.18_GLO_0180_2103101834
+- branch: Beta
+  changelog: "OxygenOS: OnePlus8Pro_O₂_BETA_8\nSystem\n• OnePlus account now can be\
+    \ registered with the phone number in more countries or regions\n• Optimized the\
+    \ startup speed of some apps to improve the user experience\n• Fixed the noise\
+    \ issue of 5G calls \n• Fixed the issue that the fingerprint pattern is not displayed\
+    \ on the screen\n• Fixed the issue that WhatsApp cannot receive messages when\
+    \ it is in the background for a long time\n• Fixed the issue in which the \"Turn\
+    \ on automatically\" in Dark Mode is disabled after the system update\n• Fixed\
+    \ the disappearing issue with the animation of the voice assistant wake-up gesture\
+    \ \n• Fixed the issue that no caller ID is displayed from the favorite contacts\
+    \ in Do Not Disturb mode\n• Fixed the issue that the Setting interface displays\
+    \ abnormally under the split screen of call forwarding\n• Fixed the flash issue\
+    \ with the Quick Reply in Landscape\n• Fixed the issue that the status bar is\
+    \ displayed abnormally when using split-screen with the Chrome\n• Fixed the small\
+    \ probability issue that the expanded screenshot may stop working \n• Updated\
+    \ Android security patch to 2021.03\nCamera\n• Newly added time watermark (Go\
+    \ to: Camera - Settings - Shot on OnePlus watermark - Time)\nGallery\n• Fixed\
+    \ the issue in which pictures are not displayed in the Gallery after they are\
+    \ copied to the DCIM category\n• Fixed the issue that the Nearby Share button\
+    \ may disappear when using Google Photos\nBluetooth\n• Fixed the issue that the\
+    \ SCENARIO-BASED ENHANCEMENT switch is not displayed in the settings when OnePlus\
+    \ Buds is connected to the phone\n• Fixed the issue that the device cannot be\
+    \ searched by other Bluetooth devices\nMessage\n• Fixed the issue of the incomplete\
+    \ dialog box displayed in landscape mode\n• Fixed known issues with the SMS to\
+    \ improve functional stability\nClock\n• Improved the touch range of stopwatch\
+    \ buttons and improved the user experience\nAmbient Display\n• Fixed the issue\
+    \ in which the AOD displays the wrong time sequence after setting up some languages\
+    \ as system languages \n• Fixed the issue with AOD that the screen may flash when\
+    \ unlocking with fingerprint \n• Fixed the issue with AOD that the screen may\
+    \ display red in some scenes\n• Fixed the issue of blurred lines in AOD \nNetwork\n\
+    • Fixed the failure issue with Wi-Fi\nZen Mode\n• Newly added the Tide Voice Medal\
+    \ (Complete 3 Zen Mode challenges with white noise to win this medal)"
+  date: '2021-03-10'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.W.18_GLO_0180_2103101834/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.W.18_GLO_0180_2103101834/OnePlus8ProOxygen_15.W.18_OTA_0180_all_2103101834_c29aff96e780.zip
+  md5: 95b92cdde33784efeaf1f33b23cb4cd0
+  region: India
+  size: 3.3 GB
+  version: OnePlus8ProOxygen_15.W.18_GLO_0180_2103101834
+- branch: Beta
+  changelog: "OxygenOS: OnePlus8_O₂_BETA_8\nSystem\n• OnePlus account now can be registered\
+    \ with the phone number in more countries or regions\n• Optimized the startup\
+    \ speed of some apps to improve the user experience\n• Fixed the noise issue of\
+    \ 5G calls \n• Fixed the issue that the fingerprint pattern is not displayed on\
+    \ the screen\n• Fixed the issue that WhatsApp cannot receive messages when it\
+    \ is in the background for a long time\n• Fixed the issue in which the \"Turn\
+    \ on automatically\" in Dark Mode is disabled after the system update\n• Fixed\
+    \ the disappearing issue with the animation of the voice assistant wake-up gesture\
+    \ \n• Fixed the issue that no caller ID is displayed from the favorite contacts\
+    \ in Do Not Disturb mode\n• Fixed the issue that the Setting interface displays\
+    \ abnormally under the split screen of call forwarding\n• Fixed the flash issue\
+    \ with the Quick Reply in Landscape\n• Fixed the issue that the status bar is\
+    \ displayed abnormally when using split-screen with the Chrome\n• Fixed the small\
+    \ probability issue that the expanded screenshot may stop working \n• Updated\
+    \ Android security patch to 2021.03\nCamera\n• Newly added time watermark (Go\
+    \ to: Camera - Settings - Shot on OnePlus watermark - Time)\nGallery\n• Fixed\
+    \ the issue in which pictures are not displayed in the Gallery after they are\
+    \ copied to the DCIM category\n• Fixed the issue that the Nearby Share button\
+    \ may disappear when using Google Photos\nBluetooth\n• Fixed the issue that the\
+    \ SCENARIO-BASED ENHANCEMENT switch is not displayed in the settings when OnePlus\
+    \ Buds is connected to the phone\n• Fixed the issue that the device cannot be\
+    \ searched by other Bluetooth devices\nMessage\n• Fixed the issue of the incomplete\
+    \ dialog box displayed in landscape mode\n• Fixed known issues with the SMS to\
+    \ improve functional stability\nClock\n• Improved the touch range of stopwatch\
+    \ buttons and improved the user experience\nAmbient Display\n• Fixed the issue\
+    \ in which the AOD displays the wrong time sequence after setting up some languages\
+    \ as system languages \n• Fixed the issue with AOD that the screen may flash when\
+    \ unlocking with fingerprint \n• Fixed the issue with AOD that the screen may\
+    \ display red in some scenes\n• Fixed the issue of blurred lines in AOD \nNetwork\n\
+    • Fixed the failure issue with Wi-Fi\nZen Mode\n• Newly added the Tide Voice Medal\
+    \ (Complete 3 Zen Mode challenges with white noise to win this medal)"
+  date: '2021-03-10'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.W.18_GLO_0180_2103101834/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.W.18_GLO_0180_2103101834/OnePlus8Oxygen_15.W.18_OTA_0180_all_2103101834_1669dec.zip
+  md5: 1f7c5f580aca617da59bfe8e372eb6ed
+  region: India
+  size: 3.3 GB
+  version: OnePlus8Oxygen_15.W.18_GLO_0180_2103101834
+- branch: Beta
+  changelog: "OxygenOS: OnePlus8Pro_O₂_BETA_8\nSystem\n• OnePlus account now can be\
+    \ registered with the phone number in more countries or regions\n• Optimized the\
+    \ startup speed of some apps to improve the user experience\n• Fixed the noise\
+    \ issue of 5G calls \n• Fixed the issue that the fingerprint pattern is not displayed\
+    \ on the screen\n• Fixed the issue that WhatsApp cannot receive messages when\
+    \ it is in the background for a long time\n• Fixed the issue in which the \"Turn\
+    \ on automatically\" in Dark Mode is disabled after the system update\n• Fixed\
+    \ the disappearing issue with the animation of the voice assistant wake-up gesture\
+    \ \n• Fixed the issue that no caller ID is displayed from the favorite contacts\
+    \ in Do Not Disturb mode\n• Fixed the issue that the Setting interface displays\
+    \ abnormally under the split screen of call forwarding\n• Fixed the flash issue\
+    \ with the Quick Reply in Landscape\n• Fixed the issue that the status bar is\
+    \ displayed abnormally when using split-screen with the Chrome\n• Fixed the small\
+    \ probability issue that the expanded screenshot may stop working \n• Updated\
+    \ Android security patch to 2021.03\nCamera\n• Newly added time watermark (Go\
+    \ to: Camera - Settings - Shot on OnePlus watermark - Time)\nGallery\n• Fixed\
+    \ the issue in which pictures are not displayed in the Gallery after they are\
+    \ copied to the DCIM category\n• Fixed the issue that the Nearby Share button\
+    \ may disappear when using Google Photos\nBluetooth\n• Fixed the issue that the\
+    \ SCENARIO-BASED ENHANCEMENT switch is not displayed in the settings when OnePlus\
+    \ Buds is connected to the phone\n• Fixed the issue that the device cannot be\
+    \ searched by other Bluetooth devices\nMessage\n• Fixed the issue of the incomplete\
+    \ dialog box displayed in landscape mode\n• Fixed known issues with the SMS to\
+    \ improve functional stability\nClock\n• Improved the touch range of stopwatch\
+    \ buttons and improved the user experience\nAmbient Display\n• Fixed the issue\
+    \ in which the AOD displays the wrong time sequence after setting up some languages\
+    \ as system languages \n• Fixed the issue with AOD that the screen may flash when\
+    \ unlocking with fingerprint \n• Fixed the issue with AOD that the screen may\
+    \ display red in some scenes\n• Fixed the issue of blurred lines in AOD \nNetwork\n\
+    • Fixed the failure issue with Wi-Fi\nZen Mode\n• Newly added the Tide Voice Medal\
+    \ (Complete 3 Zen Mode challenges with white noise to win this medal)"
+  date: '2021-03-10'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro/OnePlus8ProOxygen_15.X.18_GLO_0180_2103101834/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.X.18_GLO_0180_2103101834/OnePlus8ProOxygen_15.X.18_OTA_0180_all_2103101834_d30f9.zip
+  md5: d19f22a9fba54fb34f272c09bbb51e58
+  region: Global
+  size: 3.1 GB
+  version: OnePlus8ProOxygen_15.X.18_GLO_0180_2103101834
+- branch: Beta
+  changelog: "HydrogenOS: OnePlus8Pro_H₂_BETA_8\nSystem\n• Optimized the startup speed\
+    \ of some apps to improve the user experience\n• Fixed the noise issue of 5G calls\
+    \ \n• Fixed the lag issue with WeChat when sending pictures in the small window\
+    \ \n• Fixed the issue that where clicking on a WeChat floating window in Game\
+    \ mode does not jump to WeChat\n• Fixed the issue in which the \"Turn on automatically\"\
+    \ in Dark Mode is disabled \n• Fixed the issue that white bars will be abnormally\
+    \ displayed at the bottom of the keyboard in some scenarios\n• Fixed the issue\
+    \ that no caller ID is displayed from the favorite contacts in Do Not Disturb\
+    \ mode\n• Fixed the issue that the Setting interface displays abnormally under\
+    \ the split screen of call forwarding\n• Fixed the flash issue with the Quick\
+    \ Reply in Landscape\n• Fixed the small probability issue that the expanded screenshot\
+    \ may stop working \n• Updated Android security patch to 2021.03\nCamera\n• Newly\
+    \ added time watermark (Go to: Camera - Settings - Shot on OnePlus watermark -\
+    \ Time)\nGallery\n• Fixed the issue in which pictures are not displayed in the\
+    \ Gallery after they are copied to the DCIM category\nBluetooth\n• Fixed the issue\
+    \ that the SCENARIO-BASED ENHANCEMENT switch is not displayed in the settings\
+    \ when OnePlus Buds is connected to the phone\n• Fixed the issue that the device\
+    \ cannot be searched by other Bluetooth devices\nMessage\n• Fixed the issue of\
+    \ the incomplete dialog box displayed in landscape mode\nClock\n• Improved the\
+    \ touch range of stopwatch buttons and improved the user experience\nAmbient Display\n\
+    • Fixed the issue with AOD that the screen may flash when unlocking with fingerprint\
+    \ \n• Fixed the issue with AOD that the screen may display red in some scenes\n\
+    • Fixed the issue of blurred lines in AOD \nNetwork\n• Fixed the failure issue\
+    \ with Wi-Fi and improved network connection stability\nZen Mode\n• Newly added\
+    \ the Tide Voice Medal (Complete 3 Zen Mode challenges with white noise to win\
+    \ this medal)"
+  date: '2021-03-10'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.Y.18_0180_2103101835/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.Y.18_0180_2103101835/OnePlus8ProHydrogen_15.Y.18_OTA_0180_all_2103101835_a8dd35db0ab7b7.zip
+  md5: 5a35a8fa104bcc0a6d98a04e24dc5b8a
+  region: China
+  size: 4.3 GB
+  version: OnePlus8ProHydrogen_15.Y.18_0180_2103101835
+- branch: Beta
+  changelog: "HydrogenOS: OnePlus8_H₂_BETA_8\nSystem\n• Optimized the startup speed\
+    \ of some apps to improve the user experience\n• Fixed the noise issue of 5G calls\
+    \ \n• Fixed the lag issue with WeChat when sending pictures in the small window\
+    \ \n• Fixed the issue that where clicking on a WeChat floating window in Game\
+    \ mode does not jump to WeChat\n• Fixed the issue in which the \"Turn on automatically\"\
+    \ in Dark Mode is disabled \n• Fixed the issue that white bars will be abnormally\
+    \ displayed at the bottom of the keyboard in some scenarios\n• Fixed the issue\
+    \ that no caller ID is displayed from the favorite contacts in Do Not Disturb\
+    \ mode\n• Fixed the issue that the Setting interface displays abnormally under\
+    \ the split screen of call forwarding\n• Fixed the flash issue with the Quick\
+    \ Reply in Landscape\n• Fixed the small probability issue that the expanded screenshot\
+    \ may stop working \n• Updated Android security patch to 2021.03\nCamera\n• Newly\
+    \ added time watermark (Go to: Camera - Settings - Shot on OnePlus watermark -\
+    \ Time)\nGallery\n• Fixed the issue in which pictures are not displayed in the\
+    \ Gallery after they are copied to the DCIM category\nBluetooth\n• Fixed the issue\
+    \ that the SCENARIO-BASED ENHANCEMENT switch is not displayed in the settings\
+    \ when OnePlus Buds is connected to the phone\n• Fixed the issue that the device\
+    \ cannot be searched by other Bluetooth devices\nMessage\n• Fixed the issue of\
+    \ the incomplete dialog box displayed in landscape mode\nClock\n• Improved the\
+    \ touch range of stopwatch buttons and improved the user experience\nAmbient Display\n\
+    • Fixed the issue with AOD that the screen may flash when unlocking with fingerprint\
+    \ \n• Fixed the issue with AOD that the screen may display red in some scenes\n\
+    • Fixed the issue of blurred lines in AOD \nNetwork\n• Fixed the failure issue\
+    \ with Wi-Fi and improved network connection stability\nZen Mode\n• Newly added\
+    \ the Tide Voice Medal (Complete 3 Zen Mode challenges with white noise to win\
+    \ this medal)"
+  date: '2021-03-10'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.Y.18_0180_2103101835/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.Y.18_0180_2103101835/OnePlus8Hydrogen_15.Y.18_OTA_0180_all_2103101835_d566d985b2a4f54.zip
+  md5: 81060107cd7201800a148dcf7cf7f708
+  region: China
+  size: 4.2 GB
+  version: OnePlus8Hydrogen_15.Y.18_0180_2103101835
+- branch: Stable
+  changelog: "Nord Oxygen OS 11.1.1.1.AC01DA\nSystem\n• Update to Android 11 version\
+    \ \n• The brand new UI design brings you a more comfortable experience with various\
+    \ optimizations of details\n• Optimized the stability of some third-party apps\
+    \ and improved user experience\n• Optimized power consumption to increase battery\
+    \ life\n• Improved system stability\n• Fixed the known issues\nAmbient Display\
+    \ \n• Newly added Insight clock style, a joint creation with Parsons School of\
+    \ Design. It will change according to the phone usage data (Go to: Settings >\
+    \ Customization > Clock on ambient display)\n• Newly added the Canvas always-on\
+    \ display, which can extract the subject's outline from any photo and display\
+    \ it on your lock screen (Go to: Settings - Customization - Wallpaper - Canvas\
+    \ - Choose photo preview and it can be generated automatically)\nDark Mode\n•\
+    \ Added the shortcut key for Dark Mode, pull down the quick setting to enable\n\
+    • Now supporting automatically turn on feature & customize time range (Go to:\
+    \ Settings - Display - Dark Mode - Turn on automatically - Automatically enable\
+    \ from sunset to sunrise / Custom time range)\nShelf\n• Brand new shelf UI\n•\
+    \ Newly added a weather widget with smarter animation effect\nGallery\n• Newly\
+    \ added the Story feature, which can automatically create the weekly stories by\
+    \ using your local photos and videos\n• Optimized the loading speed to improve\
+    \ the image preview experience"
+  date: '2021-03-10'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_IND/NordOxygen_14.I.18_GLO_0180_2103100429/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.18_GLO_0180_2103100429/NordOxygen_14.I.18_OTA_0180_all_2103100429_a4271cd9d29.zip
+  md5: eb44982a34d55063795c7cd35370a40e
+  region: India
+  size: 3.1 GB
+  version: NordOxygen_14.I.18_GLO_0180_2103100429
 - branch: Stable
   changelog: "Hydrogen OS 11.HD01\nSystem\n• Update to Hydrogen OS 11 version \n•\
     \ Fresh new UI visual design brings you a more comfortable experience with various\
