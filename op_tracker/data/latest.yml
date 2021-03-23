@@ -389,6 +389,21 @@
   size: 3.9 GB
   version: OnePlus7THydrogen_14.H.21_0210_2103162336
 - branch: Stable
+  changelog: "Nord Oxygen OS 11.1.1.2.AC01AA\nSystem\n• Improved power consumption\
+    \ performance of the system\n• Fixed the issue that the Privacy Policy page is\
+    \ displayed abnormally if the device is in Dark Mode\n• Fixed known issues and\
+    \ improved system stability\n• Updated Android Security Patch to 2021.03\nCalculator\n\
+    • Fixed the issue with the Calculator that the UI where results are showed is\
+    \ displayed abnormally \n• Fixed the issue with the abnormal display of Calculator\
+    \ button size\nNetwork\n• Improved network connection stability"
+  date: '2021-03-13'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord/NordOxygen_14.O.19_GLO_0190_2103130307/patch/amazone2/GLO/NordOxygen/NordOxygen_14.O.19_GLO_0190_2103130307/NordOxygen_14.O.19_OTA_0190_all_2103130307_897f3380aa.zip
+  md5: fff145772188b48fc38d50576159f93f
+  region: Global
+  size: 2.9 GB
+  version: NordOxygen_14.O.19_GLO_0190_2103130307
+- branch: Stable
   changelog: "Nord Oxygen OS 11.1.1.1.AC01BA\nSystem\n• Update to Android 11 version\
     \ \n• The brand new UI design brings you a more comfortable experience with various\
     \ optimizations of details\n• Optimized the stability of some third-party apps\
