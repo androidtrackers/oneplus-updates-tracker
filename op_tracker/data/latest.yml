@@ -709,6 +709,70 @@
   size: 3.1 GB
   version: NordOxygen_14.I.18_GLO_0180_2103100429
 - branch: Stable
+  changelog: "OnePlus 9 Oxygen OS 11.2.11.LE25DA\nSystem\n• Optimized the charging\
+    \ stability\n• Optimized the UI display of the notification bar\n• Fixed other\
+    \ known issues and improved system stability \nCamera\n• Optimized video filming\
+    \ fluidity \n• Optimized the noise and white balance issues with the rear camera\
+    \ \n• Optimized the rear camera's nighttime brightness and highlight control \n\
+    • Optimized the color performance of the Pro mode \nBluetooth\n• Fixed the Bluetooth\
+    \ compatibility issues\nNetwork\n• Improved the stability of telecommunication\
+    \ functions\n• Improved the WLAN transmission performance and stability"
+  date: '2021-03-07'
+  device: OnePlus 9
+  link: http://otafsg-cost-az.coloros.com/OnePlus9_IND/OnePlus9Oxygen_22.I.02_GLO_0020_2103072033/patch/amazone2/GLO/OnePlus9Oxygen/OnePlus9Oxygen_22.I.02_GLO_0020_2103072033/OnePlus9Oxygen_22.I.02_OTA_0020_all_2103072033_1ff6dd40e01.zip
+  md5: 6357043830fe1c292a749d700c267a43
+  region: India
+  size: 3.2 GB
+  version: OnePlus9Oxygen_22.I.02_GLO_0020_2103072033
+- branch: Stable
+  changelog: "OnePlus 9 Pro Oxygen OS 11.2.1.1.LE15DA\nSystem\n• Optimized the charging\
+    \ stability\n• Optimized the UI display of the notification bar\n• Fixed other\
+    \ known issues and improved system stability \nCamera\n• Optimized video filming\
+    \ fluidity \n• Optimized the noise and white balance issues with the rear camera\
+    \ \n• Optimized the rear camera's nighttime brightness and highlight control \n\
+    • Optimized the color performance of the Pro mode \nBluetooth\n• Fixed the Bluetooth\
+    \ compatibility issues\nNetwork\n• Improved the stability of telecommunication\
+    \ functions\n• Improved the WLAN transmission performance and stability"
+  date: '2021-03-07'
+  device: OnePlus 9 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.I.02_GLO_0020_2103072032/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.I.02_GLO_0020_2103072032/OnePlus9ProOxygen_22.I.02_OTA_0020_all_2103072032_dc577baf0305d6.zip
+  md5: ea55c277b531cf097d2f71bcd5a97394
+  region: India
+  size: 3.2 GB
+  version: OnePlus9ProOxygen_22.I.02_GLO_0020_2103072032
+- branch: Stable
+  changelog: "OnePlus 9 Oxygen OS 11.2.11.LE25BA\nSystem\n• Optimized the charging\
+    \ stability\n• Optimized the UI display of the notification bar\n• Fixed other\
+    \ known issues and improved system stability \nCamera\n• Optimized video filming\
+    \ fluidity \n• Optimized the noise and white balance issues with the rear camera\
+    \ \n• Optimized the rear camera's nighttime brightness and highlight control \n\
+    • Optimized the color performance of the Pro mode \nBluetooth\n• Fixed the Bluetooth\
+    \ compatibility issues\nNetwork\n• Improved the stability of telecommunication\
+    \ functions\n• Improved the WLAN transmission performance and stability"
+  date: '2021-03-07'
+  device: OnePlus 9
+  link: http://otafsg-cost-az.coloros.com/OnePlus9_EEA/OnePlus9Oxygen_22.E.02_GLO_0020_2103072032/patch/amazone2/GLO/OnePlus9Oxygen/OnePlus9Oxygen_22.E.02_GLO_0020_2103072032/OnePlus9Oxygen_22.E.02_OTA_0020_all_2103072032_c6fa903782a18f3.zip
+  md5: 925ec8f45e78191f4e611c336d84ee94
+  region: EEA
+  size: 3.1 GB
+  version: OnePlus9Oxygen_22.E.02_GLO_0020_2103072032
+- branch: Stable
+  changelog: "OnePlus 9 Pro Oxygen OS 11.2.11.LE15BA\nSystem\n• Optimized the charging\
+    \ stability\n• Optimized the UI display of the notification bar\n• Fixed other\
+    \ known issues and improved system stability \nCamera\n• Optimized video filming\
+    \ fluidity \n• Optimized the noise and white balance issues with the rear camera\
+    \ \n• Optimized the rear camera's nighttime brightness and highlight control \n\
+    • Optimized the color performance of the Pro mode \nBluetooth\n• Fixed the Bluetooth\
+    \ compatibility issues\nNetwork\n• Improved the stability of telecommunication\
+    \ functions\n• Improved the WLAN transmission performance and stability"
+  date: '2021-03-07'
+  device: OnePlus 9 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus9Pro_EEA/OnePlus9ProOxygen_22.E.02_GLO_0020_2103072031/patch/amazone2/GLO/OnePlus9ProOxygen/OnePlus9ProOxygen_22.E.02_GLO_0020_2103072031/OnePlus9ProOxygen_22.E.02_OTA_0020_all_2103072031_fce8d4f8.zip
+  md5: 17be4e972c80f600a46e4cbf3461d4f4
+  region: EEA
+  size: 3.1 GB
+  version: OnePlus9ProOxygen_22.E.02_GLO_0020_2103072031
+- branch: Stable
   changelog: "Hydrogen OS 11.HD01\nSystem\n• Update to Hydrogen OS 11 version \n•\
     \ Fresh new UI visual design brings you a more comfortable experience with various\
     \ optimizations of details\n• Optimize the stability of some third-party applications\
@@ -1835,6 +1899,18 @@
   region: EEA
   size: 2.2 GB
   version: OnePlus7Oxygen_14.E.32_GLO_032_2101280017
+- branch: Stable
+  changelog: "OnePlus Nord N10 Oxygen OS 10.5.10.BE89BA\nSystem\n• Adjusted a few\
+    \ feature descriptions \n• Updated Android Security Patch to 2021.02\n• Updated\
+    \ GMS package to 2020.12\nNetwork\n• Improved 5G quality of connection in some\
+    \ scenarios to provide a better and stable network environment"
+  date: '2021-01-28'
+  device: OnePlus Nord N10
+  link: http://otafsg-cost-az.coloros.com/OnePlusN10_EEA/OnePlusN10Oxygen_14.E.10_GLO_010_2101282245/patch/amazone2/GLO/OnePlusN10Oxygen/OnePlusN10Oxygen_14.E.10_GLO_010_2101282245/OnePlusN10Oxygen_14.E.10_OTA_010_all_2101282245_bdb23dc1fd.zip
+  md5: 4e8157a39473fcc44ada5aba1752ad0d
+  region: EEA
+  size: 2.5 GB
+  version: OnePlusN10Oxygen_14.E.10_GLO_010_2101282245
 - branch: Beta
   changelog: 'OxygenOS: OnePlus8Pro_O₂_BETA_6
 
@@ -2057,6 +2133,18 @@
   region: Global
   size: 2.29 GB
   version: OnePlusN10Oxygen_14.O.09_009_2101021729
+- branch: Stable
+  changelog: "OnePlus Nord N100 Oxygen OS 10.5.7.BE83BA\nSystem\n• Improved the power\
+    \ consumption \n• Updated Android Security Patch to 2021.01\n• Improved system\
+    \ stability and fixed some bugs\nNetwork\n• Further improved network stability\n\
+    • Optimized the stability of VoWiFi connection"
+  date: '2021-01-22'
+  device: OnePlus Nord N100
+  link: http://otafsg-cost-az.coloros.com/OnePlusN100_EEA/OnePlusN100Oxygen_14.E.10_GLO_010_2101222341/patch/amazone2/GLO/OnePlusN100Oxygen/OnePlusN100Oxygen_14.E.10_GLO_010_2101222341/OnePlusN100Oxygen_14.E.10_OTA_010_all_2101222341_d25da3f9db70.zip
+  md5: a17f779ffc6a2a4b3aa3b02737101a8e
+  region: EEA
+  size: 2.1 GB
+  version: OnePlusN100Oxygen_14.E.10_GLO_010_2101222341
 - branch: Stable
   changelog: 'OnePlus 6 Oxygen OS 10.3.8
 
