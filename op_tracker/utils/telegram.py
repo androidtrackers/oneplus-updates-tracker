@@ -2,7 +2,7 @@
 from time import sleep
 from typing import List, Union
 
-from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater
 
 from op_tracker.common.database.database import get_incremental
@@ -23,8 +23,7 @@ class TelegramBot:
         :param bot_token: Telegram Bot API access token
         :param chat: Telegram chat username or id that will be used to send updates to
         """
-        self.bot: Bot = Bot(token=bot_token)
-        self.updater = Updater(bot=self.bot, use_context=True)
+        self.updater = Updater(token=bot_token, use_context=True)
         self.chat = chat if isinstance(chat, int) else f"@{chat}"
         self.source = source
 
