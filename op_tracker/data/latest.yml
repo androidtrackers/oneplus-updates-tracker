@@ -404,6 +404,21 @@
   size: 2.9 GB
   version: NordOxygen_14.O.19_GLO_0190_2103130307
 - branch: Stable
+  changelog: "Nord Oxygen OS 11.1.1.2.AC01BA\nSystem\n• Improved power consumption\
+    \ performance of the system\n• Fixed the issue that the Privacy Policy page is\
+    \ displayed abnormally if the device is in Dark Mode\n• Fixed known issues and\
+    \ improved system stability\n• Updated Android Security Patch to 2021.03\nCalculator\n\
+    • Fixed the issue with the Calculator that the UI where results are showed is\
+    \ displayed abnormally \n• Fixed the issue with the abnormal display of Calculator\
+    \ button size"
+  date: '2021-03-13'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_EEA/NordOxygen_14.E.19_GLO_0190_2103130306/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.19_GLO_0190_2103130306/NordOxygen_14.E.19_OTA_0190_all_2103130306_2519.zip
+  md5: ab82cedd30e9f96fe858a217c8d91fe4
+  region: EEA
+  size: 2.9 GB
+  version: NordOxygen_14.E.19_GLO_0190_2103130306
+- branch: Stable
   changelog: "Nord Oxygen OS 11.1.1.1.AC01BA\nSystem\n• Update to Android 11 version\
     \ \n• The brand new UI design brings you a more comfortable experience with various\
     \ optimizations of details\n• Optimized the stability of some third-party apps\
@@ -840,6 +855,23 @@
   region: India
   size: 2.36 GB
   version: OnePlusN10Oxygen_14.O.11_011_2101282246
+- branch: Stable
+  changelog: 'OnePlus 6T Oxygen OS 10.3.9
+
+    System
+
+    • Updated Android Security Patch to 2021.02
+
+    • Updated GMS package to 2020.12
+
+    • Fixed known issues and improved system stability'
+  date: '2021-03-03'
+  device: OnePlus 6T
+  link: http://otafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_34.J.52_GLO_052_2103030004/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.52_GLO_052_2103030004/OnePlus6TOxygen_34.J.52_OTA_052_all_2103030004_88088f5ce16c166.zip
+  md5: 2a0f50f8cc0db2c1f2c7c8cea973e6db
+  region: Global
+  size: 2.1 GB
+  version: OnePlus6TOxygen_34.J.52_GLO_052_2103030004
 - branch: Beta
   changelog: 'S
 
@@ -936,6 +968,23 @@
   region: India
   size: 2.34 GB
   version: OnePlus7Oxygen_13.W.57_0570_2101291753
+- branch: Stable
+  changelog: 'OnePlus 6 Oxygen OS 10.3.9
+
+    System
+
+    • Updated Android Security Patch to 2021.02
+
+    • Updated GMS package to 2020.12
+
+    • Fixed known issues and improved system stability'
+  date: '2021-03-02'
+  device: OnePlus 6
+  link: http://otafsg-cost-az.coloros.com/OnePlus6/OnePlus6Oxygen_22.J.52_GLO_052_2103022341/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.52_GLO_052_2103022341/OnePlus6Oxygen_22.J.52_OTA_052_all_2103022341_bba864b69c.zip
+  md5: a3b943399da2e8ca359f31ed286371fd
+  region: Global
+  size: 2.0 GB
+  version: OnePlus6Oxygen_22.J.52_GLO_052_2103022341
 - branch: Beta
   changelog: 请用英语EN（旧语言编码）设置简介
   date: '2021-02-26'
