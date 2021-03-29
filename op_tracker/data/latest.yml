@@ -389,6 +389,23 @@
   size: 3.9 GB
   version: OnePlus7THydrogen_14.H.21_0210_2103162336
 - branch: Stable
+  changelog: 'OnePlus 7 Pro 5G Oxygen OS 10.0.11.GM27BA
+
+    System
+
+    • Updated Android security patch to 2021.03
+
+    • Updated GMS package to 2020.12
+
+    • Improved the stability of the system'
+  date: '2021-03-15'
+  device: OnePlus 7 Pro 5G
+  link: http://otafsg-cost-az.coloros.com/OnePlus7ProNR_EEA/OnePlus7ProNROxygen_21.E.27_GLO_027_2103151247/patch/amazone2/GLO/OnePlus7ProNROxygen/OnePlus7ProNROxygen_21.E.27_GLO_027_2103151247/OnePlus7ProNROxygen_21.E.27_OTA_027_all_2103151247_9d65cc061.zip
+  md5: 1c0b9e60b72ad3dfa55d13407c17bbfb
+  region: EEA
+  size: 2.3 GB
+  version: OnePlus7ProNROxygen_21.E.27_GLO_027_2103151247
+- branch: Stable
   changelog: "Nord Oxygen OS 11.1.1.2.AC01AA\nSystem\n• Improved power consumption\
     \ performance of the system\n• Fixed the issue that the Privacy Policy page is\
     \ displayed abnormally if the device is in Dark Mode\n• Fixed known issues and\
