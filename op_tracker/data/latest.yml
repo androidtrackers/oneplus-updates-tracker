@@ -1,4 +1,32 @@
 - branch: Stable
+  changelog: "OnePlus 8 Pro Hydrogen OS 11.0.5.5.IN11\nSystem\n• Optimized the position\
+    \ of the EMERGENCY icon in the lock screen\n• Improved the navigation gestures\
+    \ sensitivity during charging\n• Fixed the failure issue after changing the customized\
+    \ font\n• Fixed the issue that the Splash Screen Information Service may stop\
+    \ working\n• Fixed the small probability issue that the language in Provision\
+    \ does not follow the system language\n• Fixed the small probability issue that\
+    \ the expanded screenshot may stop working \n• Fixed the small probability issue\
+    \ with the Recorder that the recording quality may not meet the expected result\n\
+    • Fixed the abnormal WeChat voice call in some scenarios\n• Fixed the flashback\
+    \ issue with the Pure Writer\n• Fixed the issue that Arknights can not be displayed\
+    \ with full-screen\n• Fixed the issue that the missed calls are not displayed\
+    \ in the notification bar\n• Fixed the issue that reusing the wrong fingerprint\
+    \ long press to unlock will cause a flash screen\n• Fixed the small probability\
+    \ issue that double-tapping is abnormally triggered when typing \n• Fixed the\
+    \ failure issue when waking the voice assistance in lock screen by swiping the\
+    \ icon\n• Updated Android security patch to 2021.03\nCamera\n• Fixed the lagging\
+    \ issue when playing videos recorded by 4K CINE 60FPS\nPhone\n• Fixed the small\
+    \ probability issue of delayed display of contact details page\nOnePlus Share\n\
+    • Fixed the issue that files sent by other third-party devices cannot be received\n\
+    Clock\n• Fixed the issue that the alarm clock may not ring as scheduled on workdays"
+  date: '2021-03-23'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.H.35_0350_2103232117/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.35_0350_2103232117/OnePlus8ProHydrogen_15.H.35_OTA_0350_all_2103232117_40cb03.zip
+  md5: 8dfe1cc286ee246251ede31887933336
+  region: China
+  size: 4.3 GB
+  version: OnePlus8ProHydrogen_15.H.35_0350_2103232117
+- branch: Stable
   changelog: "OnePlus 8 Pro Oxygen OS 11.0.5.5.IN11DA\nSystem\n• Optimized the position\
     \ of the EMERGENCY icon in the lock screen\n• Improved the navigation gestures\
     \ sensitivity during charging\n• Fixed the failure issue after changing the customized\
