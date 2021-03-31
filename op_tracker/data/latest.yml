@@ -1,3 +1,27 @@
+- branch: Stable
+  changelog: "OnePlus 8 Pro Oxygen OS 11.0.5.5.IN11DA\nSystem\n• Optimized the position\
+    \ of the EMERGENCY icon in the lock screen\n• Improved the navigation gestures\
+    \ sensitivity during charging\n• Fixed the failure issue after changing the customized\
+    \ font\n• Fixed the issue that the Splash Screen Information Service may stop\
+    \ working\n• Fixed the small probability issue that the language in Provision\
+    \ does not follow the system language\n• Fixed the small probability issue that\
+    \ the expanded screenshot may stop working \n• Fixed the small probability issue\
+    \ with the Recorder that the recording quality may not meet the expected result\n\
+    • Fixed the issue that reusing the wrong fingerprint long press to unlock will\
+    \ cause a flash screen\n• Fixed the small probability issue that double-tapping\
+    \ is abnormally triggered when typing \n• Fixed the failure issue when waking\
+    \ the voice assistance in lock screen by swiping the icon\n• Fixed the issue in\
+    \ which home screen time is displayed abnormally when the system language is Arabic\n\
+    • Updated Android security patch to 2021.03\nCamera\n• Fixed the lagging issue\
+    \ when playing videos recorded by 4K CINE 60FPS\nClock\n• Fixed the issue that\
+    \ the alarm clock may not ring as scheduled on workdays"
+  date: '2021-03-22'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.I.35_GLO_0350_2103221812/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.35_GLO_0350_2103221812/OnePlus8ProOxygen_15.I.35_OTA_0350_all_2103221812_657d44d24f8ad63.zip
+  md5: 7a8b3d07a3b42f3c41edf58397a1d584
+  region: India
+  size: 3.3 GB
+  version: OnePlus8ProOxygen_15.I.35_GLO_0350_2103221812
 - branch: Beta
   changelog: 'OP7T_O2_BETA_4
 
@@ -435,6 +459,22 @@
   region: EEA
   size: 2.9 GB
   version: NordOxygen_14.E.19_GLO_0190_2103130306
+- branch: Stable
+  changelog: "Nord Oxygen OS 11.1.1.2.AC01DA\nSystem\n• Improved power consumption\
+    \ performance of the system\n• Fixed the issue that the Privacy Policy page is\
+    \ displayed abnormally if the device is in Dark Mode\n• Fixed the issue of delayed\
+    \ display of incoming calls when charging\n• Fixed known issues and improved system\
+    \ stability\n• Updated Android Security Patch to 2021.03\nCalculator\n• Fixed\
+    \ the issue with the Calculator that the UI where results are showed is displayed\
+    \ abnormally \n• Fixed the issue with the abnormal display of Calculator button\
+    \ size"
+  date: '2021-03-13'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_IND/NordOxygen_14.I.19_GLO_0190_2103130305/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.19_GLO_0190_2103130305/NordOxygen_14.I.19_OTA_0190_all_2103130305_dcac.zip
+  md5: 79f936d6f4e4445e9854784eb835d707
+  region: India
+  size: 3.1 GB
+  version: NordOxygen_14.I.19_GLO_0190_2103130305
 - branch: Stable
   changelog: "Nord Oxygen OS 11.1.1.1.AC01BA\nSystem\n• Update to Android 11 version\
     \ \n• The brand new UI design brings you a more comfortable experience with various\
@@ -1554,6 +1594,23 @@
   region: India
   size: 3.1 GB
   version: NordOxygen_14.I.17_GLO_0170_2102101644
+- branch: Stable
+  changelog: 'OnePlus Nord N100 Oxygen OS 10.5.8.BE83BA
+
+    System
+
+    • Optimized standby power consumption in some scenarios
+
+    • Updated Android Security Patch to 2021.02
+
+    • Fixed the known issues'
+  date: '2021-02-09'
+  device: OnePlus Nord N100
+  link: http://otafsg-cost-az.coloros.com/OnePlusN100_EEA/OnePlusN100Oxygen_14.E.11_GLO_011_2102091119/patch/amazone2/GLO/OnePlusN100Oxygen/OnePlusN100Oxygen_14.E.11_GLO_011_2102091119/OnePlusN100Oxygen_14.E.11_OTA_011_all_2102091119_c1d918c1d9b67.zip
+  md5: 739ffb858542cde83a8fa5750da72912
+  region: EEA
+  size: 2.2 GB
+  version: OnePlusN100Oxygen_14.E.11_GLO_011_2102091119
 - branch: Stable
   changelog: 'OnePlus Nord Oxygen OS 10.5.11.AC01AA
 
