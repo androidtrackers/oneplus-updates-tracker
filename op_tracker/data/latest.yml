@@ -27,6 +27,65 @@
   size: 4.3 GB
   version: OnePlus8ProHydrogen_15.H.35_0350_2103232117
 - branch: Stable
+  changelog: "OnePlus 8 Hydrogen OS 11.0.5.5.IN21\nSystem\n• Optimized the position\
+    \ of the EMERGENCY icon in the lock screen\n• Improved the navigation gestures\
+    \ sensitivity during charging\n• Fixed the failure issue after changing the customized\
+    \ font\n• Fixed the issue that the Splash Screen Information Service may stop\
+    \ working\n• Fixed the small probability issue that the language in Provision\
+    \ does not follow the system language\n• Fixed the small probability issue that\
+    \ the expanded screenshot may stop working \n• Fixed the small probability issue\
+    \ with the Recorder that the recording quality may not meet the expected result\n\
+    • Fixed the abnormal WeChat voice call in some scenarios\n• Fixed the flashback\
+    \ issue with the Pure Writer\n• Fixed the issue that Arknights can not be displayed\
+    \ with full-screen\n• Fixed the issue that the missed calls are not displayed\
+    \ in the notification bar\n• Fixed the issue that reusing the wrong fingerprint\
+    \ long press to unlock will cause a flash screen\n• Fixed the small probability\
+    \ issue that double-tapping is abnormally triggered when typing \n• Fixed the\
+    \ failure issue when waking the voice assistance in lock screen by swiping the\
+    \ icon\n• Updated Android security patch to 2021.03\nCamera\n• Fixed the lagging\
+    \ issue when playing videos recorded by 4K CINE 60FPS\nPhone\n• Fixed the small\
+    \ probability issue of delayed display of contact details page\nOnePlus Share\n\
+    • Fixed the issue that files sent by other third-party devices cannot be received\n\
+    Clock\n• Fixed the issue that the alarm clock may not ring as scheduled on workdays"
+  date: '2021-03-23'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.H.35_0350_2103232305/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.35_0350_2103232305/OnePlus8Hydrogen_15.H.35_OTA_0350_all_2103232305_05e97ed9.zip
+  md5: 4c5fe394f4af29ae3a711ff39c5c6a27
+  region: China
+  size: 4.2 GB
+  version: OnePlus8Hydrogen_15.H.35_0350_2103232305
+- branch: Stable
+  changelog: "OnePlus 8T Hydrogen OS 11.0.8.13.KB05\nSystem\n• Optimized the position\
+    \ of the EMERGENCY icon in the lock screen\n• Improved the navigation gestures\
+    \ sensitivity during charging\n• Fixed the incomplete display of the Status Bar\
+    \ icons with the Cyberpunk models \n• Fixed the failure issue after changing the\
+    \ customized font\n• Fixed the issue that the Splash Screen Information Service\
+    \ may stop working\n• Fixed the small probability issue that the language in Provision\
+    \ does not follow the system language\n• Fixed the small probability issue that\
+    \ the expanded screenshot may stop working \n• Fixed the small probability issue\
+    \ with the Recorder that the recording quality may not meet the expected result\n\
+    • Fixed the abnormal WeChat voice call in some scenarios\n• Fixed the flashback\
+    \ issue with the Pure Writer\n• Fixed the issue that Arknights can not be displayed\
+    \ with full-screen\n• Fixed the issue that the missed calls are not displayed\
+    \ in the notification bar\n• Fixed the issue that reusing the wrong fingerprint\
+    \ long press to unlock will cause a flash screen\n• Fixed the small probability\
+    \ issue that double-tapping is abnormally triggered when typing \n• Fixed the\
+    \ failure issue when waking the voice assistance in lock screen by swiping the\
+    \ icon\n• Updated Android security patch to 2021.03\nAmbient Display\n• Fixed\
+    \ the issue of the abnormal display with the AOD of Cyberpunk 2077 customized\
+    \ version\nCamera\n• Fixed the lagging issue when playing videos recorded by 4K\
+    \ CINE 60FPS\nPhone\n• Fixed the small probability issue of delayed display of\
+    \ contact details page\nOnePlus Share\n• Fixed the issue that files sent by other\
+    \ third-party devices cannot be received\nClock\n• Fixed the issue that the alarm\
+    \ clock may not ring as scheduled on workdays"
+  date: '2021-03-23'
+  device: OnePlus 8T
+  link: http://otafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.24_0240_2103232120/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.24_0240_2103232120/OnePlus8THydrogen_15.H.24_OTA_0240_all_2103232120_99af89fb89a1.zip
+  md5: b0ec9f3e548db470a78cb25cf99e885d
+  region: China
+  size: 4.5 GB
+  version: OnePlus8THydrogen_15.H.24_0240_2103232120
+- branch: Stable
   changelog: "OnePlus 8 Pro Oxygen OS 11.0.5.5.IN11DA\nSystem\n• Optimized the position\
     \ of the EMERGENCY icon in the lock screen\n• Improved the navigation gestures\
     \ sensitivity during charging\n• Fixed the failure issue after changing the customized\
@@ -50,6 +109,54 @@
   region: India
   size: 3.3 GB
   version: OnePlus8ProOxygen_15.I.35_GLO_0350_2103221812
+- branch: Stable
+  changelog: "OnePlus 8T Oxygen OS 11.0.8.12.KB05DA\nSystem\n• Optimized the position\
+    \ of the EMERGENCY icon in the lock screen\n• Improved the navigation gestures\
+    \ sensitivity during charging\n• Fixed the failure issue after changing the customized\
+    \ font\n• Fixed the issue that the Splash Screen Information Service may stop\
+    \ working\n• Fixed the small probability issue that the language in Provision\
+    \ does not follow the system language\n• Fixed the small probability issue that\
+    \ the expanded screenshot may stop working \n• Fixed the small probability issue\
+    \ with the Recorder that the recording quality may not meet the expected result\n\
+    • Fixed the issue that reusing the wrong fingerprint long press to unlock will\
+    \ cause a flash screen\n• Fixed the small probability issue that double-tapping\
+    \ is abnormally triggered when typing \n• Fixed the failure issue when waking\
+    \ the voice assistance in lock screen by swiping the icon\n• Fixed the issue in\
+    \ which home screen time is displayed abnormally when the system language is Arabic\n\
+    • Updated Android security patch to 2021.03\nCamera\n• Fixed the lagging issue\
+    \ when playing videos recorded by 4K CINE 60FPS\nClock\n• Fixed the issue that\
+    \ the alarm clock may not ring as scheduled on workdays"
+  date: '2021-03-22'
+  device: OnePlus 8T
+  link: http://otafsg-cost-az.coloros.com/OnePlus8T_IND/OnePlus8TOxygen_15.I.23_GLO_0230_2103221814/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.I.23_GLO_0230_2103221814/OnePlus8TOxygen_15.I.23_OTA_0230_all_2103221814_db7a.zip
+  md5: 56ea2f8d775d90dc51e38c59da9ffc35
+  region: India
+  size: 3.1 GB
+  version: OnePlus8TOxygen_15.I.23_GLO_0230_2103221814
+- branch: Stable
+  changelog: "OnePlus 8 Oxygen OS 11.0.5.5.IN21DA\nSystem\n• Optimized the position\
+    \ of the EMERGENCY icon in the lock screen\n• Improved the navigation gestures\
+    \ sensitivity during charging\n• Fixed the failure issue after changing the customized\
+    \ font\n• Fixed the issue that the Splash Screen Information Service may stop\
+    \ working\n• Fixed the small probability issue that the language in Provision\
+    \ does not follow the system language\n• Fixed the small probability issue that\
+    \ the expanded screenshot may stop working \n• Fixed the small probability issue\
+    \ with the Recorder that the recording quality may not meet the expected result\n\
+    • Fixed the issue that reusing the wrong fingerprint long press to unlock will\
+    \ cause a flash screen\n• Fixed the small probability issue that double-tapping\
+    \ is abnormally triggered when typing \n• Fixed the failure issue when waking\
+    \ the voice assistance in lock screen by swiping the icon\n• Fixed the issue in\
+    \ which home screen time is displayed abnormally when the system language is Arabic\n\
+    • Updated Android security patch to 2021.03\nCamera\n• Fixed the lagging issue\
+    \ when playing videos recorded by 4K CINE 60FPS\nClock\n• Fixed the issue that\
+    \ the alarm clock may not ring as scheduled on workdays"
+  date: '2021-03-22'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.I.35_GLO_0350_2103221815/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.35_GLO_0350_2103221815/OnePlus8Oxygen_15.I.35_OTA_0350_all_2103221815_9161a2e119.zip
+  md5: d2580a59a185073cae2055fe93ebaa69
+  region: India
+  size: 3.3 GB
+  version: OnePlus8Oxygen_15.I.35_GLO_0350_2103221815
 - branch: Beta
   changelog: 'OP7T_O2_BETA_4
 
