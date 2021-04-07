@@ -39,7 +39,7 @@
   md5: 087fe702d43517615ba5a516d32577ad
   region: India
   size: 2.93 GB
-  version: OnePlus9ProOxygen_22.O.05_0050_2103242259
+  version: OnePlus9ProOxygen_22.O.05_GLO_0050_2103242259
 - branch: Stable
   changelog: 'System
 
@@ -74,7 +74,7 @@
   md5: 00073c59dbe4c0fad331ec177e09dfed
   region: India
   size: 2.87 GB
-  version: OnePlus9Oxygen_22.O.05_0050_2103242250
+  version: OnePlus9Oxygen_22.O.05_GLO_0050_2103242250
 - branch: Stable
   changelog: "OnePlus 8 Pro Hydrogen OS 11.0.5.5.IN11\nSystem\n• Optimized the position\
     \ of the EMERGENCY icon in the lock screen\n• Improved the navigation gestures\
