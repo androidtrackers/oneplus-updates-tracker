@@ -1,4 +1,81 @@
 - branch: Stable
+  changelog: 'System
+
+    • Improved the charging stability to provide a better user experience
+
+    • Improved WhatsApp''s video clarity when giving video calls
+
+    • Improved the vibrating performance of games such as Call of Duty and PUBG
+
+    • Fixed the issue that the time of Last Full Charge is reset after restarting
+    the device
+
+    • Fixed the issue that the icon showing low battery is not displayed in the status
+    bar
+
+    • Fixed the small probability issue that the device may restart when playing games
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android security patch to 2021.03
+
+    • Updated GMS package to 2021.02 Dark Mod
+
+    e
+
+    • Fixed the issue that the navigation bar of split-screen apps might not be adapted
+    to Dark Mode Camera
+
+    • Improved the sharpness, noise and white balance of the rear camera
+
+    • Improved the white balance performance of the front camera
+
+    • Improved the zoom performance
+
+    • Improved the camera stability'
+  date: '2021-04-07'
+  device: OnePlus 9 Pro
+  link: https://oxygenos.oneplus.net/OnePlus9ProOxygen_22.O.05_OTA_0050_all_2103242259_3611e0858f954e7d.zip
+  md5: 087fe702d43517615ba5a516d32577ad
+  region: India
+  size: 2.93 GB
+  version: OnePlus9ProOxygen_22.O.05_0050_2103242259
+- branch: Stable
+  changelog: 'System
+
+    • Improved the charging stability to provide a better user experience
+
+    • Improved WhatsApp''s video clarity when giving video calls
+
+    • Improved the vibrating performance of games such as Call of Duty and PUBG
+
+    • Fixed the issue that the time of Last Full Charge is reset after restarting
+    the device
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android security patch to 2021.03
+
+    • Updated GMS package to 2021.02 Dark Mode
+
+    • Fixed the issue that the navigation bar of split-screen apps might not be adapted
+    to Dark Mode Camera
+
+    • Improved the sharpness, noise and white balance of the rear camera
+
+    • Improved the white balance performance of the front camera
+
+    • Improved the zoom performance
+
+    • Improved the camera stability'
+  date: '2021-04-07'
+  device: OnePlus 9
+  link: https://oxygenos.oneplus.net/OnePlus9Oxygen_22.O.05_OTA_0050_all_2103242250_1a2e957351b049e7.zip
+  md5: 00073c59dbe4c0fad331ec177e09dfed
+  region: India
+  size: 2.87 GB
+  version: OnePlus9Oxygen_22.O.05_0050_2103242250
+- branch: Stable
   changelog: "OnePlus 8 Pro Hydrogen OS 11.0.5.5.IN11\nSystem\n• Optimized the position\
     \ of the EMERGENCY icon in the lock screen\n• Improved the navigation gestures\
     \ sensitivity during charging\n• Fixed the failure issue after changing the customized\
