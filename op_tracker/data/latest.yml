@@ -1,6 +1,143 @@
 - branch: Stable
   changelog: 'System
 
+    • Optimized the position of the EMERGENCY icon in the lock screen
+
+    • Improved the navigation gestures sensitivity during charging
+
+    • Fixed the failure issue after changing the customized font
+
+    • Fixed the issue that the Splash Screen Information Service may stop working
+
+    • Fixed the small probability issue that the language in Provision does not follow
+    the system language
+
+    • Fixed the small probability issue that the expanded screenshot may stop working
+
+    • Fixed the small probability issue with the Recorder that the recording quality
+    may not meet the expected result
+
+    • Fixed the issue that reusing the wrong fingerprint long press to unlock will
+    cause a flash screen
+
+    • Fixed the small probability issue that double-tapping is abnormally triggered
+    when typing
+
+    • Fixed the failure issue when waking the voice assistance in lock screen by swiping
+    the icon
+
+    • Fixed the issue in which home screen time is displayed abnormally when the system
+    language is Arabic
+
+    • Updated Android security patch to 2021.03 Camera
+
+    • Fixed the lagging issue when playing videos recorded by 4K CINE 60FPS Clock
+
+    • Fixed the issue that the alarm clock may not ring as scheduled on workdays'
+  date: '2021-04-08'
+  device: OnePlus 8T
+  link: https://oxygenos.oneplus.net/OnePlus8TOxygen_15.O.23_OTA_0230_all_2103221818_1608f9eff23e4166.zip
+  md5: 7f595c1d3864e675fa06813b17a86015
+  region: India
+  size: 2.74 GB
+  version: OnePlus8TOxygen_15.O.23_0230_2103221818
+- branch: Stable
+  changelog: 'System
+
+    • Optimized the position of the EMERGENCY icon in the lock screen
+
+    • Improved the navigation gestures sensitivity during charging
+
+    • Fixed the failure issue after changing the customized font
+
+    • Fixed the issue that the Splash Screen Information Service may stop working
+
+    • Fixed the small probability issue that the language in Provision does not follow
+    the system language
+
+    • Fixed the small probability issue that the expanded screenshot may stop working
+
+    • Fixed the small probability issue with the Recorder that the recording quality
+    may not meet the expected result
+
+    • Fixed the issue that reusing the wrong fingerprint long press to unlock will
+    cause a flash screen
+
+    • Fixed the small probability issue that double-tapping is abnormally triggered
+    when typing
+
+    • Fixed the failure issue when waking the voice assistance in the lock screen
+    by swiping the icon
+
+    • Fixed the issue in which home screen time is displayed abnormally when the system
+    language is Arabic
+
+    • Updated Android security patch to 2021.03 Camera
+
+    • Fixed the lagging issue when playing videos recorded by 4K CINE 60FPS OnePlus
+    Share
+
+    • Fixed the issue that files sent by other third-party devices cannot be received
+    Clock
+
+    • Fixed the issue that the alarm clock may not ring as scheduled on workdays'
+  date: '2021-04-08'
+  device: OnePlus 8
+  link: https://oxygenos.oneplus.net/OnePlus8Oxygen_15.O.35_OTA_0350_all_2103221818_a00994de270346bb.zip
+  md5: 8d325face06b2c6e7f801c9229c7369f
+  region: India
+  size: 2.85 GB
+  version: OnePlus8Oxygen_15.O.35_0350_2103221818
+- branch: Stable
+  changelog: 'System
+
+    • Optimized the position of the EMERGENCY icon in the lock screen
+
+    • Improved the navigation gestures sensitivity during charging
+
+    • Fixed the failure issue after changing the customized font
+
+    • Fixed the issue that the Splash Screen Information Service may stop working
+
+    • Fixed the small probability issue that the language in Provision does not follow
+    the system language
+
+    • Fixed the small probability issue that the expanded screenshot may stop working
+
+    • Fixed the small probability issue with the Recorder that the recording quality
+    may not meet the expected result
+
+    • Fixed the issue that reusing the wrong fingerprint long press to unlock will
+    cause a flash screen
+
+    • Fixed the small probability issue that double-tapping is abnormally triggered
+    when typing
+
+    • Fixed the failure issue when waking the voice assistance in the lock screen
+    by swiping the icon
+
+    • Fixed the issue in which home screen time is displayed abnormally when the system
+    language is Arabic
+
+    • Updated Android security patch to 2021.03 Camera
+
+    • Fixed the lagging issue when playing videos recorded by 4K CINE 60FPS OnePlus
+    Share
+
+    • Fixed the issue that files sent by other third-party devices cannot be received
+    Clock
+
+    • Fixed the issue that the alarm clock may not ring as scheduled on workdays'
+  date: '2021-04-08'
+  device: OnePlus 8 Pro
+  link: https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.O.35_OTA_0350_all_2103221813_3ec450423a214c40.zip
+  md5: 7ddceb429775242f556fb816f49f695c
+  region: India
+  size: 2.88 GB
+  version: OnePlus8ProOxygen_15.O.35_0350_2103221813
+- branch: Stable
+  changelog: 'System
+
     • Improved the charging stability to provide a better user experience
 
     • Improved WhatsApp''s video clarity when giving video calls
