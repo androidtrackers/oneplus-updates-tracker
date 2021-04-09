@@ -371,6 +371,54 @@
   region: India
   size: 3.3 GB
   version: OnePlus8Oxygen_15.I.35_GLO_0350_2103221815
+- branch: Stable
+  changelog: "OnePlus 8 Pro Oxygen OS 11.0.5.5.IN11BA\nSystem\n• Optimized the position\
+    \ of the EMERGENCY icon in the lock screen\n• Improved the navigation gestures\
+    \ sensitivity during charging\n• Fixed the failure issue after changing the customized\
+    \ font\n• Fixed the issue that the Splash Screen Information Service may stop\
+    \ working\n• Fixed the small probability issue that the language in Provision\
+    \ does not follow the system language\n• Fixed the small probability issue that\
+    \ the expanded screenshot may stop working \n• Fixed the small probability issue\
+    \ with the Recorder that the recording quality may not meet the expected result\n\
+    • Fixed the issue that reusing the wrong fingerprint long press to unlock will\
+    \ cause a flash screen\n• Fixed the small probability issue that double-tapping\
+    \ is abnormally triggered when typing \n• Fixed the failure issue when waking\
+    \ the voice assistance in lock screen by swiping the icon\n• Fixed the issue in\
+    \ which home screen time is displayed abnormally when the system language is Arabic\n\
+    • Updated Android security patch to 2021.03\nCamera\n• Fixed the lagging issue\
+    \ when playing videos recorded by 4K CINE 60FPS\nClock\n• Fixed the issue that\
+    \ the alarm clock may not ring as scheduled on workdays"
+  date: '2021-03-22'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_EEA/OnePlus8ProOxygen_15.E.35_GLO_0350_2103221817/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.E.35_GLO_0350_2103221817/OnePlus8ProOxygen_15.E.35_OTA_0350_all_2103221817_e79fa5.zip
+  md5: 88eb06371f5e9012621e6ec2eda6a842
+  region: EEA
+  size: 3.1 GB
+  version: OnePlus8ProOxygen_15.E.35_GLO_0350_2103221817
+- branch: Stable
+  changelog: "OnePlus 8 Oxygen OS 11.0.5.5.IN21BA\nSystem\n• Optimized the position\
+    \ of the EMERGENCY icon in the lock screen\n• Improved the navigation gestures\
+    \ sensitivity during charging\n• Fixed the failure issue after changing the customized\
+    \ font\n• Fixed the issue that the Splash Screen Information Service may stop\
+    \ working\n• Fixed the small probability issue that the language in Provision\
+    \ does not follow the system language\n• Fixed the small probability issue that\
+    \ the expanded screenshot may stop working \n• Fixed the small probability issue\
+    \ with the Recorder that the recording quality may not meet the expected result\n\
+    • Fixed the issue that reusing the wrong fingerprint long press to unlock will\
+    \ cause a flash screen\n• Fixed the small probability issue that double-tapping\
+    \ is abnormally triggered when typing \n• Fixed the failure issue when waking\
+    \ the voice assistance in lock screen by swiping the icon\n• Fixed the issue in\
+    \ which home screen time is displayed abnormally when the system language is Arabic\n\
+    • Updated Android security patch to 2021.03\nCamera\n• Fixed the lagging issue\
+    \ when playing videos recorded by 4K CINE 60FPS\nClock\n• Fixed the issue that\
+    \ the alarm clock may not ring as scheduled on workdays"
+  date: '2021-03-22'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_EEA/OnePlus8Oxygen_15.E.35_GLO_0350_2103221815/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.E.35_GLO_0350_2103221815/OnePlus8Oxygen_15.E.35_OTA_0350_all_2103221815_29de.zip
+  md5: 9d580ddc27c2a7619484387e2e9c6982
+  region: EEA
+  size: 3.1 GB
+  version: OnePlus8Oxygen_15.E.35_GLO_0350_2103221815
 - branch: Beta
   changelog: 'OP7T_O2_BETA_4
 
