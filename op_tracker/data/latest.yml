@@ -213,6 +213,29 @@
   size: 2.87 GB
   version: OnePlus9Oxygen_22.O.05_GLO_0050_2103242250
 - branch: Stable
+  changelog: 'OnePlus Nord N10 Oxygen OS 10.5.11.BE89BA
+
+    System
+
+    • Improved power consumption of the system
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android security patch to 2021.03
+
+    Network
+
+    • Improved the performance and stability of Wi-Fi transfer
+
+    • Improved the stability of communication and 5G network'
+  date: '2021-03-25'
+  device: OnePlus Nord N10
+  link: http://otafsg-cost-az.coloros.com/OnePlusN10_EEA/OnePlusN10Oxygen_14.E.11_GLO_011_2103252042/patch/amazone2/GLO/OnePlusN10Oxygen/OnePlusN10Oxygen_14.E.11_GLO_011_2103252042/OnePlusN10Oxygen_14.E.11_OTA_011_all_2103252042_8c3ba4b4e0.zip
+  md5: 4a3311460c166ef6f2d2ff7d5fb138bd
+  region: EEA
+  size: 2.5 GB
+  version: OnePlusN10Oxygen_14.E.11_GLO_011_2103252042
+- branch: Stable
   changelog: "OnePlus 8 Pro Hydrogen OS 11.0.5.5.IN11\nSystem\n• Optimized the position\
     \ of the EMERGENCY icon in the lock screen\n• Improved the navigation gestures\
     \ sensitivity during charging\n• Fixed the failure issue after changing the customized\
