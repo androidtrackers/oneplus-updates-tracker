@@ -83,6 +83,215 @@
   size: 2.8 GB
   version: OnePlus7TProOxygen_14.I.26_GLO_0260_2104141956
 - branch: Stable
+  changelog: "Oxygen OS 11.0.0.2.HD65AA\nSystem\n• Update to OxygenOS 11 version \n\
+    • Fresh new UI visual design brings you a more comfortable experience with various\
+    \ optimizations of details\n• Optimize the stability of some third-party applications\
+    \ and improve the experience\n• Updated Android security patch to 2021.03\n• Updated\
+    \ GMS package to 2021.01\n• Since this is the upgrade of Android 11 version with\
+    \ many new features, the upgrade time may be longer. Please wait for the completion\
+    \ of the upgrade\nCamera\n• Updated the camera UI and optimized some of the function\
+    \ paths to offer more convenient operation\n• Newly added HEVC codec to reduce\
+    \ video storage size seamlessly, capture and shoot more without compromising on\
+    \ quality\n• Newly added access to a third-party app to share the picture by pressing\
+    \ and holding it in preview \n• Newly added the quick access to recording mode\
+    \ by pressing and holding the shutter button and by sliding the button, you can\
+    \ easily zoom in or zoom out\n• Newly added the playback display in Time-lapse\
+    \ mode to show the actual filming time\nAmbient Display \n• Newly added Insight\
+    \ clock style, a joint creation with Parsons School of Design. It will change\
+    \ according to the phone usage data (To set: Settings > Customization > Clock\
+    \ on ambient display)\n• Newly added Canvas feature that can automatically draw\
+    \ a wireframe picture based on a lock screen photo on your phone (Path: Settings\
+    \ - Customization - Wallpaper - Canvas - Choose photo preview and it can be generated\
+    \ automatically)\nDark Mode\n• Added the shortcut key for Dark Mode, pull down\
+    \ the quick setting to enable\n• Supporting automatically turn on feature & customize\
+    \ time range (Path: Settings - Display - Dark Mode - Turn on automatically - Automatically\
+    \ enable from sunset to sunrise/Custom time range)\nGame Space\n• Newly added\
+    \ gaming tools box for convenient switches of Fnatic mode. You can now choose\
+    \ three ways of notifications: text-only, heads up and block, just for your immersive\
+    \ gaming experience\n• Newly added quick reply feature in a small window for Instagram,\
+    \ WhatsApp and Telegram (Enable it by swiping down from upper right/left corners\
+    \ of the screen in gaming mode)\n• Newly added mis-touch prevention feature. Enable\
+    \ it, swipe down from the top of the screen, click and the notification bar will\
+    \ pop out\nShelf\n• Newly shelf interface design, the interface is clearer\n•\
+    \ Added weather widget, animation effect smarter\nGallery\n• Supporting Story\
+    \ function, automatically form weekly videos with photos and video in storage\n\
+    • Optimize the loading speed of the gallery, and the image preview is faster\n\
+    ."
+  date: '2021-04-14'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.I.26_GLO_0260_2104142319/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.I.26_GLO_0260_2104142319/OnePlus7TOxygen_14.I.26_OTA_0260_all_2104142319_fc80b426418bd3.zip
+  md5: 9699451c76869f6ff6b44eec2b9eecc5
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.I.26_GLO_0260_2104142319
+- branch: Stable
+  changelog: "Oxygen OS 11.0.0.2.GM57AA\nSystem\n• Update to OxygenOS 11 version \n\
+    • Fresh new UI visual design brings you a more comfortable experience with various\
+    \ optimizations of details\n• Optimize the stability of some third-party applications\
+    \ and improve the experience\n• Updated Android security patch to 2021.03\n• Updated\
+    \ GMS package to 2021.01\n• Since this is the upgrade of Android 11 version with\
+    \ many new features, the upgrade time may be longer. Please wait for the completion\
+    \ of the upgrade\nCamera\n• Updated the camera UI and optimized some of the function\
+    \ paths to offer more convenient operation\n• Newly added HEVC codec to reduce\
+    \ video storage size seamlessly, capture and shoot more without compromising on\
+    \ quality\n• Newly added access to a third-party app to share the picture by pressing\
+    \ and holding it in preview \n• Newly added the quick access to recording mode\
+    \ by pressing and holding the shutter button and by sliding the button, you can\
+    \ easily zoom in or zoom out\n• Newly added the playback display in Time-lapse\
+    \ mode to show the actual filming time\nAmbient Display \n• Newly added Insight\
+    \ clock style, a joint creation with Parsons School of Design. It will change\
+    \ according to the phone usage data (To set: Settings > Customization > Clock\
+    \ on ambient display)\n• Newly added Canvas feature that can automatically draw\
+    \ a wireframe picture based on a lock screen photo on your phone (Path: Settings\
+    \ - Customization - Wallpaper - Canvas - Choose photo preview and it can be generated\
+    \ automatically)\nDark Mode\n• Added the shortcut key for Dark Mode, pull down\
+    \ the quick setting to enable\n• Supporting automatically turn on feature & customize\
+    \ time range (Path: Settings - Display - Dark Mode - Turn on automatically - Automatically\
+    \ enable from sunset to sunrise/Custom time range)\nGame Space\n• Newly added\
+    \ gaming tools box for convenient switches of Fnatic mode. You can now choose\
+    \ three ways of notifications: text-only, heads up and block, just for your immersive\
+    \ gaming experience\n• Newly added quick reply feature in a small window for Instagram,\
+    \ WhatsApp and Telegram (Enable it by swiping down from upper right/left corners\
+    \ of the screen in gaming mode)\n• Newly added mis-touch prevention feature. Enable\
+    \ it, swipe down from the top of the screen, click and the notification bar will\
+    \ pop out\nShelf\n• Newly shelf interface design, the interface is clearer\n•\
+    \ Added weather widget, animation effect smarter\nGallery\n• Supporting Story\
+    \ function, automatically form weekly videos with photos and video in storage\n\
+    • Optimize the loading speed of the gallery, and the image preview is faster\n\
+    ."
+  date: '2021-04-14'
+  device: OnePlus 7
+  link: http://otafsg-cost-az.coloros.com/OnePlus7/OnePlus7Oxygen_14.P.36_GLO_0360_2104141941/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.P.36_GLO_0360_2104141941/OnePlus7Oxygen_14.P.36_OTA_0360_all_2104141941_be82fa.zip
+  md5: 5b84b10807004e401191a6fe1d5994e2
+  region: India
+  size: 2.5 GB
+  version: OnePlus7Oxygen_14.P.36_GLO_0360_2104141941
+- branch: Stable
+  changelog: "Oxygen OS 11.0.0.2.GM21BA\nSystem\n• Update to OxygenOS 11 version \n\
+    • Fresh new UI visual design brings you a more comfortable experience with various\
+    \ optimizations of details\n• Optimize the stability of some third-party applications\
+    \ and improve the experience\n• Updated Android security patch to 2021.03\n• Updated\
+    \ GMS package to 2021.01\n• Since this is the upgrade of Android 11 version with\
+    \ many new features, the upgrade time may be longer. Please wait for the completion\
+    \ of the upgrade\nCamera\n• Updated the camera UI and optimized some of the function\
+    \ paths to offer more convenient operation\n• Newly added HEVC codec to reduce\
+    \ video storage size seamlessly, capture and shoot more without compromising on\
+    \ quality\n• Newly added access to a third-party app to share the picture by pressing\
+    \ and holding it in preview \n• Newly added the quick access to recording mode\
+    \ by pressing and holding the shutter button and by sliding the button, you can\
+    \ easily zoom in or zoom out\n• Newly added the playback display in Time-lapse\
+    \ mode to show the actual filming time\nAmbient Display \n• Newly added Insight\
+    \ clock style, a joint creation with Parsons School of Design. It will change\
+    \ according to the phone usage data (To set: Settings > Customization > Clock\
+    \ on ambient display)\n• Newly added Canvas feature that can automatically draw\
+    \ a wireframe picture based on a lock screen photo on your phone (Path: Settings\
+    \ - Customization - Wallpaper - Canvas - Choose photo preview and it can be generated\
+    \ automatically)\nDark Mode\n• Added the shortcut key for Dark Mode, pull down\
+    \ the quick setting to enable\n• Supporting automatically turn on feature & customize\
+    \ time range (Path: Settings - Display - Dark Mode - Turn on automatically - Automatically\
+    \ enable from sunset to sunrise/Custom time range)\nGame Space\n• Newly added\
+    \ gaming tools box for convenient switches of Fnatic mode. You can now choose\
+    \ three ways of notifications: text-only, heads up and block, just for your immersive\
+    \ gaming experience\n• Newly added quick reply feature in a small window for Instagram,\
+    \ WhatsApp and Telegram (Enable it by swiping down from upper right/left corners\
+    \ of the screen in gaming mode)\n• Newly added mis-touch prevention feature. Enable\
+    \ it, swipe down from the top of the screen, click and the notification bar will\
+    \ pop out\nShelf\n• Newly shelf interface design, the interface is clearer\n•\
+    \ Added weather widget, animation effect smarter\nGallery\n• Supporting Story\
+    \ function, automatically form weekly videos with photos and video in storage\n\
+    • Optimize the loading speed of the gallery, and the image preview is faster\n\
+    ."
+  date: '2021-04-14'
+  device: OnePlus 7 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7Pro_EEA/OnePlus7ProOxygen_21.E.36_GLO_0360_2104141941/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_21.E.36_GLO_0360_2104141941/OnePlus7ProOxygen_21.E.36_OTA_0360_all_2104141941_99a4302313b.zip
+  md5: e531ad1c94d06e18307c4942949eeb60
+  region: EEA
+  size: 2.5 GB
+  version: OnePlus7ProOxygen_21.E.36_GLO_0360_2104141941
+- branch: Stable
+  changelog: "Oxygen OS 11.0.0.2.GM57BA\nSystem\n• Update to OxygenOS 11 version \n\
+    • Fresh new UI visual design brings you a more comfortable experience with various\
+    \ optimizations of details\n• Optimize the stability of some third-party applications\
+    \ and improve the experience\n• Updated Android security patch to 2021.03\n• Updated\
+    \ GMS package to 2021.01\n• Since this is the upgrade of Android 11 version with\
+    \ many new features, the upgrade time may be longer. Please wait for the completion\
+    \ of the upgrade\nCamera\n• Updated the camera UI and optimized some of the function\
+    \ paths to offer more convenient operation\n• Newly added HEVC codec to reduce\
+    \ video storage size seamlessly, capture and shoot more without compromising on\
+    \ quality\n• Newly added access to a third-party app to share the picture by pressing\
+    \ and holding it in preview \n• Newly added the quick access to recording mode\
+    \ by pressing and holding the shutter button and by sliding the button, you can\
+    \ easily zoom in or zoom out\n• Newly added the playback display in Time-lapse\
+    \ mode to show the actual filming time\nAmbient Display \n• Newly added Insight\
+    \ clock style, a joint creation with Parsons School of Design. It will change\
+    \ according to the phone usage data (To set: Settings > Customization > Clock\
+    \ on ambient display)\n• Newly added Canvas feature that can automatically draw\
+    \ a wireframe picture based on a lock screen photo on your phone (Path: Settings\
+    \ - Customization - Wallpaper - Canvas - Choose photo preview and it can be generated\
+    \ automatically)\nDark Mode\n• Added the shortcut key for Dark Mode, pull down\
+    \ the quick setting to enable\n• Supporting automatically turn on feature & customize\
+    \ time range (Path: Settings - Display - Dark Mode - Turn on automatically - Automatically\
+    \ enable from sunset to sunrise/Custom time range)\nGame Space\n• Newly added\
+    \ gaming tools box for convenient switches of Fnatic mode. You can now choose\
+    \ three ways of notifications: text-only, heads up and block, just for your immersive\
+    \ gaming experience\n• Newly added quick reply feature in a small window for Instagram,\
+    \ WhatsApp and Telegram (Enable it by swiping down from upper right/left corners\
+    \ of the screen in gaming mode)\n• Newly added mis-touch prevention feature. Enable\
+    \ it, swipe down from the top of the screen, click and the notification bar will\
+    \ pop out\nShelf\n• Newly shelf interface design, the interface is clearer\n•\
+    \ Added weather widget, animation effect smarter\nGallery\n• Supporting Story\
+    \ function, automatically form weekly videos with photos and video in storage\n\
+    • Optimize the loading speed of the gallery, and the image preview is faster\n\
+    ."
+  date: '2021-04-14'
+  device: OnePlus 7
+  link: http://otafsg-cost-az.coloros.com/OnePlus7_EEA/OnePlus7Oxygen_14.E.36_GLO_0360_2104141855/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.E.36_GLO_0360_2104141855/OnePlus7Oxygen_14.E.36_OTA_0360_all_2104141855_a11487c39a48527.zip
+  md5: bb4dd740f78a9e47445d42e7b72c2af7
+  region: EEA
+  size: 2.5 GB
+  version: OnePlus7Oxygen_14.E.36_GLO_0360_2104141855
+- branch: Stable
+  changelog: "Hydrogen OS 11.0.0.2.GM57\nSystem\n• Update to HydrogenOS 11 version\
+    \ \n• Fresh new UI visual design brings you a more comfortable experience with\
+    \ various optimizations of details\n• Optimize the stability of some third-party\
+    \ applications and improve the experience\n• Updated Android security patch to\
+    \ 2021.03\n• Since this is the upgrade of Android 11 version with many new features,\
+    \ the upgrade time may be longer. Please wait for the completion of the upgrade\n\
+    Camera\n• Updated the camera UI and optimized some of the function paths to offer\
+    \ more convenient operation\n• Newly added HEVC codec to reduce video storage\
+    \ size seamlessly, capture and shoot more without compromising on quality\n• Newly\
+    \ added access to a third-party app to share the picture by pressing and holding\
+    \ it in preview \n• Newly added the quick access to recording mode by pressing\
+    \ and holding the shutter button and by sliding the button, you can easily zoom\
+    \ in or zoom out\n• Newly added the playback display in Time-lapse mode to show\
+    \ the actual filming time\nAmbient Display \n• Newly added Insight clock style,\
+    \ a joint creation with Parsons School of Design. It will change according to\
+    \ the phone usage data (To set: Settings > Customization > Clock on ambient display)\n\
+    • Newly added Canvas feature that can automatically draw a wireframe picture based\
+    \ on a lock screen photo on your phone (Path: Settings - Customization - Wallpaper\
+    \ - Canvas - Choose photo preview and it can be generated automatically)\nDark\
+    \ Mode\n• Added the shortcut key for Dark Mode, pull down the quick setting to\
+    \ enable\n• Supporting automatically turn on feature & customize time range (path:\
+    \ Settings - Display - Dark Mode - Turn on automatically - Automatically enable\
+    \ from sunset to sunrise/Custom time range)\nGame Space\n• Newly added gaming\
+    \ tools box for convenient switches of Fnatic mode. You can now choose three ways\
+    \ of notifications: text-only, heads up and block, just for your immersive gaming\
+    \ experience\n• Newly added quick reply feature in a small window for QQ and WeChat\
+    \ (Enable it by swiping down from upper right/left corners of the screen in gaming\
+    \ mode)\n• Newly added mis-touch prevention feature. Enable it, swipe down from\
+    \ the top of the screen, click and the notification bar will pop out\nShelf\n\
+    • Newly shelf interface design, the interface is clearer\n• Added weather widget,\
+    \ animation effect smarter\nGallery\n• Supporting Story function, automatically\
+    \ form weekly videos with photos and video in storage\n• Optimize the loading\
+    \ speed of the gallery, and the image preview is faster"
+  date: '2021-04-11'
+  device: OnePlus 7
+  link: http://otafsc-cost.h2os.com/OnePlus7_CH/OnePlus7Hydrogen_14.H.36_0360_2104111122/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_14.H.36_0360_2104111122/OnePlus7Hydrogen_14.H.36_OTA_0360_all_2104111122_c23751.zip
+  md5: 0f2d8e783829c1b503c17952063a0947
+  region: China
+  size: 3.8 GB
+  version: OnePlus7Hydrogen_14.H.36_0360_2104111122
+- branch: Stable
   changelog: "Hydrogen OS 11.0.0.2.HD01\nSystem\n• Update to HydrogenOS 11 version\
     \ \n• Fresh new UI visual design brings you a more comfortable experience with\
     \ various optimizations of details\n• Optimize the stability of some third-party\
@@ -164,6 +373,47 @@
   region: China
   size: 3.9 GB
   version: OnePlus7THydrogen_14.H.22_0220_2104102256
+- branch: Stable
+  changelog: "Hydrogen OS 11.0.0.2.GM21\nSystem\n• Update to HydrogenOS 11 version\
+    \ \n• Fresh new UI visual design brings you a more comfortable experience with\
+    \ various optimizations of details\n• Optimize the stability of some third-party\
+    \ applications and improve the experience\n• Updated Android security patch to\
+    \ 2021.03\n• Since this is the upgrade of Android 11 version with many new features,\
+    \ the upgrade time may be longer. Please wait for the completion of the upgrade\n\
+    Camera\n• Updated the camera UI and optimized some of the function paths to offer\
+    \ more convenient operation\n• Newly added HEVC codec to reduce video storage\
+    \ size seamlessly, capture and shoot more without compromising on quality\n• Newly\
+    \ added access to a third-party app to share the picture by pressing and holding\
+    \ it in preview \n• Newly added the quick access to recording mode by pressing\
+    \ and holding the shutter button and by sliding the button, you can easily zoom\
+    \ in or zoom out\n• Newly added the playback display in Time-lapse mode to show\
+    \ the actual filming time\nAmbient Display \n• Newly added Insight clock style,\
+    \ a joint creation with Parsons School of Design. It will change according to\
+    \ the phone usage data (To set: Settings > Customization > Clock on ambient display)\n\
+    • Newly added Canvas feature that can automatically draw a wireframe picture based\
+    \ on a lock screen photo on your phone (Path: Settings - Customization - Wallpaper\
+    \ - Canvas - Choose photo preview and it can be generated automatically)\nDark\
+    \ Mode\n• Added the shortcut key for Dark Mode, pull down the quick setting to\
+    \ enable\n• Supporting automatically turn on feature & customize time range (path:\
+    \ Settings - Display - Dark Mode - Turn on automatically - Automatically enable\
+    \ from sunset to sunrise/Custom time range)\nGame Space\n• Newly added gaming\
+    \ tools box for convenient switches of Fnatic mode. You can now choose three ways\
+    \ of notifications: text-only, heads up and block, just for your immersive gaming\
+    \ experience\n• Newly added quick reply feature in a small window for QQ and WeChat\
+    \ (Enable it by swiping down from upper right/left corners of the screen in gaming\
+    \ mode)\n• Newly added mis-touch prevention feature. Enable it, swipe down from\
+    \ the top of the screen, click and the notification bar will pop out\nShelf\n\
+    • Newly shelf interface design, the interface is clearer\n• Added weather widget,\
+    \ animation effect smarter\nGallery\n• Supporting Story function, automatically\
+    \ form weekly videos with photos and video in storage\n• Optimize the loading\
+    \ speed of the gallery, and the image preview is faster"
+  date: '2021-04-10'
+  device: OnePlus 7 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7Pro_CH/OnePlus7ProHydrogen_21.H.37_0370_2104102202/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_21.H.37_0370_2104102202/OnePlus7ProHydrogen_21.H.37_OTA_0370_all_2104102202_56eb5c.zip
+  md5: b0f3029d922185997ca31d6211046b19
+  region: China
+  size: 3.8 GB
+  version: OnePlus7ProHydrogen_21.H.37_0370_2104102202
 - branch: Stable
   changelog: 'System
 
@@ -378,6 +628,196 @@
   region: Global
   size: 2.87 GB
   version: OnePlus9Oxygen_22.O.05_GLO_0050_2103242250
+- branch: Beta
+  changelog: "OxygenOS: OnePlus8_O₂_BETA_9\nSystem\n• Fixed the issue that some app's\
+    \ fonts are displayed abnormally after setting customized fonts\n• Fixed the small\
+    \ probability issue where the status bar cannot be pulled down\n• Fixed the small\
+    \ probability issue where the status bar does not display app icons\n• Fixed the\
+    \ issue that the missed calls are not displayed in the notification bar\n• Fixed\
+    \ the small probability issue that the expanded screenshot may stop working \n\
+    • Fixed the small probability issue where recording audio with headphones may\
+    \ not work as expected\n• Updated Android security patch to 2021.04\nCamera\n\
+    • Fixed the small probability issue that the previewed photos are flickering under\
+    \ the photo mode\nCalculator\n• Fixed the abnormal display with the calculator\
+    \ under the split screen\nAmbient Display\n• Fixed the issue that the contextual\
+    \ information of AOD is not updated timely\n• Fixed the issue that the ambient\
+    \ display is switched to Canvas after the device owner is changed \n• Fixed the\
+    \ issue with AOD that the time is displayed abnormally when the system language\
+    \ is Hebrew\nOnePlus Games\n• Newly added the Data Monitor feature, you can find\
+    \ it in the Game Toolbox and monitor the FPS/CPU/GPU changes in real-time\nGallery\n\
+    • Improved the loading speed of the gallery to speed up the process of previewing\
+    \ pictures"
+  date: '2021-04-06'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8/OnePlus8Oxygen_15.X.19_GLO_0190_2104062100/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.X.19_GLO_0190_2104062100/OnePlus8Oxygen_15.X.19_OTA_0190_all_2104062100_4d66c80cc241.zip
+  md5: 4c77eafe96d82143521e3c9d50802ef7
+  region: Global
+  size: 3.1 GB
+  version: OnePlus8Oxygen_15.X.19_GLO_0190_2104062100
+- branch: Beta
+  changelog: "OxygenOS: OnePlus8_O₂_BETA_9\nSystem\n• Fixed the issue that some app's\
+    \ fonts are displayed abnormally after setting customized fonts\n• Fixed the small\
+    \ probability issue where the status bar cannot be pulled down\n• Fixed the small\
+    \ probability issue where the status bar does not display app icons\n• Fixed the\
+    \ issue that the missed calls are not displayed in the notification bar\n• Fixed\
+    \ the small probability issue that the expanded screenshot may stop working \n\
+    • Fixed the small probability issue where recording audio with headphones may\
+    \ not work as expected\n• Updated Android security patch to 2021.04\nCamera\n\
+    • Fixed the small probability issue that the previewed photos are flickering under\
+    \ the photo mode\nCalculator\n• Fixed the abnormal display with the calculator\
+    \ under the split screen\nAmbient Display\n• Fixed the issue that the contextual\
+    \ information of AOD is not updated timely\n• Fixed the issue that the ambient\
+    \ display is switched to Canvas after the device owner is changed \n• Fixed the\
+    \ issue with AOD that the time is displayed abnormally when the system language\
+    \ is Hebrew\nOnePlus Games\n• Newly added the Data Monitor feature, you can find\
+    \ it in the Game Toolbox and monitor the FPS/CPU/GPU changes in real-time\nGallery\n\
+    • Improved the loading speed of the gallery to speed up the process of previewing\
+    \ pictures"
+  date: '2021-04-06'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.W.19_GLO_0190_2104062102/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.W.19_GLO_0190_2104062102/OnePlus8Oxygen_15.W.19_OTA_0190_all_2104062102_bc7c324ee.zip
+  md5: 6ec1aa839157a1602e0cf806eed4167e
+  region: India
+  size: 3.3 GB
+  version: OnePlus8Oxygen_15.W.19_GLO_0190_2104062102
+- branch: Beta
+  changelog: "OxygenOS: OnePlus8Pro_O₂_BETA_9\nSystem\n• Fixed the issue that some\
+    \ app's fonts are displayed abnormally after setting customized fonts\n• Fixed\
+    \ the small probability issue where the status bar cannot be pulled down\n• Fixed\
+    \ the small probability issue where the status bar does not display app icons\n\
+    • Fixed the issue that the missed calls are not displayed in the notification\
+    \ bar\n• Fixed the small probability issue that the expanded screenshot may stop\
+    \ working \n• Fixed the small probability issue where recording audio with headphones\
+    \ may not work as expected\n• Updated Android security patch to 2021.04\nCamera\n\
+    • Fixed the small probability issue that the previewed photos are flickering under\
+    \ the photo mode\nCalculator\n• Fixed the abnormal display with the calculator\
+    \ under the split screen\nAmbient Display\n• Fixed the issue that the contextual\
+    \ information of AOD is not updated timely\n• Fixed the issue that the ambient\
+    \ display is switched to Canvas after the device owner is changed \n• Fixed the\
+    \ issue with AOD that the time is displayed abnormally when the system language\
+    \ is Hebrew\nOnePlus Games\n• Newly added the Data Monitor feature, you can find\
+    \ it in the Game Toolbox and monitor the FPS/CPU/GPU changes in real-time\nGallery\n\
+    • Improved the loading speed of the gallery to speed up the process of previewing\
+    \ pictures"
+  date: '2021-04-06'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.W.19_GLO_0190_2104062101/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.W.19_GLO_0190_2104062101/OnePlus8ProOxygen_15.W.19_OTA_0190_all_2104062101_52bec109d.zip
+  md5: fc4cfb0774819f18be6e006a679ae5aa
+  region: India
+  size: 3.4 GB
+  version: OnePlus8ProOxygen_15.W.19_GLO_0190_2104062101
+- branch: Beta
+  changelog: "OxygenOS: OnePlus8Pro_O₂_BETA_9\nSystem\n• Fixed the issue that some\
+    \ app's fonts are displayed abnormally after setting customized fonts\n• Fixed\
+    \ the small probability issue where the status bar cannot be pulled down\n• Fixed\
+    \ the small probability issue where the status bar does not display app icons\n\
+    • Fixed the issue that the missed calls are not displayed in the notification\
+    \ bar\n• Fixed the small probability issue that the expanded screenshot may stop\
+    \ working \n• Fixed the small probability issue where recording audio with headphones\
+    \ may not work as expected\n• Updated Android security patch to 2021.04\nCamera\n\
+    • Fixed the small probability issue that the previewed photos are flickering under\
+    \ the photo mode\nCalculator\n• Fixed the abnormal display with the calculator\
+    \ under the split screen\nAmbient Display\n• Fixed the issue that the contextual\
+    \ information of AOD is not updated timely\n• Fixed the issue that the ambient\
+    \ display is switched to Canvas after the device owner is changed \n• Fixed the\
+    \ issue with AOD that the time is displayed abnormally when the system language\
+    \ is Hebrew\nOnePlus Games\n• Newly added the Data Monitor feature, you can find\
+    \ it in the Game Toolbox and monitor the FPS/CPU/GPU changes in real-time\nGallery\n\
+    • Improved the loading speed of the gallery to speed up the process of previewing\
+    \ pictures"
+  date: '2021-04-06'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro/OnePlus8ProOxygen_15.X.19_GLO_0190_2104062101/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.X.19_GLO_0190_2104062101/OnePlus8ProOxygen_15.X.19_OTA_0190_all_2104062101_fd366d9d304.zip
+  md5: acbbe4999cb9223cf486a3954b85871e
+  region: Global
+  size: 3.2 GB
+  version: OnePlus8ProOxygen_15.X.19_GLO_0190_2104062101
+- branch: Beta
+  changelog: "HydrogenOS: OnePlus8Pro_H₂_BETA_9\nSystem\n• Fixed the issue that some\
+    \ app's fonts are displayed abnormally after setting customized fonts\n• Fixed\
+    \ the small probability issue where the status bar cannot be pulled down\n• Fixed\
+    \ the small probability issue where the status bar does not display app icons\n\
+    • Fixed the issue that the missed calls are not displayed in the notification\
+    \ bar\n• Fixed the small probability issue that the expanded screenshot may stop\
+    \ working \n• Fixed the small probability issue where recording audio with headphones\
+    \ may not work as expected\n• Updated Android security patch to 2021.04\nCamera\n\
+    • Fixed the small probability issue that the previewed photos are flickering under\
+    \ the photo mode\nPhone\n• Fixed the small probability issue of delayed display\
+    \ of the Contact details page\nCalculator\n• Fixed the abnormal display with the\
+    \ calculator under the split screen\nAmbient Display\n• Fixed the issue that the\
+    \ contextual information of AOD is not updated timely\nOnePlus Games\n• Newly\
+    \ added the Data Monitor feature, you can find it in the Game Toolbox and monitor\
+    \ the FPS/CPU/GPU changes in real-time\nGallery\n• Improved the loading speed\
+    \ of the gallery to speed up the process of previewing pictures\nNetwork\n• Newly\
+    \ added Multi-Network Smart Selection, which can intelligently identify the strength\
+    \ of network signals and select the best network as a data connection. Only available\
+    \ for Unicom SIM card users. (Go to: Settings-Wi-Fi & Network-Multi-Network Smart\
+    \ Selection)"
+  date: '2021-04-06'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.Y.19_0190_2104062107/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.Y.19_0190_2104062107/OnePlus8ProHydrogen_15.Y.19_OTA_0190_all_2104062107_9a37.zip
+  md5: 81baa6d571a0e2af8b8f4ed2ef692a33
+  region: China
+  size: 4.3 GB
+  version: OnePlus8ProHydrogen_15.Y.19_0190_2104062107
+- branch: Beta
+  changelog: "HydrogenOS: OnePlus8_H₂_BETA_9\nSystem\n• Fixed the issue that some\
+    \ app's fonts are displayed abnormally after setting customized fonts\n• Fixed\
+    \ the small probability issue where the status bar cannot be pulled down\n• Fixed\
+    \ the small probability issue where the status bar does not display app icons\n\
+    • Fixed the issue that the missed calls are not displayed in the notification\
+    \ bar\n• Fixed the small probability issue that the expanded screenshot may stop\
+    \ working \n• Fixed the small probability issue where recording audio with headphones\
+    \ may not work as expected\n• Updated Android security patch to 2021.04\nCamera\n\
+    • Fixed the small probability issue that the previewed photos are flickering under\
+    \ the photo mode\nPhone\n• Fixed the small probability issue of delayed display\
+    \ of the Contact details page\nCalculator\n• Fixed the abnormal display with the\
+    \ calculator under the split screen\nAmbient Display\n• Fixed the issue that the\
+    \ contextual information of AOD is not updated timely\nOnePlus Games\n• Newly\
+    \ added the Data Monitor feature, you can find it in the Game Toolbox and monitor\
+    \ the FPS/CPU/GPU changes in real-time\nGallery\n• Improved the loading speed\
+    \ of the gallery to speed up the process of previewing pictures\nNetwork\n• Newly\
+    \ added Multi-Network Smart Selection, which can intelligently identify the strength\
+    \ of network signals and select the best network as a data connection. Only available\
+    \ for Unicom SIM card users. (Go to: Settings-Wi-Fi & Network-Multi-Network Smart\
+    \ Selection)"
+  date: '2021-04-06'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.Y.19_0190_2104062059/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.Y.19_0190_2104062059/OnePlus8Hydrogen_15.Y.19_OTA_0190_all_2104062059_e18f8064.zip
+  md5: b5b4bec2dca506770495f3b9ad8f2773
+  region: China
+  size: 4.3 GB
+  version: OnePlus8Hydrogen_15.Y.19_0190_2104062059
+- branch: Stable
+  changelog: 'OnePlus6 Hydrogen OS 10.0.9
+
+    System
+
+    • Updated Android security patch to 2021.02
+
+    • Improved system stability and fixed known issues'
+  date: '2021-03-26'
+  device: OnePlus 6
+  link: http://otafsc-cost.h2os.com/OnePlus6/OnePlus6Hydrogen_22.K.50_050_2103260038/patch/CHN/OnePlus6Hydrogen/OnePlus6Hydrogen_22.K.50_050_2103260038/OnePlus6Hydrogen_22.K.50_OTA_050_all_2103260038_ebf8a16a19e7cc.zip
+  md5: 3e84678cc8b06d52ff2996aba99c542e
+  region: China
+  size: 2.8 GB
+  version: OnePlus6Hydrogen_22.K.50_050_2103260038
+- branch: Stable
+  changelog: 'OnePlus6T Hydrogen OS 10.0.9
+
+    System
+
+    • Updated Android security patch to 2021.02
+
+    • Improved system stability and fixed known issues'
+  date: '2021-03-26'
+  device: OnePlus 6T
+  link: http://otafsc-cost.h2os.com/OnePlus6T/OnePlus6THydrogen_34.K.50_050_2103260058/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.50_050_2103260058/OnePlus6THydrogen_34.K.50_OTA_050_all_2103260058_f593f532d71.zip
+  md5: 99bda956a8bbe31572a73021905c8389
+  region: China
+  size: 2.9 GB
+  version: OnePlus6THydrogen_34.K.50_050_2103260058
 - branch: Stable
   changelog: 'OnePlus Nord N10 Oxygen OS 10.5.11.BE89BA
 
