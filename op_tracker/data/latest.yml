@@ -1,4 +1,36 @@
 - branch: Stable
+  changelog: 'System
+
+    • Improved power consumption of the system
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android security patch to 2021.03 Network
+
+    • Improved the performance and stability of Wi-Fi transfer
+
+    • Improved the stability of communication and 5G network'
+  date: '2021-04-29'
+  device: OnePlus Nord N10
+  link: https://oxygenos.oneplus.net/OnePlusN10Oxygen_14.O.12_OTA_012_all_2103252040_ae3e916360bb4c8b.zip
+  md5: 4350859c1b5cceafba1b549f48f8f350
+  region: India
+  size: 2.36 GB
+  version: OnePlusN10Oxygen_14.O.12_012_2103252040
+- branch: Stable
+  changelog: 'System
+
+    • Updated Android security patch to 2021.03
+
+    • Fixed known issues and improved system stability'
+  date: '2021-04-29'
+  device: OnePlus Nord N100
+  link: https://oxygenos.oneplus.net/OnePlusN100Oxygen_14.O.10_OTA_010_all_2104022020_c8ecef8e14db4d23.zip
+  md5: 3194ea86f6061b62f5b8985f928e9923
+  region: India
+  size: 2.06 GB
+  version: OnePlusN100Oxygen_14.O.10_010_2104022020
+- branch: Stable
   changelog: "Oxygen OS 11.0.0.2.HD01AA\nSystem\n• Update to OxygenOS 11 version \n\
     • Fresh new UI visual design brings you a more comfortable experience with various\
     \ optimizations of details\n• Optimize the stability of some third-party applications\
