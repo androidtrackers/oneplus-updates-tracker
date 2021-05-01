@@ -1,4 +1,13 @@
 - branch: Stable
+  changelog: · Android R OS upgrade · March security patch
+  date: '2021-05-01'
+  device: OnePlus 8 Visible
+  link: https://oxygenos.oneplus.net/OnePlus8VisibleOxygen_11.O.02_OTA_0020_all_2103312202_bfc9402401ec4ed1.zip
+  md5: da4e6046a6cc5b300fe6427317bebfd7
+  region: India
+  size: 2.0 GB
+  version: OnePlus8VisibleOxygen_11.O.02_0020_2103312202
+- branch: Stable
   changelog: 'System
 
     • Improved power consumption of the system
