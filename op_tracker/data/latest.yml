@@ -1,4 +1,168 @@
 - branch: Stable
+  changelog: 'System
+
+    • Improved charging stability
+
+    • Improved the sensitivity of the keyboard in the edge area
+
+    • Improved the temperature control strategy
+
+    • Fixed the issue that the battery icon in the status bar is abnormally displayed
+
+    • Fixed the small probability issue that Google Fi SIM card can not accept incoming
+    calls
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android security patch to 2021.04
+
+    • Updated GMS package to 2021.03 Camera
+
+    • Improved the image purity and the ambiance performance
+
+    • Improved the white balance consistency of the rear camera
+
+    • Improved image over-sharpening of the rear camera'
+  date: '2021-05-07'
+  device: OnePlus 9 Pro
+  link: https://oxygenos.oneplus.net/OnePlus9ProOxygen_22.O.07_OTA_0070_all_2104122250_4cb8641ceb574eac.zip
+  md5: 8516d14db37542327082bad18422988e
+  region: India
+  size: 2.93 GB
+  version: OnePlus9ProOxygen_22.O.07_0070_2104122250
+- branch: Stable
+  changelog: 'System
+
+    • Improved charging stability
+
+    • Improved the sensitivity of the keyboard in the edge area
+
+    • Improved the temperature control strategy
+
+    • Fixed the issue that the battery icon in the status bar is abnormally displayed
+
+    • Fixed the small probability issue that Google Fi SIM card can not accept incoming
+    calls
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android security patch to 2021.04
+
+    • Updated GMS package to 2021.03 Camera
+
+    • Improved the image purity and the ambiance performance
+
+    • Improved the white balance consistency of the rear camera
+
+    • Improved image over-sharpening of the rear camera'
+  date: '2021-05-07'
+  device: OnePlus 9
+  link: https://oxygenos.oneplus.net/OnePlus9Oxygen_22.O.07_OTA_0070_all_2104122241_e0f2a4d74c3844b4.zip
+  md5: b3be1ffc384aaf3da34da6161e20c561
+  region: India
+  size: 2.88 GB
+  version: OnePlus9Oxygen_22.O.07_0070_2104122241
+- branch: Stable
+  changelog: 'System
+
+    • Update to OxygenOS 11 version
+
+    • Fresh new UI visual design brings you a more comfortable experience with various
+    optimizations of details
+
+    • Optimize the stability of some third-party applications and improve the experience
+
+    • Updated Android security patch to 2021.03
+
+    • Updated GMS package to 2021.01
+
+    • Since this is the upgrade of Android 11 version with many new features, the
+    upgrade time may be longer. Please wait for the completion of the upgrade Camera
+
+    • Updated the camera UI and optimized some of the function paths to offer more
+    convenient operation
+
+    • Newly added HEVC codec to reduce video storage size seamlessly, capture and
+    shoot more without compromising on quality
+
+    • Newly added access to a third-party app to share the picture by pressing and
+    holding it in preview
+
+    • Newly added the quick access to recording mode by pressing and holding the shutter
+    button and by sliding the button, you can easily zoom in or zoom out
+
+    • Newly added the playback display in Time-lapse mode to show the actual filming
+    time Ambient Display
+
+    • Newly added Insight clock style, a joint creation with Parsons School of Design.
+    It will change according to the phone usage data (To set: Settings > Customization
+    > Clock on ambient display)
+
+    • Newly added Canvas feature that can automatically draw a wireframe picture based
+    on a lock screen photo on your phone (Path: Settings - Customization - Wallpaper
+    - Canvas - Choose photo preview and it can be generated automatically) Dark Mode
+
+    • Added the shortcut key for Dark Mode, pull down the quick setting to enable
+
+    • Supporting automatically turn on feature & customize time range (Path: Settings
+    - Display - Dark Mode - Turn on automatically - Automatically enable from sunset
+    to sunrise/Custom time range) Game Space
+
+    • Newly added gaming tools box for convenient switches of Fnatic mode. You can
+    now choose three ways of notifications: text-only, heads up and block, just for
+    your immersive gaming experience
+
+    • Newly added quick reply feature in a small window for Instagram, WhatsApp and
+    Telegram (Enable it by swiping down from upper right/left corners of the screen
+    in gaming mode)
+
+    • Newly added mis-touch prevention feature. Enable it, swipe down from the top
+    of the screen, click and the notification bar will pop out Shelf
+
+    • Newly shelf interface design, the interface is clearer
+
+    • Added weather widget, animation effect smarter Gallery
+
+    • Supporting Story function, automatically form weekly videos with photos and
+    video in storage
+
+    • Optimize the loading speed of the gallery, and the image preview is faster'
+  date: '2021-05-07'
+  device: OnePlus 7Pro
+  link: https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.P.36_OTA_0360_all_2104141852_00ff248740a34a24.zip
+  md5: 4cb94e4e90438ecaa9e4695f783ccc65
+  region: India
+  size: 2.37 GB
+  version: OnePlus7ProOxygen_21.P.36_0360_2104141852
+- branch: Beta
+  changelog: 'System
+
+    • Fixed general bugs Network
+
+    • Improved the ability of detecting wireless network
+
+    • Improved the speed of Wi-Fi connection File Manager
+
+    • Fixed abnormal display issue with the screen while copying files to OTG Camera
+
+    • Fixed the issue that the preview may display abnormally in Nightscape Tripod
+    mode
+
+    • Fixed the issue that the Camera becomes unresponsive when setting profile photo
+    in Contact
+
+    • Fixed the frame drops issue with the videos taken by the Camera
+
+    • Fixed the issue that the preview abnormally display 0.6x ultra-wide in 1080P
+    60FPS'
+  date: '2021-05-07'
+  device: OnePlus Nord
+  link: https://oxygenos.oneplus.net/NordOxygen_14.X.09_OTA_0090_all_2104202054_7ed1be6293274733.zip
+  md5: c684a16dbff11818628d5cb004afd3d6
+  region: India
+  size: 2.74 GB
+  version: NordOxygen_14.X.09_0090_2104202054
+- branch: Stable
   changelog: · Android R OS upgrade · March security patch
   date: '2021-05-01'
   device: OnePlus 8 Visible
