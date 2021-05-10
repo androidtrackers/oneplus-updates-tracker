@@ -204,6 +204,19 @@
   size: 2.06 GB
   version: OnePlusN100Oxygen_14.O.10_010_2104022020
 - branch: Stable
+  changelog: 'OnePlus 8T Hydrogen OS 11.0.8.14.KB05
+
+    System
+
+    • Fixed known issues and improved performance'
+  date: '2021-04-25'
+  device: OnePlus 8T
+  link: http://otafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.24_0245_2104251757/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.24_0245_2104251757/OnePlus8THydrogen_15.H.24_OTA_0245_all_2104251757_1277ce43.zip
+  md5: afee5be544166e6fda6a5967f7033ab4
+  region: China
+  size: 4.5 GB
+  version: OnePlus8THydrogen_15.H.24_0245_2104251757
+- branch: Stable
   changelog: 'OnePlus 6T Oxygen OS 10.3.10
 
     System
