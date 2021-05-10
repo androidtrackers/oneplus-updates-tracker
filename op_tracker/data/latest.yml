@@ -1,3 +1,52 @@
+- branch: Beta
+  changelog: 'System
+
+    • Fixed the issue that some app''s fonts are displayed abnormally after setting
+    customized fonts
+
+    • Fixed the small probability issue where the status bar cannot be pulled down
+
+    • Fixed the small probability issue where the status bar does not display app
+    icons
+
+    • Fixed the issue that the missed calls are not displayed in the notification
+    bar
+
+    • Fixed the small probability issue that the expanded screenshot may stop working
+
+    • Fixed the small probability issue where recording audio with headphones may
+    not work as expected
+
+    • Fixed known issues
+
+    • Updated Android security patch to 2021.04 Camera
+
+    • Fixed the small probability issue that the previewed photos are flickering under
+    the photo mode Calculator
+
+    • Fixed the abnormal display with the calculator under the split screen Ambient
+    Display
+
+    • Fixed the issue that the contextual information of AOD is not updated timely
+
+    • Fixed the issue that the ambient display is switched to Canvas after the device
+    owner is changed
+
+    • Fixed the issue with AOD that the time is displayed abnormally when the system
+    language is Hebrew OnePlus Games
+
+    • Newly added the Data Monitor feature, you can find it in the Game Toolbox and
+    monitor the FPS/CPU/GPU changes in real-time Gallery
+
+    • Improved the loading speed of the gallery to speed up the process of previewing
+    pictures'
+  date: '2021-05-10'
+  device: OnePlus 8T
+  link: http://download.h2os.com/OnePlus8TOxygen_15.X.04_OTA_0040_all_2104201552_8b9659d9191e43fb.zip
+  md5: 2dfcfc8774aa30f48fc4ce1df405457a
+  region: India
+  size: 2.80 GB
+  version: OnePlus8TOxygen_15.X.04_0040_2104201552
 - branch: Stable
   changelog: 'System
 
