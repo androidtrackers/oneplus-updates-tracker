@@ -1,4 +1,42 @@
 - branch: Stable
+  changelog: "OnePlus 7T Pro Oxygen OS 11.0.1.1.HD01AA\nSystem\n• Improved the system\
+    \ fluency\n• Fixed the occasional issue that Google Fi SIM card cannot accept\
+    \ incoming calls \n• Updated Android security patch to 2021.05\nShelf\n• Improved\
+    \ the swiping experience of Shelf\nGallery\n• Improved the loading speed of previewing\
+    \ pictures \nPhone\n• Fixed the occasional issue that incoming call interface\
+    \ delays to display\n• Fixed the occasionally abnormal display issue when making\
+    \ a call\nCamera\n• Fixed the occasional issue that the mirror effect fails to\
+    \ work\n• Fixed the abnormal issue with the camera when zooming in macro mode\n\
+    • Fixed the abnormal issue with some buttons when taking pictures continuously\
+    \ in Nightscape mode\n Network\n• Improved 4G network communication \n• Improved\
+    \ the stability of Wi-Fi connection"
+  date: '2021-05-20'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.O.27_GLO_0270_2105200107/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.O.27_GLO_0270_2105200107/OnePlus7TProOxygen_14.O.27_OTA_0270_all_2105200107_d738e5c8f1219.zip
+  md5: f472708eb85dd9f59947d4dbe5083655
+  region: Global
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.O.27_GLO_0270_2105200107
+- branch: Stable
+  changelog: "OnePlus 7T Pro Oxygen OS 11.0.1.1.HD01DA\nSystem\n• Improved the system\
+    \ fluency\n• Fixed the occasional issue that Google Fi SIM card cannot accept\
+    \ incoming calls \n• Updated Android security patch to 2021.05\nShelf\n• Improved\
+    \ the swiping experience of Shelf\nGallery\n• Improved the loading speed of previewing\
+    \ pictures \nPhone\n• Fixed the occasional issue that incoming call interface\
+    \ delays to display\n• Fixed the occasionally abnormal display issue when making\
+    \ a call\nCamera\n• Fixed the occasional issue that the mirror effect fails to\
+    \ work\n• Fixed the abnormal issue with the camera when zooming in macro mode\n\
+    • Fixed the abnormal issue with some buttons when taking pictures continuously\
+    \ in Nightscape mode\n Network\n• Improved 4G network communication \n• Improved\
+    \ the stability of Wi-Fi connection"
+  date: '2021-05-20'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.I.27_GLO_0270_2105200107/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.I.27_GLO_0270_2105200107/OnePlus7TProOxygen_14.I.27_OTA_0270_all_2105200107_07208c09ec57ba6.zip
+  md5: 5dc2e1b3c8d708717cfa02356cbf6b45
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.I.27_GLO_0270_2105200107
+- branch: Stable
   changelog: "OnePlus 7T Hydrogen OS 11.0.1.1.HD65\nSystem\n• Improved the system\
     \ fluency\n• Updated Android security patch to 2021.05\nShelf\n• Improved the\
     \ swiping experience of Shelf\nGallery\n• Improved the loading speed of previewing\
@@ -16,6 +54,24 @@
   region: China
   size: 3.9 GB
   version: OnePlus7THydrogen_14.H.23_0230_2105181044
+- branch: Stable
+  changelog: "OnePlus 7T Pro Hydrogen OS 11.0.1.1.HD01\nSystem\n• Improved the system\
+    \ fluency\n• Updated Android security patch to 2021.05\nShelf\n• Improved the\
+    \ swiping experience of Shelf\nGallery\n• Improved the loading speed of previewing\
+    \ pictures \nPhone\n• Fixed the occasional issue that incoming call interface\
+    \ delays to display\n• Fixed the occasionally abnormal display issue when making\
+    \ a call\nCamera\n• Fixed the occasional issue that the mirror effect fails to\
+    \ work\n• Fixed the abnormal issue with the camera when zooming in macro mode\n\
+    • Fixed the lagging issue when capturing multiple images under the nightscape\
+    \ mode \n Network\n• Improved 4G network communication \n• Improved the stability\
+    \ of Wi-Fi connection"
+  date: '2021-05-18'
+  device: OnePlus 7T Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7TPro_CH/OnePlus7TProHydrogen_14.H.24_0240_2105181046/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_14.H.24_0240_2105181046/OnePlus7TProHydrogen_14.H.24_OTA_0240_all_2105181046_2e4e60bb3a.zip
+  md5: b9f08f3eb07e6ac91d9992987ba11def
+  region: China
+  size: 3.9 GB
+  version: OnePlus7TProHydrogen_14.H.24_0240_2105181046
 - branch: Beta
   changelog: 'System
 
