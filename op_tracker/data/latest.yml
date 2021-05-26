@@ -94,6 +94,25 @@
   size: 2.8 GB
   version: OnePlus7TOxygen_14.O.27_GLO_0270_2105200102
 - branch: Stable
+  changelog: "OnePlus 7T Oxygen OS 11.0.1.1.HD65DA\nSystem\n• Improved the system\
+    \ fluency\n• Fixed the occasional issue that Google Fi SIM card cannot accept\
+    \ incoming calls \n• Updated Android security patch to 2021.05\nShelf\n• Improved\
+    \ the swiping experience of Shelf\nGallery\n• Improved the loading speed of previewing\
+    \ pictures \nPhone\n• Fixed the occasional issue that incoming call interface\
+    \ delays to display\n• Fixed the occasionally abnormal display issue when making\
+    \ a call\nCamera\n• Fixed the occasional issue that the mirror effect fails to\
+    \ work\n• Fixed the abnormal issue with the camera when zooming in macro mode\n\
+    • Fixed the abnormal issue with some buttons when taking pictures continuously\
+    \ in Nightscape mode\n Network\n• Improved 4G network communication \n• Improved\
+    \ the stability of Wi-Fi connection"
+  date: '2021-05-20'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.I.27_GLO_0270_2105200102/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.I.27_GLO_0270_2105200102/OnePlus7TOxygen_14.I.27_OTA_0270_all_2105200102_162a4fce.zip
+  md5: 90ab42902204422c06e56fefde1294c9
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.I.27_GLO_0270_2105200102
+- branch: Stable
   changelog: "OnePlus 7T Hydrogen OS 11.0.1.1.HD65\nSystem\n• Improved the system\
     \ fluency\n• Updated Android security patch to 2021.05\nShelf\n• Improved the\
     \ swiping experience of Shelf\nGallery\n• Improved the loading speed of previewing\
