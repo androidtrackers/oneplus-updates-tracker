@@ -8,7 +8,7 @@
   device: OnePlus 8 Visible
   link: https://oxygenos.oneplus.net/OnePlus8VisibleOxygen_11.O.03_OTA_0030_all_2105142330_492fde7117a54a91.zip
   md5: 581afa6efac020dd2f2a08ea03d9d449
-  region: India
+  region: Global
   size: 2.84 GB
   version: OnePlus8VisibleOxygen_11.O.03_0030_2105142330
 - branch: Stable
@@ -126,6 +126,25 @@
   size: 2.8 GB
   version: OnePlus7TOxygen_14.I.27_GLO_0270_2105200102
 - branch: Stable
+  changelog: "Nord Oxygen OS 11.1.1.3.AC01AA\nSystem\n• Fixed the issue that the card\
+    \ coupon is not available as a widget \n• Fixed the issue that missed calls are\
+    \ marked as call answered on another device in call logs \n• Fixed known issues\
+    \ and improved system stability \n• Updated Android security patch to 2021.05\n\
+    Network\n• Improved the speed of Wi-Fi connection\nCamera\n• Fixed the abnormal\
+    \ preview display issue in Nightscape Tripod mode\n• Fixed the issue that Camera\
+    \ becomes unresponsive when setting profile photo in Contact \n• Fixed the frame\
+    \ drops issue with videos taken by Camera \n• Fixed the occasional issue that\
+    \ Flash effect may fail in some scenarios \n• Fixed the delay issue when switching\
+    \ to the front camera under Time-lapse mode \nFile Manager\n• Fixed abnormal display\
+    \ issue while copying files to OTG storage"
+  date: '2021-05-19'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord/NordOxygen_14.O.20_GLO_0200_2105191554/patch/amazone2/GLO/NordOxygen/NordOxygen_14.O.20_GLO_0200_2105191554/NordOxygen_14.O.20_OTA_0200_all_2105191554_41112b93d66.zip
+  md5: cc9f387afc999a7a7b034c03456adcec
+  region: Global
+  size: 2.9 GB
+  version: NordOxygen_14.O.20_GLO_0200_2105191554
+- branch: Stable
   changelog: "OnePlus 7T Hydrogen OS 11.0.1.1.HD65\nSystem\n• Improved the system\
     \ fluency\n• Updated Android security patch to 2021.05\nShelf\n• Improved the\
     \ swiping experience of Shelf\nGallery\n• Improved the loading speed of previewing\
@@ -162,6 +181,57 @@
   size: 3.9 GB
   version: OnePlus7TProHydrogen_14.H.24_0240_2105181046
 - branch: Stable
+  changelog: "OnePlus 8T Oxygen OS 11.0.8.13.KB05DA\nSystem\n• Improved the smoothness\
+    \ while sliding on the home screen\n• Fixed the screenshot capturing failure from\
+    \ the accessibility menu \n• Fixed the low probability issue that the low battery\
+    \ notification not working\n• Updated Android security patch to 2021.05\nGallery\n\
+    • Fixed the occasional issue that newly captured photos were not saved as expected\n\
+    • Fixed the abnormal UI display in Guest Mode\nPhone\n• Fixed the occasional issue\
+    \ of opening up the contact card failure \n• Fixed the issue that the calling\
+    \ page is not displayed during a call \nNetwork\n• Improved network performance"
+  date: '2021-05-18'
+  device: OnePlus 8T
+  link: http://otafsg-cost-az.coloros.com/OnePlus8T_IND/OnePlus8TOxygen_15.I.24_GLO_0240_2105181829/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.I.24_GLO_0240_2105181829/OnePlus8TOxygen_15.I.24_OTA_0240_all_2105181829_20da6ee01a.zip
+  md5: 7fb215e3265f368240ad602532808666
+  region: India
+  size: 3.1 GB
+  version: OnePlus8TOxygen_15.I.24_GLO_0240_2105181829
+- branch: Stable
+  changelog: "OnePlus 8 Oxygen OS 11.0.6.6.IN21DA\nSystem\n• Improved the smoothness\
+    \ while sliding on the home screen\n• Fixed the screenshot capturing failure from\
+    \ the accessibility menu \n• Fixed the low probability issue that the low battery\
+    \ notification not working\n• Updated Android security patch to 2021.05\nGallery\n\
+    • Fixed the occasional issue that newly captured photos were not saved as expected\n\
+    • Fixed the abnormal UI display in Guest Mode\nPhone\n• Fixed the occasional issue\
+    \ of opening up the contact card failure \n• Fixed the issue that the calling\
+    \ page is not displayed during a call \nMessages\n• Fixed the occasional failure\
+    \ to edit a message\nNetwork\n• Improved network performance"
+  date: '2021-05-18'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.I.36_GLO_0360_2105181844/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.36_GLO_0360_2105181844/OnePlus8Oxygen_15.I.36_OTA_0360_all_2105181844_4a64e3df.zip
+  md5: 8474f46add61bb6718be0eed1a45d8a0
+  region: India
+  size: 3.3 GB
+  version: OnePlus8Oxygen_15.I.36_GLO_0360_2105181844
+- branch: Stable
+  changelog: "OnePlus 8 Pro Oxygen OS 11.0.6.6.IN11DA\nSystem\n• Improved the wireless\
+    \ charging stability and user experience\n• Improved the smoothness while sliding\
+    \ on the home screen\n• Fixed the screenshot capturing failure from the accessibility\
+    \ menu \n• Fixed the low probability issue that the low battery notification not\
+    \ working\n• Updated Android security patch to 2021.05\nGallery\n• Fixed the occasional\
+    \ issue that newly captured photos were not saved as expected\n• Fixed the abnormal\
+    \ UI display in Guest Mode\nPhone\n• Fixed the occasional issue of opening up\
+    \ the contact card failure \n• Fixed the issue that the calling page is not displayed\
+    \ during a call \nMessages\n• Fixed the occasional failure to edit a message\n\
+    Network\n• Improved network performance"
+  date: '2021-05-18'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.I.36_GLO_0360_2105181831/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.36_GLO_0360_2105181831/OnePlus8ProOxygen_15.I.36_OTA_0360_all_2105181831_eb511326b3978.zip
+  md5: 8c742cb8fc01ca0af9f9f0561594f40a
+  region: India
+  size: 3.4 GB
+  version: OnePlus8ProOxygen_15.I.36_GLO_0360_2105181831
+- branch: Stable
   changelog: 'OnePlus Nord N100 Oxygen OS 10.5.10.BE83BA
 
     System
@@ -176,6 +246,36 @@
   region: EEA
   size: 2.2 GB
   version: OnePlusN100Oxygen_14.E.13_GLO_013_2105110858
+- branch: Stable
+  changelog: 'OnePlus 6T Oxygen OS 10.3.11
+
+    System
+
+    • Updated Android security patch to 2021.05
+
+    • Fixed known issues and improved system stability'
+  date: '2021-05-11'
+  device: OnePlus 6T
+  link: http://otafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_34.J.54_GLO_054_2105112238/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.54_GLO_054_2105112238/OnePlus6TOxygen_34.J.54_OTA_054_all_2105112238_40e54084.zip
+  md5: 58b702514110187ba4dadc91f5dd9e30
+  region: Global
+  size: 2.1 GB
+  version: OnePlus6TOxygen_34.J.54_GLO_054_2105112238
+- branch: Stable
+  changelog: 'OnePlus 6 Oxygen OS 10.3.11
+
+    System
+
+    • Updated Android security patch to 2021.05
+
+    • Fixed known issues and improved system stability'
+  date: '2021-05-11'
+  device: OnePlus 6
+  link: http://otafsg-cost-az.coloros.com/OnePlus6/OnePlus6Oxygen_22.J.54_GLO_054_2105112236/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.54_GLO_054_2105112236/OnePlus6Oxygen_22.J.54_OTA_054_all_2105112236_1ff2589108822e6.zip
+  md5: d77e116f6dc83c7398cd822612e13874
+  region: Global
+  size: 2.0 GB
+  version: OnePlus6Oxygen_22.J.54_GLO_054_2105112236
 - branch: Beta
   changelog: 'System
 
@@ -540,7 +640,7 @@
   device: OnePlus 8 Visible
   link: https://oxygenos.oneplus.net/OnePlus8VisibleOxygen_11.O.02_OTA_0020_all_2103312202_bfc9402401ec4ed1.zip
   md5: da4e6046a6cc5b300fe6427317bebfd7
-  region: India
+  region: Global
   size: 2.0 GB
   version: OnePlus8VisibleOxygen_11.O.02_0020_2103312202
 - branch: Stable
@@ -588,6 +688,25 @@
   region: China
   size: 4.5 GB
   version: OnePlus8THydrogen_15.H.24_0245_2104251757
+- branch: Stable
+  changelog: 'OnePlus Nord N10 Oxygen OS 10.5.13.BE89BA
+
+    System
+
+    • Fixed known issues and improved system stability
+
+    • Updated Android security patch to 2021.05
+
+    Network
+
+    • Improved network performance'
+  date: '2021-04-24'
+  device: OnePlus Nord N10
+  link: http://otafsg-cost-az.coloros.com/OnePlusN10_EEA/OnePlusN10Oxygen_14.E.13_GLO_013_2104240605/patch/amazone2/GLO/OnePlusN10Oxygen/OnePlusN10Oxygen_14.E.13_GLO_013_2104240605/OnePlusN10Oxygen_14.E.13_OTA_013_all_2104240605_c8e1fdd8f26bf.zip
+  md5: b3eeefa30f36a58ac4ff7e0d612f04cb
+  region: EEA
+  size: 2.5 GB
+  version: OnePlusN10Oxygen_14.E.13_GLO_013_2104240605
 - branch: Stable
   changelog: 'OnePlus 6T Oxygen OS 10.3.10
 
