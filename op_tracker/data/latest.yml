@@ -1,4 +1,17 @@
 - branch: Stable
+  changelog: '• Android R OS upgrade
+
+    • Android security patch upgraded to May 2021
+
+    • GMS upgrade to March 2021'
+  date: '2021-05-28'
+  device: OnePlus 8 Visible
+  link: https://oxygenos.oneplus.net/OnePlus8VisibleOxygen_11.O.03_OTA_0030_all_2105142330_492fde7117a54a91.zip
+  md5: 581afa6efac020dd2f2a08ea03d9d449
+  region: India
+  size: 2.84 GB
+  version: OnePlus8VisibleOxygen_11.O.03_0030_2105142330
+- branch: Stable
   changelog: "OnePlus 7T Pro Oxygen OS 11.0.1.1.HD01AA\nSystem\n• Improved the system\
     \ fluency\n• Fixed the occasional issue that Google Fi SIM card cannot accept\
     \ incoming calls \n• Updated Android security patch to 2021.05\nShelf\n• Improved\
