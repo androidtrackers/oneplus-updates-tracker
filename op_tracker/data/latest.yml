@@ -12,6 +12,43 @@
   size: 2.84 GB
   version: OnePlus8VisibleOxygen_11.O.03_0030_2105142330
 - branch: Stable
+  changelog: "OnePlus 8 Pro Hydrogen OS 11.0.6.6.IN11\nSystem\n• Improved the wireless\
+    \ charging stability and user experience\n• Improved the smoothness while sliding\
+    \ on the home screen\n• Fixed the screenshot capturing failure from the accessibility\
+    \ menu \n• Fixed the low probability issue that the low battery notification not\
+    \ working\n• Updated Android security patch to 2021.05\nGallery\n• Fixed the occasional\
+    \ issue that newly captured photos were not saved as expected\n• Fixed the abnormal\
+    \ UI display in Guest Mode\nPhone\n• Fixed the occasional issue of opening up\
+    \ the contact card failure \n• Fixed the issue that the calling page is not displayed\
+    \ during a call \nMessages\n• Fixed the occasional failure to edit a message\n\
+    OnePlus Share\n• Fixed the issue of receiving files failure from the third-party\
+    \ devices\nNetwork\n• Improved network performance"
+  date: '2021-05-26'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.H.36_0360_2105260108/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.36_0360_2105260108/OnePlus8ProHydrogen_15.H.36_OTA_0360_all_2105260108_73d19e75c88.zip
+  md5: f8f0aac0b72ac06d311ab0df7d72590a
+  region: China
+  size: 4.3 GB
+  version: OnePlus8ProHydrogen_15.H.36_0360_2105260108
+- branch: Stable
+  changelog: "OnePlus 8 Hydrogen OS 11.0.6.6.IN21\nSystem\n• Improved the smoothness\
+    \ while sliding on the home screen\n• Fixed the screenshot capturing failure from\
+    \ the accessibility menu \n• Fixed the low probability issue that the low battery\
+    \ notification not working\n• Updated Android security patch to 2021.05\nGallery\n\
+    • Fixed the occasional issue that newly captured photos were not saved as expected\n\
+    • Fixed the abnormal UI display in Guest Mode\nPhone\n• Fixed the occasional issue\
+    \ of opening up the contact card failure \n• Fixed the issue that the calling\
+    \ page is not displayed during a call \nMessages\n• Fixed the occasional failure\
+    \ to edit a message\nOnePlus Share\n• Fixed the issue of receiving files failure\
+    \ from the third-party devices\nNetwork\n• Improved network performance"
+  date: '2021-05-26'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.H.36_0360_2105260108/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.36_0360_2105260108/OnePlus8Hydrogen_15.H.36_OTA_0360_all_2105260108_196bc794c4ffc2a.zip
+  md5: 7567ba460170c999ad45d859f5c178f6
+  region: China
+  size: 4.2 GB
+  version: OnePlus8Hydrogen_15.H.36_0360_2105260108
+- branch: Stable
   changelog: 'OnePlus 7 Pro 5G Oxygen OS 10.0.12.GM27BA
 
     System
