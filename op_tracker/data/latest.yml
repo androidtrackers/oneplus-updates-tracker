@@ -1,3 +1,297 @@
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-06-03'
+  device: OnePlus 7T Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7TPro_CH/OnePlus7TProHydrogen_13.X.24_0240_2106030202/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_13.X.24_0240_2106030202/OnePlus7TProHydrogen_13.X.24_OTA_0240_all_2106030202_7412f5439f62e.zip
+  md5: 23302b2e89595238d69f9e20df55266c
+  region: China
+  size: 3.9 GB
+  version: OnePlus7TProHydrogen_13.X.24_0240_2106030202
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-06-03'
+  device: OnePlus 7T
+  link: http://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_13.X.24_0240_2106030159/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_13.X.24_0240_2106030159/OnePlus7THydrogen_13.X.24_OTA_0240_all_2106030159_f4fc9751.zip
+  md5: d3f31a8d9f1ca5b4b76620237fba63bf
+  region: China
+  size: 3.9 GB
+  version: OnePlus7THydrogen_13.X.24_0240_2106030159
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-06-03'
+  device: OnePlus 7
+  link: http://otafsc-cost.h2os.com/OnePlus7_CH/OnePlus7Hydrogen_13.X.59_0590_2106030126/patch/CHN/OnePlus7Hydrogen/OnePlus7Hydrogen_13.X.59_0590_2106030126/OnePlus7Hydrogen_13.X.59_OTA_0590_all_2106030126_6639cf.zip
+  md5: bcb42132134b45f1595deb5aa59fe514
+  region: China
+  size: 3.8 GB
+  version: OnePlus7Hydrogen_13.X.59_0590_2106030126
+- branch: Beta
+  changelog: 请用英语EN（旧语言编码）设置简介
+  date: '2021-06-03'
+  device: OnePlus 7 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7Pro_CH/OnePlus7ProHydrogen_13.X.59_0590_2106030117/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_13.X.59_0590_2106030117/OnePlus7ProHydrogen_13.X.59_OTA_0590_all_2106030117_cb97.zip
+  md5: b75df4f26c757cd7248d86b9bfd276dc
+  region: China
+  size: 3.8 GB
+  version: OnePlus7ProHydrogen_13.X.59_0590_2106030117
+- branch: Beta
+  changelog: 'OP7_O2_BETA_5
+
+    System
+
+    • Reduced battery consumption under specific scenarios
+
+    • Improved the compatibility of specific third-party apps on Android 11
+
+    • Fixed known issues and improved system stability
+
+    • Upgrade Android Security Patch level to May 2021
+
+    Phone
+
+    • Improved the overall application stability
+
+    • Fixed the probability issue about can not answer the calls via Google Fi app
+
+    Network
+
+    • Improved the Wi-Fi connection stability
+
+    Gallery
+
+    • Improved the overall loading speed
+
+    Shelf
+
+    • Improved the animation performance and frame rate
+
+    Friendly Reminder
+
+    • This is the final Open Beta Version, thank you for your encouragement and support
+    for such a long time, we''ll keep maintaining the stable version, stay tuned for
+    our Open Beta announcement to get more details about the rollback tutorial. https://forums.oneplus.com/forums/OnePlus7Series/'
+  date: '2021-06-03'
+  device: OnePlus 7
+  link: http://otafsg-cost-az.coloros.com/OnePlus7/OnePlus7Oxygen_13.W.60_GLO_0600_2106030127/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_13.W.60_GLO_0600_2106030127/OnePlus7Oxygen_13.W.60_OTA_0600_all_2106030127_d981945628ab0.zip
+  md5: dbb38ab97d9ce2cc948dc20a0da1c7ed
+  region: India
+  size: 2.5 GB
+  version: OnePlus7Oxygen_13.W.60_GLO_0600_2106030127
+- branch: Beta
+  changelog: 'OP7TPro_O2_BETA_5
+
+    System
+
+    • Reduced battery consumption under specific scenarios
+
+    • Improved the compatibility of specific third-party apps on Android 11
+
+    • Fixed known issues and improved system stability
+
+    • Upgrade Android Security Patch level to May 2021
+
+    Phone
+
+    • Improved the overall application stability
+
+    • Fixed the probability issue about can not answer the calls via Google Fi app
+
+    Network
+
+    • Improved the Wi-Fi connection stability
+
+    Gallery
+
+    • Improved the overall loading speed
+
+    Shelf
+
+    • Improved the animation performance and frame rate
+
+    Friendly Reminder
+
+    • This is the final Open Beta Version, thank you for your encouragement and support
+    for such a long time, we''ll keep maintaining the stable version, stay tuned for
+    our Open Beta announcement to get more details about the rollback tutorial. https://forums.oneplus.com/forums/OnePlus7TSeries/'
+  date: '2021-06-03'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_13.W.25_GLO_0250_2106030153/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.W.25_GLO_0250_2106030153/OnePlus7TProOxygen_13.W.25_OTA_0250_all_2106030153_6d386a4d3cfb0.zip
+  md5: b5f6f3f02327fada50aab2c55eea3e40
+  region: EEA
+  size: 2.7 GB
+  version: OnePlus7TProOxygen_13.W.25_GLO_0250_2106030153
+- branch: Beta
+  changelog: 'OP7TPro_O2_BETA_5
+
+    System
+
+    • Reduced battery consumption under specific scenarios
+
+    • Improved the compatibility of specific third-party apps on Android 11
+
+    • Fixed known issues and improved system stability
+
+    • Upgrade Android Security Patch level to May 2021
+
+    Phone
+
+    • Improved the overall application stability
+
+    • Fixed the probability issue about can not answer the calls via Google Fi app
+
+    Network
+
+    • Improved the Wi-Fi connection stability
+
+    Gallery
+
+    • Improved the overall loading speed
+
+    Shelf
+
+    • Improved the animation performance and frame rate
+
+    Friendly Reminder
+
+    • This is the final Open Beta Version, thank you for your encouragement and support
+    for such a long time, we''ll keep maintaining the stable version, stay tuned for
+    our Open Beta announcement to get more details about the rollback tutorial. https://forums.oneplus.com/forums/OnePlus7TSeries/'
+  date: '2021-06-03'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_13.Y.25_GLO_0250_2106030153/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.Y.25_GLO_0250_2106030153/OnePlus7TProOxygen_13.Y.25_OTA_0250_all_2106030153_e00edffd2.zip
+  md5: bd1d2f87ffdc1a92c9b0a6b1907eabb5
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_13.Y.25_GLO_0250_2106030153
+- branch: Beta
+  changelog: 'OP7T_O2_BETA_5
+
+    System
+
+    • Reduced battery consumption under specific scenarios
+
+    • Improved the compatibility of specific third-party apps on Android 11
+
+    • Fixed known issues and improved system stability
+
+    • Upgrade Android Security Patch level to May 2021
+
+    Phone
+
+    • Improved the overall application stability
+
+    • Fixed the probability issue about can not answer the calls via Google Fi app
+
+    Network
+
+    • Improved the Wi-Fi connection stability
+
+    Gallery
+
+    • Improved the overall loading speed
+
+    Shelf
+
+    • Improved the animation performance and frame rate
+
+    Friendly Reminder
+
+    • This is the final Open Beta Version, thank you for your encouragement and support
+    for such a long time, we''ll keep maintaining the stable version, stay tuned for
+    our Open Beta announcement to get more details about the rollback tutorial. https://forums.oneplus.com/forums/OnePlus7TSeries/'
+  date: '2021-06-03'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_13.W.25_GLO_0250_2106030158/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_13.W.25_GLO_0250_2106030158/OnePlus7TOxygen_13.W.25_OTA_0250_all_2106030158_05d00.zip
+  md5: 79ea216aaa0a31fb27a321e889cc4e4c
+  region: Global
+  size: 2.7 GB
+  version: OnePlus7TOxygen_13.W.25_GLO_0250_2106030158
+- branch: Beta
+  changelog: 'OP7Pro_O2_BETA_5
+
+    System
+
+    • Reduced battery consumption under specific scenarios
+
+    • Improved the compatibility of specific third-party apps on Android 11
+
+    • Fixed known issues and improved system stability
+
+    • Upgrade Android Security Patch level to May 2021
+
+    Phone
+
+    • Improved the overall application stability
+
+    • Fixed the probability issue about can not answer the calls via Google Fi app
+
+    Network
+
+    • Improved the Wi-Fi connection stability
+
+    Gallery
+
+    • Improved the overall loading speed
+
+    Shelf
+
+    • Improved the animation performance and frame rate
+
+    Friendly Reminder
+
+    • This is the final Open Beta Version, thank you for your encouragement and support
+    for such a long time, we''ll keep maintaining the stable version, stay tuned for
+    our Open Beta announcement to get more details about the rollback tutorial. https://forums.oneplus.com/forums/OnePlus7Series/'
+  date: '2021-06-03'
+  device: OnePlus 7 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7Pro/OnePlus7ProOxygen_13.W.60_GLO_0600_2106030119/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_13.W.60_GLO_0600_2106030119/OnePlus7ProOxygen_13.W.60_OTA_0600_all_2106030119_33348e1.zip
+  md5: f8aca2cc60c242842f9dce5a9d5ca6a3
+  region: Global
+  size: 2.5 GB
+  version: OnePlus7ProOxygen_13.W.60_GLO_0600_2106030119
+- branch: Beta
+  changelog: 'OP7T_O2_BETA_5
+
+    System
+
+    • Reduced battery consumption under specific scenarios
+
+    • Improved the compatibility of specific third-party apps on Android 11
+
+    • Fixed known issues and improved system stability
+
+    • Upgrade Android Security Patch level to May 2021
+
+    Phone
+
+    • Improved the overall application stability
+
+    • Fixed the probability issue about can not answer the calls via Google Fi app
+
+    Network
+
+    • Improved the Wi-Fi connection stability
+
+    Gallery
+
+    • Improved the overall loading speed
+
+    Shelf
+
+    • Improved the animation performance and frame rate
+
+    Friendly Reminder
+
+    • This is the final Open Beta Version, thank you for your encouragement and support
+    for such a long time, we''ll keep maintaining the stable version, stay tuned for
+    our Open Beta announcement to get more details about the rollback tutorial. https://forums.oneplus.com/forums/OnePlus7TSeries/'
+  date: '2021-06-03'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_13.Y.25_GLO_0250_2106030158/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_13.Y.25_GLO_0250_2106030158/OnePlus7TOxygen_13.Y.25_OTA_0250_all_2106030158_d155d8.zip
+  md5: 546403c657f22db4e2685026216223d3
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TOxygen_13.Y.25_GLO_0250_2106030158
 - branch: Stable
   changelog: '• Android R OS upgrade
 
