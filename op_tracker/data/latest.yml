@@ -293,6 +293,46 @@
   size: 2.8 GB
   version: OnePlus7TOxygen_13.Y.25_GLO_0250_2106030158
 - branch: Stable
+  changelog: 'OnePlus 8 Oxygen OS 11.0.7.7.IN21DA
+
+    System
+
+    • Optimized mobile phone performance
+
+    • Updated Android security patch to 2021.06
+
+    Camera
+
+    • Fixed the issue that shooting button fails when taking pictures at 48M picture
+    format'
+  date: '2021-06-02'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.I.37_GLO_0370_2106020022/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.37_GLO_0370_2106020022/OnePlus8Oxygen_15.I.37_OTA_0370_all_2106020022_653a6a8930888d.zip
+  md5: 6f95dc5fb280730b663b31ea00803bb8
+  region: India
+  size: 3.3 GB
+  version: OnePlus8Oxygen_15.I.37_GLO_0370_2106020022
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Oxygen OS 11.0.7.7.IN11DA
+
+    System
+
+    • Optimized mobile phone performance
+
+    • Updated Android security patch to 2021.06
+
+    Camera
+
+    • Fixed the issue that shooting button fails when taking pictures at 48M picture
+    format'
+  date: '2021-06-01'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.I.37_GLO_0370_2106011647/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.37_GLO_0370_2106011647/OnePlus8ProOxygen_15.I.37_OTA_0370_all_2106011647_208d7.zip
+  md5: 96663bf5d023a5aa3f7b592a58f17343
+  region: India
+  size: 3.3 GB
+  version: OnePlus8ProOxygen_15.I.37_GLO_0370_2106011647
+- branch: Stable
   changelog: '• Android R OS upgrade
 
     • Android security patch upgraded to May 2021
