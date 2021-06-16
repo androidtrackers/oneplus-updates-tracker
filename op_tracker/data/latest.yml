@@ -463,6 +463,36 @@
   size: 4.2 GB
   version: OnePlus8Hydrogen_15.H.36_0360_2105260108
 - branch: Stable
+  changelog: 'OnePlus 6T Hydrogen OS 10.0.10
+
+    System
+
+    • Updated Android security patch to 2021.05
+
+    • Improved system stability and fixed known issues'
+  date: '2021-05-26'
+  device: OnePlus 6T
+  link: http://otafsc-cost.h2os.com/OnePlus6T/OnePlus6THydrogen_34.K.51_051_2105262300/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.51_051_2105262300/OnePlus6THydrogen_34.K.51_OTA_051_all_2105262300_8b4e2b.zip
+  md5: d2aeeb16748ec1b580d3c52257d2c6ea
+  region: China
+  size: 2.9 GB
+  version: OnePlus6THydrogen_34.K.51_051_2105262300
+- branch: Stable
+  changelog: 'OnePlus 6 Hydrogen OS 10.0.10
+
+    System
+
+    • Updated Android security patch to 2021.05
+
+    • Improved system stability and fixed known issues'
+  date: '2021-05-26'
+  device: OnePlus 6
+  link: http://otafsc-cost.h2os.com/OnePlus6/OnePlus6Hydrogen_22.K.51_051_2105262251/patch/CHN/OnePlus6Hydrogen/OnePlus6Hydrogen_22.K.51_051_2105262251/OnePlus6Hydrogen_22.K.51_OTA_051_all_2105262251_db3061f289.zip
+  md5: 575288af0e698d99622428e7ad09edc2
+  region: China
+  size: 2.8 GB
+  version: OnePlus6Hydrogen_22.K.51_051_2105262251
+- branch: Stable
   changelog: 'OnePlus 7 Pro 5G Oxygen OS 10.0.12.GM27BA
 
     System
