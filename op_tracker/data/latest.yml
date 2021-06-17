@@ -1,4 +1,34 @@
 - branch: Beta
+  changelog: 'OxygenOS: OnePlus8T_O₂_BETA_6
+
+    System
+
+    • Improved the power consumption performance to extend battery life
+
+    • Newly added the screenshot function for AOD
+
+    • Updated Android security patch to 2021.06
+
+    Phone
+
+    • Improved the audio experience when the phone is connected with the OnePlus Watch
+    and OnePlus Buds
+
+    OnePlus Share
+
+    • Improved the UI visual effect on the sharing page
+
+    Network
+
+    • Fixed the occasional failure to connect to Wi-Fi network'
+  date: '2021-06-04'
+  device: OnePlus 8T
+  link: https://ota-manual-sg.allawnofs.com/ota/21/06/16/214bf9e0-7f1e-43e2-9a25-fa5b8a562ad3.zip
+  md5: 6de041480fc6292cc5f640454de6f72b
+  region: India
+  size: 3.0 GB
+  version: OnePlus8TOxygen_15.X.06_GLO_0060_2106040948
+- branch: Beta
   changelog: 请用英语EN（旧语言编码）设置简介
   date: '2021-06-03'
   device: OnePlus 7T Pro
@@ -292,6 +322,126 @@
   region: India
   size: 2.8 GB
   version: OnePlus7TOxygen_13.Y.25_GLO_0250_2106030158
+- branch: Beta
+  changelog: 'OxygenOS: OnePlus8Pro_O₂_BETA_11
+
+    System
+
+    • Improved the power consumption performance to extend battery life
+
+    • Newly added the screenshot function for AOD
+
+    • Updated Android security patch to 2021.06
+
+    Phone
+
+    • Improved the audio experience when the phone is connected with the OnePlus Watch
+    and OnePlus Buds
+
+    OnePlus Share
+
+    • Improved the UI visual effect on the sharing page
+
+    Network
+
+    • Fixed the occasional failure to connect to Wi-Fi network'
+  date: '2021-06-03'
+  device: OnePlus 8 Pro
+  link: https://ota-manual-sg.allawnofs.com/ota/21/06/15/e14cd62e-b043-4fa0-b7aa-3d12a6a3d9ff.zip
+  md5: 1c3098304a98d2175234ed940602492b
+  region: India
+  size: 3.4 GB
+  version: OnePlus8ProOxygen_15.W.21_GLO_0210_2106032249
+- branch: Beta
+  changelog: 'OxygenOS: OnePlus8_O₂_BETA_11
+
+    System
+
+    • Improved the power consumption performance to extend battery life
+
+    • Newly added the screenshot function for AOD
+
+    • Updated Android security patch to 2021.06
+
+    Phone
+
+    • Improved the audio experience when the phone is connected with the OnePlus Watch
+    and OnePlus Buds
+
+    OnePlus Share
+
+    • Improved the UI visual effect on the sharing page
+
+    Network
+
+    • Fixed the occasional failure to connect to Wi-Fi network'
+  date: '2021-06-03'
+  device: OnePlus 8
+  link: https://ota-manual-sg.allawnofs.com/ota/21/06/15/982bffbe-cdf7-4f85-8c72-411d71bafba1.zip
+  md5: b73620c20deb18fa1ffb1f54b9121fdb
+  region: India
+  size: 3.3 GB
+  version: OnePlus8Oxygen_15.W.21_GLO_0210_2106032248
+- branch: Beta
+  changelog: 'OxygenOS: OnePlus8_O₂_BETA_11
+
+    System
+
+    • Improved the power consumption performance to extend battery life
+
+    • Newly added the screenshot function for AOD
+
+    • Updated Android security patch to 2021.06
+
+    Phone
+
+    • Improved the audio experience when the phone is connected with the OnePlus Watch
+    and OnePlus Buds
+
+    OnePlus Share
+
+    • Improved the UI visual effect on the sharing page
+
+    Network
+
+    • Fixed the occasional failure to connect to Wi-Fi network'
+  date: '2021-06-03'
+  device: OnePlus 8
+  link: https://ota-manual-sg.allawnofs.com/ota/21/06/15/8234c7d2-e885-4742-9c7a-56ec28aac550.zip
+  md5: a34388435b6c2109577610ae1f43aa77
+  region: Global
+  size: 3.1 GB
+  version: OnePlus8Oxygen_15.X.21_GLO_0210_2106032249
+- branch: Beta
+  changelog: 'OxygenOS: OnePlus8Pro_O₂_BETA_11
+
+    System
+
+    • Improved the power consumption performance to extend battery life
+
+    • Newly added the screenshot function for AOD
+
+    • Updated Android security patch to 2021.06
+
+    Phone
+
+    • Improved the audio experience when the phone is connected with the OnePlus Watch
+    and OnePlus Buds
+
+    OnePlus Share
+
+    • Improved the UI visual effect on the sharing page
+
+    Network
+
+    • Fixed the occasional failure to connect to Wi-Fi network'
+  date: '2021-06-03'
+  device: OnePlus 8 Pro
+  link: https://ota-manual-sg.allawnofs.com/ota/21/06/15/6bc5bb8e-275b-498f-8e02-83416ef89144.zip
+  md5: bddf1f549bcfff282cd32f018140238e
+  region: Global
+  size: 3.2 GB
+  version: OnePlus8ProOxygen_15.X.21_GLO_0210_2106032247
 - branch: Stable
   changelog: 'OnePlus 8 Oxygen OS 11.0.7.7.IN21DA
 
