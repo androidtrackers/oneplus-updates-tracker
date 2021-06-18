@@ -1,4 +1,26 @@
 - branch: Beta
+  changelog: "HydrogenOS: OnePlus8Pro_H₂_BETA_11\n系统 \n• 优化功耗表现，延长手机续航 \n• 新增息屏显示界面支持截图功能\n\
+    • 更新 Android 安全补丁至 2021.06\n电话 \n• 优化手机与手表、耳机同时连接时通话音频体验 \n一加互传 \n• 优化分享页面视觉效果\n\
+    网络 \n• 修复低概率无法连接 WLAN 网络的问题 \n• 修复多网优选实名认证低概率失败的问题"
+  date: '2021-06-11'
+  device: OnePlus 8 Pro
+  link: https://ota-manual-cn.allawnfs.com/ota/21/06/17/3f9e2577-8c24-4313-9522-1aa3c955c0b4.zip
+  md5: c086ecd458f69a24d16c0dd34ae35bb2
+  region: China
+  size: 4.3 GB
+  version: OnePlus8ProHydrogen_15.Y.21_0210_2106111503
+- branch: Beta
+  changelog: "HydrogenOS: OnePlus8_H₂_BETA_11\n系统 \n• 优化功耗表现，延长手机续航 \n• 新增息屏显示界面支持截图功能\n\
+    • 更新 Android 安全补丁至 2021.06\n电话 \n• 优化手机与手表、耳机同时连接时通话音频体验 \n一加互传 \n• 优化分享页面视觉效果\n\
+    网络 \n• 修复低概率无法连接 WLAN 网络的问题 \n• 修复多网优选实名认证低概率失败的问题"
+  date: '2021-06-11'
+  device: OnePlus 8
+  link: https://ota-manual-cn.allawnfs.com/ota/21/06/17/f94d962c-3c8f-4f95-ab67-b3f8ac2921eb.zip
+  md5: e5e2c39b534039644ec8e42281bfb83a
+  region: China
+  size: 4.3 GB
+  version: OnePlus8Hydrogen_15.Y.21_0210_2106111502
+- branch: Beta
   changelog: 'OxygenOS: OnePlus8T_O₂_BETA_6
 
     System
