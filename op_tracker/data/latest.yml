@@ -1,4 +1,16 @@
 - branch: Stable
+  changelog: "Nord Oxygen OS 11.1.4.4.AC01DA\nSystem\n• Extended battery life\n• Reduced\
+    \ power consumption in specific scenarios\n• Fixed the issue of delayed notifications\n\
+    • Fixed the overheating issue in certain scenarios \n• Updated Android security\
+    \ patch to 2021.06\n• Improved system stability"
+  date: '2021-07-04'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_IND/NordOxygen_14.I.21_GLO_0210_2107040151/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.21_GLO_0210_2107040151/NordOxygen_14.I.21_OTA_0210_all_2107040151_e911e54b55.zip
+  md5: 6037cceb819b78fb91c00b6fed2714fd
+  region: India
+  size: 3.1 GB
+  version: NordOxygen_14.I.21_GLO_0210_2107040151
+- branch: Stable
   changelog: "Nord Oxygen OS 11.1.4.4.AC01AA\nSystem\n• Extended battery life\n• Reduced\
     \ power consumption in specific scenarios\n• Fixed the issue of delayed notifications\n\
     • Fixed the overheating issue in certain scenarios \n• Updated Android security\
