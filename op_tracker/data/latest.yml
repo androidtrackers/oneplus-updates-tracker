@@ -1,3 +1,96 @@
+- branch: Beta
+  changelog: "OP6T_R_OBT1_Hotfix\nSystem\n• Update to HydrogenOS 11 version \n• Fresh\
+    \ new UI visual design brings you a more comfortable experience with various optimizations\
+    \ of details\n• Since this is the upgrade of Android 11 version with many new\
+    \ features, the upgrade time may be longer. Please wait for the completion of\
+    \ the upgrade\n• Fixed known issues\nCamera\n• Updated the camera UI and optimized\
+    \ some of the function paths to offer more convenient operation\nAmbient Display\
+    \ \n• Newly added Insight clock style, a joint creation with Parsons School of\
+    \ Design. It will change according to the phone usage data (To set: Settings >\
+    \ Customization > Clock on ambient display)\n• Newly added Canvas feature that\
+    \ can automatically draw a wireframe picture based on a lock screen photo on your\
+    \ phone（Path: Settings - Customization - Wallpaper - Canvas - Choose photo preview\
+    \ and it can be generated automatically）\nDark Mode\n• Added the shortcut key\
+    \ for Dark Mode, pull down the quick setting to enable\n• Supporting automatically\
+    \ turn on feature & customize time range (path: Settings - Display - Dark Mode\
+    \ - Turn on automatically - Automatically enable from sunset to sunrise/Custom\
+    \ time range)\nGame Space\n• Newly added gaming tools box for convenient switches\
+    \ of Fnatic mode. You can now choose three ways of notifications: text-only, heads\
+    \ up and block, just for your immersive gaming experience\n• Newly added quick\
+    \ reply feature in a small window for QQ and WeChat (Enable it by swiping down\
+    \ from upper right/left corners of the screen in gaming mode)\n• Newly added mis-touch\
+    \ prevention feature. Enable it, swipe down from the top of the screen, click\
+    \ and the notification bar will pop out\nShelf\n• Newly shelf interface design,\
+    \ the interface is clearer\n• Added weather widget, animation effect smarter"
+  date: '2021-07-13'
+  device: OnePlus 6T
+  link: http://otafsc-cost.h2os.com/OnePlus6T/OnePlus6THydrogen_41.Y.76_0760_2107130227/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_41.Y.76_0760_2107130227/OnePlus6THydrogen_41.Y.76_OTA_0760_all_2107130227_0206b8800.zip
+  md5: 04bcc31635cd9bf285d4be3fe3d5e30c
+  region: China
+  size: 3.3 GB
+  version: OnePlus6THydrogen_41.Y.76_0760_2107130227
+- branch: Beta
+  changelog: "OP6_R_OBT1_Hotfix\nSystem\n• Updated to OxygenOS 11 version\n• Fresh\
+    \ new UI visual design brings you a more comfortable experience with various optimizations\
+    \ of details\n• Since this is a big Android update with multiple new features,\
+    \ the upgrade process might be a little longer, please be more patient.\n• Fixed\
+    \ known issues\nGame Space\n• Newly added gaming tools box for convenient switches\
+    \ of Fnatic mode. You can now choose three ways of notifications: text-only, heads\
+    \ up and block, just for your immersive gaming experience\n• Newly added quick\
+    \ reply feature in a small window for Instagram, WhatsApp and Telegram (Enable\
+    \ it by swiping down from upper right/left corners of the screen in gaming mode)\n\
+    • Newly added mis-touch prevention feature. Enable it, swipe down from the top\
+    \ of the screen, click and the notification bar will pop out\nCamera\n• Updated\
+    \ the camera UI and optimized some of the function paths to offer more convenient\
+    \ operation\nAmbient Display \n• Newly added Insight clock style, a joint creation\
+    \ with Parsons School of Design. It will change according to the phone usage data\
+    \ (To set: Settings > Customization > Clock on ambient display)\n• Newly added\
+    \ Canvas feature that can automatically draw a wireframe picture based on a lock\
+    \ screen photo on your phone（Path: Settings - Customization - Wallpaper - Canvas\
+    \ - Choose photo preview and it can be generated automatically）\nDark Mode\n•\
+    \ Added a shortcut for Dark Mode, you can pull down the Quick Settings panel and\
+    \ find it\n• Supported automatically enable by time range (path: Settings - Display\
+    \ - Dark Mode - Turn on automatically - Automatically enable from sunset to sunrise\
+    \ / Custom time range)\nShelf\n• Newly shelf interface design, the interface is\
+    \ clearer\n• Added weather widget, animation effect smarter"
+  date: '2021-07-13'
+  device: OnePlus 6
+  link: http://otafsg-cost-az.coloros.com/OnePlus6/OnePlus6Oxygen_22.Y.76_GLO_0760_2107130227/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.Y.76_GLO_0760_2107130227/OnePlus6Oxygen_22.Y.76_OTA_0760_all_2107130227_56c5a1a9ce2d.zip
+  md5: 5b2bb1bc88e77f6807233b34ad7b0391
+  region: Global
+  size: 2.1 GB
+  version: OnePlus6Oxygen_22.Y.76_GLO_0760_2107130227
+- branch: Beta
+  changelog: "OP6T_R_OBT1_Hotfix\nSystem\n• Updated to OxygenOS 11 version\n• Fresh\
+    \ new UI visual design brings you a more comfortable experience with various optimizations\
+    \ of details\n• Since this is a big Android update with multiple new features,\
+    \ the upgrade process might be a little longer, please be more patient.\n• Fixed\
+    \ known issues\nGame Space\n• Newly added gaming tools box for convenient switches\
+    \ of Fnatic mode. You can now choose three ways of notifications: text-only, heads\
+    \ up and block, just for your immersive gaming experience\n• Newly added quick\
+    \ reply feature in a small window for Instagram, WhatsApp and Telegram (Enable\
+    \ it by swiping down from upper right/left corners of the screen in gaming mode)\n\
+    • Newly added mis-touch prevention feature. Enable it, swipe down from the top\
+    \ of the screen, click and the notification bar will pop out\nCamera\n• Updated\
+    \ the camera UI and optimized some of the function paths to offer more convenient\
+    \ operation\nAmbient Display \n• Newly added Insight clock style, a joint creation\
+    \ with Parsons School of Design. It will change according to the phone usage data\
+    \ (To set: Settings > Customization > Clock on ambient display)\n• Newly added\
+    \ Canvas feature that can automatically draw a wireframe picture based on a lock\
+    \ screen photo on your phone（Path: Settings - Customization - Wallpaper - Canvas\
+    \ - Choose photo preview and it can be generated automatically）\nDark Mode\n•\
+    \ Added a shortcut for Dark Mode, you can pull down the Quick Settings panel and\
+    \ find it\n• Supported automatically enable by time range (path: Settings - Display\
+    \ - Dark Mode - Turn on automatically - Automatically enable from sunset to sunrise\
+    \ / Custom time range)\nShelf\n• Newly shelf interface design, the interface is\
+    \ clearer\n• Added weather widget, animation effect smarter"
+  date: '2021-07-13'
+  device: OnePlus 6T
+  link: http://otafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_41.Y.76_GLO_0760_2107130236/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_41.Y.76_GLO_0760_2107130236/OnePlus6TOxygen_41.Y.76_OTA_0760_all_2107130236_de1aa0eb2c.zip
+  md5: 5488924140af546ab5e7de17e1c2fd72
+  region: India
+  size: 2.2 GB
+  version: OnePlus6TOxygen_41.Y.76_GLO_0760_2107130236
 - branch: Stable
   changelog: "Nord Oxygen OS 11.1.4.4.AC01DA\nSystem\n• Extended battery life\n• Reduced\
     \ power consumption in specific scenarios\n• Fixed the issue of delayed notifications\n\
