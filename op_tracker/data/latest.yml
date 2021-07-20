@@ -92,6 +92,36 @@
   size: 2.2 GB
   version: OnePlus6TOxygen_41.Y.76_GLO_0760_2107130236
 - branch: Stable
+  changelog: 'OnePlus 8 Hydrogen OS 11.0.10.10.IN21
+
+    System
+
+    • Updated Android security patch to 2021.06
+
+    • Improved system stability and fixed known issues'
+  date: '2021-07-08'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.H.40_0400_2107081617/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.40_0400_2107081617/OnePlus8Hydrogen_15.H.40_OTA_0400_all_2107081617_1588df7a84.zip
+  md5: 16776ddc6c6a6e8edbc388463811a675
+  region: China
+  size: 4.2 GB
+  version: OnePlus8Hydrogen_15.H.40_0400_2107081617
+- branch: Stable
+  changelog: 'OnePlus 8 Pro Hydrogen OS 11.0.10.10.IN11
+
+    System
+
+    • Updated Android security patch to 2021.06
+
+    • Improved system stability and fixed known issues'
+  date: '2021-07-08'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.H.40_0400_2107081615/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.40_0400_2107081615/OnePlus8ProHydrogen_15.H.40_OTA_0400_all_2107081615_57705290de9a.zip
+  md5: ba1e2eeea1e2a54ba098d6552c821b7e
+  region: China
+  size: 4.3 GB
+  version: OnePlus8ProHydrogen_15.H.40_0400_2107081615
+- branch: Stable
   changelog: "Nord Oxygen OS 11.1.4.4.AC01DA\nSystem\n• Extended battery life\n• Reduced\
     \ power consumption in specific scenarios\n• Fixed the issue of delayed notifications\n\
     • Fixed the overheating issue in certain scenarios \n• Updated Android security\
