@@ -92,6 +92,40 @@
   size: 2.2 GB
   version: OnePlus6TOxygen_41.Y.76_GLO_0760_2107130236
 - branch: Stable
+  changelog: 'OnePlus 6 Oxygen OS 10.3.12
+
+    System
+
+    • Improved system stability
+
+    • Upgrade Android Security Patch to 2021.07
+
+    • Fixed some known issues'
+  date: '2021-07-13'
+  device: OnePlus 6
+  link: http://otafsg-cost-az.coloros.com/OnePlus6/OnePlus6Oxygen_22.J.55_GLO_055_2107132218/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.55_GLO_055_2107132218/OnePlus6Oxygen_22.J.55_OTA_055_all_2107132218_71d1c06b31fc.zip
+  md5: 30a588fece177a3a0190e22cd50e9f8f
+  region: Global
+  size: 2.0 GB
+  version: OnePlus6Oxygen_22.J.55_GLO_055_2107132218
+- branch: Stable
+  changelog: 'OnePlus 6T Oxygen OS 10.3.12
+
+    System
+
+    • Improved system stability
+
+    • Upgrade Android Security Patch to 2021.07
+
+    • Fixed some known issues'
+  date: '2021-07-13'
+  device: OnePlus 6T
+  link: http://otafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_34.J.55_GLO_055_2107132253/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.55_GLO_055_2107132253/OnePlus6TOxygen_34.J.55_OTA_055_all_2107132253_b2cbbb97b4eee.zip
+  md5: fcba7be36131c4d74c008b2dc27a8262
+  region: Global
+  size: 2.1 GB
+  version: OnePlus6TOxygen_34.J.55_GLO_055_2107132253
+- branch: Stable
   changelog: 'OnePlus 8 Hydrogen OS 11.0.10.10.IN21
 
     System
