@@ -284,6 +284,71 @@
   region: Global
   size: 2.1 GB
   version: OnePlus6Oxygen_22.Y.75_GLO_0750_2106301542
+- branch: Stable
+  changelog: "OnePlus Nord N10 OxygenOS 11.BE89BA\nSystem\n• Updated to OxygenOS 11\
+    \ version\n• Fresh new UI visual design brings you a more comfortable experience\
+    \ with various optimizations of details\n• Since this is a big Android update\
+    \ with multiple new features, the upgrade process might be a little longer, please\
+    \ be more patient.\n• Updated Android security patch to 2021.06\nCamera\n• Updated\
+    \ the camera UI and optimized some of the function paths to offer more convenient\
+    \ operation\n• Newly added HEVC codec to reduce video storage size seamlessly,\
+    \ capture and shoot more without compromising on quality\n• Newly added access\
+    \ to a third-party app to share the picture by pressing and holding it in preview\
+    \ \n• Newly added the quick access to recording mode by pressing and holding the\
+    \ shutter button and by sliding the button, you can easily zoom in or zoom out\n\
+    • Newly added the playback display in Time-lapse mode to show the actual filming\
+    \ time\nAmbient Display\n• Newly added Insight clock style, a joint creation with\
+    \ Parsons School of Design. It will change according to the phone usage data (To\
+    \ set: Settings > Customization > Clock on ambient display)\n• Newly added Canvas\
+    \ feature that can automatically draw a wireframe picture based on a lock screen\
+    \ photo on your phone（Path: Settings - Customization - Wallpaper - Canvas - Choose\
+    \ photo preview and it can be generated automatically）\nGames\n• Newly added Gaming\
+    \ Tools box for convenient switches of Pro Gaming Mode. You can now choose three\
+    \ ways of notifications: text-only, heads up and block just for your immersive\
+    \ gaming experience\n• Newly added quick reply feature in a small window for WhatsApp\
+    \ and INS (Enable it by swiping down from upper right/left corners of the screen\
+    \ in gaming mode)\n• Newly added mis-touch prevention feature. Enable it, swipe\
+    \ down from the top of the screen, click and the notification bar will pop out\n\
+    Dark Mode\n• Added a shortcut for Dark Mode, you can pull down the Quick Settings\
+    \ panel and find it\n• Supported automatically enable by time range (path: Settings\
+    \ - Display - Dark Mode - Turn on automatically - Automatically enable from sunset\
+    \ to sunrise / Custom time range)"
+  date: '2021-06-23'
+  device: OnePlus Nord N10
+  link: http://otafsg-cost-az.coloros.com/OnePlusN10_EEA/OnePlusN10Oxygen_14.E.30_GLO_0300_2106231157/patch/amazone2/GLO/OnePlusN10Oxygen/OnePlusN10Oxygen_14.E.30_GLO_0300_2106231157/OnePlusN10Oxygen_14.E.30_OTA_0300_all_2106231157_09dc03f.zip
+  md5: 52ea9d55da5de4bc371848ef632794b8
+  region: EEA
+  size: 2.8 GB
+  version: OnePlusN10Oxygen_14.E.30_GLO_0300_2106231157
+- branch: Stable
+  changelog: "OnePlus Nord N100 Oxygen OS 11.BE83BA\nSystem\n• Updated to OxygenOS\
+    \ 11 version\n• Fresh new UI visual design brings you a more comfortable experience\
+    \ with various optimizations of details\n• Since this is a big Android update\
+    \ with multiple new features, the upgrade process might be a little longer, please\
+    \ be more patient.\n• Updated Android security patch to 2021.06\n• Upgrade Google\
+    \ GMS to 2021.04 \nAmbient Display\n• Newly added Insight clock style, a joint\
+    \ creation with Parsons School of Design. It will change according to the phone\
+    \ usage data (To set: Settings > Customization > Clock on ambient display)\n•\
+    \ Newly added Canvas feature that can automatically draw a wireframe picture based\
+    \ on a lock screen photo on your phone（Path: Settings - Customization - Wallpaper\
+    \ - Canvas - Choose photo preview and it can be generated automatically）\nGame\
+    \ space\n• Newly added gaming tools box for convenient switches of Fnatic mode.\
+    \ You can now choose three ways of notifications: text only heads up and block\
+    \ just for your immersive gaming experience\n• Newly added quick reply feature\
+    \ in a small window for WhatsApp and INS (Enable it by swiping down from upper\
+    \ right/left corners of the screen in gaming mode)\n• Newly added mis-touch prevention\
+    \ feature. Enable it, swipe down from the top of the screen, click and the notification\
+    \ bar will pop out\nDark Mode\n• Added a shortcut for Dark Mode, you can pull\
+    \ down the Quick Settings panel and find it\n• Supported automatically enable\
+    \ by time range (path: Settings - Display - Dark Mode - Turn on automatically\
+    \ - Automatically enable from sunset to sunrise / Custom time range)"
+  date: '2021-06-22'
+  device: OnePlus Nord N100
+  link: http://otafsg-cost-az.coloros.com/OnePlusN100_EEA/OnePlusN100Oxygen_14.E.20_GLO_0200_2106222205/patch/amazone2/GLO/OnePlusN100Oxygen/OnePlusN100Oxygen_14.E.20_GLO_0200_2106222205/OnePlusN100Oxygen_14.E.20_OTA_0200_all_2106222205_4fdaf9e5cb006.zip
+  md5: ae209c6be51578b030c32804ff61d142
+  region: EEA
+  size: 2.5 GB
+  version: OnePlusN100Oxygen_14.E.20_GLO_0200_2106222205
 - branch: Beta
   changelog: "HydrogenOS: OnePlus8Pro_H₂_BETA_11\n系统 \n• 优化功耗表现，延长手机续航 \n• 新增息屏显示界面支持截图功能\n\
     • 更新 Android 安全补丁至 2021.06\n电话 \n• 优化手机与手表、耳机同时连接时通话音频体验 \n一加互传 \n• 优化分享页面视觉效果\n\
