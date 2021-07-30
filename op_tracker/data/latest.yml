@@ -318,6 +318,73 @@
   region: India
   size: 2.8 GB
   version: OnePlus7TProOxygen_14.I.28_GLO_0280_2107182136
+- branch: Stable
+  changelog: 'OnePlus 7T OxygenOS 11.0.2.1.HD65AA
+
+    System
+
+    • Reduced Power consumption
+
+    • Improved overheating control management
+
+    • Fixed the issue of not being able to play high-definition videos on some video
+    platforms
+
+    • Upgraded Android Security Patch to 2021.06
+
+    File Manager
+
+    • Fixed the crash issue of the application
+
+    Camera
+
+    • Fixed the issue that the camera is blurred when shooting on fullscreen size
+
+    • Improved the stability
+
+    Phone
+
+    • Optimized the dialpad UI display effect'
+  date: '2021-07-18'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.I.28_GLO_0280_2107180039/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.I.28_GLO_0280_2107180039/OnePlus7TOxygen_14.I.28_OTA_0280_all_2107180039_608a5687.zip
+  md5: f3ef774be57ad2914c46b829a4e37602
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.I.28_GLO_0280_2107180039
+- branch: Stable
+  changelog: 'OnePlus 7 Pro HydrogenOS 11.0.2.1.GM21
+
+    System
+
+    • Reduced Power consumption
+
+    • Improved overheating control management
+
+    • Optimized the playing experience of Honor of Kings
+
+    • Upgraded Android Security Patch to 2021.06
+
+    File Manager
+
+    • Fixed the crash issue of the application
+
+    Camera
+
+    • Fixed the issue that the camera is blurred when shooting on fullscreen size
+
+    • Improved the stability
+
+    Phone
+
+    • Optimized the dialpad UI display effect'
+  date: '2021-07-17'
+  device: OnePlus 7 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7Pro_CH/OnePlus7ProHydrogen_21.H.39_0390_2107172330/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_21.H.39_0390_2107172330/OnePlus7ProHydrogen_21.H.39_OTA_0390_all_2107172330_d99944b91b81.zip
+  md5: a8ecf9cff671e013ecef46df84fe4871
+  region: China
+  size: 3.9 GB
+  version: OnePlus7ProHydrogen_21.H.39_0390_2107172330
 - branch: Beta
   changelog: "OP6T_R_OBT1_Hotfix\nSystem\n• Update to HydrogenOS 11 version \n• Fresh\
     \ new UI visual design brings you a more comfortable experience with various optimizations\
