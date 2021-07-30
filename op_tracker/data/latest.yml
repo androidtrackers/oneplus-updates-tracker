@@ -1,3 +1,72 @@
+- branch: Beta
+  changelog: 'OP6T_R_OBT_02_210723
+
+    System
+
+    • Optimized the overheating control management of third-party apps
+
+    • Improved system stability and fixed known issues
+
+    Camera
+
+    • Fixed the issue of captured images can''t be saved
+
+    Network
+
+    • Enhanced the connectivity of 5G Wi-Fi'
+  date: '2021-07-23'
+  device: OnePlus 6T
+  link: http://otafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_41.Y.77_GLO_0770_2107231448/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_41.Y.77_GLO_0770_2107231448/OnePlus6TOxygen_41.Y.77_OTA_0770_all_2107231448_c28e77173a8.zip
+  md5: 07bceefd0cfb2399d0ec72f36df59de2
+  region: Global
+  size: 2.2 GB
+  version: OnePlus6TOxygen_41.Y.77_GLO_0770_2107231448
+- branch: Beta
+  changelog: 'OP6_R_OBT_02_210722
+
+    System
+
+    • Optimized the overheating control management of third-party apps
+
+    • Improved system stability and fixed known issues
+
+    Camera
+
+    • Fixed the issue of captured images can''t be saved
+
+    Network
+
+    • Enhanced the connectivity of 5G Wi-Fi'
+  date: '2021-07-22'
+  device: OnePlus 6
+  link: http://otafsg-cost-az.coloros.com/OnePlus6/OnePlus6Oxygen_22.Y.77_GLO_0770_2107220200/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.Y.77_GLO_0770_2107220200/OnePlus6Oxygen_22.Y.77_OTA_0770_all_2107220200_eabc4b.zip
+  md5: f77eeaa9b5da299c2ba902f718681e3d
+  region: Global
+  size: 2.1 GB
+  version: OnePlus6Oxygen_22.Y.77_GLO_0770_2107220200
+- branch: Beta
+  changelog: 'OP6T_R_OBT_02_210722
+
+    System
+
+    • Optimized the overheating control management of third-party apps
+
+    • Improved system stability and fixed known issues
+
+    Camera
+
+    • Fixed the issue of captured images can''t be saved
+
+    Network
+
+    • Enhanced the connectivity of 5G Wi-Fi'
+  date: '2021-07-22'
+  device: OnePlus 6T
+  link: http://otafsc-cost.h2os.com/OnePlus6T/OnePlus6THydrogen_41.Y.77_0770_2107220205/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_41.Y.77_0770_2107220205/OnePlus6THydrogen_41.Y.77_OTA_0770_all_2107220205_9cd2e9c.zip
+  md5: 7924ff42297e9e1a9e8a157464a5cb3b
+  region: China
+  size: 3.3 GB
+  version: OnePlus6THydrogen_41.Y.77_0770_2107220205
 - branch: Stable
   changelog: 'OnePlus 7 Pro 5G OxygenOS 10.0.13.GM27BA
 
@@ -182,6 +251,73 @@
   region: China
   size: 3.9 GB
   version: OnePlus7TProHydrogen_14.H.25_0250_2107182142
+- branch: Stable
+  changelog: 'OnePlus 7T HydrogenOS 11.0.2.1.HD65
+
+    System
+
+    • Reduced Power consumption
+
+    • Improved overheating control management
+
+    • Optimized the playing experience of Honor of Kings
+
+    • Upgraded Android Security Patch to 2021.06
+
+    File Manager
+
+    • Fixed the crash issue of the application
+
+    Camera
+
+    • Fixed the issue that the camera is blurred when shooting on fullscreen size
+
+    • Improved the stability
+
+    Phone
+
+    • Optimized the dialpad UI display effect'
+  date: '2021-07-18'
+  device: OnePlus 7T
+  link: http://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.24_0240_2107180039/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.24_0240_2107180039/OnePlus7THydrogen_14.H.24_OTA_0240_all_2107180039_8e9d.zip
+  md5: 63956655cd4aeca403f7b5b392f1a353
+  region: China
+  size: 3.9 GB
+  version: OnePlus7THydrogen_14.H.24_0240_2107180039
+- branch: Stable
+  changelog: 'OnePlus 7T Pro OxygenOS 11.0.2.1.HD01AA
+
+    System
+
+    • Reduced Power consumption
+
+    • Improved overheating control management
+
+    • Fixed the issue of not being able to play high-definition videos on some video
+    platforms
+
+    • Upgraded Android Security Patch to 2021.06
+
+    File Manager
+
+    • Fixed the crash issue of the application
+
+    Camera
+
+    • Fixed the issue that the camera is blurred when shooting on fullscreen size
+
+    • Improved the stability
+
+    Phone
+
+    • Optimized the dialpad UI display effect'
+  date: '2021-07-18'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.I.28_GLO_0280_2107182136/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.I.28_GLO_0280_2107182136/OnePlus7TProOxygen_14.I.28_OTA_0280_all_2107182136_c3578f34a7.zip
+  md5: 234937bbb7c2d95698cf72de301411fd
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.I.28_GLO_0280_2107182136
 - branch: Beta
   changelog: "OP6T_R_OBT1_Hotfix\nSystem\n• Update to HydrogenOS 11 version \n• Fresh\
     \ new UI visual design brings you a more comfortable experience with various optimizations\
