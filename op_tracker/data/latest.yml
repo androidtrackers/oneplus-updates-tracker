@@ -671,6 +671,35 @@
   region: Global
   size: 2.1 GB
   version: OnePlus6Oxygen_22.Y.75_GLO_0750_2106301542
+- branch: Beta
+  changelog: 'OxygenOS: OnePlus8T_O₂_BETA_7
+
+    System
+
+    • Improved system stability
+
+    • Fixed the issue that the face unlock failed in the QR scanning on WhatsApp
+
+    • Upgrade Android Security Patch to 2021.07
+
+    Work-life balance
+
+    • Now work wifi can support added to life wifi
+
+    • Fixed the issue of failure to modify life and work mode
+
+    OnePlus Store
+
+    • An intuitive and convenient way to manage your OnePlus account, get easy-to-access
+    support, discover exciting members-only benefits, and shop for OnePlus products.
+    (Please note that it can be uninstalled)'
+  date: '2021-06-28'
+  device: OnePlus 8T
+  link: http://otafsg-cost-az.coloros.com/OnePlus8T_IND/OnePlus8TOxygen_15.X.07_GLO_0070_2106281221/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.X.07_GLO_0070_2106281221/OnePlus8TOxygen_15.X.07_OTA_0070_all_2106281221_fbdfcc.zip
+  md5: d438fcdc99aef0151aaae0f01859f842
+  region: India
+  size: 3.0 GB
+  version: OnePlus8TOxygen_15.X.07_GLO_0070_2106281221
 - branch: Stable
   changelog: "OnePlus Nord N10 OxygenOS 11.BE89BA\nSystem\n• Updated to OxygenOS 11\
     \ version\n• Fresh new UI visual design brings you a more comfortable experience\
