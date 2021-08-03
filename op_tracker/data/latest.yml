@@ -513,6 +513,25 @@
   size: 2.1 GB
   version: OnePlus6TOxygen_34.J.55_GLO_055_2107132253
 - branch: Stable
+  changelog: 'OnePlus 8T HydrogenOS 11.0.9.9.KB05
+
+    System
+
+    • Update Android patch to 2021.06
+
+    • Improve stability and fixed known issues
+
+    Camera
+
+    • Fixed the issue that the screen may flash when shooting in NIGHTSCAPE mode'
+  date: '2021-07-11'
+  device: OnePlus 8T
+  link: http://otafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.28_0280_2107111039/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.28_0280_2107111039/OnePlus8THydrogen_15.H.28_OTA_0280_all_2107111039_e927908305e.zip
+  md5: d433cfef489e040aa5c9ad34ef44cbd2
+  region: China
+  size: 4.5 GB
+  version: OnePlus8THydrogen_15.H.28_0280_2107111039
+- branch: Stable
   changelog: 'OnePlus 8 Hydrogen OS 11.0.10.10.IN21
 
     System
