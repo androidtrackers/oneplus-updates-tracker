@@ -1,4 +1,69 @@
 - branch: Beta
+  changelog: 'OP6T_R_OBT_03_210805
+
+    System
+
+    • Optimized background process management mechanism to improve battery life
+
+    • Improved the smoothness of YouTube playing videos
+
+    • Improved system stability and fixed known issues
+
+    Network
+
+    • Fixed the failed issue of enabling VoWiFi
+
+    Work-Life Balance
+
+    • Fixed the issue that the feature doesn''t work when the screen is locked'
+  date: '2021-08-05'
+  device: OnePlus 6T
+  link: http://otafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_41.Y.78_GLO_0780_2108052357/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_41.Y.78_GLO_0780_2108052357/OnePlus6TOxygen_41.Y.78_OTA_0780_all_2108052357_f629ef93.zip
+  md5: f1d85bc55e55bc20bf914cdf17751e51
+  region: Global
+  size: 2.2 GB
+  version: OnePlus6TOxygen_41.Y.78_GLO_0780_2108052357
+- branch: Beta
+  changelog: 'OP6_R_OBT_03_210805
+
+    System
+
+    • Optimized background process management mechanism to improve battery life
+
+    • Improved the smoothness of YouTube playing videos
+
+    • Improved system stability and fixed known issues
+
+    Network
+
+    • Fixed the failed issue of enabling VoWiFi
+
+    Work-Life Balance
+
+    • Fixed the issue that the feature doesn''t work when the screen is locked'
+  date: '2021-08-05'
+  device: OnePlus 6
+  link: http://otafsg-cost-az.coloros.com/OnePlus6/OnePlus6Oxygen_22.Y.78_GLO_0780_2108052353/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.Y.78_GLO_0780_2108052353/OnePlus6Oxygen_22.Y.78_OTA_0780_all_2108052353_9ad8a0.zip
+  md5: 3753981b787ddca114cddc79a1018f8d
+  region: Global
+  size: 2.1 GB
+  version: OnePlus6Oxygen_22.Y.78_GLO_0780_2108052353
+- branch: Beta
+  changelog: 'OP6T_R_OBT_03_210805
+
+    System
+
+    • Optimized background process management mechanism to improve battery life
+
+    • Improved system stability and fixed known issues'
+  date: '2021-08-05'
+  device: OnePlus 6T
+  link: http://otafsc-cost.h2os.com/OnePlus6T/OnePlus6THydrogen_41.Y.78_0780_2108052356/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_41.Y.78_0780_2108052356/OnePlus6THydrogen_41.Y.78_OTA_0780_all_2108052356_067df7b51.zip
+  md5: e6a271be4409e1b0f903f4cc79a3f63a
+  region: China
+  size: 3.2 GB
+  version: OnePlus6THydrogen_41.Y.78_0780_2108052356
+- branch: Beta
   changelog: 'OP6T_R_OBT_02_210723
 
     System
