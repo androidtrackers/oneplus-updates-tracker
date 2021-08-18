@@ -608,6 +608,29 @@
   size: 2.1 GB
   version: OnePlus6TOxygen_34.J.55_GLO_055_2107132253
 - branch: Stable
+  changelog: 'OnePlus 8T OxygenOS 11.0.9.9.KB05BA
+
+    System
+
+    • Improve stability and fixed known issues
+
+    Camera
+
+    • Fixed the issue that the screen may flash when shooting in NIGHTSCAPE mode
+
+    OnePlus Store
+
+    • An intuitive and convenient way to manage your OnePlus account, get easy-to-access
+    support, discover exciting members-only benefits, and shop for OnePlus products.
+    (Please note that it can be uninstalled)'
+  date: '2021-07-12'
+  device: OnePlus 8T
+  link: http://otafsg-cost-az.coloros.com/OnePlus8T_EEA/OnePlus8TOxygen_15.E.27_GLO_0270_2107120935/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.E.27_GLO_0270_2107120935/OnePlus8TOxygen_15.E.27_OTA_0270_all_2107120935_b276b8.zip
+  md5: b04266161acc5993f6a054f99273f1ce
+  region: EEA
+  size: 3.0 GB
+  version: OnePlus8TOxygen_15.E.27_GLO_0270_2107120935
+- branch: Stable
   changelog: 'OnePlus 8T HydrogenOS 11.0.9.9.KB05
 
     System
