@@ -63,6 +63,29 @@
   region: China
   size: 3.2 GB
   version: OnePlus6THydrogen_41.Y.78_0780_2108052356
+- branch: Stable
+  changelog: 'OnePlus 8 Pro HydrogenOS 11.0.11.11.IN11
+
+    System
+
+    • Newly adapted OnePlus Buds Pro and brought new powerful features
+
+    • Optimized the touch and interaction experience in the mobile game
+
+    • Improved system stability and fixed known issues
+
+    • Updated Android security patch to 2021.08
+
+    Camera
+
+    • Optimized the portrait mode effect of the front camera'
+  date: '2021-07-31'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.H.41_0410_2107310202/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.41_0410_2107310202/OnePlus8ProHydrogen_15.H.41_OTA_0410_all_2107310202_71c95a.zip
+  md5: 455a615a4e3dfe2caaa0af876f9453d9
+  region: China
+  size: 4.3 GB
+  version: OnePlus8ProHydrogen_15.H.41_0410_2107310202
 - branch: Beta
   changelog: 'OP6T_R_OBT_02_210723
 
