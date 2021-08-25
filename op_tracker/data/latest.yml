@@ -141,6 +141,40 @@
   size: 2.1 GB
   version: OnePlus6Oxygen_22.J.60_GLO_0600_2108052235
 - branch: Stable
+  changelog: 'OnePlus Nord N100 OxygenOS 11.0.1.BE83BA
+
+    System
+
+    • Updated Android security patch to 2021.08
+
+    • Improved the stability and fixed known issues'
+  date: '2021-08-04'
+  device: OnePlus Nord N100
+  link: http://otafsg-cost-az.coloros.com/OnePlusN100_EEA/OnePlusN100Oxygen_14.E.21_GLO_0210_2108042247/patch/amazone2/GLO/OnePlusN100Oxygen/OnePlusN100Oxygen_14.E.21_GLO_0210_2108042247/OnePlusN100Oxygen_14.E.21_OTA_0210_all_2108042247_b9255805a53fb.zip
+  md5: 70e3f025b55bc5873faea8608a9707e1
+  region: EEA
+  size: 2.5 GB
+  version: OnePlusN100Oxygen_14.E.21_GLO_0210_2108042247
+- branch: Stable
+  changelog: 'OnePlus Nord N10 OxygenOS 11.0.1.BE89BA
+
+    System
+
+    • Improved system performance
+
+    • Updated Android security patch to 2021.08
+
+    Network
+
+    • Improved internet connection and optimized Wi-Fi performance'
+  date: '2021-08-03'
+  device: OnePlus Nord N10
+  link: http://otafsg-cost-az.coloros.com/OnePlusN10_EEA/OnePlusN10Oxygen_14.E.31_GLO_0310_2108030015/patch/amazone2/GLO/OnePlusN10Oxygen/OnePlusN10Oxygen_14.E.31_GLO_0310_2108030015/OnePlusN10Oxygen_14.E.31_OTA_0310_all_2108030015_2368576f1b.zip
+  md5: c5fbbbffd29c63d3164e2b740ac2bd4c
+  region: EEA
+  size: 2.8 GB
+  version: OnePlusN10Oxygen_14.E.31_GLO_0310_2108030015
+- branch: Stable
   changelog: 'OnePlus 8 Pro HydrogenOS 11.0.11.11.IN11
 
     System
@@ -163,6 +197,46 @@
   region: China
   size: 4.3 GB
   version: OnePlus8ProHydrogen_15.H.41_0410_2107310202
+- branch: Stable
+  changelog: "OnePlus 8 OxygenOS 11.0.8.8.IN21BA\nSystem\n• Newly adapted OnePlus\
+    \ Buds Pro and brought new powerful features\n• Newly added the screenshot feature\
+    \ for AOD \n• Fixed the failed issue of Navigation gestures in some scenes\n•\
+    \ Improved system stability and fixed known issues\n• Updated Android security\
+    \ patch to 2021.08\nCamera\n• Optimized the portrait mode effect of the front\
+    \ camera\nOnePlus Store\n• An intuitive and convenient way to manage your OnePlus\
+    \ account, get easy-to-access support, discover exciting members-only benefits,\
+    \ and shop for OnePlus products. (Please note that it can be uninstalled)\nAmbient\
+    \ Display\n•Newly added Bitmoji AOD, co-designed with Snapchat, which will liven\
+    \ up the ambient display with your personal Bitmoji avatar. Your avatar will update\
+    \ throughout the day based on your activity and things happening around you (\
+    \ Path: Settings - Customization - Clock on ambient display - Bitmoji )"
+  date: '2021-07-31'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_EEA/OnePlus8Oxygen_15.E.39_GLO_0390_2107310153/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.E.39_GLO_0390_2107310153/OnePlus8Oxygen_15.E.39_OTA_0390_all_2107310153_10a1.zip
+  md5: 4514a385b31eaf8f81152222440aa9d2
+  region: EEA
+  size: 3.1 GB
+  version: OnePlus8Oxygen_15.E.39_GLO_0390_2107310153
+- branch: Stable
+  changelog: "OnePlus 8 Pro OxygenOS 11.0.8.8.IN11BA\nSystem\n• Newly adapted OnePlus\
+    \ Buds Pro and brought new powerful features\n• Newly added the screenshot feature\
+    \ for AOD \n• Fixed the failed issue of Navigation gestures in some scenes\n•\
+    \ Improved system stability and fixed known issues\n• Updated Android security\
+    \ patch to 2021.08\nCamera\n• Optimized the portrait mode effect of the front\
+    \ camera\nOnePlus Store\n• An intuitive and convenient way to manage your OnePlus\
+    \ account, get easy-to-access support, discover exciting members-only benefits,\
+    \ and shop for OnePlus products. (Please note that it can be uninstalled)\nAmbient\
+    \ Display\n• Newly added Bitmoji AOD, co-designed with Snapchat, which will liven\
+    \ up the ambient display with your personal Bitmoji avatar. Your avatar will update\
+    \ throughout the day based on your activity and things happening around you (\
+    \ Path: Settings - Customization - Clock on ambient display - Bitmoji )"
+  date: '2021-07-31'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_EEA/OnePlus8ProOxygen_15.E.39_GLO_0390_2107310114/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.E.39_GLO_0390_2107310114/OnePlus8ProOxygen_15.E.39_OTA_0390_all_2107310114_8f0157e5d7e.zip
+  md5: a7500f55348a0ad6cee71ad99e01c42a
+  region: EEA
+  size: 3.1 GB
+  version: OnePlus8ProOxygen_15.E.39_GLO_0390_2107310114
 - branch: Beta
   changelog: 'OP6T_R_OBT_02_210723
 
