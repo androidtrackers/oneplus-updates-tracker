@@ -237,6 +237,26 @@
   region: EEA
   size: 3.1 GB
   version: OnePlus8ProOxygen_15.E.39_GLO_0390_2107310114
+- branch: Stable
+  changelog: "OnePlus 8 Pro OxygenOS 11.0.8.8.IN11DA\nSystem\n• Newly adapted OnePlus\
+    \ Buds Pro and brought new powerful features\n• Newly added the screenshot feature\
+    \ for AOD \n• Fixed the failed issue of Navigation gestures in some scenes\n•\
+    \ Improved system stability and fixed known issues\n• Updated Android security\
+    \ patch to 2021.08\nCamera\n• Optimized the portrait mode effect of the front\
+    \ camera\nOnePlus Store\n• An intuitive and convenient way to manage your OnePlus\
+    \ account, get easy-to-access support, discover exciting members-only benefits,\
+    \ and shop for OnePlus products. (Please note that it can be uninstalled)\nAmbient\
+    \ Display\n• Newly added Bitmoji AOD, co-designed with Snapchat, which will liven\
+    \ up the ambient display with your personal Bitmoji avatar. Your avatar will update\
+    \ throughout the day based on your activity and things happening around you (\
+    \ Path: Settings - Customization - Clock on ambient display - Bitmoji )"
+  date: '2021-07-31'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.I.39_GLO_0390_2107310145/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.39_GLO_0390_2107310145/OnePlus8ProOxygen_15.I.39_OTA_0390_all_2107310145_c9a219.zip
+  md5: 59ea668e23ffafe7a84984ef50c1f1b1
+  region: India
+  size: 3.3 GB
+  version: OnePlus8ProOxygen_15.I.39_GLO_0390_2107310145
 - branch: Beta
   changelog: 'OP6T_R_OBT_02_210723
 
