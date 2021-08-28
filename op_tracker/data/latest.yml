@@ -1,4 +1,34 @@
 - branch: Stable
+  changelog: 'OnePlus 7T Pro HydrogenOS 11.0.3.1.HD01
+
+    System
+
+    • Optimized the stability of NFC feature
+
+    • Upgraded Android Security Patch to 2021.08'
+  date: '2021-08-16'
+  device: OnePlus 7T Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7TPro_CH/OnePlus7TProHydrogen_14.H.26_0260_2108161854/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_14.H.26_0260_2108161854/OnePlus7TProHydrogen_14.H.26_OTA_0260_all_2108161854_24c11f1e5302e4.zip
+  md5: bf4765d1c6c1b702d085f7a40cda4df9
+  region: China
+  size: 3.9 GB
+  version: OnePlus7TProHydrogen_14.H.26_0260_2108161854
+- branch: Stable
+  changelog: 'OnePlus 7T HydrogenOS 11.0.3.1.HD65
+
+    System
+
+    • Optimized the stability of NFC feature
+
+    • Upgraded Android Security Patch to 2021.08'
+  date: '2021-08-16'
+  device: OnePlus 7T
+  link: http://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.25_0250_2108162040/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.25_0250_2108162040/OnePlus7THydrogen_14.H.25_OTA_0250_all_2108162040_24fcbdd0.zip
+  md5: 439802773d10b37fb082d191bb4fb248
+  region: China
+  size: 3.9 GB
+  version: OnePlus7THydrogen_14.H.25_0250_2108162040
+- branch: Stable
   changelog: "Nord OxygenOS 11.1.5.5.AC01AA\nSystem \n• Updated Android security patch\
     \ to 2021.08\n• Improved system stability\nAmbient Display\n• Newly added the\
     \ screenshot feature for AOD \n• Newly added Bitmoji AOD, co-designed with Snapchat,\
@@ -13,6 +43,21 @@
   region: Global
   size: 3.0 GB
   version: NordOxygen_14.O.22_GLO_0220_2108131852
+- branch: Stable
+  changelog: "Nord OxygenOS 11.1.5.5.AC01BA\nSystem \n• Updated Android security patch\
+    \ to 2021.08\n• Improved system stability\nAmbient Display\n• Newly added the\
+    \ screenshot feature for AOD \n• Newly added Bitmoji AOD, co-designed with Snapchat,\
+    \ which will liven up the ambient display with your personal Bitmoji avatar. Your\
+    \ avatar will update throughout the day based on your activity and things happening\
+    \ around you ( Path: Settings - Customization - Clock on ambient display - Bitmoji\
+    \ )"
+  date: '2021-08-13'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_EEA/NordOxygen_14.E.22_GLO_0220_2108131837/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.22_GLO_0220_2108131837/NordOxygen_14.E.22_OTA_0220_all_2108131837_215ed1.zip
+  md5: 1bd823aa5ed79857c73393bb6a439322
+  region: EEA
+  size: 3.0 GB
+  version: NordOxygen_14.E.22_GLO_0220_2108131837
 - branch: Beta
   changelog: 'OP6T_R_OBT_03_210805
 
@@ -257,6 +302,44 @@
   region: India
   size: 3.3 GB
   version: OnePlus8ProOxygen_15.I.39_GLO_0390_2107310145
+- branch: Stable
+  changelog: "OnePlus 8T OxygenOS 11.0.10.10.KB05BA\nSystem\n• Newly adapted OnePlus\
+    \ Buds Pro and brought new powerful features\n• Newly added the screenshot feature\
+    \ for AOD \n• Fixed the failed issue of Navigation gestures in some scenes\n•\
+    \ Improved system stability and fixed known issues\n• Updated Android security\
+    \ patch to 2021.08\nCamera\n• Optimized the portrait mode effect of the front\
+    \ camera\nAmbient Display\n• Newly added Bitmoji AOD, co-designed with Snapchat,\
+    \ which will liven up the ambient display with your personal Bitmoji avatar. Your\
+    \ avatar will update throughout the day based on your activity and things happening\
+    \ around you ( Path: Settings - Customization - Clock on ambient display - Bitmoji\
+    \ )"
+  date: '2021-07-31'
+  device: OnePlus 8T
+  link: http://otafsg-cost-az.coloros.com/OnePlus8T_EEA/OnePlus8TOxygen_15.E.28_GLO_0280_2107310147/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.E.28_GLO_0280_2107310147/OnePlus8TOxygen_15.E.28_OTA_0280_all_2107310147_ddcd.zip
+  md5: 5e5e05c41bdec735195e026fbd89ea46
+  region: EEA
+  size: 3.0 GB
+  version: OnePlus8TOxygen_15.E.28_GLO_0280_2107310147
+- branch: Stable
+  changelog: "OnePlus 8 OxygenOS 11.0.8.8.IN21DA\nSystem\n• Newly adapted OnePlus\
+    \ Buds Pro and brought new powerful features\n• Newly added the screenshot feature\
+    \ for AOD \n• Fixed the failed issue of Navigation gestures in some scenes\n•\
+    \ Improved system stability and fixed known issues\n• Updated Android security\
+    \ patch to 2021.08\nCamera\n• Optimized the portrait mode effect of the front\
+    \ camera\nOnePlus Store\n• An intuitive and convenient way to manage your OnePlus\
+    \ account, get easy-to-access support, discover exciting members-only benefits,\
+    \ and shop for OnePlus products. (Please note that it can be uninstalled)\nAmbient\
+    \ Display\n•Newly added Bitmoji AOD, co-designed with Snapchat, which will liven\
+    \ up the ambient display with your personal Bitmoji avatar. Your avatar will update\
+    \ throughout the day based on your activity and things happening around you (\
+    \ Path: Settings - Customization - Clock on ambient display - Bitmoji )"
+  date: '2021-07-31'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.I.39_GLO_0390_2107310155/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.39_GLO_0390_2107310155/OnePlus8Oxygen_15.I.39_OTA_0390_all_2107310155_08f55.zip
+  md5: 88367df7a8b684dbee33b8b43d272af9
+  region: India
+  size: 3.3 GB
+  version: OnePlus8Oxygen_15.I.39_GLO_0390_2107310155
 - branch: Beta
   changelog: 'OP6T_R_OBT_02_210723
 
