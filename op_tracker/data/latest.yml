@@ -1,4 +1,43 @@
 - branch: Stable
+  changelog: 'OnePlus8T HydrogenOS 11.0.11.11.KB05
+
+    System
+
+    •Fixed the occasional silent call issue in crowded network channels'
+  date: '2021-08-26'
+  device: OnePlus 8T
+  link: http://otafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.30_0300_2108261351/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.30_0300_2108261351/OnePlus8THydrogen_15.H.30_OTA_0300_all_2108261351_0a310ee6659a.zip
+  md5: e8004db7a5bd1e2ade1b34f28d118fdc
+  region: China
+  size: 4.5 GB
+  version: OnePlus8THydrogen_15.H.30_0300_2108261351
+- branch: Stable
+  changelog: 'OnePlus 8 Pro HydrogenOS 11.0.12.12.IN11
+
+    System
+
+    •Fixed the occasional silent call issue in crowded network channels'
+  date: '2021-08-26'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.H.42_0420_2108261401/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.42_0420_2108261401/OnePlus8ProHydrogen_15.H.42_OTA_0420_all_2108261401_fcf5a2b348b0f2.zip
+  md5: a2b3eba2c1de0198eefb8ebbf7cbbb94
+  region: China
+  size: 4.3 GB
+  version: OnePlus8ProHydrogen_15.H.42_0420_2108261401
+- branch: Stable
+  changelog: 'OnePlus8 HydrogenOS 11.0.12.12.IN21
+
+    System
+
+    •Fixed the occasional silent call issue in crowded network channels'
+  date: '2021-08-26'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.H.42_0420_2108261457/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.42_0420_2108261457/OnePlus8Hydrogen_15.H.42_OTA_0420_all_2108261457_bd471ea0f0.zip
+  md5: 2549350524a380dfdb7c8c673a33cf3c
+  region: China
+  size: 4.2 GB
+  version: OnePlus8Hydrogen_15.H.42_0420_2108261457
+- branch: Stable
   changelog: 'OnePlus 7T OxygenOS 11.0.3.1.HD65AA
 
     System
