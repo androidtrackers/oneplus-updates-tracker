@@ -128,6 +128,36 @@
   size: 2.8 GB
   version: OnePlus7TProOxygen_14.O.29_GLO_0290_2108161858
 - branch: Stable
+  changelog: 'OnePlus 7T Pro OxygenOS 11.0.3.1.HD01AA
+
+    System
+
+    • Optimized the stability of NFC feature
+
+    • Upgraded Android Security Patch to 2021.08
+
+    Ambient Display
+
+    • Newly added the screenshot feature for ambient display
+
+    • Newly added Bitmoji clock, co-designed with Snapchat, which will liven up the
+    ambient display with your personal Bitmoji avatar. Your avatar will update throughout
+    the day based on your activity and things happening around you ( Path: Settings
+    - Customization - Clock on ambient display - Bitmoji )
+
+    OnePlus Store
+
+    • An intuitive and convenient way to manage your OnePlus account, get easy-to-access
+    support, discover exciting members-only benefits, and shop for OnePlus products.
+    (Please note that it can be uninstalled)'
+  date: '2021-08-16'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.I.29_GLO_0290_2108161858/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.I.29_GLO_0290_2108161858/OnePlus7TProOxygen_14.I.29_OTA_0290_all_2108161858_808d5a969fc63f.zip
+  md5: 24d99650957232a9badc2e3cac003096
+  region: India
+  size: 2.9 GB
+  version: OnePlus7TProOxygen_14.I.29_GLO_0290_2108161858
+- branch: Stable
   changelog: "Nord OxygenOS 11.1.5.5.AC01AA\nSystem \n• Updated Android security patch\
     \ to 2021.08\n• Improved system stability\nAmbient Display\n• Newly added the\
     \ screenshot feature for AOD \n• Newly added Bitmoji AOD, co-designed with Snapchat,\
