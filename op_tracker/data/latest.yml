@@ -68,6 +68,36 @@
   size: 2.8 GB
   version: OnePlus7TOxygen_14.O.29_GLO_0290_2108181607
 - branch: Stable
+  changelog: 'OnePlus 7T OxygenOS 11.0.3.1.HD65AA
+
+    System
+
+    • Optimized the stability of NFC feature
+
+    • Upgraded Android Security Patch to 2021.08
+
+    Ambient Display
+
+    • Newly added the screenshot feature for ambient display
+
+    • Newly added Bitmoji clock, co-designed with Snapchat, which will liven up the
+    ambient display with your personal Bitmoji avatar. Your avatar will update throughout
+    the day based on your activity and things happening around you ( Path: Settings
+    - Customization - Clock on ambient display - Bitmoji )
+
+    OnePlus Store
+
+    • An intuitive and convenient way to manage your OnePlus account, get easy-to-access
+    support, discover exciting members-only benefits, and shop for OnePlus products.
+    (Please note that it can be uninstalled)'
+  date: '2021-08-18'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.I.29_GLO_0290_2108181607/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.I.29_GLO_0290_2108181607/OnePlus7TOxygen_14.I.29_OTA_0290_all_2108181607_246f7.zip
+  md5: 98443f8216639b18de58b84a4a6a3ce7
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.I.29_GLO_0290_2108181607
+- branch: Stable
   changelog: 'OnePlus 7T Pro HydrogenOS 11.0.3.1.HD01
 
     System
