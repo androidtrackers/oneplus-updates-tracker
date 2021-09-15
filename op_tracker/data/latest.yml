@@ -1,4 +1,64 @@
 - branch: Stable
+  changelog: 'OnePlus 7T OxygenOS 11.0.3.1.HD65BA
+
+    System
+
+    • Optimized the stability of NFC feature
+
+    • Upgraded Android Security Patch to 2021.08
+
+    Ambient Display
+
+    • Newly added the screenshot feature for ambient display
+
+    • Newly added Bitmoji clock, co-designed with Snapchat, which will liven up the
+    ambient display with your personal Bitmoji avatar. Your avatar will update throughout
+    the day based on your activity and things happening around you ( Path: Settings
+    - Customization - Clock on ambient display - Bitmoji )
+
+    OnePlus Store
+
+    • An intuitive and convenient way to manage your OnePlus account, get easy-to-access
+    support, discover exciting members-only benefits, and shop for OnePlus products.
+    (Please note that it can be uninstalled)'
+  date: '2021-09-06'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.E.29_GLO_0290_2109061641/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.E.29_GLO_0290_2109061641/OnePlus7TOxygen_14.E.29_OTA_0290_all_2109061641_3054801.zip
+  md5: 377156d579c01eb4607d318e205ddec0
+  region: EEA
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.E.29_GLO_0290_2109061641
+- branch: Stable
+  changelog: 'OnePlus 7T Pro OxygenOS 11.0.3.1.HD01BA
+
+    System
+
+    • Optimized the stability of NFC feature
+
+    • Upgraded Android Security Patch to 2021.08
+
+    Ambient Display
+
+    • Newly added the screenshot feature for ambient display
+
+    • Newly added Bitmoji clock, co-designed with Snapchat, which will liven up the
+    ambient display with your personal Bitmoji avatar. Your avatar will update throughout
+    the day based on your activity and things happening around you ( Path: Settings
+    - Customization - Clock on ambient display - Bitmoji )
+
+    OnePlus Store
+
+    • An intuitive and convenient way to manage your OnePlus account, get easy-to-access
+    support, discover exciting members-only benefits, and shop for OnePlus products.
+    (Please note that it can be uninstalled)'
+  date: '2021-09-06'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.E.29_GLO_0290_2109061655/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.E.29_GLO_0290_2109061655/OnePlus7TProOxygen_14.E.29_OTA_0290_all_2109061655_4ee5.zip
+  md5: 26aacc1733669829c0b8ff699fcbe8a9
+  region: EEA
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.E.29_GLO_0290_2109061655
+- branch: Stable
   changelog: 'OnePlus8T HydrogenOS 11.0.11.11.KB05
 
     System
