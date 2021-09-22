@@ -1,4 +1,17 @@
 - branch: Stable
+  changelog: 'OnePlus 7 Pro 5G OxygenOS 10.0.14.GM27BA
+
+    System
+
+    • Updated Android security patch to 2021.09'
+  date: '2021-09-16'
+  device: OnePlus 7 Pro 5G
+  link: http://otafsg-cost-az.coloros.com/OnePlus7ProNR_EEA/OnePlus7ProNROxygen_21.E.30_GLO_030_2109160153/patch/amazone2/GLO/OnePlus7ProNROxygen/OnePlus7ProNROxygen_21.E.30_GLO_030_2109160153/OnePlus7ProNROxygen_21.E.30_OTA_030_all_2109160153_7c601c9.zip
+  md5: 6b36e1401eab229316f767708866b5b3
+  region: EEA
+  size: 2.3 GB
+  version: OnePlus7ProNROxygen_21.E.30_GLO_030_2109160153
+- branch: Stable
   changelog: 'OnePlus 7T OxygenOS 11.0.3.1.HD65BA
 
     System
