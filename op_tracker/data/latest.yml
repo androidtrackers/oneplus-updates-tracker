@@ -1,4 +1,50 @@
 - branch: Stable
+  changelog: 'OnePlus 6 OxygenOS 11.1.1.1
+
+    System
+
+    • Optimized the system power consumption to reduce heating
+
+    • Improved the gyro sensor sensitivity
+
+    • Upgrade Android Security Patch to 2021.09
+
+    • Improved system stability and fixed known issues
+
+    Network
+
+    • Optimized network connection stability'
+  date: '2021-09-17'
+  device: OnePlus 6
+  link: http://otafsg-cost-az.coloros.com/OnePlus6/OnePlus6Oxygen_22.J.61_GLO_0610_2109171645/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.61_GLO_0610_2109171645/OnePlus6Oxygen_22.J.61_OTA_0610_all_2109171645_3d7e69fe95cea09.zip
+  md5: 21d065bc476a190fecad7219ff2c679e
+  region: Global
+  size: 2.1 GB
+  version: OnePlus6Oxygen_22.J.61_GLO_0610_2109171645
+- branch: Stable
+  changelog: 'OnePlus 6T OxygenOS 11.1.1.1
+
+    System
+
+    • Optimized the system power consumption to reduce heating
+
+    • Improved the gyro sensor sensitivity
+
+    • Upgrade Android Security Patch to 2021.09
+
+    • Improved system stability and fixed known issues
+
+    Network
+
+    • Optimized network connection stability'
+  date: '2021-09-17'
+  device: OnePlus 6T
+  link: http://otafsg-cost-az.coloros.com/OnePlus6T/OnePlus6TOxygen_34.J.61_GLO_0610_2109171644/patch/amazone2/GLO/OnePlus6TOxygen/OnePlus6TOxygen_34.J.61_GLO_0610_2109171644/OnePlus6TOxygen_34.J.61_OTA_0610_all_2109171644_bae59a9.zip
+  md5: 892b1fe360501c25206d736fd87349df
+  region: Global
+  size: 2.2 GB
+  version: OnePlus6TOxygen_34.J.61_GLO_0610_2109171644
+- branch: Stable
   changelog: 'OnePlus 7 Pro 5G OxygenOS 10.0.14.GM27BA
 
     System
