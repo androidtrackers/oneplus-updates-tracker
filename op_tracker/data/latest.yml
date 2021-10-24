@@ -1,4 +1,17 @@
 - branch: Stable
+  changelog: "Nord OxygenOS 11.1.6.6.AC01AA\n \nSystem\n• Improved system stability\
+    \ and general bug fixes\n• Updated Android Security Patch to 2021.10\nOnePlus\
+    \ Store\n• An intuitive and convenient way to manage your OnePlus account, get\
+    \ easy-to-access support, discover exciting members-only benefits, and shop for\
+    \ OnePlus products. (Please note that it can be uninstalled)"
+  date: '2021-10-14'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord/NordOxygen_14.O.23_GLO_0230_2110142343/patch/amazone2/GLO/NordOxygen/NordOxygen_14.O.23_GLO_0230_2110142343/NordOxygen_14.O.23_OTA_0230_all_2110142343_5b6a530c0.zip
+  md5: 1ca0af9bdb3210130efeeab66114090a
+  region: Global
+  size: 3.0 GB
+  version: NordOxygen_14.O.23_GLO_0230_2110142343
+- branch: Stable
   changelog: 'OnePlus 6 OxygenOS 11.1.1.1
 
     System
