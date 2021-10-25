@@ -12,6 +12,23 @@
   size: 3.0 GB
   version: NordOxygen_14.O.23_GLO_0230_2110142343
 - branch: Stable
+  changelog: 'OnePlus8 HydrogenOS 11.0.13.13.IN21
+
+    System
+
+    • Optimized the using experience of QuickReply
+
+    • Updated Android security patch to 2021.10
+
+    • Improved system stability and fixed known issues'
+  date: '2021-10-10'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.H.43_0430_2110102116/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.43_0430_2110102116/OnePlus8Hydrogen_15.H.43_OTA_0430_all_2110102116_c6774cf5bc63d.zip
+  md5: 2949610fe37bd3f39998a9d06f9afe9a
+  region: China
+  size: 4.2 GB
+  version: OnePlus8Hydrogen_15.H.43_0430_2110102116
+- branch: Stable
   changelog: 'OnePlus 6 OxygenOS 11.1.1.1
 
     System
