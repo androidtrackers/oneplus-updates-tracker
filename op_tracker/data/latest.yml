@@ -12,6 +12,67 @@
   size: 3.0 GB
   version: NordOxygen_14.O.23_GLO_0230_2110142343
 - branch: Stable
+  changelog: "Nord OxygenOS 11.1.6.6.AC01DA\nSystem \n• Improved system stability\
+    \ and general bug fixes\n• Updated Android Security Patch to 2021.10"
+  date: '2021-10-14'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_IND/NordOxygen_14.I.23_GLO_0230_2110142343/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.23_GLO_0230_2110142343/NordOxygen_14.I.23_OTA_0230_all_2110142343_5979ca663.zip
+  md5: 09c8b3411a18ec92436190ee6c7e31f0
+  region: India
+  size: 3.1 GB
+  version: NordOxygen_14.I.23_GLO_0230_2110142343
+- branch: Stable
+  changelog: "Nord OxygenOS 11.1.6.6.AC01BA\n \nSystem\n• Improved system stability\
+    \ and general bug fixes\n• Updated Android Security Patch to 2021.10\nOnePlus\
+    \ Store\n• An intuitive and convenient way to manage your OnePlus account, get\
+    \ easy-to-access support, discover exciting members-only benefits, and shop for\
+    \ OnePlus products. (Please note that it can be uninstalled)"
+  date: '2021-10-14'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_EEA/NordOxygen_14.E.23_GLO_0230_2110142343/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.23_GLO_0230_2110142343/NordOxygen_14.E.23_OTA_0230_all_2110142343_1153beb.zip
+  md5: 726e574b4bbe2e647116734713d00d66
+  region: EEA
+  size: 3.0 GB
+  version: NordOxygen_14.E.23_GLO_0230_2110142343
+- branch: Stable
+  changelog: 'OnePlus 7T Pro HydrogenOS 11.0.4.1.HD01
+
+    System
+
+    • Updated Android Security Patch to 2021.10
+
+    • Improved system stability
+
+    Phone
+
+    • Fixed the issue of delayed display of incoming calls interface'
+  date: '2021-10-11'
+  device: OnePlus 7T Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7TPro_CH/OnePlus7TProHydrogen_14.H.27_0270_2110111212/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_14.H.27_0270_2110111212/OnePlus7TProHydrogen_14.H.27_OTA_0270_all_2110111212_7ffd8681684a8.zip
+  md5: 596d395cd6f35f5ddf011c59c5c22ae2
+  region: China
+  size: 3.9 GB
+  version: OnePlus7TProHydrogen_14.H.27_0270_2110111212
+- branch: Stable
+  changelog: 'OnePlus 7T HydrogenOS 11.0.4.1.HD65
+
+    System
+
+    • Updated Android Security Patch to 2021.10
+
+    • Improved system stability
+
+    Phone
+
+    • Fixed the issue of delayed display of incoming calls interface'
+  date: '2021-10-11'
+  device: OnePlus 7T
+  link: http://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.26_0260_2110111322/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.26_0260_2110111322/OnePlus7THydrogen_14.H.26_OTA_0260_all_2110111322_fe4c6fcf0349.zip
+  md5: 5491f295e655f76bd0a7c1177afae6fa
+  region: China
+  size: 3.9 GB
+  version: OnePlus7THydrogen_14.H.26_0260_2110111322
+- branch: Stable
   changelog: 'OnePlus8 HydrogenOS 11.0.13.13.IN21
 
     System
@@ -28,6 +89,17 @@
   region: China
   size: 4.2 GB
   version: OnePlus8Hydrogen_15.H.43_0430_2110102116
+- branch: Stable
+  changelog: "OnePlus 8T OxygenOS 11.0.10.10.KB05DA \nSystem\n• Added the Files by\
+    \ Google, find files faster with search and simple browsing \n• Updated Android\
+    \ security patch to 2021.10\n• Improved system stability\n• Fixed known issues"
+  date: '2021-10-09'
+  device: OnePlus 8T
+  link: http://otafsg-cost-az.coloros.com/OnePlus8T_IND/OnePlus8TOxygen_15.I.27_GLO_0270_2110091932/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.I.27_GLO_0270_2110091932/OnePlus8TOxygen_15.I.27_OTA_0270_all_2110091932_07e849a2754ae.zip
+  md5: 79683af7c28d3946a797bba273257a6e
+  region: India
+  size: 3.1 GB
+  version: OnePlus8TOxygen_15.I.27_GLO_0270_2110091932
 - branch: Stable
   changelog: 'OnePlus 6 OxygenOS 11.1.1.1
 
