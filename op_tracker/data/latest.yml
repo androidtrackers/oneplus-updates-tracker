@@ -101,6 +101,23 @@
   size: 3.1 GB
   version: OnePlus8TOxygen_15.I.27_GLO_0270_2110091932
 - branch: Stable
+  changelog: 'OnePlus Nord N10 OxygenOS 11.0.2.BE89BA
+
+    System
+
+    • Updated Android Security Patch to 2021.10
+
+    Network
+
+    • Improved the stability of the communication network'
+  date: '2021-09-30'
+  device: OnePlus Nord N10
+  link: http://otafsg-cost-az.coloros.com/OnePlusN10_EEA/OnePlusN10Oxygen_14.E.32_GLO_0320_2109301851/patch/amazone2/GLO/OnePlusN10Oxygen/OnePlusN10Oxygen_14.E.32_GLO_0320_2109301851/OnePlusN10Oxygen_14.E.32_OTA_0320_all_2109301851_27439186dd4.zip
+  md5: 8c6a624f455030349650ac9a8d470bd2
+  region: EEA
+  size: 2.9 GB
+  version: OnePlusN10Oxygen_14.E.32_GLO_0320_2109301851
+- branch: Stable
   changelog: 'OnePlus 6 OxygenOS 11.1.1.1
 
     System
