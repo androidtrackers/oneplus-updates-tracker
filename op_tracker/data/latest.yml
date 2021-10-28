@@ -90,6 +90,17 @@
   size: 4.2 GB
   version: OnePlus8Hydrogen_15.H.43_0430_2110102116
 - branch: Stable
+  changelog: "OnePlus8T HydrogenOS 11.0.12.12.KB05 \nSystem\n• Optimized the using\
+    \ experience of QuickReply\n• Updated Android security patch to 2021.10\n• Improved\
+    \ system stability and fixed known issues"
+  date: '2021-10-10'
+  device: OnePlus 8T
+  link: http://otafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.31_0310_2110102354/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.31_0310_2110102354/OnePlus8THydrogen_15.H.31_OTA_0310_all_2110102354_e0a6062dc4008.zip
+  md5: efe9c8b014802129559f5b497581fc8b
+  region: China
+  size: 4.5 GB
+  version: OnePlus8THydrogen_15.H.31_0310_2110102354
+- branch: Stable
   changelog: "OnePlus 8T OxygenOS 11.0.10.10.KB05DA \nSystem\n• Added the Files by\
     \ Google, find files faster with search and simple browsing \n• Updated Android\
     \ security patch to 2021.10\n• Improved system stability\n• Fixed known issues"
@@ -100,6 +111,23 @@
   region: India
   size: 3.1 GB
   version: OnePlus8TOxygen_15.I.27_GLO_0270_2110091932
+- branch: Stable
+  changelog: 'OnePlus8Pro HydrogenOS 11.0.13.13.IN11
+
+    System
+
+    • Optimized the using experience of QuickReply
+
+    • Updated Android security patch to 2021.10
+
+    • Improved system stability and fixed known issues'
+  date: '2021-10-09'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.H.43_0430_2110091936/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.43_0430_2110091936/OnePlus8ProHydrogen_15.H.43_OTA_0430_all_2110091936_c4e92.zip
+  md5: dfddf78957ebf56f3c9aada26a8ccb02
+  region: China
+  size: 4.3 GB
+  version: OnePlus8ProHydrogen_15.H.43_0430_2110091936
 - branch: Stable
   changelog: 'OnePlus Nord N10 OxygenOS 11.0.2.BE89BA
 
@@ -117,6 +145,21 @@
   region: EEA
   size: 2.9 GB
   version: OnePlusN10Oxygen_14.E.32_GLO_0320_2109301851
+- branch: Stable
+  changelog: 'OnePlus Nord N100 OxygenOS 11.0.2.BE83BA
+
+    System
+
+    • Improved system stability and general bug fixes
+
+    • Updated Android Security Patch to 2021.10'
+  date: '2021-09-27'
+  device: OnePlus Nord N100
+  link: http://otafsg-cost-az.coloros.com/OnePlusN100_EEA/OnePlusN100Oxygen_14.E.22_GLO_0220_2109272259/patch/amazone2/GLO/OnePlusN100Oxygen/OnePlusN100Oxygen_14.E.22_GLO_0220_2109272259/OnePlusN100Oxygen_14.E.22_OTA_0220_all_2109272259_fccd.zip
+  md5: 7a31dfb57b23dffd9d4da0c52e9f4acb
+  region: EEA
+  size: 2.6 GB
+  version: OnePlusN100Oxygen_14.E.22_GLO_0220_2109272259
 - branch: Stable
   changelog: 'OnePlus 6 OxygenOS 11.1.1.1
 
