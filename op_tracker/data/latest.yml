@@ -1,4 +1,26 @@
 - branch: Stable
+  changelog: "OnePlus 8 Pro OxygenOS 11.0.9.9.IN11DA\nSystem\n• Added the Files by\
+    \ Google, find files faster with search and simple browsing \n• Updated Android\
+    \ security patch to 2021.10\n• Improved system stability\n• Fixed known issues"
+  date: '2021-10-26'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.I.40_GLO_0400_2110261827/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.40_GLO_0400_2110261827/OnePlus8ProOxygen_15.I.40_OTA_0400_all_2110261827_b40895b30b.zip
+  md5: 138983dbf0418cc19271e4aec220dba9
+  region: India
+  size: 3.3 GB
+  version: OnePlus8ProOxygen_15.I.40_GLO_0400_2110261827
+- branch: Stable
+  changelog: "OnePlus 8 OxygenOS 11.0.9.9.IN21DA\nSystem\n• Added the Files by Google,\
+    \ find files faster with search and simple browsing \n• Updated Android security\
+    \ patch to 2021.10\n• Improved system stability\n• Fixed known issues"
+  date: '2021-10-26'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.I.40_GLO_0400_2110261826/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.40_GLO_0400_2110261826/OnePlus8Oxygen_15.I.40_OTA_0400_all_2110261826_6e5aa.zip
+  md5: 68bcaa71db8c2c2ad621fa7ddd1f57bf
+  region: India
+  size: 3.3 GB
+  version: OnePlus8Oxygen_15.I.40_GLO_0400_2110261826
+- branch: Stable
   changelog: 'OnePlus 7T Pro OxygenOS 11.0.4.1.HD01BA
 
     System
