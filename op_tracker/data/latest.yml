@@ -246,6 +246,39 @@
   size: 4.3 GB
   version: OnePlus8ProHydrogen_15.H.43_0430_2110091936
 - branch: Stable
+  changelog: "OnePlus 8T OxygenOS 11.0.11.11.KB05BA \nSystem\n• Added the Files by\
+    \ Google, find files faster with search and simple browsing \n• Updated Android\
+    \ security patch to 2021.10\n• Improved system stability\n• Fixed known issues"
+  date: '2021-10-09'
+  device: OnePlus 8T
+  link: http://otafsg-cost-az.coloros.com/OnePlus8T_EEA/OnePlus8TOxygen_15.E.29_GLO_0290_2110091931/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.E.29_GLO_0290_2110091931/OnePlus8TOxygen_15.E.29_OTA_0290_all_2110091931_31fe07.zip
+  md5: 6f05457307fedda8826ed2902e59eb11
+  region: EEA
+  size: 3.0 GB
+  version: OnePlus8TOxygen_15.E.29_GLO_0290_2110091931
+- branch: Stable
+  changelog: "OnePlus 8 OxygenOS 11.0.9.9.IN21BA\nSystem\n• Added the Files by Google,\
+    \ find files faster with search and simple browsing \n• Updated Android security\
+    \ patch to 2021.10\n• Improved system stability\n• Fixed known issues"
+  date: '2021-10-09'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_EEA/OnePlus8Oxygen_15.E.40_GLO_0400_2110091932/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.E.40_GLO_0400_2110091932/OnePlus8Oxygen_15.E.40_OTA_0400_all_2110091932_aca872.zip
+  md5: 2d4b6f12ebbe4fc90b55e186777a15bd
+  region: EEA
+  size: 3.1 GB
+  version: OnePlus8Oxygen_15.E.40_GLO_0400_2110091932
+- branch: Stable
+  changelog: "OnePlus 8 Pro OxygenOS 11.0.9.9.IN11BA \nSystem\n• Added the Files by\
+    \ Google, find files faster with search and simple browsing \n• Updated Android\
+    \ security patch to 2021.10\n• Improved system stability\n• Fixed known issues"
+  date: '2021-10-09'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_EEA/OnePlus8ProOxygen_15.E.40_GLO_0400_2110091931/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.E.40_GLO_0400_2110091931/OnePlus8ProOxygen_15.E.40_OTA_0400_all_2110091931_1cb19fe3fd.zip
+  md5: 182e3aadc3f17cca21322dcd43404b19
+  region: EEA
+  size: 3.1 GB
+  version: OnePlus8ProOxygen_15.E.40_GLO_0400_2110091931
+- branch: Stable
   changelog: 'OnePlus Nord N10 OxygenOS 11.0.2.BE89BA
 
     System
