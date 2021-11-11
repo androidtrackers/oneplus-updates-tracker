@@ -116,6 +116,25 @@
   size: 2.9 GB
   version: OnePlus7TProOxygen_14.I.30_GLO_0300_2110211650
 - branch: Stable
+  changelog: 'OnePlus 7T OxygenOS 11.0.4.1.HD65AA
+
+    System
+
+    • Updated Android Security Patch to 2021.10
+
+    • Improved system stability
+
+    Phone
+
+    • Fixed the issue of delayed display of incoming calls interface'
+  date: '2021-10-21'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.I.30_GLO_0300_2110211543/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.I.30_GLO_0300_2110211543/OnePlus7TOxygen_14.I.30_OTA_0300_all_2110211543_8e1ba734d.zip
+  md5: c32aeeea236d07718dd0f0678a78467c
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.I.30_GLO_0300_2110211543
+- branch: Stable
   changelog: "Nord OxygenOS 11.1.6.6.AC01AA\n \nSystem\n• Improved system stability\
     \ and general bug fixes\n• Updated Android Security Patch to 2021.10\nOnePlus\
     \ Store\n• An intuitive and convenient way to manage your OnePlus account, get\
