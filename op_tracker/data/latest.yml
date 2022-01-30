@@ -1,4 +1,368 @@
 - branch: Stable
+  changelog: 'OnePlus Nord N10 OxygenOS 11.0.4.BE89BA
+
+    System
+
+    • Updated Android Security Patch to 2022.01'
+  date: '2021-12-29'
+  device: OnePlus Nord N10
+  link: http://otafsg-cost-az.coloros.com/OnePlusN10_EEA/OnePlusN10Oxygen_14.E.34_GLO_0340_2112291422/patch/amazone2/GLO/OnePlusN10Oxygen/OnePlusN10Oxygen_14.E.34_GLO_0340_2112291422/OnePlusN10Oxygen_14.E.34_OTA_0340_all_2112291422_b4be597aab15f24.zip
+  md5: 16d32ae0b44cf32eb3bc2d8016e191d9
+  region: EEA
+  size: 2.9 GB
+  version: OnePlusN10Oxygen_14.E.34_GLO_0340_2112291422
+- branch: Stable
+  changelog: 'OnePlus 7T HydrogenOS 11.0.5.1.HD65
+
+    System
+
+    • Updated Android Security Patch to 2021.12
+
+    • Improved system stability'
+  date: '2021-12-22'
+  device: OnePlus 7T
+  link: http://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.27_0270_2112221605/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.27_0270_2112221605/OnePlus7THydrogen_14.H.27_OTA_0270_all_2112221605_1b9755f393c.zip
+  md5: b4638030c0a96d277baab9390e31ee1d
+  region: China
+  size: 3.9 GB
+  version: OnePlus7THydrogen_14.H.27_0270_2112221605
+- branch: Stable
+  changelog: 'OnePlus 7T Pro HydrogenOS 11.0.5.1.HD01
+
+    System
+
+    • Updated Android Security Patch to 2021.12
+
+    • Improved system stability'
+  date: '2021-12-22'
+  device: OnePlus 7T Pro
+  link: http://otafsc-cost.h2os.com/OnePlus7TPro_CH/OnePlus7TProHydrogen_14.H.28_0280_2112221615/patch/CHN/OnePlus7TProHydrogen/OnePlus7TProHydrogen_14.H.28_0280_2112221615/OnePlus7TProHydrogen_14.H.28_OTA_0280_all_2112221615_6623ed2e3d9da8.zip
+  md5: 69aab2fe6249d85782bd0f5ece409ed7
+  region: China
+  size: 3.9 GB
+  version: OnePlus7TProHydrogen_14.H.28_0280_2112221615
+- branch: Stable
+  changelog: 'OnePlus 8T OxygenOS 11.0.12.12.KB05BA
+
+    System
+
+    • Optimized the UI display of Settings interface
+
+    • Fixed the issue that Google Assistant and Gpay doesn''t display as expected
+    in the Setup Wizard
+
+    • Fixed the low probability issue of WhatsApp crash
+
+    • Updated Android security patch to 2021.12'
+  date: '2021-12-21'
+  device: OnePlus 8T
+  link: http://otafsg-cost-az.coloros.com/OnePlus8T_EEA/OnePlus8TOxygen_15.E.30_GLO_0300_2112211346/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.E.30_GLO_0300_2112211346/OnePlus8TOxygen_15.E.30_OTA_0300_all_2112211346_c9165fe0b44.zip
+  md5: 990332455aa6f4a7a8561ac1eedd2dd1
+  region: EEA
+  size: 3.0 GB
+  version: OnePlus8TOxygen_15.E.30_GLO_0300_2112211346
+- branch: Stable
+  changelog: 'OnePlus8T HydrogenOS 11.0.13.13.KB05
+
+    System
+
+    • Optimized the application installation operation experience
+
+    • Updated Android security patch to 2021.12
+
+    • Fixed known issues to improve the overall stability'
+  date: '2021-12-21'
+  device: OnePlus 8T
+  link: http://otafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.32_0320_2112211345/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.32_0320_2112211345/OnePlus8THydrogen_15.H.32_OTA_0320_all_2112211345_cbefb8.zip
+  md5: 09d43664736e97c0ea9e456a0ef1e5c2
+  region: China
+  size: 4.5 GB
+  version: OnePlus8THydrogen_15.H.32_0320_2112211345
+- branch: Stable
+  changelog: 'OnePlus 8T OxygenOS 11.0.11.11.KB05DA
+
+    System
+
+    • Optimized the UI display of Settings interface
+
+    • Fixed the issue that Google Assistant and Gpay doesn''t display as expected
+    in the Setup Wizard
+
+    • Fixed the low probability issue of WhatsApp crash
+
+    • Updated Android security patch to 2021.12'
+  date: '2021-12-21'
+  device: OnePlus 8T
+  link: http://otafsg-cost-az.coloros.com/OnePlus8T_IND/OnePlus8TOxygen_15.I.28_GLO_0280_2112211346/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.I.28_GLO_0280_2112211346/OnePlus8TOxygen_15.I.28_OTA_0280_all_2112211346_f7f2831d.zip
+  md5: c1c720195730a7cf71abc9d2ed08ae78
+  region: India
+  size: 3.1 GB
+  version: OnePlus8TOxygen_15.I.28_GLO_0280_2112211346
+- branch: Stable
+  changelog: 'OnePlus 7T OxygenOS 11.0.5.1.HD65BA
+
+    System
+
+    • Fixed the issue that WhatsApp cannot send and receive media files
+
+    • Updated Android Security Patch to 2021.12
+
+    • Improved system stability'
+  date: '2021-12-10'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.E.31_GLO_0310_2112101827/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.E.31_GLO_0310_2112101827/OnePlus7TOxygen_14.E.31_OTA_0310_all_2112101827_c9a10b.zip
+  md5: b24ee68d5eedeb0e6c2c01b733f87596
+  region: EEA
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.E.31_GLO_0310_2112101827
+- branch: Stable
+  changelog: 'OnePlus 7T Pro OxygenOS 11.0.5.1.HD01BA
+
+    System
+
+    • Fixed the issue that WhatsApp cannot send and receive media files
+
+    • Updated Android Security Patch to 2021.12
+
+    • Improved system stability'
+  date: '2021-12-10'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.E.31_GLO_0310_2112102111/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.E.31_GLO_0310_2112102111/OnePlus7TProOxygen_14.E.31_OTA_0310_all_2112102111_8ff92d1f3.zip
+  md5: d3d2d22dd4df778c7f0f5c7807aed602
+  region: EEA
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.E.31_GLO_0310_2112102111
+- branch: Stable
+  changelog: 'OnePlus 7T Pro OxygenOS 11.0.5.1.HD01AA
+
+    System
+
+    • Fixed the issue that WhatsApp cannot send and receive media files
+
+    • Updated Android Security Patch to 2021.12
+
+    • Improved system stability'
+  date: '2021-12-10'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.O.31_GLO_0310_2112102112/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.O.31_GLO_0310_2112102112/OnePlus7TProOxygen_14.O.31_OTA_0310_all_2112102112_b377ce934.zip
+  md5: 5a6bf85f0ce117f6e5f2fca1bfb320ce
+  region: Global
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.O.31_GLO_0310_2112102112
+- branch: Stable
+  changelog: 'OnePlus 7T Pro OxygenOS 11.0.5.1.HD01AA
+
+    System
+
+    • Fixed the issue that WhatsApp cannot send and receive media files
+
+    • Updated Android Security Patch to 2021.12
+
+    • Improved system stability'
+  date: '2021-12-10'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.I.31_GLO_0310_2112102112/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.I.31_GLO_0310_2112102112/OnePlus7TProOxygen_14.I.31_OTA_0310_all_2112102112_a6bf57698d.zip
+  md5: bc7667cfa9434cf5f17cb1fc694aab40
+  region: India
+  size: 2.9 GB
+  version: OnePlus7TProOxygen_14.I.31_GLO_0310_2112102112
+- branch: Stable
+  changelog: 'OnePlus 7T OxygenOS 11.0.5.1.HD65AA
+
+    System
+
+    • Fixed the issue that WhatsApp cannot send and receive media files
+
+    • Updated Android Security Patch to 2021.12
+
+    • Improved system stability'
+  date: '2021-12-10'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.O.31_GLO_0310_2112101928/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.31_GLO_0310_2112101928/OnePlus7TOxygen_14.O.31_OTA_0310_all_2112101928_afcb6cad3910.zip
+  md5: c507a7c84a05b5afe77385021b2ce1be
+  region: Global
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.O.31_GLO_0310_2112101928
+- branch: Stable
+  changelog: 'OnePlus 7T OxygenOS 11.0.5.1.HD65AA
+
+    System
+
+    • Fixed the issue that WhatsApp cannot send and receive media files
+
+    • Updated Android Security Patch to 2021.12
+
+    • Improved system stability'
+  date: '2021-12-10'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.I.31_GLO_0310_2112101928/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.I.31_GLO_0310_2112101928/OnePlus7TOxygen_14.I.31_OTA_0310_all_2112101928_89439b64.zip
+  md5: ef3ad3623454dabe6da1a55999cb1d1a
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.I.31_GLO_0310_2112101928
+- branch: Stable
+  changelog: 'OnePlus8Pro HydrogenOS 11.0.14.14.IN11
+
+    System
+
+    • Optimized the application installation operation experience
+
+    • Updated Android security patch to 2021.12
+
+    • Fixed known issues to improve the overall stability'
+  date: '2021-12-09'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.H.44_0440_2112090003/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.44_0440_2112090003/OnePlus8ProHydrogen_15.H.44_OTA_0440_all_2112090003_6875290.zip
+  md5: 041d6da4bd6a5cb5e4e552c6782c23e4
+  region: China
+  size: 4.3 GB
+  version: OnePlus8ProHydrogen_15.H.44_0440_2112090003
+- branch: Stable
+  changelog: 'OnePlus8 HydrogenOS 11.0.14.14.IN21
+
+    System
+
+    • Optimized the application installation operation experience
+
+    • Updated Android security patch to 2021.12
+
+    • Fixed known issues to improve the overall stability'
+  date: '2021-12-08'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.H.44_0440_2112082319/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.44_0440_2112082319/OnePlus8Hydrogen_15.H.44_OTA_0440_all_2112082319_e191a15328ccd.zip
+  md5: f1fb72e6786395f6b11a9c37d32e987e
+  region: China
+  size: 4.2 GB
+  version: OnePlus8Hydrogen_15.H.44_0440_2112082319
+- branch: Stable
+  changelog: "Nord OxygenOS 11.1.7.7.AC01AA\n \nSystem\n• Fixed the issue of probable\
+    \ failure of call forwarding function\n• Improved system stability and fixed general\
+    \ bugs\n• Updated Android Security Patch to 2021.11"
+  date: '2021-12-03'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord/NordOxygen_14.O.24_GLO_0240_2112031600/patch/amazone2/GLO/NordOxygen/NordOxygen_14.O.24_GLO_0240_2112031600/NordOxygen_14.O.24_OTA_0240_all_2112031600_e8d0045b5c33.zip
+  md5: 4bc370222064f7d5a6e71b942e38eb8b
+  region: Global
+  size: 3.0 GB
+  version: NordOxygen_14.O.24_GLO_0240_2112031600
+- branch: Stable
+  changelog: "Nord OxygenOS 11.1.7.7.AC01BA\n \nSystem\n• Fixed the issue of probable\
+    \ failure of call forwarding function\n• Improved system stability and fixed general\
+    \ bugs\n• Updated Android Security Patch to 2021.11"
+  date: '2021-12-03'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_EEA/NordOxygen_14.E.24_GLO_0240_2112031600/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.24_GLO_0240_2112031600/NordOxygen_14.E.24_OTA_0240_all_2112031600_51b504.zip
+  md5: 88e94467cb50fbd3b639fe24a004fed3
+  region: EEA
+  size: 3.0 GB
+  version: NordOxygen_14.E.24_GLO_0240_2112031600
+- branch: Stable
+  changelog: "Nord OxygenOS 11.1.7.7.AC01DA\n \nSystem\n• Fixed the issue of probable\
+    \ failure of call forwarding function\n• Improved system stability and fixed general\
+    \ bugs\n• Updated Android Security Patch to 2021.11"
+  date: '2021-12-03'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_IND/NordOxygen_14.I.24_GLO_0240_2112032112/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.24_GLO_0240_2112032112/NordOxygen_14.I.24_OTA_0240_all_2112032112_590b68.zip
+  md5: be7bdba113380c4f2c3b30c665ec1d01
+  region: India
+  size: 3.1 GB
+  version: NordOxygen_14.I.24_GLO_0240_2112032112
+- branch: Stable
+  changelog: 'OnePlus Nord N100 OxygenOS 11.0.3.BE83BA
+
+    System
+
+    • Improved system stability and general bug fixes
+
+    • Updated Android Security Patch to 2021.12'
+  date: '2021-12-01'
+  device: OnePlus Nord N100
+  link: http://otafsg-cost-az.coloros.com/OnePlusN100_EEA/OnePlusN100Oxygen_14.E.23_GLO_0230_2112012136/patch/amazone2/GLO/OnePlusN100Oxygen/OnePlusN100Oxygen_14.E.23_GLO_0230_2112012136/OnePlusN100Oxygen_14.E.23_OTA_0230_all_2112012136_9c6407f2f.zip
+  md5: b0e4540ee59cdb1c7ad475eced3c1a3c
+  region: EEA
+  size: 2.6 GB
+  version: OnePlusN100Oxygen_14.E.23_GLO_0230_2112012136
+- branch: Stable
+  changelog: 'OnePlus 8 Pro OxygenOS 11.0.10.10.IN11DA
+
+    System
+
+    • Optimized the UI display of Settings interface
+
+    • Fixed the issue that Google Assistant and Gpay doesn''t display as expected
+    in the Setup Wizard
+
+    • Fixed the low probability issue of WhatsApp crash
+
+    • Updated Android security patch to 2021.12'
+  date: '2021-11-29'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.I.41_GLO_0410_2111291826/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.41_GLO_0410_2111291826/OnePlus8ProOxygen_15.I.41_OTA_0410_all_2111291826_6e60c475.zip
+  md5: 4c1212deb5e2329438699157c70be09d
+  region: India
+  size: 3.3 GB
+  version: OnePlus8ProOxygen_15.I.41_GLO_0410_2111291826
+- branch: Stable
+  changelog: 'OnePlus 8 Pro OxygenOS 11.0.10.10.IN11BA
+
+    System
+
+    • Optimized the UI display of Settings interface
+
+    • Fixed the issue that Google Assistant and Gpay doesn''t display as expected
+    in the Setup Wizard
+
+    • Fixed the low probability issue of WhatsApp crash
+
+    • Updated Android security patch to 2021.12'
+  date: '2021-11-29'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_EEA/OnePlus8ProOxygen_15.E.41_GLO_0410_2111291826/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.E.41_GLO_0410_2111291826/OnePlus8ProOxygen_15.E.41_OTA_0410_all_2111291826_09ae329.zip
+  md5: bdb97c35f5302ddd37a759622264f0fa
+  region: EEA
+  size: 3.1 GB
+  version: OnePlus8ProOxygen_15.E.41_GLO_0410_2111291826
+- branch: Stable
+  changelog: 'OnePlus 8 OxygenOS 11.0.10.10.IN21BA
+
+    System
+
+    • Optimized the UI display of Settings interface
+
+    • Fixed the issue that Google Assistant and Gpay doesn''t display as expected
+    in the Setup Wizard
+
+    • Fixed the low probability issue of WhatsApp crash
+
+    • Updated Android security patch to 2021.12'
+  date: '2021-11-29'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_EEA/OnePlus8Oxygen_15.E.41_GLO_0410_2111291823/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.E.41_GLO_0410_2111291823/OnePlus8Oxygen_15.E.41_OTA_0410_all_2111291823_4c12cecdd72269c.zip
+  md5: dc20da9b83d8f042ef28c81f81983e12
+  region: EEA
+  size: 3.1 GB
+  version: OnePlus8Oxygen_15.E.41_GLO_0410_2111291823
+- branch: Stable
+  changelog: 'OnePlus 8 OxygenOS 11.0.10.10.IN21DA
+
+    System
+
+    • Optimized the UI display of Settings interface
+
+    • Fixed the issue that Google Assistant and Gpay doesn''t display as expected
+    in the Setup Wizard
+
+    • Fixed the low probability issue of WhatsApp crash
+
+    • Updated Android security patch to 2021.12'
+  date: '2021-11-29'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.I.41_GLO_0410_2111291828/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.41_GLO_0410_2111291828/OnePlus8Oxygen_15.I.41_OTA_0410_all_2111291828_e92d8a68.zip
+  md5: d0863cac0e3d0738a940ba5df2fa1fbc
+  region: India
+  size: 3.3 GB
+  version: OnePlus8Oxygen_15.I.41_GLO_0410_2111291828
+- branch: Stable
   changelog: 'OnePlus 7 Pro 5G OxygenOS 10.0.15 GM27BA
 
     System
@@ -43,6 +407,21 @@
   region: Global
   size: 2.2 GB
   version: OnePlus6TOxygen_34.J.62_GLO_0620_2111252336
+- branch: Stable
+  changelog: 'OnePlus Nord N10 OxygenOS 11.0.3.BE89BA
+
+    System
+
+    • Improved system stability and general bug fixes
+
+    • Updated Android Security Patch to 2021.11'
+  date: '2021-11-18'
+  device: OnePlus Nord N10
+  link: http://otafsg-cost-az.coloros.com/OnePlusN10_EEA/OnePlusN10Oxygen_14.E.33_GLO_0330_2111181839/patch/amazone2/GLO/OnePlusN10Oxygen/OnePlusN10Oxygen_14.E.33_GLO_0330_2111181839/OnePlusN10Oxygen_14.E.33_OTA_0330_all_2111181839_7da5823f.zip
+  md5: d33db6677c054effe3f53cbdbe71c5e2
+  region: EEA
+  size: 2.9 GB
+  version: OnePlusN10Oxygen_14.E.33_GLO_0330_2111181839
 - branch: Stable
   changelog: "OnePlus 8 Pro OxygenOS 11.0.9.9.IN11DA\nSystem\n• Added the Files by\
     \ Google, find files faster with search and simple browsing \n• Updated Android\
