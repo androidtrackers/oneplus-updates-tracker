@@ -1,4 +1,34 @@
 - branch: Stable
+  changelog: "Nord OxygenOS 11.1.8.8.AC01DA\n \nSystem\n• Improve system stability\n\
+    • Updated Android security patch to 2022-01"
+  date: '2022-01-17'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_IND/NordOxygen_14.I.25_GLO_0250_2201171943/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.25_GLO_0250_2201171943/NordOxygen_14.I.25_OTA_0250_all_2201171943_5a9917597b9df.zip
+  md5: 289f501a27f849fdb053a1000a9ac030
+  region: India
+  size: 3.1 GB
+  version: NordOxygen_14.I.25_GLO_0250_2201171943
+- branch: Stable
+  changelog: "Nord OxygenOS 11.1.8.8.AC01BA\n \nSystem\n• Improve system stability\n\
+    • Updated Android security patch to 2022-01"
+  date: '2022-01-17'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_EEA/NordOxygen_14.E.25_GLO_0250_2201171943/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.25_GLO_0250_2201171943/NordOxygen_14.E.25_OTA_0250_all_2201171943_87c5b0644.zip
+  md5: d9d23e797bd3c3a9ee62976305be38cc
+  region: EEA
+  size: 3.0 GB
+  version: NordOxygen_14.E.25_GLO_0250_2201171943
+- branch: Stable
+  changelog: "Nord OxygenOS 11.1.8.8.AC01AA\n \nSystem\n• Improve system stability\n\
+    • Updated Android security patch to 2022-01"
+  date: '2022-01-17'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord/NordOxygen_14.O.25_GLO_0250_2201171943/patch/amazone2/GLO/NordOxygen/NordOxygen_14.O.25_GLO_0250_2201171943/NordOxygen_14.O.25_OTA_0250_all_2201171943_ecbe544c8706694.zip
+  md5: e366c01104e03a5dc9063742959feb5c
+  region: Global
+  size: 3.0 GB
+  version: NordOxygen_14.O.25_GLO_0250_2201171943
+- branch: Stable
   changelog: 'OnePlus Nord N10 OxygenOS 11.0.4.BE89BA
 
     System
