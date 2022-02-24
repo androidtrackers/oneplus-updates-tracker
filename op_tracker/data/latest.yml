@@ -1,4 +1,17 @@
 - branch: Stable
+  changelog: 'OnePlus 8T OxygenOS 11.0.12.12.KB05DA
+
+    System
+
+    • Updated Android Security Patch to 2022.02'
+  date: '2022-02-18'
+  device: OnePlus 8T
+  link: http://otafsg-cost-az.coloros.com/OnePlus8T_IND/OnePlus8TOxygen_15.I.29_GLO_0290_2202182359/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.I.29_GLO_0290_2202182359/OnePlus8TOxygen_15.I.29_OTA_0290_all_2202182359_e054f01fb15b914.zip
+  md5: 8bf8bcb47a8567f3681a69fec77232c6
+  region: India
+  size: 3.1 GB
+  version: OnePlus8TOxygen_15.I.29_GLO_0290_2202182359
+- branch: Stable
   changelog: 'OnePlus 7T Pro OxygenOS 11.0.6.1.HD01AA
 
     System
@@ -13,6 +26,66 @@
   region: India
   size: 2.9 GB
   version: OnePlus7TProOxygen_14.I.32_GLO_0320_2202120224
+- branch: Stable
+  changelog: 'OnePlus 7T Pro OxygenOS 11.0.6.1.HD01BA
+
+    System
+
+    • Updated Android Security Patch to 2022.02
+
+    • Improved system stability'
+  date: '2022-02-12'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.E.32_GLO_0320_2202120232/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.E.32_GLO_0320_2202120232/OnePlus7TProOxygen_14.E.32_OTA_0320_all_2202120232_48c6d30f81aa.zip
+  md5: d7a311b529929e609af83129d3b97747
+  region: EEA
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.E.32_GLO_0320_2202120232
+- branch: Stable
+  changelog: 'OnePlus 7T Pro OxygenOS 11.0.6.1.HD01AA
+
+    System
+
+    • Updated Android Security Patch to 2022.02
+
+    • Improved system stability'
+  date: '2022-02-12'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.O.32_GLO_0320_2202120224/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.O.32_GLO_0320_2202120224/OnePlus7TProOxygen_14.O.32_OTA_0320_all_2202120224_617c405253e5a70.zip
+  md5: 84ad1df704e3d3f35bd58dd768e62137
+  region: Global
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.O.32_GLO_0320_2202120224
+- branch: Stable
+  changelog: 'OnePlus 7T OxygenOS 11.0.6.1.HD65BA
+
+    System
+
+    • Updated Android Security Patch to 2022.02
+
+    • Improved system stability'
+  date: '2022-02-11'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.E.32_GLO_0320_2202112233/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.E.32_GLO_0320_2202112233/OnePlus7TOxygen_14.E.32_OTA_0320_all_2202112233_6abf801ca01a.zip
+  md5: 8a79cb671f08214801bbb0cf48a74f83
+  region: EEA
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.E.32_GLO_0320_2202112233
+- branch: Stable
+  changelog: 'OnePlus 7T OxygenOS 11.0.6.1.HD65AA
+
+    System
+
+    • Updated Android Security Patch to 2022.02
+
+    • Improved system stability'
+  date: '2022-02-11'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.O.32_GLO_0320_2202112234/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.32_GLO_0320_2202112234/OnePlus7TOxygen_14.O.32_OTA_0320_all_2202112234_3f24a87f818973.zip
+  md5: 58478bea6bc51b6415e8a7a6f2fbc6a6
+  region: Global
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.O.32_GLO_0320_2202112234
 - branch: Stable
   changelog: "Nord OxygenOS 11.1.8.8.AC01DA\n \nSystem\n• Improve system stability\n\
     • Updated Android security patch to 2022-01"
