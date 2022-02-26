@@ -1,4 +1,30 @@
 - branch: Stable
+  changelog: 'Nord OxygenOS 11.1.9.9.AC01AA
+
+    Gallery
+
+    • [Fixed] freezing issue when sharing pictures in Gallery'
+  date: '2022-02-23'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord/NordOxygen_14.O.26_GLO_0260_2202231415/patch/amazone2/GLO/NordOxygen/NordOxygen_14.O.26_GLO_0260_2202231415/NordOxygen_14.O.26_OTA_0260_all_2202231415_5f25.zip
+  md5: 5c687db1dc07355116728dd02c72071c
+  region: Global
+  size: 3.0 GB
+  version: NordOxygen_14.O.26_GLO_0260_2202231415
+- branch: Stable
+  changelog: 'Nord OxygenOS 11.1.9.9.AC01BA
+
+    Gallery
+
+    • [Fixed] freezing issue when sharing pictures in Gallery'
+  date: '2022-02-22'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_EEA/NordOxygen_14.E.26_GLO_0260_2202221915/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.26_GLO_0260_2202221915/NordOxygen_14.E.26_OTA_0260_all_2202221915_74563f6b85f2.zip
+  md5: c00397ee8f6e17e24290948dfe71ffe6
+  region: EEA
+  size: 3.0 GB
+  version: NordOxygen_14.E.26_GLO_0260_2202221915
+- branch: Stable
   changelog: 'OnePlus 8T OxygenOS 11.0.12.12.KB05DA
 
     System
@@ -11,6 +37,45 @@
   region: India
   size: 3.1 GB
   version: OnePlus8TOxygen_15.I.29_GLO_0290_2202182359
+- branch: Stable
+  changelog: 'OnePlus 8 Pro OxygenOS 11.0.11.11.IN11DA
+
+    System
+
+    • Updated Android Security Patch to 2022.02'
+  date: '2022-02-14'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_IND/OnePlus8ProOxygen_15.I.42_GLO_0420_2202142223/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.I.42_GLO_0420_2202142223/OnePlus8ProOxygen_15.I.42_OTA_0420_all_2202142223_e70a39af.zip
+  md5: 1fb4e0175ecc387ce077989358733252
+  region: India
+  size: 3.3 GB
+  version: OnePlus8ProOxygen_15.I.42_GLO_0420_2202142223
+- branch: Stable
+  changelog: 'OnePlus8Pro HydrogenOS 11.0.15.15.IN11
+
+    System
+
+    • Updated Android security patch to 2022.02'
+  date: '2022-02-14'
+  device: OnePlus 8 Pro
+  link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.H.45_0450_2202142225/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.45_0450_2202142225/OnePlus8ProHydrogen_15.H.45_OTA_0450_all_2202142225_28f9f65cc8ce8.zip
+  md5: 8bb381f4a3b3f1ce95315b4f8da8316f
+  region: China
+  size: 4.3 GB
+  version: OnePlus8ProHydrogen_15.H.45_0450_2202142225
+- branch: Stable
+  changelog: 'OnePlus8 HydrogenOS 11.0.15.15.IN21
+
+    System
+
+    • Updated Android security patch to 2022.02'
+  date: '2022-02-14'
+  device: OnePlus 8
+  link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.H.45_0450_2202142227/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.45_0450_2202142227/OnePlus8Hydrogen_15.H.45_OTA_0450_all_2202142227_6916de.zip
+  md5: 533b50741bc5bee06b02378065e944f4
+  region: China
+  size: 4.2 GB
+  version: OnePlus8Hydrogen_15.H.45_0450_2202142227
 - branch: Stable
   changelog: 'OnePlus 7T Pro OxygenOS 11.0.6.1.HD01AA
 
