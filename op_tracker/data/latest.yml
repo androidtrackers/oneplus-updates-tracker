@@ -77,6 +77,32 @@
   size: 4.2 GB
   version: OnePlus8Hydrogen_15.H.45_0450_2202142227
 - branch: Stable
+  changelog: 'OnePlus8T HydrogenOS 11.0.14.14.KB05
+
+    System
+
+    • Updated Android security patch to 2022.02'
+  date: '2022-02-14'
+  device: OnePlus 8T
+  link: http://otafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.33_0330_2202142225/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.33_0330_2202142225/OnePlus8THydrogen_15.H.33_OTA_0330_all_2202142225_c40919f36f2.zip
+  md5: 9225fc7b1e57f99714ff344900c5034c
+  region: China
+  size: 4.5 GB
+  version: OnePlus8THydrogen_15.H.33_0330_2202142225
+- branch: Stable
+  changelog: 'OnePlus 8 OxygenOS 11.0.11.11.IN21DA
+
+    System
+
+    • Updated Android Security Patch to 2022.02'
+  date: '2022-02-14'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_IND/OnePlus8Oxygen_15.I.42_GLO_0420_2202142225/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.42_GLO_0420_2202142225/OnePlus8Oxygen_15.I.42_OTA_0420_all_2202142225_e51456562a.zip
+  md5: 3bdcdcf54963f55c72205c661627dff9
+  region: India
+  size: 3.3 GB
+  version: OnePlus8Oxygen_15.I.42_GLO_0420_2202142225
+- branch: Stable
   changelog: 'OnePlus 7T Pro OxygenOS 11.0.6.1.HD01AA
 
     System
