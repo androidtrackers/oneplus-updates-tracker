@@ -12,6 +12,19 @@
   size: 3.0 GB
   version: NordOxygen_14.O.26_GLO_0260_2202231415
 - branch: Stable
+  changelog: 'Nord OxygenOS 11.1.9.9.AC01DA
+
+    Gallery
+
+    • [Fixed] freezing issue when sharing pictures in Gallery'
+  date: '2022-02-23'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_IND/NordOxygen_14.I.26_GLO_0260_2202231510/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.26_GLO_0260_2202231510/NordOxygen_14.I.26_OTA_0260_all_2202231510_6fd6c.zip
+  md5: 34ede550429f6b9f3b20665a10698846
+  region: India
+  size: 3.1 GB
+  version: NordOxygen_14.I.26_GLO_0260_2202231510
+- branch: Stable
   changelog: 'Nord OxygenOS 11.1.9.9.AC01BA
 
     Gallery
@@ -235,6 +248,88 @@
   region: EEA
   size: 2.9 GB
   version: OnePlusN10Oxygen_14.E.34_GLO_0340_2112291422
+- branch: Stable
+  changelog: "OnePlus 6 HydrogenOS 11.1.2.2\nSystem\n• Update to HydrogenOS 11 version\
+    \ \n• Fresh new UI visual design brings you a more comfortable experience with\
+    \ various optimizations of details\n• Improved system stability and general bug\
+    \ fixes\n• Updated Android Security Patch to 2021.11\n• Since this is the upgrade\
+    \ of Android 11 version with many new features, the upgrade time may be longer.\
+    \ Please wait for the completion of the upgrade\n• This update had fixed a low\
+    \ probability issue of unlock failure when upgrade from Android 10 to Android\
+    \ 11, so, it is only available for the devices which are still in HydrogenOS 10.0.11\
+    \ or earlier versions(base on Android 10), the rest of the devices won't receive\
+    \ this update. Since this is a targeted solution, if you had already upgraded\
+    \ to HydrogenOS 11 version (base on Android 11), please do not install this update\
+    \ via unofficial sources, otherwise, it may cause phone dead and may need to manually\
+    \ factory reset to restore it. For users who had already upgraded to HydrogenOS\
+    \ 11 version(base on Android 11), we are also in preparing the next update, stay\
+    \ tuned\nCamera\n• Updated the camera UI and optimized some of the function paths\
+    \ to offer more convenient operation\nAmbient Display\n \n• Newly added Insight\
+    \ clock style, a joint creation with Parsons School of Design. It will change\
+    \ according to the phone usage data (To set: Settings > Customization > Clock\
+    \ on ambient display)\n• Newly added Canvas feature that can automatically draw\
+    \ a wireframe picture based on a lock screen photo on your phone（Path: Settings\
+    \ - Customization - Wallpaper - Canvas - Choose photo preview and it can be generated\
+    \ automatically）\nDark Mode\n• Added the shortcut key for Dark Mode, pull down\
+    \ the quick setting to enable\n• Supporting automatically turn on feature & customize\
+    \ time range (path: Settings - Display - Dark Mode - Turn on automatically - Automatically\
+    \ enable from sunset to sunrise/Custom time range)\nGame Space\n• Newly added\
+    \ gaming tools box for convenient switches of Fnatic mode. You can now choose\
+    \ three ways of notifications: text-only, heads up and block, just for your immersive\
+    \ gaming experience\n• Newly added quick reply feature in a small window for QQ\
+    \ and WeChat (Enable it by swiping down from upper right/left corners of the screen\
+    \ in gaming mode)\n• Newly added mis-touch prevention feature. Enable it, swipe\
+    \ down from the top of the screen, click and the notification bar will pop out\n\
+    Shelf\n• Newly shelf interface design, the interface is clearer\n• Added weather\
+    \ widget, animation effect smarter"
+  date: '2021-12-28'
+  device: OnePlus 6
+  link: http://otafsc-cost.h2os.com/OnePlus6/OnePlus6Hydrogen_22.K.63_0630_2112282145/patch/CHN/OnePlus6Hydrogen/OnePlus6Hydrogen_22.K.63_0630_2112282145/OnePlus6Hydrogen_22.K.63_OTA_0630_all_2112282145_9ad904b033fcf9a.zip
+  md5: e0bdd86c472414f018c57fedfb1f6955
+  region: China
+  size: 3.1 GB
+  version: OnePlus6Hydrogen_22.K.63_0630_2112282145
+- branch: Stable
+  changelog: "OnePlus 6T HydrogenOS 11.1.2.2\nSystem\n• Update to HydrogenOS 11 version\
+    \ \n• Fresh new UI visual design brings you a more comfortable experience with\
+    \ various optimizations of details\n• Improved system stability and general bug\
+    \ fixes\n• Updated Android Security Patch to 2021.11\n• Since this is the upgrade\
+    \ of Android 11 version with many new features, the upgrade time may be longer.\
+    \ Please wait for the completion of the upgrade\n• This update had fixed a low\
+    \ probability issue of unlock failure when upgrade from Android 10 to Android\
+    \ 11, so, it is only available for the devices which are still in HydrogenOS 10.0.11\
+    \ or earlier versions(base on Android 10), the rest of the devices won't receive\
+    \ this update. Since this is a targeted solution, if you had already upgraded\
+    \ to HydrogenOS 11 version (base on Android 11), please do not install this update\
+    \ via unofficial sources, otherwise, it may cause phone dead and may need to manually\
+    \ factory reset to restore it. For users who had already upgraded to HydrogenOS\
+    \ 11 version(base on Android 11), we are also in preparing the next update, stay\
+    \ tuned\nCamera\n• Updated the camera UI and optimized some of the function paths\
+    \ to offer more convenient operation\nAmbient Display\n \n• Newly added Insight\
+    \ clock style, a joint creation with Parsons School of Design. It will change\
+    \ according to the phone usage data (To set: Settings > Customization > Clock\
+    \ on ambient display)\n• Newly added Canvas feature that can automatically draw\
+    \ a wireframe picture based on a lock screen photo on your phone（Path: Settings\
+    \ - Customization - Wallpaper - Canvas - Choose photo preview and it can be generated\
+    \ automatically）\nDark Mode\n• Added the shortcut key for Dark Mode, pull down\
+    \ the quick setting to enable\n• Supporting automatically turn on feature & customize\
+    \ time range (path: Settings - Display - Dark Mode - Turn on automatically - Automatically\
+    \ enable from sunset to sunrise/Custom time range)\nGame Space\n• Newly added\
+    \ gaming tools box for convenient switches of Fnatic mode. You can now choose\
+    \ three ways of notifications: text-only, heads up and block, just for your immersive\
+    \ gaming experience\n• Newly added quick reply feature in a small window for QQ\
+    \ and WeChat (Enable it by swiping down from upper right/left corners of the screen\
+    \ in gaming mode)\n• Newly added mis-touch prevention feature. Enable it, swipe\
+    \ down from the top of the screen, click and the notification bar will pop out\n\
+    Shelf\n• Newly shelf interface design, the interface is clearer\n• Added weather\
+    \ widget, animation effect smarter"
+  date: '2021-12-28'
+  device: OnePlus 6T
+  link: http://otafsc-cost.h2os.com/OnePlus6T/OnePlus6THydrogen_34.K.62_0620_2112282145/patch/CHN/OnePlus6THydrogen/OnePlus6THydrogen_34.K.62_0620_2112282145/OnePlus6THydrogen_34.K.62_OTA_0620_all_2112282145_7620.zip
+  md5: ecd07e4362962163f80dc30a3525cebf
+  region: China
+  size: 3.2 GB
+  version: OnePlus6THydrogen_34.K.62_0620_2112282145
 - branch: Stable
   changelog: 'OnePlus 7T HydrogenOS 11.0.5.1.HD65
 
