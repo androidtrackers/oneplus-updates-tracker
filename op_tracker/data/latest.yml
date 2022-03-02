@@ -206,6 +206,21 @@
   size: 2.8 GB
   version: OnePlus7TOxygen_14.O.32_GLO_0320_2202112234
 - branch: Stable
+  changelog: 'OnePlus 7T HydrogenOS 11.0.6.1.HD65
+
+    System
+
+    • Updated Android Security Patch to 2022.02
+
+    • Improved system stability'
+  date: '2022-02-11'
+  device: OnePlus 7T
+  link: http://otafsc-cost.h2os.com/OnePlus7T_CH/OnePlus7THydrogen_14.H.28_0280_2202112237/patch/CHN/OnePlus7THydrogen/OnePlus7THydrogen_14.H.28_0280_2202112237/OnePlus7THydrogen_14.H.28_OTA_0280_all_2202112237_931a433.zip
+  md5: 0d422997c82a1fd0835601d270b38a89
+  region: China
+  size: 3.9 GB
+  version: OnePlus7THydrogen_14.H.28_0280_2202112237
+- branch: Stable
   changelog: "Nord OxygenOS 11.1.8.8.AC01DA\n \nSystem\n• Improve system stability\n\
     • Updated Android security patch to 2022-01"
   date: '2022-01-17'
