@@ -51,6 +51,19 @@
   size: 3.1 GB
   version: OnePlus8TOxygen_15.I.29_GLO_0290_2202182359
 - branch: Stable
+  changelog: 'OnePlus 8T OxygenOS 11.0.13.13.KB05BA
+
+    System
+
+    • Updated Android Security Patch to 2022.02'
+  date: '2022-02-18'
+  device: OnePlus 8T
+  link: http://otafsg-cost-az.coloros.com/OnePlus8T_EEA/OnePlus8TOxygen_15.E.31_GLO_0310_2202182356/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.E.31_GLO_0310_2202182356/OnePlus8TOxygen_15.E.31_OTA_0310_all_2202182356_c7bd2.zip
+  md5: ecc4bccb555141973baf8cfb28a4ad04
+  region: EEA
+  size: 3.0 GB
+  version: OnePlus8TOxygen_15.E.31_GLO_0310_2202182356
+- branch: Stable
   changelog: 'OnePlus 8 Pro OxygenOS 11.0.11.11.IN11DA
 
     System
@@ -115,6 +128,32 @@
   region: India
   size: 3.3 GB
   version: OnePlus8Oxygen_15.I.42_GLO_0420_2202142225
+- branch: Stable
+  changelog: 'OnePlus 8 Pro OxygenOS 11.0.11.11.IN11BA
+
+    System
+
+    • Updated Android Security Patch to 2022.02'
+  date: '2022-02-14'
+  device: OnePlus 8 Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus8Pro_EEA/OnePlus8ProOxygen_15.E.42_GLO_0420_2202141437/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.E.42_GLO_0420_2202141437/OnePlus8ProOxygen_15.E.42_OTA_0420_all_2202141437_25d2af5d.zip
+  md5: 31df41f079ec1955f04e7b5851ccf40a
+  region: EEA
+  size: 3.1 GB
+  version: OnePlus8ProOxygen_15.E.42_GLO_0420_2202141437
+- branch: Stable
+  changelog: 'OnePlus 8 OxygenOS 11.0.11.11.IN21BA
+
+    System
+
+    • Updated Android Security Patch to 2022.02'
+  date: '2022-02-14'
+  device: OnePlus 8
+  link: http://otafsg-cost-az.coloros.com/OnePlus8_EEA/OnePlus8Oxygen_15.E.42_GLO_0420_2202141439/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.E.42_GLO_0420_2202141439/OnePlus8Oxygen_15.E.42_OTA_0420_all_2202141439_045399.zip
+  md5: 48ba15b82c2240dfebc8afcff253c55b
+  region: EEA
+  size: 3.1 GB
+  version: OnePlus8Oxygen_15.E.42_GLO_0420_2202141439
 - branch: Stable
   changelog: 'OnePlus 7T Pro OxygenOS 11.0.6.1.HD01AA
 
@@ -220,6 +259,36 @@
   region: China
   size: 3.9 GB
   version: OnePlus7THydrogen_14.H.28_0280_2202112237
+- branch: Stable
+  changelog: 'OnePlus 7T OxygenOS 11.0.6.1.HD65AA
+
+    System
+
+    • Updated Android Security Patch to 2022.02
+
+    • Improved system stability'
+  date: '2022-02-11'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.I.32_GLO_0320_2202112234/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.I.32_GLO_0320_2202112234/OnePlus7TOxygen_14.I.32_OTA_0320_all_2202112234_1702a8692b.zip
+  md5: 3e3f281cf79e8c5a78fff39a1a8ea155
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.I.32_GLO_0320_2202112234
+- branch: Stable
+  changelog: 'OnePlus Nord N100 OxygenOS 11.0.4.BE83BA
+
+    System
+
+    • [Optimized] system stability and general bug fixing
+
+    • [Updated] Android Security Patch to 2022.02'
+  date: '2022-01-30'
+  device: OnePlus Nord N100
+  link: http://otafsg-cost-az.coloros.com/OnePlusN100_EEA/OnePlusN100Oxygen_14.E.24_GLO_0240_2201301610/patch/amazone2/GLO/OnePlusN100Oxygen/OnePlusN100Oxygen_14.E.24_GLO_0240_2201301610/OnePlusN100Oxygen_14.E.24_OTA_0240_all_2201301610_1b01915cb6503c.zip
+  md5: a640b51bbcbaf3147b3df6466bda0d42
+  region: EEA
+  size: 2.6 GB
+  version: OnePlusN100Oxygen_14.E.24_GLO_0240_2201301610
 - branch: Stable
   changelog: "Nord OxygenOS 11.1.8.8.AC01DA\n \nSystem\n• Improve system stability\n\
     • Updated Android security patch to 2022-01"
