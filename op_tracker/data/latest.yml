@@ -1,4 +1,17 @@
 - branch: Stable
+  changelog: 'OnePlus Nord N10 OxygenOS 11.0.5.BE89BA
+
+    System
+
+    • Updated Android Security Patch to 2022.03'
+  date: '2022-03-01'
+  device: OnePlus Nord N10
+  link: http://otafsg-cost-az.coloros.com/OnePlusN10_EEA/OnePlusN10Oxygen_14.E.35_GLO_0350_2203011053/patch/amazone2/GLO/OnePlusN10Oxygen/OnePlusN10Oxygen_14.E.35_GLO_0350_2203011053/OnePlusN10Oxygen_14.E.35_OTA_0350_all_2203011053_da099c9311.zip
+  md5: 44a2dda725b5b3eb4b9b69d347f6956b
+  region: EEA
+  size: 2.9 GB
+  version: OnePlusN10Oxygen_14.E.35_GLO_0350_2203011053
+- branch: Stable
   changelog: 'Nord OxygenOS 11.1.9.9.AC01AA
 
     Gallery
