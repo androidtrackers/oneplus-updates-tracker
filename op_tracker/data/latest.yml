@@ -1,4 +1,124 @@
 - branch: Stable
+  changelog: 'OnePlus 7T OxygenOS 11.0.7.1.HD65BA
+
+    System
+
+    • Updated Android security patch to 2022-04
+
+    • General bug fixes to improve system stability'
+  date: '2022-04-06'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.E.33_GLO_0330_2204061718/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.E.33_GLO_0330_2204061718/OnePlus7TOxygen_14.E.33_OTA_0330_all_2204061718_46672b88adf2.zip
+  md5: 57c71fa84ab3385c219f4c017b884a12
+  region: EEA
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.E.33_GLO_0330_2204061718
+- branch: Stable
+  changelog: 'OnePlus 7T Pro OxygenOS 11.0.7.1.HD01AA
+
+    System
+
+    • Updated Android security patch to 2022-04
+
+    • General bug fixes to improve system stability'
+  date: '2022-04-06'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.I.33_GLO_0330_2204061541/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.I.33_GLO_0330_2204061541/OnePlus7TProOxygen_14.I.33_OTA_0330_all_2204061541_802f.zip
+  md5: 390a0966da9ba751a80255b3529547d6
+  region: India
+  size: 2.9 GB
+  version: OnePlus7TProOxygen_14.I.33_GLO_0330_2204061541
+- branch: Stable
+  changelog: 'OnePlus 7T OxygenOS 11.0.7.1.HD65AA
+
+    System
+
+    • Updated Android security patch to 2022-04
+
+    • General bug fixes to improve system stability'
+  date: '2022-04-06'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.O.33_GLO_0330_2204061809/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.O.33_GLO_0330_2204061809/OnePlus7TOxygen_14.O.33_OTA_0330_all_2204061809_95ff.zip
+  md5: acfe0de08088db1326771d3f33093e0d
+  region: Global
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.O.33_GLO_0330_2204061809
+- branch: Stable
+  changelog: 'OnePlus 7T Pro OxygenOS 11.0.7.1.HD01BA
+
+    System
+
+    • Updated Android security patch to 2022-04
+
+    • General bug fixes to improve system stability'
+  date: '2022-04-06'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.E.33_GLO_0330_2204061550/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.E.33_GLO_0330_2204061550/OnePlus7TProOxygen_14.E.33_OTA_0330_all_2204061550_ea68a4eb03301d.zip
+  md5: 60ddc989fa33fe03fe2c84c6c1636d2d
+  region: EEA
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.E.33_GLO_0330_2204061550
+- branch: Stable
+  changelog: 'OnePlus 7T Pro OxygenOS 11.0.7.1.HD01AA
+
+    System
+
+    • Updated Android security patch to 2022-04
+
+    • General bug fixes to improve system stability'
+  date: '2022-04-06'
+  device: OnePlus 7T Pro
+  link: http://otafsg-cost-az.coloros.com/OnePlus7TPro/OnePlus7TProOxygen_14.O.33_GLO_0330_2204061541/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_14.O.33_GLO_0330_2204061541/OnePlus7TProOxygen_14.O.33_OTA_0330_all_2204061541_1ee9c53e0356f.zip
+  md5: 584097b3f9d69847d782127834e258e5
+  region: Global
+  size: 2.8 GB
+  version: OnePlus7TProOxygen_14.O.33_GLO_0330_2204061541
+- branch: Stable
+  changelog: 'Nord OxygenOS 11.1.10.10.AC01BA
+
+    System
+
+    • [Improved] system stability
+
+    • [Updated] Android security patch to 2022.03'
+  date: '2022-03-10'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_EEA/NordOxygen_14.E.27_GLO_0270_2203101738/patch/amazone2/GLO/NordOxygen/NordOxygen_14.E.27_GLO_0270_2203101738/NordOxygen_14.E.27_OTA_0270_all_2203101738_b58dbd2b1039bf.zip
+  md5: da95ac33b423a93893bec7a8dd5a8d41
+  region: EEA
+  size: 3.0 GB
+  version: NordOxygen_14.E.27_GLO_0270_2203101738
+- branch: Stable
+  changelog: 'Nord OxygenOS 11.1.10.10.AC01AA
+
+    System
+
+    • [Improved] system stability
+
+    • [Updated] Android security patch to 2022.03'
+  date: '2022-03-10'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord/NordOxygen_14.O.27_GLO_0270_2203101735/patch/amazone2/GLO/NordOxygen/NordOxygen_14.O.27_GLO_0270_2203101735/NordOxygen_14.O.27_OTA_0270_all_2203101735_63087.zip
+  md5: d33772142ffd39a784ed890becd8ff67
+  region: Global
+  size: 3.0 GB
+  version: NordOxygen_14.O.27_GLO_0270_2203101735
+- branch: Stable
+  changelog: 'Nord OxygenOS 11.1.10.10.AC01DA
+
+    System
+
+    • [Improved] system stability
+
+    • [Updated] Android security patch to 2022.03'
+  date: '2022-03-10'
+  device: OnePlus Nord
+  link: http://otafsg-cost-az.coloros.com/Nord_IND/NordOxygen_14.I.27_GLO_0270_2203101734/patch/amazone2/GLO/NordOxygen/NordOxygen_14.I.27_GLO_0270_2203101734/NordOxygen_14.I.27_OTA_0270_all_2203101734_63554fa57d.zip
+  md5: ef3a660020376af2a0f6fb3a58ffe828
+  region: India
+  size: 3.1 GB
+  version: NordOxygen_14.I.27_GLO_0270_2203101734
+- branch: Stable
   changelog: 'OnePlus Nord N10 OxygenOS 11.0.5.BE89BA
 
     System
