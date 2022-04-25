@@ -74,6 +74,21 @@
   size: 2.8 GB
   version: OnePlus7TProOxygen_14.O.33_GLO_0330_2204061541
 - branch: Stable
+  changelog: 'OnePlus 7T OxygenOS 11.0.7.1.HD65AA
+
+    System
+
+    • Updated Android security patch to 2022-04
+
+    • General bug fixes to improve system stability'
+  date: '2022-04-06'
+  device: OnePlus 7T
+  link: http://otafsg-cost-az.coloros.com/OnePlus7T/OnePlus7TOxygen_14.I.33_GLO_0330_2204061809/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.I.33_GLO_0330_2204061809/OnePlus7TOxygen_14.I.33_OTA_0330_all_2204061809_e4799e0a0405.zip
+  md5: 5bac8ecd0917d3cc37faddc367c63adb
+  region: India
+  size: 2.8 GB
+  version: OnePlus7TOxygen_14.I.33_GLO_0330_2204061809
+- branch: Stable
   changelog: 'Nord OxygenOS 11.1.10.10.AC01BA
 
     System
