@@ -89,6 +89,21 @@
   size: 2.8 GB
   version: OnePlus7TOxygen_14.I.33_GLO_0330_2204061809
 - branch: Stable
+  changelog: 'OnePlus Nord N100 OxygenOS 11.0.5.BE83BA
+
+    System
+
+    • [Improved] system stability
+
+    • [Updated] Android security patch to 2022.04'
+  date: '2022-03-31'
+  device: OnePlus Nord N100
+  link: http://otafsg-cost-az.coloros.com/OnePlusN100_EEA/OnePlusN100Oxygen_14.E.25_GLO_0250_2203311235/patch/amazone2/GLO/OnePlusN100Oxygen/OnePlusN100Oxygen_14.E.25_GLO_0250_2203311235/OnePlusN100Oxygen_14.E.25_OTA_0250_all_2203311235_0a17ce328283d7.zip
+  md5: db5be2af4a25280c4b80b43edb465c88
+  region: EEA
+  size: 2.6 GB
+  version: OnePlusN100Oxygen_14.E.25_GLO_0250_2203311235
+- branch: Stable
   changelog: 'Nord OxygenOS 11.1.10.10.AC01BA
 
     System
