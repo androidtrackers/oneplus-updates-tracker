@@ -5,7 +5,7 @@ description = ""
 authors = ["yshalsager <ysh-alsager@hotmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.6.1"
+python = "^3.9"
 humanize = "^2.4.0"
 PyYAML = "^5.3.1"
 python-telegram-bot = "^12.7"
@@ -13,8 +13,9 @@ aiohttp = "^3.6.2"
 beautifulsoup4 = "^4.9.1"
 sqlalchemy = "^1.3.17"
 
-[tool.poetry.dev-dependencies]
-pytest = "^5.2"
+[tool.poetry.group.dev.dependencies]
+black = "^22.8.0"
+isort = "^5.10.1"
 
 [build-system]
 requires = ["poetry>=0.12"]

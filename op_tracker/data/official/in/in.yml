@@ -1,26 +1,41 @@
+- code: PM1652238678972
+  image: http://download.h2os.com/OnePlus10Pro/OnePlus10Pro.JPG
+  name: OnePlus10 Pro
+  product: ''
+  region: ''
+- code: PM1646817751718
+  image: http://download.h2os.com/photo/Nord CE 2.png
+  name: OnePlus Nord CE 2
+  product: ''
+  region: ''
+- code: PM1646119244382
+  image: http://download.h2os.com/photo/9RT.jpg
+  name: OnePlus9RT
+  product: ''
+  region: ''
+- code: PM1629453412331
+  image: https://oasis.opstatics.com/content/dam/support/spare-parts-price/NordCE.png
+  name: OnePlus Nord CE
+  product: ''
+  region: ''
+- code: PM1620699830843
+  image: https://oasis.opstatics.com/content/dam/support/spare-parts-price/OP9R.png
+  name: OnePlus 9R
+  product: ''
+  region: ''
 - code: PM1617074857015
-  image: https://oneplussupport.s3.amazonaws.com/9+Pro+UM/9Pro+%E9%93%B6%E8%89%B2.png
+  image: https://oasis.opstatics.com/content/dam/support/spare-parts-price/OP9Pro.png
   name: OnePlus 9 Pro
   product: ''
   region: ''
 - code: PM1617074715494
-  image: https://oneplussupport.s3.amazonaws.com/9+UM/9+%E7%B4%AB%E8%89%B2.png
+  image: https://oasis.opstatics.com/content/dam/support/spare-parts-price/OP9.png
   name: OnePlus 9
   product: ''
   region: ''
-- code: PM1605856872898
-  image: https://image01.oneplus.net/ebp/202012/24/1-m00-1e-c3-rb8bwl_kytgaurb0aaamf2d35tg077.jpg
-  name: OnePlus Nord N100
-  product: ''
-  region: ''
 - code: PM1605596915581
-  image: https://image01.oneplus.net/ebp/202012/24/1-m00-1e-c3-rb8bwl_kypmalhp7aafwbxogm80268.jpg
+  image: https://oasis.opstatics.com/content/dam/support/spare-parts-price/OP8T.png
   name: OnePlus 8T
-  product: ''
-  region: ''
-- code: PM1605857280263
-  image: https://image01.oneplus.net/ebp/202012/24/1-m00-1e-c3-rb8bwl_kyrmaxebdaaamuvaownq313.jpg
-  name: OnePlus Nord N10
   product: ''
   region: ''
 - code: PM1596593883414
@@ -36,11 +51,6 @@
 - code: PM1586920535300
   image: https://image01.oneplus.net/shop/202010/21/1-M00-1B-EB-rB8bwl-QTqSAfo4qAAFru52nytI97.jpeg
   name: OnePlus 8
-  product: ''
-  region: ''
-- code: PM1600329725089
-  image: https://image01.oneplus.net/shop/202010/22/1-M00-1B-F1-rB8bwl-Q7JuAH2X7AAQpxd402Ok348.png
-  name: OnePlus 8 Visible
   product: ''
   region: ''
 - code: PM1574162297465
@@ -104,7 +114,7 @@
   product: ''
   region: ''
 - code: PM1574156029809
-  image: https://cdn.opstatics.com/store/20170907/assets/images/support/phone/mage/op1.png
+  image: https://oasis.opstatics.com/content/dam/support/spare-parts-price/OP1.png
   name: OnePlus 1
   product: ''
   region: ''

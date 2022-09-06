@@ -51,19 +51,22 @@ class TelegramBot:
             message += " (via OTA)\n"
         else:
             message += "\n"
-        message += f"*Device*: {update.device}\n" \
-                   f"*Region*: {update.region}\n" \
-                   f"*Type*: {update.branch}\n" \
-                   f"*Version*: ```{update.version}```\n" \
-                   f"*Release Date*: {update.date}\n" \
-                   f"*Size*: {update.size}\n" \
-                   f"*MD5*: `{update.md5}`\n" \
-                   f"*Changelog*:\n```{update.changelog}```"
+        message += (
+            f"*Device*: {update.device}\n"
+            f"*Region*: {update.region}\n"
+            f"*Type*: {update.branch}\n"
+            f"*Version*: ```{update.version}```\n"
+            f"*Release Date*: {update.date}\n"
+            f"*Size*: {update.size}\n"
+            f"*MD5*: `{update.md5}`\n"
+            f"*Changelog*:\n```{update.changelog}```"
+        )
         button: InlineKeyboardButton = InlineKeyboardButton("Full ROM", update.link)
         incremental = get_incremental(update.version)
         if incremental:
             incremental_button: InlineKeyboardButton = InlineKeyboardButton(
-                "Incremental", incremental.link)
+                "Incremental", incremental.link
+            )
             return message, InlineKeyboardMarkup([[button], [incremental_button]])
         return message, InlineKeyboardMarkup([[button]])
 
@@ -74,7 +77,11 @@ class TelegramBot:
         :param reply_markup: A inline keyboard markup object that contains the update list
         :return:
         """
-        self.updater.bot.send_message(chat_id=self.chat, text=message,
-                                      parse_mode='Markdown', disable_web_page_preview='yes',
-                                      reply_markup=reply_markup)
+        self.updater.bot.send_message(
+            chat_id=self.chat,
+            text=message,
+            parse_mode="Markdown",
+            disable_web_page_preview="yes",
+            reply_markup=reply_markup,
+        )
         sleep(5)

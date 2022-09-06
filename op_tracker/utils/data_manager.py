@@ -77,8 +77,8 @@ class DataManager:
             if not old:
                 return True
             return bool(
-                self.data['version'] != old['version']
-                and is_newer_datetime(old['updated'], self.data['updated'])
+                self.data["version"] != old["version"]
+                and is_newer_datetime(old["updated"], self.data["updated"])
             )
 
     def diff_dicts(self):

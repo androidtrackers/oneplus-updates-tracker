@@ -137,4 +137,6 @@ config.*
 *.bak
 *_updater.py
 *.db
+*-wal
+*-shm
 updater/

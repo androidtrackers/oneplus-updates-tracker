@@ -6,7 +6,7 @@ import asyncio
 import logging
 from dataclasses import asdict
 
-from op_tracker import WORK_DIR, CONFIG
+from op_tracker import CONFIG, WORK_DIR
 from op_tracker.common.database.helpers import export_latest
 from op_tracker.official.api_client.api_client import APIClient
 from op_tracker.official.models.device import Device
@@ -26,7 +26,6 @@ async def check_update(device: Device, region, api):
 
 async def main():
     """Main function"""
-    logger = logging.getLogger(__name__)
     new_updates: list = []
     regions = DataManager.read_file(f"{WORK_DIR}/data/official/regions.yml")
     for region in regions:
@@ -37,9 +36,12 @@ async def main():
         logger.debug(f"{region_code} devices: {devices}")
         DataManager.write_file(
             f"{WORK_DIR}/data/official/{region_code}/{region_code}.yml",
-            [asdict(i) for i in devices])
-        tasks = [asyncio.ensure_future(check_update(device, region, api))
-                 for device in api.devices]
+            [asdict(i) for i in devices],
+        )
+        tasks = [
+            asyncio.ensure_future(check_update(device, region, api))
+            for device in api.devices
+        ]
         results = await asyncio.gather(*tasks)
         for result in results:
             if result:
@@ -48,7 +50,8 @@ async def main():
     if new_updates:
         logger.info(f"New updates: {new_updates}")
         bot: TelegramBot = TelegramBot(
-            CONFIG.get('tg_bot_token'), CONFIG.get('tg_chat'), "website")
+            CONFIG.get("tg_bot_token"), CONFIG.get("tg_chat"), "website"
+        )
         bot.post_updates(new_updates)
     export_latest()
     await git_commit_push()

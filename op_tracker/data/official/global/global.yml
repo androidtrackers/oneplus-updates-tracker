@@ -1,10 +1,15 @@
+- code: PM1629453412331
+  image: https://oasis.opstatics.com/content/dam/support/spare-parts-price/NordCE.png
+  name: OnePlus Nord CE
+  product: ''
+  region: ''
 - code: PM1617074857015
-  image: https://oneplussupport.s3.amazonaws.com/9+Pro+UM/9Pro+%E9%93%B6%E8%89%B2.png
+  image: https://oasis.opstatics.com/content/dam/support/spare-parts-price/OP9Pro.png
   name: OnePlus 9 Pro
   product: ''
   region: ''
 - code: PM1617074715494
-  image: https://oneplussupport.s3.amazonaws.com/9+UM/9+%E7%B4%AB%E8%89%B2.png
+  image: https://oasis.opstatics.com/content/dam/support/spare-parts-price/OP9.png
   name: OnePlus 9
   product: ''
   region: ''
@@ -14,13 +19,8 @@
   product: ''
   region: ''
 - code: PM1605596915581
-  image: https://image01.oneplus.net/ebp/202012/24/1-m00-1e-c3-rb8bwl_kypmalhp7aafwbxogm80268.jpg
+  image: https://oasis.opstatics.com/content/dam/support/spare-parts-price/OP8T.png
   name: OnePlus 8T
-  product: ''
-  region: ''
-- code: PM1605857280263
-  image: https://image01.oneplus.net/ebp/202012/24/1-m00-1e-c3-rb8bwl_kyrmaxebdaaamuvaownq313.jpg
-  name: OnePlus Nord N10
   product: ''
   region: ''
 - code: PM1596593883414
@@ -31,16 +31,6 @@
 - code: PM1587123976090
   image: https://image01.oneplus.net/shop/202010/21/1-M00-1B-EB-rB8LB1-QTr6AQjkSAAFqgNqvGog25.jpeg
   name: OnePlus 8 Pro
-  product: ''
-  region: ''
-- code: PM1586920535300
-  image: https://image01.oneplus.net/shop/202010/21/1-M00-1B-EB-rB8bwl-QTqSAfo4qAAFru52nytI97.jpeg
-  name: OnePlus 8
-  product: ''
-  region: ''
-- code: PM1600329725089
-  image: https://image01.oneplus.net/shop/202010/22/1-M00-1B-F1-rB8bwl-Q7JuAH2X7AAQpxd402Ok348.png
-  name: OnePlus 8 Visible
   product: ''
   region: ''
 - code: PM1574162297465
@@ -104,7 +94,7 @@
   product: ''
   region: ''
 - code: PM1574156029809
-  image: https://cdn.opstatics.com/store/20170907/assets/images/support/phone/mage/op1.png
+  image: https://oasis.opstatics.com/content/dam/support/spare-parts-price/OP1.png
   name: OnePlus 1
   product: ''
   region: ''

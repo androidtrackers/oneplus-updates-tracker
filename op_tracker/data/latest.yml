@@ -1,4 +1,74 @@
 - branch: Stable
+  changelog: System [Updated] Android security patch to 2022.07
+  date: '2022-08-12'
+  device: OnePlus Nord CE
+  link: https://oxygenos.oneplus.net/OnePlusNordCEOxygen_16.O.19_OTA_0190_all_2207281931_52184775b5f94ab0.zip
+  md5: 97c5b28671dd8e4337405144ac7dde7e
+  region: Global
+  size: 2.68 GB
+  version: OnePlusNordCEOxygen_16.O.19_0190_2207281931
+- branch: Stable
+  changelog: 'System
+
+    • Updated Android Security Patch to 2022.07
+
+    • Improved system stability'
+  date: '2022-08-12'
+  device: OnePlus 7Pro
+  link: https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.P.45_OTA_0450_all_2206171138_fa345ce5f997412d.zip
+  md5: 4acf05ccac88d5bc6097b78ffb7e17ab
+  region: Global
+  size: 2.41 GB
+  version: OnePlus7ProOxygen_21.P.45_0450_2206171138
+- branch: Stable
+  changelog: 'System
+
+    • Updated Android Security Patch to 2022.07
+
+    • Improved system stability'
+  date: '2022-08-12'
+  device: OnePlus 7T Pro
+  link: https://oxygenos.oneplus.net/OnePlus7TProOxygen_14.O.35_OTA_0350_all_2206171507_b0c8952a17774939.zip
+  md5: acd1de2a47c5bf96c65f439b43697f19
+  region: Global
+  size: 2.60 GB
+  version: OnePlus7TProOxygen_14.O.35_0350_2206171507
+- branch: Stable
+  changelog: 'System
+
+    • Updated Android Security Patch to 2022.07
+
+    • Improved system stability'
+  date: '2022-08-12'
+  device: OnePlus 7
+  link: https://oxygenos.oneplus.net/OnePlus7Oxygen_14.P.45_OTA_0450_all_2206171433_0a40609d7b064d3f.zip
+  md5: 21c4aaefb89940365ea715fed74abe4f
+  region: Global
+  size: 2.40 GB
+  version: OnePlus7Oxygen_14.P.45_0450_2206171433
+- branch: Stable
+  changelog: 'System
+
+    • Updated Android Security Patch to 2022.07
+
+    • Improved system stability'
+  date: '2022-08-12'
+  device: OnePlus 7T
+  link: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.O.35_OTA_0350_all_2206171459_e2cf457f577648a3.zip
+  md5: a4bf2eb20206542ecd1ea25d2477a384
+  region: Global
+  size: 2.57 GB
+  version: OnePlus7TOxygen_14.O.35_0350_2206171459
+- branch: Stable
+  changelog: System [Updated] Android security patch to 2022.06
+  date: '2022-07-12'
+  device: OnePlus Nord N100
+  link: https://oxygenos.oneplus.net/OnePlusN100Oxygen_14.O.27_OTA_0270_all_2206131455_f8202915caeb4aec.zip
+  md5: acf0e628d509fdc0354b743a868d092f
+  region: Global
+  size: 2.38 GB
+  version: OnePlusN100Oxygen_14.O.27_0270_2206131455
+- branch: Stable
   changelog: 'OnePlus 7T OxygenOS 11.0.7.1.HD65BA
 
     System
@@ -161,6 +231,17 @@
   region: EEA
   size: 2.9 GB
   version: OnePlusN10Oxygen_14.E.35_GLO_0350_2203011053
+- branch: Stable
+  changelog: 'System
+
+    • Updated Android security patch to 2022.2'
+  date: '2022-03-01'
+  device: OnePlus 8T
+  link: https://oxygenos.oneplus.net/OnePlus8TOxygen_15.O.31_OTA_0310_all_2202182359_ca105dab55fd44e6.zip
+  md5: 28244120aa8a505454e459e7dcf7499c
+  region: Global
+  size: 2.78 GB
+  version: OnePlus8TOxygen_15.O.31_0310_2202182359
 - branch: Stable
   changelog: 'Nord OxygenOS 11.1.9.9.AC01AA
 
@@ -452,6 +533,36 @@
   region: EEA
   size: 2.6 GB
   version: OnePlusN100Oxygen_14.E.24_GLO_0240_2201301610
+- branch: Stable
+  changelog: 'System
+
+    • Optimized the third-party app experience
+
+    • Updated Android security patch to 2021.11
+
+    • Improved System stability and fixed known issues'
+  date: '2022-01-19'
+  device: OnePlus 9 Pro
+  link: https://oxygenos.oneplus.net/OnePlus9ProOxygen_22.O.13_OTA_0130_all_2111112104_31a8871ffe6142d9.zip
+  md5: 005a06f3fe9eec945566695d6889e4c7
+  region: Global
+  size: 2.99GB
+  version: OnePlus9ProOxygen_22.O.13_0130_2111112104
+- branch: Stable
+  changelog: 'System
+
+    • Optimized the third-party app experience
+
+    • Updated Android security patch to 2021.11
+
+    • Improved System stability and fixed known issues'
+  date: '2022-01-19'
+  device: OnePlus 9
+  link: https://oxygenos.oneplus.net/OnePlus9Oxygen_22.O.13_OTA_0130_all_2111112106_03a66541157c4af5.zip
+  md5: e42fedd14cdcaf0d25eef91c5f1b9088
+  region: Global
+  size: 2.93 GB
+  version: OnePlus9Oxygen_22.O.13_0130_2111112106
 - branch: Stable
   changelog: "Nord OxygenOS 11.1.8.8.AC01DA\n \nSystem\n• Improve system stability\n\
     • Updated Android security patch to 2022-01"
@@ -2924,7 +3035,7 @@
 
     System
 
-    • Improved system stability'
+    • Improved system stability'
   date: '2021-06-11'
   device: OnePlus 8
   link: http://otafsc-cost.h2os.com/OnePlus8_CH/OnePlus8Hydrogen_15.H.38_0380_2106112302/patch/CHN/OnePlus8Hydrogen/OnePlus8Hydrogen_15.H.38_0380_2106112302/OnePlus8Hydrogen_15.H.38_OTA_0380_all_2106112302_b2888c05119b3da.zip
@@ -2937,7 +3048,7 @@
 
     System
 
-    • Improved system stability'
+    • Improved system stability'
   date: '2021-06-11'
   device: OnePlus 8 Pro
   link: http://otafsc-cost.h2os.com/OnePlus8Pro_CH/OnePlus8ProHydrogen_15.H.38_0380_2106112311/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.H.38_0380_2106112311/OnePlus8ProHydrogen_15.H.38_OTA_0380_all_2106112311_78e832a4.zip
@@ -3594,7 +3705,7 @@
 
     System
 
-    • Updated Android security patch to 2021.05
+    • Updated Android security patch to 2021.05
 
     • General bug fixes'
   date: '2021-05-21'
@@ -12172,13 +12283,13 @@
 
     System
 
-    • Updated Android security patch to 2020.09
+    • Updated Android security patch to 2020.09
 
     • General bug fixes and stability improvements
 
     Network
 
-    • Improved stability with network transmission'
+    • Improved stability with network transmission'
   date: '2020-09-07'
   device: OnePlus 7 Pro 5G
   link: http://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7ProNROxygen/OnePlus7ProNROxygen_21.E.24_GLO_024_2009072322/OnePlus7ProNROxygen_21_OTA_024_all_2009072322_ae0b53.zip

@@ -4,7 +4,7 @@ from importlib import import_module
 from op_tracker import CONFIG
 from op_tracker.tracker_official import run as official
 
-source = CONFIG.get('source')
+source = CONFIG.get("source")
 
 if source == "tracker_updater":
     from op_tracker.tracker_updater import run as extra_run
@@ -15,7 +15,7 @@ else:
     except ImportError:
         raise Exception("Incorrect Scraper has been specified! exiting...")
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     if extra_run:
         extra_run()
     official()

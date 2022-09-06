@@ -1,15 +1,17 @@
 """OnePlus Updates Tracker Database Update model"""
 from typing import Union
 
-from op_tracker.common.database.models import Base
 from sqlalchemy import Column, Integer, String
+
+from op_tracker.common.database.models import Base
 
 
 class Update(Base):
     """
     Update class that represents a device update
     """
-    __tablename__ = 'updates'
+
+    __tablename__ = "updates"
     id: int = Column(Integer, primary_key=True)
     device: str = Column(String)
     region: str = Column(String)
@@ -28,4 +30,7 @@ class Update(Base):
 
     def __repr__(self):
         return "<User(device='%s', version='%s', branch='%s')>" % (
-            self.device, self.version, self.branch)
+            self.device,
+            self.version,
+            self.branch,
+        )

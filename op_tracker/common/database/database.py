@@ -7,33 +7,60 @@ from op_tracker.common.database.models.update import Update
 
 
 def get_devices():
-    all_devices = session.query(
-        Update.device, Update.region, Update.version,
-        Update.branch, Update.type, Update.product
-    ).filter(Update.type == "Full").order_by(
-        Update.date.desc()).distinct(Update.product)
-    return [i for i in all_devices if i.device not in [
-        'OnePlus 1', 'OnePlus 2', 'OnePlus 3', 'OnePlus 3T',
-        'OnePlus 5', 'OnePlus 5T', 'OnePlus X']]
+    all_devices = (
+        session.query(
+            Update.device,
+            Update.region,
+            Update.version,
+            Update.branch,
+            Update.type,
+            Update.product,
+        )
+        .filter(Update.type == "Full")
+        .order_by(Update.date.desc())
+        .distinct(Update.product)
+    )
+    return [
+        i
+        for i in all_devices
+        if i.device
+           not in [
+               "OnePlus 1",
+               "OnePlus 2",
+               "OnePlus 3",
+               "OnePlus 3T",
+               "OnePlus 5",
+               "OnePlus 5T",
+               "OnePlus X",
+           ]
+    ]
 
 
 devices = get_devices()
 
 
 def get_latest() -> list:
-    latest_updates = session.query(Update).filter(Update.type == "Full").order_by(
-        Update.date.desc()).distinct(Update.product).all()
-    latest = [{
-        "changelog": item.changelog,
-        "device": item.device,
-        "link": item.link,
-        "md5": item.md5,
-        "region": item.region,
-        "size": item.size,
-        "branch": item.branch,
-        "date": item.date,
-        "version": item.version
-    } for item in latest_updates]
+    latest_updates = (
+        session.query(Update)
+        .filter(Update.type == "Full")
+        .order_by(Update.date.desc())
+        .distinct(Update.product)
+        .all()
+    )
+    latest = [
+        {
+            "changelog": item.changelog,
+            "device": item.device,
+            "link": item.link,
+            "md5": item.md5,
+            "region": item.region,
+            "size": item.size,
+            "branch": item.branch,
+            "date": item.date,
+            "version": item.version,
+        }
+        for item in latest_updates
+    ]
     return latest
 
 
@@ -43,8 +70,12 @@ def get_incremental(version: str) -> Update:
     :type version: str
     :param version: OnePlus software version
     """
-    return session.query(Update).filter(
-        Update.version == version).filter(Update.type == "Incremental").one_or_none()
+    return (
+        session.query(Update)
+        .filter(Update.version == version)
+        .filter(Update.type == "Incremental")
+        .one_or_none()
+    )
 
 
 def get_version(device: str, branch: str) -> str:
@@ -54,8 +85,12 @@ def get_version(device: str, branch: str) -> str:
     :type device: str
     :param branch: Update branch
     """
-    return session.query(Update.version).filter(
-        Update.filename.startswith(device)).filter(Update.branch == branch).first()
+    return (
+        session.query(Update.version)
+        .filter(Update.filename.startswith(device))
+        .filter(Update.branch == branch)
+        .first()
+    )
 
 
 def add_to_db(update: Update):
